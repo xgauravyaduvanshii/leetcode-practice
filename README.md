@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (251)
+## Solved — Easy (260)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -257,6 +257,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [easy/1403-minimum-subsequence-in-non-increasing-order.py](easy/1403-minimum-subsequence-in-non-increasing-order.py) |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [easy/1408-string-matching-in-an-array.py](easy/1408-string-matching-in-an-array.py) |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [easy/1413-minimum-value-to-get-positive-step-by-step-sum.py](easy/1413-minimum-value-to-get-positive-step-by-step-sum.py) |
+| 1417 | [Reformat the String](https://leetcode.com/problems/reformat-the-string/) | [easy/1417-reformat-the-string.py](easy/1417-reformat-the-string.py) |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [easy/1422-maximum-score-after-splitting-a-string.py](easy/1422-maximum-score-after-splitting-a-string.py) |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [easy/1431-kids-with-the-greatest-number-of-candies.py](easy/1431-kids-with-the-greatest-number-of-candies.py) |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [easy/1436-destination-city.py](easy/1436-destination-city.py) |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [easy/1437-check-if-all-1s-are-at-least-length-k-places-away.py](easy/1437-check-if-all-1s-are-at-least-length-k-places-away.py) |
+| 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [easy/1446-consecutive-characters.py](easy/1446-consecutive-characters.py) |
+| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [easy/1450-number-of-students-doing-homework-at-a-given-time.py](easy/1450-number-of-students-doing-homework-at-a-given-time.py) |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) |
+| 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [easy/1460-make-two-arrays-equal-by-reversing-subarrays.py](easy/1460-make-two-arrays-equal-by-reversing-subarrays.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -267,7 +276,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (11)
+## Solved — Medium (12)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -282,9 +291,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [medium/0985-sum-of-even-numbers-after-queries.py](medium/0985-sum-of-even-numbers-after-queries.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [medium/1170-compare-strings-by-frequency-of-the-smallest-character.py](medium/1170-compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [medium/1237-find-positive-integer-solution-for-a-given-equation.py](medium/1237-find-positive-integer-solution-for-a-given-equation.py) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [medium/1441-build-an-array-with-stack-operations.py](medium/1441-build-an-array-with-stack-operations.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 262**
+**Total solved: 272**
