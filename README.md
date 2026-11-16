@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (221)
+## Solved — Easy (231)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -227,6 +227,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [easy/1232-check-if-it-is-a-straight-line.py](easy/1232-check-if-it-is-a-straight-line.py) |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [easy/1252-cells-with-odd-values-in-a-matrix.py](easy/1252-cells-with-odd-values-in-a-matrix.py) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [easy/1260-shift-2d-grid.py](easy/1260-shift-2d-grid.py) |
+| 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [easy/1266-minimum-time-visiting-all-points.py](easy/1266-minimum-time-visiting-all-points.py) |
+| 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [easy/1275-find-winner-on-a-tic-tac-toe-game.py](easy/1275-find-winner-on-a-tic-tac-toe-game.py) |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer.py](easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer.py) |
+| 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-percent-in-sorted-array/) | [easy/1287-element-appearing-more-than-25-percent-in-sorted-array.py](easy/1287-element-appearing-more-than-25-percent-in-sorted-array.py) |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [easy/1290-convert-binary-number-in-a-linked-list-to-integer.py](easy/1290-convert-binary-number-in-a-linked-list-to-integer.py) |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [easy/1295-find-numbers-with-even-number-of-digits.py](easy/1295-find-numbers-with-even-number-of-digits.py) |
+| 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [easy/1299-replace-elements-with-greatest-element-on-right-side.py](easy/1299-replace-elements-with-greatest-element-on-right-side.py) |
+| 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [easy/1304-find-n-unique-integers-sum-up-to-zero.py](easy/1304-find-n-unique-integers-sum-up-to-zero.py) |
+| 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [easy/1309-decrypt-string-from-alphabet-to-integer-mapping.py](easy/1309-decrypt-string-from-alphabet-to-integer-mapping.py) |
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [easy/1313-decompress-run-length-encoded-list.py](easy/1313-decompress-run-length-encoded-list.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -257,4 +267,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 232**
+**Total solved: 242**
