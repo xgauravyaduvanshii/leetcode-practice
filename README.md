@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (425)
+## Solved — Easy (426)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -431,6 +431,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [easy/2335-minimum-amount-of-time-to-fill-cups.py](easy/2335-minimum-amount-of-time-to-fill-cups.py) |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [easy/2341-maximum-number-of-pairs-in-array.py](easy/2341-maximum-number-of-pairs-in-array.py) |
 | 2347 | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/) | [easy/2347-best-poker-hand.py](easy/2347-best-poker-hand.py) |
+| 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [easy/2351-first-letter-to-appear-twice.py](easy/2351-first-letter-to-appear-twice.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -467,4 +468,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 442**
+**Total solved: 443**
