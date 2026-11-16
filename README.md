@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (185)
+## Solved — Easy (195)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -191,6 +191,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [easy/0976-largest-perimeter-triangle.py](easy/0976-largest-perimeter-triangle.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [easy/0977-squares-of-a-sorted-array.py](easy/0977-squares-of-a-sorted-array.py) |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [easy/0989-add-to-array-form-of-integer.py](easy/0989-add-to-array-form-of-integer.py) |
+| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [easy/0993-cousins-in-binary-tree.py](easy/0993-cousins-in-binary-tree.py) |
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [easy/0997-find-the-town-judge.py](easy/0997-find-the-town-judge.py) |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [easy/1002-find-common-characters.py](easy/1002-find-common-characters.py) |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [easy/1005-maximize-sum-of-array-after-k-negations.py](easy/1005-maximize-sum-of-array-after-k-negations.py) |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [easy/1013-partition-array-into-three-parts-with-equal-sum.py](easy/1013-partition-array-into-three-parts-with-equal-sum.py) |
+| 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [easy/1018-binary-prefix-divisible-by-5.py](easy/1018-binary-prefix-divisible-by-5.py) |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [easy/1021-remove-outermost-parentheses.py](easy/1021-remove-outermost-parentheses.py) |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [easy/1022-sum-of-root-to-leaf-binary-numbers.py](easy/1022-sum-of-root-to-leaf-binary-numbers.py) |
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [easy/1025-divisor-game.py](easy/1025-divisor-game.py) |
+| 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [easy/1030-matrix-cells-in-distance-order.py](easy/1030-matrix-cells-in-distance-order.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -219,4 +229,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 194**
+**Total solved: 204**
