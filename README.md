@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (94)
+## Solved — Easy (104)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -100,6 +100,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [easy/0461-hamming-distance.py](easy/0461-hamming-distance.py) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [easy/0463-island-perimeter.py](easy/0463-island-perimeter.py) |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [easy/0476-number-complement.py](easy/0476-number-complement.py) |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [easy/0482-license-key-formatting.py](easy/0482-license-key-formatting.py) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [easy/0485-max-consecutive-ones.py](easy/0485-max-consecutive-ones.py) |
+| 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [easy/0492-construct-the-rectangle.py](easy/0492-construct-the-rectangle.py) |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [easy/0495-teemo-attacking.py](easy/0495-teemo-attacking.py) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [easy/0496-next-greater-element-i.py](easy/0496-next-greater-element-i.py) |
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [easy/0500-keyboard-row.py](easy/0500-keyboard-row.py) |
+| 504 | [Base 7](https://leetcode.com/problems/base-7/) | [easy/0504-base-7.py](easy/0504-base-7.py) |
+| 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [easy/0506-relative-ranks.py](easy/0506-relative-ranks.py) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [easy/0509-fibonacci-number.py](easy/0509-fibonacci-number.py) |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [easy/0520-detect-capital.py](easy/0520-detect-capital.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -118,4 +128,4 @@ Nothing yet.
 
 Nothing yet.
 
-**Total solved: 94**
+**Total solved: 104**
