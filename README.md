@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (349)
+## Solved — Easy (358)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -355,6 +355,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [easy/1945-sum-of-digits-of-string-after-convert.py](easy/1945-sum-of-digits-of-string-after-convert.py) |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [easy/1952-three-divisors.py](easy/1952-three-divisors.py) |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [easy/1957-delete-characters-to-make-fancy-string.py](easy/1957-delete-characters-to-make-fancy-string.py) |
+| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [easy/1961-check-if-string-is-a-prefix-of-array.py](easy/1961-check-if-string-is-a-prefix-of-array.py) |
+| 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [easy/1967-number-of-strings-that-appear-as-substrings-in-word.py](easy/1967-number-of-strings-that-appear-as-substrings-in-word.py) |
+| 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [easy/1971-find-if-path-exists-in-graph.py](easy/1971-find-if-path-exists-in-graph.py) |
+| 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) | [easy/1974-minimum-time-to-type-word-using-special-typewriter.py](easy/1974-minimum-time-to-type-word-using-special-typewriter.py) |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [easy/1979-find-greatest-common-divisor-of-array.py](easy/1979-find-greatest-common-divisor-of-array.py) |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores.py](easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores.py) |
+| 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [easy/1991-find-the-middle-index-in-array.py](easy/1991-find-the-middle-index-in-array.py) |
+| 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | [easy/1995-count-special-quadruplets.py](easy/1995-count-special-quadruplets.py) |
+| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [easy/2000-reverse-prefix-of-word.py](easy/2000-reverse-prefix-of-word.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -365,7 +374,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (13)
+## Solved — Medium (14)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -382,9 +391,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [medium/1237-find-positive-integer-solution-for-a-given-equation.py](medium/1237-find-positive-integer-solution-for-a-given-equation.py) |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [medium/1441-build-an-array-with-stack-operations.py](medium/1441-build-an-array-with-stack-operations.py) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [medium/1877-minimize-maximum-pair-sum-in-array.py](medium/1877-minimize-maximum-pair-sum-in-array.py) |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 362**
+**Total solved: 372**
