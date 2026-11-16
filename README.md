@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (260)
+## Solved — Easy (270)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -266,6 +266,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [easy/1450-number-of-students-doing-homework-at-a-given-time.py](easy/1450-number-of-students-doing-homework-at-a-given-time.py) |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py](easy/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py) |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [easy/1460-make-two-arrays-equal-by-reversing-subarrays.py](easy/1460-make-two-arrays-equal-by-reversing-subarrays.py) |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [easy/1464-maximum-product-of-two-elements-in-an-array.py](easy/1464-maximum-product-of-two-elements-in-an-array.py) |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [easy/1470-shuffle-the-array.py](easy/1470-shuffle-the-array.py) |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [easy/1475-final-prices-with-a-special-discount-in-a-shop.py](easy/1475-final-prices-with-a-special-discount-in-a-shop.py) |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [easy/1486-xor-operation-in-an-array.py](easy/1486-xor-operation-in-an-array.py) |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [easy/1491-average-salary-excluding-the-minimum-and-maximum-salary.py](easy/1491-average-salary-excluding-the-minimum-and-maximum-salary.py) |
+| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [easy/1496-path-crossing.py](easy/1496-path-crossing.py) |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [easy/1502-can-make-arithmetic-progression-from-sequence.py](easy/1502-can-make-arithmetic-progression-from-sequence.py) |
+| 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date/) | [easy/1507-reformat-date.py](easy/1507-reformat-date.py) |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [easy/1512-number-of-good-pairs.py](easy/1512-number-of-good-pairs.py) |
+| 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [easy/1518-water-bottles.py](easy/1518-water-bottles.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -297,4 +307,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 272**
+**Total solved: 282**
