@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (158)
+## Solved — Easy (167)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -164,6 +164,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [easy/0832-flipping-an-image.py](easy/0832-flipping-an-image.py) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [easy/0836-rectangle-overlap.py](easy/0836-rectangle-overlap.py) |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [easy/0844-backspace-string-compare.py](easy/0844-backspace-string-compare.py) |
+| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [easy/0859-buddy-strings.py](easy/0859-buddy-strings.py) |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [easy/0860-lemonade-change.py](easy/0860-lemonade-change.py) |
+| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [easy/0867-transpose-matrix.py](easy/0867-transpose-matrix.py) |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [easy/0868-binary-gap.py](easy/0868-binary-gap.py) |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [easy/0872-leaf-similar-trees.py](easy/0872-leaf-similar-trees.py) |
+| 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [easy/0883-projection-area-of-3d-shapes.py](easy/0883-projection-area-of-3d-shapes.py) |
+| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [easy/0884-uncommon-words-from-two-sentences.py](easy/0884-uncommon-words-from-two-sentences.py) |
+| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [easy/0888-fair-candy-swap.py](easy/0888-fair-candy-swap.py) |
+| 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) | [easy/0892-surface-area-of-3d-shapes.py](easy/0892-surface-area-of-3d-shapes.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -174,7 +183,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (6)
+## Solved — Medium (7)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -184,9 +193,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [medium/0707-design-linked-list.py](medium/0707-design-linked-list.py) |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [medium/0852-peak-index-in-a-mountain-array.py](medium/0852-peak-index-in-a-mountain-array.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 164**
+**Total solved: 174**
