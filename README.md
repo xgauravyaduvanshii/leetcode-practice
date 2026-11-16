@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (34)
+## Solved — Easy (44)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -40,6 +40,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [easy/0104-maximum-depth-of-binary-tree.py](easy/0104-maximum-depth-of-binary-tree.py) |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [easy/0108-convert-sorted-array-to-binary-search-tree.py](easy/0108-convert-sorted-array-to-binary-search-tree.py) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [easy/0110-balanced-binary-tree.py](easy/0110-balanced-binary-tree.py) |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [easy/0111-minimum-depth-of-binary-tree.py](easy/0111-minimum-depth-of-binary-tree.py) |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [easy/0112-path-sum.py](easy/0112-path-sum.py) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [easy/0118-pascals-triangle.py](easy/0118-pascals-triangle.py) |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [easy/0119-pascals-triangle-ii.py](easy/0119-pascals-triangle-ii.py) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [easy/0121-best-time-to-buy-and-sell-stock.py](easy/0121-best-time-to-buy-and-sell-stock.py) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [easy/0125-valid-palindrome.py](easy/0125-valid-palindrome.py) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [easy/0136-single-number.py](easy/0136-single-number.py) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [easy/0141-linked-list-cycle.py](easy/0141-linked-list-cycle.py) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [easy/0144-binary-tree-preorder-traversal.py](easy/0144-binary-tree-preorder-traversal.py) |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [easy/0145-binary-tree-postorder-traversal.py](easy/0145-binary-tree-postorder-traversal.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -58,4 +68,4 @@ Nothing yet.
 
 Nothing yet.
 
-**Total solved: 34**
+**Total solved: 44**
