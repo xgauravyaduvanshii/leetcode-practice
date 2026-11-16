@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (121)
+## Solved — Easy (130)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -127,6 +127,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [easy/0599-minimum-index-sum-of-two-lists.py](easy/0599-minimum-index-sum-of-two-lists.py) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [easy/0605-can-place-flowers.py](easy/0605-can-place-flowers.py) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [easy/0617-merge-two-binary-trees.py](easy/0617-merge-two-binary-trees.py) |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [easy/0628-maximum-product-of-three-numbers.py](easy/0628-maximum-product-of-three-numbers.py) |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [easy/0637-average-of-levels-in-binary-tree.py](easy/0637-average-of-levels-in-binary-tree.py) |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [easy/0643-maximum-average-subarray-i.py](easy/0643-maximum-average-subarray-i.py) |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [easy/0645-set-mismatch.py](easy/0645-set-mismatch.py) |
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [easy/0653-two-sum-iv-input-is-a-bst.py](easy/0653-two-sum-iv-input-is-a-bst.py) |
+| 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [easy/0657-robot-return-to-origin.py](easy/0657-robot-return-to-origin.py) |
+| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [easy/0661-image-smoother.py](easy/0661-image-smoother.py) |
+| 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [easy/0671-second-minimum-node-in-a-binary-tree.py](easy/0671-second-minimum-node-in-a-binary-tree.py) |
+| 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [easy/0674-longest-continuous-increasing-subsequence.py](easy/0674-longest-continuous-increasing-subsequence.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -137,16 +146,17 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (3)
+## Solved — Medium (4)
 
 | # | Problem | Solution |
 |---|---------|----------|
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [medium/0053-maximum-subarray.py](medium/0053-maximum-subarray.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [medium/0155-min-stack.py](medium/0155-min-stack.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
+| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 124**
+**Total solved: 134**
