@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (195)
+## Solved — Easy (203)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -201,6 +201,14 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [easy/1022-sum-of-root-to-leaf-binary-numbers.py](easy/1022-sum-of-root-to-leaf-binary-numbers.py) |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [easy/1025-divisor-game.py](easy/1025-divisor-game.py) |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [easy/1030-matrix-cells-in-distance-order.py](easy/1030-matrix-cells-in-distance-order.py) |
+| 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [easy/1037-valid-boomerang.py](easy/1037-valid-boomerang.py) |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [easy/1046-last-stone-weight.py](easy/1046-last-stone-weight.py) |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [easy/1047-remove-all-adjacent-duplicates-in-string.py](easy/1047-remove-all-adjacent-duplicates-in-string.py) |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [easy/1051-height-checker.py](easy/1051-height-checker.py) |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [easy/1071-greatest-common-divisor-of-strings.py](easy/1071-greatest-common-divisor-of-strings.py) |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [easy/1078-occurrences-after-bigram.py](easy/1078-occurrences-after-bigram.py) |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [easy/1089-duplicate-zeros.py](easy/1089-duplicate-zeros.py) |
+| 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [easy/1103-distribute-candies-to-people.py](easy/1103-distribute-candies-to-people.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -229,4 +237,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 204**
+**Total solved: 212**
