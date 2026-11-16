@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (54)
+## Solved — Easy (64)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -60,6 +60,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [easy/0205-isomorphic-strings.py](easy/0205-isomorphic-strings.py) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [easy/0206-reverse-linked-list.py](easy/0206-reverse-linked-list.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [easy/0217-contains-duplicate.py](easy/0217-contains-duplicate.py) |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [easy/0219-contains-duplicate-ii.py](easy/0219-contains-duplicate-ii.py) |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [easy/0226-invert-binary-tree.py](easy/0226-invert-binary-tree.py) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [easy/0231-power-of-two.py](easy/0231-power-of-two.py) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [easy/0232-implement-queue-using-stacks.py](easy/0232-implement-queue-using-stacks.py) |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [easy/0234-palindrome-linked-list.py](easy/0234-palindrome-linked-list.py) |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [easy/0235-lowest-common-ancestor-of-a-binary-search-tree.py](easy/0235-lowest-common-ancestor-of-a-binary-search-tree.py) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [easy/0242-valid-anagram.py](easy/0242-valid-anagram.py) |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [easy/0257-binary-tree-paths.py](easy/0257-binary-tree-paths.py) |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [easy/0258-add-digits.py](easy/0258-add-digits.py) |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [easy/0263-ugly-number.py](easy/0263-ugly-number.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -78,4 +88,4 @@ Nothing yet.
 
 Nothing yet.
 
-**Total solved: 54**
+**Total solved: 64**
