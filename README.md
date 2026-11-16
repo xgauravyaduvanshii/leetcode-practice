@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (310)
+## Solved — Easy (320)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -316,6 +316,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [easy/1720-decode-xored-array.py](easy/1720-decode-xored-array.py) |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [easy/1725-number-of-rectangles-that-can-form-the-largest-square.py](easy/1725-number-of-rectangles-that-can-form-the-largest-square.py) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [easy/1732-find-the-highest-altitude.py](easy/1732-find-the-highest-altitude.py) |
+| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [easy/1736-latest-time-by-replacing-hidden-digits.py](easy/1736-latest-time-by-replacing-hidden-digits.py) |
+| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [easy/1742-maximum-number-of-balls-in-a-box.py](easy/1742-maximum-number-of-balls-in-a-box.py) |
+| 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [easy/1748-sum-of-unique-elements.py](easy/1748-sum-of-unique-elements.py) |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [easy/1752-check-if-array-is-sorted-and-rotated.py](easy/1752-check-if-array-is-sorted-and-rotated.py) |
+| 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [easy/1758-minimum-changes-to-make-alternating-binary-string.py](easy/1758-minimum-changes-to-make-alternating-binary-string.py) |
+| 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [easy/1763-longest-nice-substring.py](easy/1763-longest-nice-substring.py) |
+| 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [easy/1773-count-items-matching-a-rule.py](easy/1773-count-items-matching-a-rule.py) |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones.py](easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones.py) |
+| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [easy/1790-check-if-one-string-swap-can-make-strings-equal.py](easy/1790-check-if-one-string-swap-can-make-strings-equal.py) |
+| 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [easy/1791-find-center-of-star-graph.py](easy/1791-find-center-of-star-graph.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -347,4 +357,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 322**
+**Total solved: 332**
