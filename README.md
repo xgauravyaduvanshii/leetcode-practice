@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (212)
+## Solved — Easy (221)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -218,6 +218,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [easy/1160-find-words-that-can-be-formed-by-characters.py](easy/1160-find-words-that-can-be-formed-by-characters.py) |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [easy/1175-prime-arrangements.py](easy/1175-prime-arrangements.py) |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [easy/1184-distance-between-bus-stops.py](easy/1184-distance-between-bus-stops.py) |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [easy/1185-day-of-the-week.py](easy/1185-day-of-the-week.py) |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [easy/1189-maximum-number-of-balloons.py](easy/1189-maximum-number-of-balloons.py) |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [easy/1200-minimum-absolute-difference.py](easy/1200-minimum-absolute-difference.py) |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [easy/1207-unique-number-of-occurrences.py](easy/1207-unique-number-of-occurrences.py) |
+| 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [easy/1217-minimum-cost-to-move-chips-to-the-same-position.py](easy/1217-minimum-cost-to-move-chips-to-the-same-position.py) |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [easy/1221-split-a-string-in-balanced-strings.py](easy/1221-split-a-string-in-balanced-strings.py) |
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [easy/1232-check-if-it-is-a-straight-line.py](easy/1232-check-if-it-is-a-straight-line.py) |
+| 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [easy/1252-cells-with-odd-values-in-a-matrix.py](easy/1252-cells-with-odd-values-in-a-matrix.py) |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [easy/1260-shift-2d-grid.py](easy/1260-shift-2d-grid.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -228,7 +237,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (10)
+## Solved — Medium (11)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -242,9 +251,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [medium/0937-reorder-data-in-log-files.py](medium/0937-reorder-data-in-log-files.py) |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [medium/0985-sum-of-even-numbers-after-queries.py](medium/0985-sum-of-even-numbers-after-queries.py) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [medium/1170-compare-strings-by-frequency-of-the-smallest-character.py](medium/1170-compare-strings-by-frequency-of-the-smallest-character.py) |
+| 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [medium/1237-find-positive-integer-solution-for-a-given-equation.py](medium/1237-find-positive-integer-solution-for-a-given-equation.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 222**
+**Total solved: 232**
