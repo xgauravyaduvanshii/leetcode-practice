@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (280)
+## Solved — Easy (290)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -286,6 +286,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1560 | [Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | [easy/1560-most-visited-sector-in-a-circular-track.py](easy/1560-most-visited-sector-in-a-circular-track.py) |
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [easy/1566-detect-pattern-of-length-m-repeated-k-or-more-times.py](easy/1566-detect-pattern-of-length-m-repeated-k-or-more-times.py) |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [easy/1572-matrix-diagonal-sum.py](easy/1572-matrix-diagonal-sum.py) |
+| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [easy/1576-replace-all-question-marks-to-avoid-consecutive-repeating-characters.py](easy/1576-replace-all-question-marks-to-avoid-consecutive-repeating-characters.py) |
+| 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [easy/1582-special-positions-in-a-binary-matrix.py](easy/1582-special-positions-in-a-binary-matrix.py) |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [easy/1588-sum-of-all-odd-length-subarrays.py](easy/1588-sum-of-all-odd-length-subarrays.py) |
+| 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [easy/1592-rearrange-spaces-between-words.py](easy/1592-rearrange-spaces-between-words.py) |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [easy/1598-crawler-log-folder.py](easy/1598-crawler-log-folder.py) |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [easy/1603-design-parking-system.py](easy/1603-design-parking-system.py) |
+| 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [easy/1608-special-array-with-x-elements-greater-than-or-equal-x.py](easy/1608-special-array-with-x-elements-greater-than-or-equal-x.py) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [easy/1614-maximum-nesting-depth-of-the-parentheses.py](easy/1614-maximum-nesting-depth-of-the-parentheses.py) |
+| 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [easy/1619-mean-of-array-after-removing-some-elements.py](easy/1619-mean-of-array-after-removing-some-elements.py) |
+| 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [easy/1624-largest-substring-between-two-equal-characters.py](easy/1624-largest-substring-between-two-equal-characters.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -317,4 +327,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 292**
+**Total solved: 302**
