@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (139)
+## Solved — Easy (148)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -145,6 +145,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [easy/0704-binary-search.py](easy/0704-binary-search.py) |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [easy/0705-design-hashset.py](easy/0705-design-hashset.py) |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [easy/0706-design-hashmap.py](easy/0706-design-hashmap.py) |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [easy/0709-to-lower-case.py](easy/0709-to-lower-case.py) |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [easy/0724-find-pivot-index.py](easy/0724-find-pivot-index.py) |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [easy/0728-self-dividing-numbers.py](easy/0728-self-dividing-numbers.py) |
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [easy/0733-flood-fill.py](easy/0733-flood-fill.py) |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [easy/0746-min-cost-climbing-stairs.py](easy/0746-min-cost-climbing-stairs.py) |
+| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [easy/0747-largest-number-at-least-twice-of-others.py](easy/0747-largest-number-at-least-twice-of-others.py) |
+| 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [easy/0748-shortest-completing-word.py](easy/0748-shortest-completing-word.py) |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [easy/0766-toeplitz-matrix.py](easy/0766-toeplitz-matrix.py) |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [easy/0771-jewels-and-stones.py](easy/0771-jewels-and-stones.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -155,7 +164,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (5)
+## Solved — Medium (6)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -164,9 +173,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [medium/0707-design-linked-list.py](medium/0707-design-linked-list.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 144**
+**Total solved: 154**
