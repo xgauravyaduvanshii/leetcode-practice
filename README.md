@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (396)
+## Solved — Easy (406)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -402,6 +402,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/) | [easy/2190-most-frequent-number-following-key-in-an-array.py](easy/2190-most-frequent-number-following-key-in-an-array.py) |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [easy/2194-cells-in-a-range-on-an-excel-sheet.py](easy/2194-cells-in-a-range-on-an-excel-sheet.py) |
 | 2200 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [easy/2200-find-all-k-distant-indices-in-an-array.py](easy/2200-find-all-k-distant-indices-in-an-array.py) |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | [easy/2206-divide-array-into-equal-pairs.py](easy/2206-divide-array-into-equal-pairs.py) |
+| 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [easy/2210-count-hills-and-valleys-in-an-array.py](easy/2210-count-hills-and-valleys-in-an-array.py) |
+| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [easy/2215-find-the-difference-of-two-arrays.py](easy/2215-find-the-difference-of-two-arrays.py) |
+| 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [easy/2220-minimum-bit-flips-to-convert-number.py](easy/2220-minimum-bit-flips-to-convert-number.py) |
+| 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [easy/2224-minimum-number-of-operations-to-convert-time.py](easy/2224-minimum-number-of-operations-to-convert-time.py) |
+| 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [easy/2231-largest-number-after-digit-swaps-by-parity.py](easy/2231-largest-number-after-digit-swaps-by-parity.py) |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [easy/2235-add-two-integers.py](easy/2235-add-two-integers.py) |
+| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [easy/2236-root-equals-sum-of-children.py](easy/2236-root-equals-sum-of-children.py) |
+| 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [easy/2239-find-closest-number-to-zero.py](easy/2239-find-closest-number-to-zero.py) |
+| 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [easy/2248-intersection-of-multiple-arrays.py](easy/2248-intersection-of-multiple-arrays.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -437,4 +447,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 412**
+**Total solved: 422**
