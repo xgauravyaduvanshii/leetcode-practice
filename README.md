@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (15)
+## Solved — Easy (24)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -30,6 +30,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [easy/0067-add-binary.py](easy/0067-add-binary.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [easy/0069-sqrt-x.py](easy/0069-sqrt-x.py) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [easy/0070-climbing-stairs.py](easy/0070-climbing-stairs.py) |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [easy/1342-number-of-steps-to-reduce-a-number-to-zero.py](easy/1342-number-of-steps-to-reduce-a-number-to-zero.py) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [easy/1480-running-sum-of-1d-array.py](easy/1480-running-sum-of-1d-array.py) |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [easy/1672-richest-customer-wealth.py](easy/1672-richest-customer-wealth.py) |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [easy/1768-merge-strings-alternately.py](easy/1768-merge-strings-alternately.py) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
+| 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
 ## Solved — Medium (0)
 
@@ -39,4 +48,4 @@ Nothing yet.
 
 Nothing yet.
 
-**Total solved: 15**
+**Total solved: 24**
