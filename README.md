@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (176)
+## Solved — Easy (185)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -182,6 +182,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [easy/0922-sort-array-by-parity-ii.py](easy/0922-sort-array-by-parity-ii.py) |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [easy/0929-unique-email-addresses.py](easy/0929-unique-email-addresses.py) |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [easy/0933-number-of-recent-calls.py](easy/0933-number-of-recent-calls.py) |
+| 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [easy/0941-valid-mountain-array.py](easy/0941-valid-mountain-array.py) |
+| 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [easy/0942-di-string-match.py](easy/0942-di-string-match.py) |
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [easy/0944-delete-columns-to-make-sorted.py](easy/0944-delete-columns-to-make-sorted.py) |
+| 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [easy/0953-verifying-an-alien-dictionary.py](easy/0953-verifying-an-alien-dictionary.py) |
+| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [easy/0961-n-repeated-element-in-size-2n-array.py](easy/0961-n-repeated-element-in-size-2n-array.py) |
+| 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [easy/0965-univalued-binary-tree.py](easy/0965-univalued-binary-tree.py) |
+| 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [easy/0976-largest-perimeter-triangle.py](easy/0976-largest-perimeter-triangle.py) |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [easy/0977-squares-of-a-sorted-array.py](easy/0977-squares-of-a-sorted-array.py) |
+| 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [easy/0989-add-to-array-form-of-integer.py](easy/0989-add-to-array-form-of-integer.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -192,7 +201,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (8)
+## Solved — Medium (9)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -204,9 +213,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [medium/0707-design-linked-list.py](medium/0707-design-linked-list.py) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [medium/0852-peak-index-in-a-mountain-array.py](medium/0852-peak-index-in-a-mountain-array.py) |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [medium/0937-reorder-data-in-log-files.py](medium/0937-reorder-data-in-log-files.py) |
+| 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [medium/0985-sum-of-even-numbers-after-queries.py](medium/0985-sum-of-even-numbers-after-queries.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 184**
+**Total solved: 194**
