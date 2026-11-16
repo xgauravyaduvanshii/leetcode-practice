@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (290)
+## Solved — Easy (300)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -296,6 +296,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [easy/1614-maximum-nesting-depth-of-the-parentheses.py](easy/1614-maximum-nesting-depth-of-the-parentheses.py) |
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [easy/1619-mean-of-array-after-removing-some-elements.py](easy/1619-mean-of-array-after-removing-some-elements.py) |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [easy/1624-largest-substring-between-two-equal-characters.py](easy/1624-largest-substring-between-two-equal-characters.py) |
+| 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key/) | [easy/1629-slowest-key.py](easy/1629-slowest-key.py) |
+| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [easy/1636-sort-array-by-increasing-frequency.py](easy/1636-sort-array-by-increasing-frequency.py) |
+| 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [easy/1637-widest-vertical-area-between-two-points-containing-no-points.py](easy/1637-widest-vertical-area-between-two-points-containing-no-points.py) |
+| 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [easy/1640-check-array-formation-through-concatenation.py](easy/1640-check-array-formation-through-concatenation.py) |
+| 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [easy/1646-get-maximum-in-generated-array.py](easy/1646-get-maximum-in-generated-array.py) |
+| 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [easy/1652-defuse-the-bomb.py](easy/1652-defuse-the-bomb.py) |
+| 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [easy/1656-design-an-ordered-stream.py](easy/1656-design-an-ordered-stream.py) |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [easy/1662-check-if-two-string-arrays-are-equivalent.py](easy/1662-check-if-two-string-arrays-are-equivalent.py) |
+| 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [easy/1668-maximum-repeating-substring.py](easy/1668-maximum-repeating-substring.py) |
+| 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [easy/1678-goal-parser-interpretation.py](easy/1678-goal-parser-interpretation.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -327,4 +337,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 302**
+**Total solved: 312**
