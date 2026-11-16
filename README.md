@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (406)
+## Solved — Easy (416)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -412,6 +412,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [easy/2236-root-equals-sum-of-children.py](easy/2236-root-equals-sum-of-children.py) |
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [easy/2239-find-closest-number-to-zero.py](easy/2239-find-closest-number-to-zero.py) |
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [easy/2248-intersection-of-multiple-arrays.py](easy/2248-intersection-of-multiple-arrays.py) |
+| 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [easy/2255-count-prefixes-of-a-given-string.py](easy/2255-count-prefixes-of-a-given-string.py) |
+| 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [easy/2259-remove-digit-from-number-to-maximize-result.py](easy/2259-remove-digit-from-number-to-maximize-result.py) |
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [easy/2264-largest-3-same-digit-number-in-string.py](easy/2264-largest-3-same-digit-number-in-string.py) |
+| 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [easy/2269-find-the-k-beauty-of-a-number.py](easy/2269-find-the-k-beauty-of-a-number.py) |
+| 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [easy/2273-find-resultant-array-after-removing-anagrams.py](easy/2273-find-resultant-array-after-removing-anagrams.py) |
+| 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [easy/2278-percentage-of-letter-in-string.py](easy/2278-percentage-of-letter-in-string.py) |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [easy/2283-check-if-number-has-equal-digit-count-and-digit-value.py](easy/2283-check-if-number-has-equal-digit-count-and-digit-value.py) |
+| 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [easy/2287-rearrange-characters-to-make-target-string.py](easy/2287-rearrange-characters-to-make-target-string.py) |
+| 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | [easy/2293-min-max-game.py](easy/2293-min-max-game.py) |
+| 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [easy/2299-strong-password-checker-ii.py](easy/2299-strong-password-checker-ii.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -447,4 +457,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 422**
+**Total solved: 432**
