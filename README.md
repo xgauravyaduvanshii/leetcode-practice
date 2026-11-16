@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (130)
+## Solved — Easy (139)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -136,6 +136,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [easy/0661-image-smoother.py](easy/0661-image-smoother.py) |
 | 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [easy/0671-second-minimum-node-in-a-binary-tree.py](easy/0671-second-minimum-node-in-a-binary-tree.py) |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [easy/0674-longest-continuous-increasing-subsequence.py](easy/0674-longest-continuous-increasing-subsequence.py) |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [easy/0682-baseball-game.py](easy/0682-baseball-game.py) |
+| 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [easy/0693-binary-number-with-alternating-bits.py](easy/0693-binary-number-with-alternating-bits.py) |
+| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [easy/0696-count-binary-substrings.py](easy/0696-count-binary-substrings.py) |
+| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [easy/0697-degree-of-an-array.py](easy/0697-degree-of-an-array.py) |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [easy/0700-search-in-a-binary-search-tree.py](easy/0700-search-in-a-binary-search-tree.py) |
+| 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [easy/0703-kth-largest-element-in-a-stream.py](easy/0703-kth-largest-element-in-a-stream.py) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [easy/0704-binary-search.py](easy/0704-binary-search.py) |
+| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [easy/0705-design-hashset.py](easy/0705-design-hashset.py) |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [easy/0706-design-hashmap.py](easy/0706-design-hashmap.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -146,7 +155,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (4)
+## Solved — Medium (5)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -154,9 +163,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [medium/0155-min-stack.py](medium/0155-min-stack.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
+| 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 134**
+**Total solved: 144**
