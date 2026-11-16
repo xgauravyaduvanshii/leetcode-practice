@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (416)
+## Solved — Easy (425)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -422,6 +422,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [easy/2287-rearrange-characters-to-make-target-string.py](easy/2287-rearrange-characters-to-make-target-string.py) |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | [easy/2293-min-max-game.py](easy/2293-min-max-game.py) |
 | 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [easy/2299-strong-password-checker-ii.py](easy/2299-strong-password-checker-ii.py) |
+| 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [easy/2303-calculate-amount-paid-in-taxes.py](easy/2303-calculate-amount-paid-in-taxes.py) |
+| 2309 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [easy/2309-greatest-english-letter-in-upper-and-lower-case.py](easy/2309-greatest-english-letter-in-upper-and-lower-case.py) |
+| 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [easy/2315-count-asterisks.py](easy/2315-count-asterisks.py) |
+| 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | [easy/2319-check-if-matrix-is-x-matrix.py](easy/2319-check-if-matrix-is-x-matrix.py) |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [easy/2325-decode-the-message.py](easy/2325-decode-the-message.py) |
+| 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | [easy/2331-evaluate-boolean-binary-tree.py](easy/2331-evaluate-boolean-binary-tree.py) |
+| 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [easy/2335-minimum-amount-of-time-to-fill-cups.py](easy/2335-minimum-amount-of-time-to-fill-cups.py) |
+| 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [easy/2341-maximum-number-of-pairs-in-array.py](easy/2341-maximum-number-of-pairs-in-array.py) |
+| 2347 | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/) | [easy/2347-best-poker-hand.py](easy/2347-best-poker-hand.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -432,7 +441,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (16)
+## Solved — Medium (17)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -452,9 +461,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
+| 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [medium/2337-move-pieces-to-obtain-a-string.py](medium/2337-move-pieces-to-obtain-a-string.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 432**
+**Total solved: 442**
