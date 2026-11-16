@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (339)
+## Solved — Easy (349)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -345,6 +345,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [easy/1880-check-if-word-equals-summation-of-two-words.py](easy/1880-check-if-word-equals-summation-of-two-words.py) |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [easy/1886-determine-whether-matrix-can-be-obtained-by-rotation.py](easy/1886-determine-whether-matrix-can-be-obtained-by-rotation.py) |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [easy/1893-check-if-all-the-integers-in-a-range-are-covered.py](easy/1893-check-if-all-the-integers-in-a-range-are-covered.py) |
+| 1897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [easy/1897-redistribute-characters-to-make-all-strings-equal.py](easy/1897-redistribute-characters-to-make-all-strings-equal.py) |
+| 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [easy/1903-largest-odd-number-in-string.py](easy/1903-largest-odd-number-in-string.py) |
+| 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [easy/1909-remove-one-element-to-make-the-array-strictly-increasing.py](easy/1909-remove-one-element-to-make-the-array-strictly-increasing.py) |
+| 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [easy/1913-maximum-product-difference-between-two-pairs.py](easy/1913-maximum-product-difference-between-two-pairs.py) |
+| 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | [easy/1925-count-square-sum-triples.py](easy/1925-count-square-sum-triples.py) |
+| 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [easy/1935-maximum-number-of-words-you-can-type.py](easy/1935-maximum-number-of-words-you-can-type.py) |
+| 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [easy/1941-check-if-all-characters-have-equal-number-of-occurrences.py](easy/1941-check-if-all-characters-have-equal-number-of-occurrences.py) |
+| 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [easy/1945-sum-of-digits-of-string-after-convert.py](easy/1945-sum-of-digits-of-string-after-convert.py) |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [easy/1952-three-divisors.py](easy/1952-three-divisors.py) |
+| 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [easy/1957-delete-characters-to-make-fancy-string.py](easy/1957-delete-characters-to-make-fancy-string.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -377,4 +387,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 352**
+**Total solved: 362**
