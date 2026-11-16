@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (330)
+## Solved — Easy (339)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -336,6 +336,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [easy/1832-check-if-the-sentence-is-pangram.py](easy/1832-check-if-the-sentence-is-pangram.py) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [easy/1837-sum-of-digits-in-base-k.py](easy/1837-sum-of-digits-in-base-k.py) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [easy/1844-replace-all-digits-with-characters.py](easy/1844-replace-all-digits-with-characters.py) |
+| 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [easy/1848-minimum-distance-to-the-target-element.py](easy/1848-minimum-distance-to-the-target-element.py) |
+| 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | [easy/1854-maximum-population-year.py](easy/1854-maximum-population-year.py) |
+| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [easy/1859-sorting-the-sentence.py](easy/1859-sorting-the-sentence.py) |
+| 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [easy/1863-sum-of-all-subset-xor-totals.py](easy/1863-sum-of-all-subset-xor-totals.py) |
+| 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [easy/1869-longer-contiguous-segments-of-ones-than-zeros.py](easy/1869-longer-contiguous-segments-of-ones-than-zeros.py) |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [easy/1876-substrings-of-size-three-with-distinct-characters.py](easy/1876-substrings-of-size-three-with-distinct-characters.py) |
+| 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [easy/1880-check-if-word-equals-summation-of-two-words.py](easy/1880-check-if-word-equals-summation-of-two-words.py) |
+| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [easy/1886-determine-whether-matrix-can-be-obtained-by-rotation.py](easy/1886-determine-whether-matrix-can-be-obtained-by-rotation.py) |
+| 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [easy/1893-check-if-all-the-integers-in-a-range-are-covered.py](easy/1893-check-if-all-the-integers-in-a-range-are-covered.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -346,7 +355,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (12)
+## Solved — Medium (13)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -362,9 +371,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [medium/1170-compare-strings-by-frequency-of-the-smallest-character.py](medium/1170-compare-strings-by-frequency-of-the-smallest-character.py) |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [medium/1237-find-positive-integer-solution-for-a-given-equation.py](medium/1237-find-positive-integer-solution-for-a-given-equation.py) |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [medium/1441-build-an-array-with-stack-operations.py](medium/1441-build-an-array-with-stack-operations.py) |
+| 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [medium/1877-minimize-maximum-pair-sum-in-array.py](medium/1877-minimize-maximum-pair-sum-in-array.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 342**
+**Total solved: 352**
