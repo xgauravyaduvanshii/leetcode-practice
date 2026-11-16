@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (114)
+## Solved — Easy (121)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -27,7 +27,6 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [easy/0028-find-index-first-occurrence.py](easy/0028-find-index-first-occurrence.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [easy/0035-search-insert-position.py](easy/0035-search-insert-position.py) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [easy/0038-count-and-say.py](easy/0038-count-and-say.py) |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [easy/0053-maximum-subarray.py](easy/0053-maximum-subarray.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [easy/0058-length-of-last-word.py](easy/0058-length-of-last-word.py) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [easy/0066-plus-one.py](easy/0066-plus-one.py) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [easy/0067-add-binary.py](easy/0067-add-binary.py) |
@@ -50,7 +49,6 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [easy/0141-linked-list-cycle.py](easy/0141-linked-list-cycle.py) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [easy/0144-binary-tree-preorder-traversal.py](easy/0144-binary-tree-preorder-traversal.py) |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [easy/0145-binary-tree-postorder-traversal.py](easy/0145-binary-tree-postorder-traversal.py) |
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [easy/0155-min-stack.py](easy/0155-min-stack.py) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [easy/0160-intersection-of-two-linked-lists.py](easy/0160-intersection-of-two-linked-lists.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [easy/0169-majority-element.py](easy/0169-majority-element.py) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [easy/0171-excel-sheet-column-number.py](easy/0171-excel-sheet-column-number.py) |
@@ -120,6 +118,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [easy/0561-array-partition.py](easy/0561-array-partition.py) |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [easy/0563-binary-tree-tilt.py](easy/0563-binary-tree-tilt.py) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [easy/0566-reshape-the-matrix.py](easy/0566-reshape-the-matrix.py) |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [easy/0572-subtree-of-another-tree.py](easy/0572-subtree-of-another-tree.py) |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [easy/0575-distribute-candies.py](easy/0575-distribute-candies.py) |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [easy/0589-n-ary-tree-preorder-traversal.py](easy/0589-n-ary-tree-preorder-traversal.py) |
+| 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [easy/0590-n-ary-tree-postorder-traversal.py](easy/0590-n-ary-tree-postorder-traversal.py) |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [easy/0594-longest-harmonious-subsequence.py](easy/0594-longest-harmonious-subsequence.py) |
+| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [easy/0598-range-addition-ii.py](easy/0598-range-addition-ii.py) |
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [easy/0599-minimum-index-sum-of-two-lists.py](easy/0599-minimum-index-sum-of-two-lists.py) |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [easy/0605-can-place-flowers.py](easy/0605-can-place-flowers.py) |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [easy/0617-merge-two-binary-trees.py](easy/0617-merge-two-binary-trees.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -130,12 +137,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (0)
+## Solved — Medium (3)
 
-Nothing yet.
+| # | Problem | Solution |
+|---|---------|----------|
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [medium/0053-maximum-subarray.py](medium/0053-maximum-subarray.py) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [medium/0155-min-stack.py](medium/0155-min-stack.py) |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 114**
+**Total solved: 124**
