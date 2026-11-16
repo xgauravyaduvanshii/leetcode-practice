@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (74)
+## Solved — Easy (84)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -80,6 +80,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [easy/0344-reverse-string.py](easy/0344-reverse-string.py) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [easy/0345-reverse-vowels-of-a-string.py](easy/0345-reverse-vowels-of-a-string.py) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [easy/0349-intersection-of-two-arrays.py](easy/0349-intersection-of-two-arrays.py) |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [easy/0350-intersection-of-two-arrays-ii.py](easy/0350-intersection-of-two-arrays-ii.py) |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [easy/0367-valid-perfect-square.py](easy/0367-valid-perfect-square.py) |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [easy/0374-guess-number-higher-or-lower.py](easy/0374-guess-number-higher-or-lower.py) |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [easy/0389-find-the-difference.py](easy/0389-find-the-difference.py) |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [easy/0392-is-subsequence.py](easy/0392-is-subsequence.py) |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [easy/0401-binary-watch.py](easy/0401-binary-watch.py) |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [easy/0404-sum-of-left-leaves.py](easy/0404-sum-of-left-leaves.py) |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [easy/0405-convert-a-number-to-hexadecimal.py](easy/0405-convert-a-number-to-hexadecimal.py) |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [easy/0409-longest-palindrome.py](easy/0409-longest-palindrome.py) |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [easy/0414-third-maximum-number.py](easy/0414-third-maximum-number.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -98,4 +108,4 @@ Nothing yet.
 
 Nothing yet.
 
-**Total solved: 74**
+**Total solved: 84**
