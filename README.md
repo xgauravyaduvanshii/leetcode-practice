@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (64)
+## Solved — Easy (74)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -70,6 +70,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [easy/0257-binary-tree-paths.py](easy/0257-binary-tree-paths.py) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [easy/0258-add-digits.py](easy/0258-add-digits.py) |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [easy/0263-ugly-number.py](easy/0263-ugly-number.py) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [easy/0268-missing-number.py](easy/0268-missing-number.py) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [easy/0283-move-zeroes.py](easy/0283-move-zeroes.py) |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [easy/0290-word-pattern.py](easy/0290-word-pattern.py) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [easy/0292-nim-game.py](easy/0292-nim-game.py) |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [easy/0303-range-sum-query-immutable.py](easy/0303-range-sum-query-immutable.py) |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [easy/0326-power-of-three.py](easy/0326-power-of-three.py) |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [easy/0342-power-of-four.py](easy/0342-power-of-four.py) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [easy/0344-reverse-string.py](easy/0344-reverse-string.py) |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [easy/0345-reverse-vowels-of-a-string.py](easy/0345-reverse-vowels-of-a-string.py) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [easy/0349-intersection-of-two-arrays.py](easy/0349-intersection-of-two-arrays.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -88,4 +98,4 @@ Nothing yet.
 
 Nothing yet.
 
-**Total solved: 64**
+**Total solved: 74**
