@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (104)
+## Solved — Easy (114)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -110,6 +110,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [easy/0506-relative-ranks.py](easy/0506-relative-ranks.py) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [easy/0509-fibonacci-number.py](easy/0509-fibonacci-number.py) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [easy/0520-detect-capital.py](easy/0520-detect-capital.py) |
+| 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [easy/0521-longest-uncommon-subsequence-i.py](easy/0521-longest-uncommon-subsequence-i.py) |
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [easy/0530-minimum-absolute-difference-in-bst.py](easy/0530-minimum-absolute-difference-in-bst.py) |
+| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [easy/0541-reverse-string-ii.py](easy/0541-reverse-string-ii.py) |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [easy/0543-diameter-of-binary-tree.py](easy/0543-diameter-of-binary-tree.py) |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [easy/0551-student-attendance-record-i.py](easy/0551-student-attendance-record-i.py) |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [easy/0557-reverse-words-in-a-string-iii.py](easy/0557-reverse-words-in-a-string-iii.py) |
+| 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [easy/0559-maximum-depth-of-n-ary-tree.py](easy/0559-maximum-depth-of-n-ary-tree.py) |
+| 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [easy/0561-array-partition.py](easy/0561-array-partition.py) |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [easy/0563-binary-tree-tilt.py](easy/0563-binary-tree-tilt.py) |
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [easy/0566-reshape-the-matrix.py](easy/0566-reshape-the-matrix.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -128,4 +138,4 @@ Nothing yet.
 
 Nothing yet.
 
-**Total solved: 104**
+**Total solved: 114**
