@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (203)
+## Solved — Easy (212)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -209,6 +209,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [easy/1078-occurrences-after-bigram.py](easy/1078-occurrences-after-bigram.py) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [easy/1089-duplicate-zeros.py](easy/1089-duplicate-zeros.py) |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [easy/1103-distribute-candies-to-people.py](easy/1103-distribute-candies-to-people.py) |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [easy/1108-defanging-an-ip-address.py](easy/1108-defanging-an-ip-address.py) |
+| 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/) | [easy/1114-print-in-order.py](easy/1114-print-in-order.py) |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [easy/1122-relative-sort-array.py](easy/1122-relative-sort-array.py) |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [easy/1128-number-of-equivalent-domino-pairs.py](easy/1128-number-of-equivalent-domino-pairs.py) |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [easy/1137-n-th-tribonacci-number.py](easy/1137-n-th-tribonacci-number.py) |
+| 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [easy/1154-day-of-the-year.py](easy/1154-day-of-the-year.py) |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [easy/1160-find-words-that-can-be-formed-by-characters.py](easy/1160-find-words-that-can-be-formed-by-characters.py) |
+| 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [easy/1175-prime-arrangements.py](easy/1175-prime-arrangements.py) |
+| 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [easy/1184-distance-between-bus-stops.py](easy/1184-distance-between-bus-stops.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -219,7 +228,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (9)
+## Solved — Medium (10)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -232,9 +241,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [medium/0852-peak-index-in-a-mountain-array.py](medium/0852-peak-index-in-a-mountain-array.py) |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [medium/0937-reorder-data-in-log-files.py](medium/0937-reorder-data-in-log-files.py) |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [medium/0985-sum-of-even-numbers-after-queries.py](medium/0985-sum-of-even-numbers-after-queries.py) |
+| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [medium/1170-compare-strings-by-frequency-of-the-smallest-character.py](medium/1170-compare-strings-by-frequency-of-the-smallest-character.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 212**
+**Total solved: 222**
