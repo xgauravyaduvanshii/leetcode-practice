@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (231)
+## Solved — Easy (241)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -237,6 +237,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [easy/1304-find-n-unique-integers-sum-up-to-zero.py](easy/1304-find-n-unique-integers-sum-up-to-zero.py) |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [easy/1309-decrypt-string-from-alphabet-to-integer-mapping.py](easy/1309-decrypt-string-from-alphabet-to-integer-mapping.py) |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [easy/1313-decompress-run-length-encoded-list.py](easy/1313-decompress-run-length-encoded-list.py) |
+| 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers.py](easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers.py) |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [easy/1323-maximum-69-number.py](easy/1323-maximum-69-number.py) |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [easy/1331-rank-transform-of-an-array.py](easy/1331-rank-transform-of-an-array.py) |
+| 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [easy/1332-remove-palindromic-subsequences.py](easy/1332-remove-palindromic-subsequences.py) |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [easy/1337-the-k-weakest-rows-in-a-matrix.py](easy/1337-the-k-weakest-rows-in-a-matrix.py) |
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [easy/1346-check-if-n-and-its-double-exist.py](easy/1346-check-if-n-and-its-double-exist.py) |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [easy/1351-count-negative-numbers-in-a-sorted-matrix.py](easy/1351-count-negative-numbers-in-a-sorted-matrix.py) |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [easy/1356-sort-integers-by-the-number-of-1-bits.py](easy/1356-sort-integers-by-the-number-of-1-bits.py) |
+| 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [easy/1360-number-of-days-between-two-dates.py](easy/1360-number-of-days-between-two-dates.py) |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [easy/1365-how-many-numbers-are-smaller-than-the-current-number.py](easy/1365-how-many-numbers-are-smaller-than-the-current-number.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -267,4 +277,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 242**
+**Total solved: 252**
