@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (44)
+## Solved — Easy (54)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -50,6 +50,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [easy/0141-linked-list-cycle.py](easy/0141-linked-list-cycle.py) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [easy/0144-binary-tree-preorder-traversal.py](easy/0144-binary-tree-preorder-traversal.py) |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [easy/0145-binary-tree-postorder-traversal.py](easy/0145-binary-tree-postorder-traversal.py) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [easy/0155-min-stack.py](easy/0155-min-stack.py) |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [easy/0160-intersection-of-two-linked-lists.py](easy/0160-intersection-of-two-linked-lists.py) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [easy/0169-majority-element.py](easy/0169-majority-element.py) |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [easy/0171-excel-sheet-column-number.py](easy/0171-excel-sheet-column-number.py) |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [easy/0191-number-of-1-bits.py](easy/0191-number-of-1-bits.py) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [easy/0202-happy-number.py](easy/0202-happy-number.py) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [easy/0203-remove-linked-list-elements.py](easy/0203-remove-linked-list-elements.py) |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [easy/0205-isomorphic-strings.py](easy/0205-isomorphic-strings.py) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [easy/0206-reverse-linked-list.py](easy/0206-reverse-linked-list.py) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [easy/0217-contains-duplicate.py](easy/0217-contains-duplicate.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -68,4 +78,4 @@ Nothing yet.
 
 Nothing yet.
 
-**Total solved: 44**
+**Total solved: 54**
