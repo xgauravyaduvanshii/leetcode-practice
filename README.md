@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (320)
+## Solved — Easy (330)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -326,6 +326,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones.py](easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones.py) |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [easy/1790-check-if-one-string-swap-can-make-strings-equal.py](easy/1790-check-if-one-string-swap-can-make-strings-equal.py) |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [easy/1791-find-center-of-star-graph.py](easy/1791-find-center-of-star-graph.py) |
+| 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [easy/1796-second-largest-digit-in-a-string.py](easy/1796-second-largest-digit-in-a-string.py) |
+| 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [easy/1800-maximum-ascending-subarray-sum.py](easy/1800-maximum-ascending-subarray-sum.py) |
+| 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [easy/1805-number-of-different-integers-in-a-string.py](easy/1805-number-of-different-integers-in-a-string.py) |
+| 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [easy/1812-determine-color-of-a-chessboard-square.py](easy/1812-determine-color-of-a-chessboard-square.py) |
+| 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [easy/1816-truncate-sentence.py](easy/1816-truncate-sentence.py) |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [easy/1822-sign-of-the-product-of-an-array.py](easy/1822-sign-of-the-product-of-an-array.py) |
+| 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [easy/1827-minimum-operations-to-make-the-array-increasing.py](easy/1827-minimum-operations-to-make-the-array-increasing.py) |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [easy/1832-check-if-the-sentence-is-pangram.py](easy/1832-check-if-the-sentence-is-pangram.py) |
+| 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [easy/1837-sum-of-digits-in-base-k.py](easy/1837-sum-of-digits-in-base-k.py) |
+| 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [easy/1844-replace-all-digits-with-characters.py](easy/1844-replace-all-digits-with-characters.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -357,4 +367,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 332**
+**Total solved: 342**
