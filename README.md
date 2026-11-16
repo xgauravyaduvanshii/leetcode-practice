@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (148)
+## Solved — Easy (158)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -154,6 +154,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [easy/0748-shortest-completing-word.py](easy/0748-shortest-completing-word.py) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [easy/0766-toeplitz-matrix.py](easy/0766-toeplitz-matrix.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [easy/0771-jewels-and-stones.py](easy/0771-jewels-and-stones.py) |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [easy/0796-rotate-string.py](easy/0796-rotate-string.py) |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [easy/0804-unique-morse-code-words.py](easy/0804-unique-morse-code-words.py) |
+| 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | [easy/0806-number-of-lines-to-write-string.py](easy/0806-number-of-lines-to-write-string.py) |
+| 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [easy/0812-largest-triangle-area.py](easy/0812-largest-triangle-area.py) |
+| 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [easy/0819-most-common-word.py](easy/0819-most-common-word.py) |
+| 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [easy/0824-goat-latin.py](easy/0824-goat-latin.py) |
+| 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [easy/0830-positions-of-large-groups.py](easy/0830-positions-of-large-groups.py) |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [easy/0832-flipping-an-image.py](easy/0832-flipping-an-image.py) |
+| 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [easy/0836-rectangle-overlap.py](easy/0836-rectangle-overlap.py) |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [easy/0844-backspace-string-compare.py](easy/0844-backspace-string-compare.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -179,4 +189,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 154**
+**Total solved: 164**
