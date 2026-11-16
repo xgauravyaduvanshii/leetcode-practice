@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (367)
+## Solved — Easy (377)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -373,6 +373,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [easy/2037-minimum-number-of-moves-to-seat-everyone.py](easy/2037-minimum-number-of-moves-to-seat-everyone.py) |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [easy/2042-check-if-numbers-are-ascending-in-a-sentence.py](easy/2042-check-if-numbers-are-ascending-in-a-sentence.py) |
 | 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [easy/2047-number-of-valid-words-in-a-sentence.py](easy/2047-number-of-valid-words-in-a-sentence.py) |
+| 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [easy/2053-kth-distinct-string-in-an-array.py](easy/2053-kth-distinct-string-in-an-array.py) |
+| 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [easy/2057-smallest-index-with-equal-value.py](easy/2057-smallest-index-with-equal-value.py) |
+| 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [easy/2062-count-vowel-substrings-of-a-string.py](easy/2062-count-vowel-substrings-of-a-string.py) |
+| 2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [easy/2068-check-whether-two-strings-are-almost-equivalent.py](easy/2068-check-whether-two-strings-are-almost-equivalent.py) |
+| 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [easy/2073-time-needed-to-buy-tickets.py](easy/2073-time-needed-to-buy-tickets.py) |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [easy/2078-two-furthest-houses-with-different-colors.py](easy/2078-two-furthest-houses-with-different-colors.py) |
+| 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [easy/2085-count-common-words-with-one-occurrence.py](easy/2085-count-common-words-with-one-occurrence.py) |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [easy/2089-find-target-indices-after-sorting-array.py](easy/2089-find-target-indices-after-sorting-array.py) |
+| 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [easy/2094-finding-3-digit-even-numbers.py](easy/2094-finding-3-digit-even-numbers.py) |
+| 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [easy/2099-find-subsequence-of-length-k-with-the-largest-sum.py](easy/2099-find-subsequence-of-length-k-with-the-largest-sum.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -407,4 +417,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 382**
+**Total solved: 392**
