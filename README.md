@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (300)
+## Solved — Easy (310)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -306,6 +306,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [easy/1662-check-if-two-string-arrays-are-equivalent.py](easy/1662-check-if-two-string-arrays-are-equivalent.py) |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [easy/1668-maximum-repeating-substring.py](easy/1668-maximum-repeating-substring.py) |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [easy/1678-goal-parser-interpretation.py](easy/1678-goal-parser-interpretation.py) |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [easy/1684-count-the-number-of-consistent-strings.py](easy/1684-count-the-number-of-consistent-strings.py) |
+| 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [easy/1688-count-of-matches-in-tournament.py](easy/1688-count-of-matches-in-tournament.py) |
+| 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [easy/1694-reformat-phone-number.py](easy/1694-reformat-phone-number.py) |
+| 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [easy/1700-number-of-students-unable-to-eat-lunch.py](easy/1700-number-of-students-unable-to-eat-lunch.py) |
+| 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [easy/1704-determine-if-string-halves-are-alike.py](easy/1704-determine-if-string-halves-are-alike.py) |
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [easy/1710-maximum-units-on-a-truck.py](easy/1710-maximum-units-on-a-truck.py) |
+| 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [easy/1716-calculate-money-in-leetcode-bank.py](easy/1716-calculate-money-in-leetcode-bank.py) |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [easy/1720-decode-xored-array.py](easy/1720-decode-xored-array.py) |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [easy/1725-number-of-rectangles-that-can-form-the-largest-square.py](easy/1725-number-of-rectangles-that-can-form-the-largest-square.py) |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [easy/1732-find-the-highest-altitude.py](easy/1732-find-the-highest-altitude.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -337,4 +347,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 312**
+**Total solved: 322**
