@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (270)
+## Solved — Easy (280)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -276,6 +276,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date/) | [easy/1507-reformat-date.py](easy/1507-reformat-date.py) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [easy/1512-number-of-good-pairs.py](easy/1512-number-of-good-pairs.py) |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [easy/1518-water-bottles.py](easy/1518-water-bottles.py) |
+| 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [easy/1523-count-odd-numbers-in-an-interval-range.py](easy/1523-count-odd-numbers-in-an-interval-range.py) |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [easy/1528-shuffle-string.py](easy/1528-shuffle-string.py) |
+| 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [easy/1534-count-good-triplets.py](easy/1534-count-good-triplets.py) |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [easy/1539-kth-missing-positive-number.py](easy/1539-kth-missing-positive-number.py) |
+| 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [easy/1544-make-the-string-great.py](easy/1544-make-the-string-great.py) |
+| 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [easy/1550-three-consecutive-odds.py](easy/1550-three-consecutive-odds.py) |
+| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [easy/1556-thousand-separator.py](easy/1556-thousand-separator.py) |
+| 1560 | [Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | [easy/1560-most-visited-sector-in-a-circular-track.py](easy/1560-most-visited-sector-in-a-circular-track.py) |
+| 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [easy/1566-detect-pattern-of-length-m-repeated-k-or-more-times.py](easy/1566-detect-pattern-of-length-m-repeated-k-or-more-times.py) |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [easy/1572-matrix-diagonal-sum.py](easy/1572-matrix-diagonal-sum.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -307,4 +317,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 282**
+**Total solved: 292**
