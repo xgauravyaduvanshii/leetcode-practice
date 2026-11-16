@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (387)
+## Solved — Easy (396)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -393,6 +393,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | [easy/2138-divide-a-string-into-groups-of-size-k.py](easy/2138-divide-a-string-into-groups-of-size-k.py) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [easy/2144-minimum-cost-of-buying-candies-with-discount.py](easy/2144-minimum-cost-of-buying-candies-with-discount.py) |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [easy/2148-count-elements-with-strictly-smaller-and-greater-elements.py](easy/2148-count-elements-with-strictly-smaller-and-greater-elements.py) |
+| 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [easy/2154-keep-multiplying-found-values-by-two.py](easy/2154-keep-multiplying-found-values-by-two.py) |
+| 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py](easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py) |
+| 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [easy/2169-count-operations-to-obtain-zero.py](easy/2169-count-operations-to-obtain-zero.py) |
+| 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [easy/2176-count-equal-and-divisible-pairs-in-an-array.py](easy/2176-count-equal-and-divisible-pairs-in-an-array.py) |
+| 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [easy/2180-count-integers-with-even-digit-sum.py](easy/2180-count-integers-with-even-digit-sum.py) |
+| 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [easy/2185-counting-words-with-a-given-prefix.py](easy/2185-counting-words-with-a-given-prefix.py) |
+| 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/) | [easy/2190-most-frequent-number-following-key-in-an-array.py](easy/2190-most-frequent-number-following-key-in-an-array.py) |
+| 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [easy/2194-cells-in-a-range-on-an-excel-sheet.py](easy/2194-cells-in-a-range-on-an-excel-sheet.py) |
+| 2200 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [easy/2200-find-all-k-distant-indices-in-an-array.py](easy/2200-find-all-k-distant-indices-in-an-array.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -403,7 +412,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (15)
+## Solved — Medium (16)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -422,9 +431,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [medium/1877-minimize-maximum-pair-sum-in-array.py](medium/1877-minimize-maximum-pair-sum-in-array.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 402**
+**Total solved: 412**
