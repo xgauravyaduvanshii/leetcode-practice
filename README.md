@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (358)
+## Solved — Easy (367)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -364,6 +364,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [easy/1991-find-the-middle-index-in-array.py](easy/1991-find-the-middle-index-in-array.py) |
 | 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | [easy/1995-count-special-quadruplets.py](easy/1995-count-special-quadruplets.py) |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [easy/2000-reverse-prefix-of-word.py](easy/2000-reverse-prefix-of-word.py) |
+| 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [easy/2006-count-number-of-pairs-with-absolute-difference-k.py](easy/2006-count-number-of-pairs-with-absolute-difference-k.py) |
+| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [easy/2011-final-value-of-variable-after-performing-operations.py](easy/2011-final-value-of-variable-after-performing-operations.py) |
+| 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [easy/2016-maximum-difference-between-increasing-elements.py](easy/2016-maximum-difference-between-increasing-elements.py) |
+| 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [easy/2022-convert-1d-array-into-2d-array.py](easy/2022-convert-1d-array-into-2d-array.py) |
+| 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [easy/2027-minimum-moves-to-convert-string.py](easy/2027-minimum-moves-to-convert-string.py) |
+| 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [easy/2032-two-out-of-three.py](easy/2032-two-out-of-three.py) |
+| 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [easy/2037-minimum-number-of-moves-to-seat-everyone.py](easy/2037-minimum-number-of-moves-to-seat-everyone.py) |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [easy/2042-check-if-numbers-are-ascending-in-a-sentence.py](easy/2042-check-if-numbers-are-ascending-in-a-sentence.py) |
+| 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [easy/2047-number-of-valid-words-in-a-sentence.py](easy/2047-number-of-valid-words-in-a-sentence.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -374,7 +383,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (14)
+## Solved — Medium (15)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -392,9 +401,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [medium/1441-build-an-array-with-stack-operations.py](medium/1441-build-an-array-with-stack-operations.py) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [medium/1877-minimize-maximum-pair-sum-in-array.py](medium/1877-minimize-maximum-pair-sum-in-array.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
+| 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 372**
+**Total solved: 382**
