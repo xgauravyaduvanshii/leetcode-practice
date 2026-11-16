@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (377)
+## Solved — Easy (387)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -383,6 +383,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [easy/2089-find-target-indices-after-sorting-array.py](easy/2089-find-target-indices-after-sorting-array.py) |
 | 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [easy/2094-finding-3-digit-even-numbers.py](easy/2094-finding-3-digit-even-numbers.py) |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [easy/2099-find-subsequence-of-length-k-with-the-largest-sum.py](easy/2099-find-subsequence-of-length-k-with-the-largest-sum.py) |
+| 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | [easy/2103-rings-and-rods.py](easy/2103-rings-and-rods.py) |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [easy/2108-find-first-palindromic-string-in-the-array.py](easy/2108-find-first-palindromic-string-in-the-array.py) |
+| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [easy/2114-maximum-number-of-words-found-in-sentences.py](easy/2114-maximum-number-of-words-found-in-sentences.py) |
+| 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [easy/2119-a-number-after-a-double-reversal.py](easy/2119-a-number-after-a-double-reversal.py) |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [easy/2124-check-if-all-as-appears-before-all-bs.py](easy/2124-check-if-all-as-appears-before-all-bs.py) |
+| 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) | [easy/2129-capitalize-the-title.py](easy/2129-capitalize-the-title.py) |
+| 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) | [easy/2133-check-if-every-row-and-column-contains-all-numbers.py](easy/2133-check-if-every-row-and-column-contains-all-numbers.py) |
+| 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | [easy/2138-divide-a-string-into-groups-of-size-k.py](easy/2138-divide-a-string-into-groups-of-size-k.py) |
+| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [easy/2144-minimum-cost-of-buying-candies-with-discount.py](easy/2144-minimum-cost-of-buying-candies-with-discount.py) |
+| 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [easy/2148-count-elements-with-strictly-smaller-and-greater-elements.py](easy/2148-count-elements-with-strictly-smaller-and-greater-elements.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -417,4 +427,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 392**
+**Total solved: 402**
