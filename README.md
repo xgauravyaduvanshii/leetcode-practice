@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (241)
+## Solved — Easy (251)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -247,6 +247,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [easy/1356-sort-integers-by-the-number-of-1-bits.py](easy/1356-sort-integers-by-the-number-of-1-bits.py) |
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [easy/1360-number-of-days-between-two-dates.py](easy/1360-number-of-days-between-two-dates.py) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [easy/1365-how-many-numbers-are-smaller-than-the-current-number.py](easy/1365-how-many-numbers-are-smaller-than-the-current-number.py) |
+| 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [easy/1370-increasing-decreasing-string.py](easy/1370-increasing-decreasing-string.py) |
+| 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [easy/1374-generate-a-string-with-characters-that-have-odd-counts.py](easy/1374-generate-a-string-with-characters-that-have-odd-counts.py) |
+| 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [easy/1380-lucky-numbers-in-a-matrix.py](easy/1380-lucky-numbers-in-a-matrix.py) |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [easy/1385-find-the-distance-value-between-two-arrays.py](easy/1385-find-the-distance-value-between-two-arrays.py) |
+| 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [easy/1389-create-target-array-in-the-given-order.py](easy/1389-create-target-array-in-the-given-order.py) |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [easy/1394-find-lucky-integer-in-an-array.py](easy/1394-find-lucky-integer-in-an-array.py) |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [easy/1399-count-largest-group.py](easy/1399-count-largest-group.py) |
+| 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [easy/1403-minimum-subsequence-in-non-increasing-order.py](easy/1403-minimum-subsequence-in-non-increasing-order.py) |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [easy/1408-string-matching-in-an-array.py](easy/1408-string-matching-in-an-array.py) |
+| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [easy/1413-minimum-value-to-get-positive-step-by-step-sum.py](easy/1413-minimum-value-to-get-positive-step-by-step-sum.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -277,4 +287,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 252**
+**Total solved: 262**
