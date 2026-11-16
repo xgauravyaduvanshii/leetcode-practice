@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (84)
+## Solved — Easy (94)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -90,6 +90,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [easy/0405-convert-a-number-to-hexadecimal.py](easy/0405-convert-a-number-to-hexadecimal.py) |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [easy/0409-longest-palindrome.py](easy/0409-longest-palindrome.py) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [easy/0414-third-maximum-number.py](easy/0414-third-maximum-number.py) |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [easy/0415-add-strings.py](easy/0415-add-strings.py) |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [easy/0434-number-of-segments-in-a-string.py](easy/0434-number-of-segments-in-a-string.py) |
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [easy/0441-arranging-coins.py](easy/0441-arranging-coins.py) |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [easy/0448-find-all-numbers-disappeared-in-an-array.py](easy/0448-find-all-numbers-disappeared-in-an-array.py) |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [easy/0453-minimum-moves-to-equal-array-elements.py](easy/0453-minimum-moves-to-equal-array-elements.py) |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [easy/0455-assign-cookies.py](easy/0455-assign-cookies.py) |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [easy/0459-repeated-substring-pattern.py](easy/0459-repeated-substring-pattern.py) |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [easy/0461-hamming-distance.py](easy/0461-hamming-distance.py) |
+| 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [easy/0463-island-perimeter.py](easy/0463-island-perimeter.py) |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [easy/0476-number-complement.py](easy/0476-number-complement.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -108,4 +118,4 @@ Nothing yet.
 
 Nothing yet.
 
-**Total solved: 84**
+**Total solved: 94**
