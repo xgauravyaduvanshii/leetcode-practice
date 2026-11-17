@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (442)
+## Solved — Easy (452)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -448,6 +448,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [easy/2423-remove-letter-to-equalize-frequency.py](easy/2423-remove-letter-to-equalize-frequency.py) |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [easy/2427-number-of-common-factors.py](easy/2427-number-of-common-factors.py) |
 | 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/) | [easy/2432-the-employee-that-worked-on-the-longest-task.py](easy/2432-the-employee-that-worked-on-the-longest-task.py) |
+| 2437 | [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/) | [easy/2437-number-of-valid-clock-times.py](easy/2437-number-of-valid-clock-times.py) |
+| 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [easy/2441-largest-positive-integer-that-exists-with-its-negative.py](easy/2441-largest-positive-integer-that-exists-with-its-negative.py) |
+| 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [easy/2446-determine-if-two-events-have-conflict.py](easy/2446-determine-if-two-events-have-conflict.py) |
+| 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [easy/2451-odd-string-difference.py](easy/2451-odd-string-difference.py) |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [easy/2455-average-value-of-even-numbers-that-are-divisible-by-three.py](easy/2455-average-value-of-even-numbers-that-are-divisible-by-three.py) |
+| 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [easy/2460-apply-operations-to-an-array.py](easy/2460-apply-operations-to-an-array.py) |
+| 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [easy/2465-number-of-distinct-averages.py](easy/2465-number-of-distinct-averages.py) |
+| 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [easy/2469-convert-the-temperature.py](easy/2469-convert-the-temperature.py) |
+| 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [easy/2475-number-of-unequal-triplets-in-array.py](easy/2475-number-of-unequal-triplets-in-array.py) |
+| 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [easy/2481-minimum-cuts-to-divide-a-circle.py](easy/2481-minimum-cuts-to-divide-a-circle.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -487,4 +497,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 462**
+**Total solved: 472**
