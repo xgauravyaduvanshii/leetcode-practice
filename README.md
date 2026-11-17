@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (479)
+## Solved — Easy (487)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -485,6 +485,14 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [easy/2595-number-of-even-and-odd-bits.py](easy/2595-number-of-even-and-odd-bits.py) |
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [easy/2600-k-items-with-the-maximum-sum.py](easy/2600-k-items-with-the-maximum-sum.py) |
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [easy/2605-form-smallest-number-from-two-digit-arrays.py](easy/2605-form-smallest-number-from-two-digit-arrays.py) |
+| 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [easy/2609-find-the-longest-balanced-substring-of-a-binary-string.py](easy/2609-find-the-longest-balanced-substring-of-a-binary-string.py) |
+| 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | [easy/2614-prime-in-diagonal.py](easy/2614-prime-in-diagonal.py) |
+| 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [easy/2651-calculate-delayed-arrival-time.py](easy/2651-calculate-delayed-arrival-time.py) |
+| 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [easy/2652-sum-multiples.py](easy/2652-sum-multiples.py) |
+| 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [easy/2656-maximum-sum-with-exactly-k-elements.py](easy/2656-maximum-sum-with-exactly-k-elements.py) |
+| 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [easy/2660-determine-the-winner-of-a-bowling-game.py](easy/2660-determine-the-winner-of-a-bowling-game.py) |
+| 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [easy/2670-find-the-distinct-difference-array.py](easy/2670-find-the-distinct-difference-array.py) |
+| 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [easy/2678-number-of-senior-citizens.py](easy/2678-number-of-senior-citizens.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -495,7 +503,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (23)
+## Solved — Medium (25)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -522,9 +530,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py](medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py) |
+| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [medium/2657-find-the-prefix-common-array-of-two-arrays.py](medium/2657-find-the-prefix-common-array-of-two-arrays.py) |
+| 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [medium/2661-first-completely-painted-row-or-column.py](medium/2661-first-completely-painted-row-or-column.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 502**
+**Total solved: 512**
