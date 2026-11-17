@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (434)
+## Solved — Easy (442)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -440,6 +440,14 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2383 | [Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/) | [easy/2383-minimum-hours-of-training-to-win-a-competition.py](easy/2383-minimum-hours-of-training-to-win-a-competition.py) |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [easy/2389-longest-subsequence-with-limited-sum.py](easy/2389-longest-subsequence-with-limited-sum.py) |
 | 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [easy/2395-find-subarrays-with-equal-sum.py](easy/2395-find-subarrays-with-equal-sum.py) |
+| 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/) | [easy/2399-check-distances-between-same-letters.py](easy/2399-check-distances-between-same-letters.py) |
+| 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [easy/2404-most-frequent-even-element.py](easy/2404-most-frequent-even-element.py) |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [easy/2409-count-days-spent-together.py](easy/2409-count-days-spent-together.py) |
+| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [easy/2413-smallest-even-multiple.py](easy/2413-smallest-even-multiple.py) |
+| 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [easy/2418-sort-the-people.py](easy/2418-sort-the-people.py) |
+| 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [easy/2423-remove-letter-to-equalize-frequency.py](easy/2423-remove-letter-to-equalize-frequency.py) |
+| 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [easy/2427-number-of-common-factors.py](easy/2427-number-of-common-factors.py) |
+| 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/) | [easy/2432-the-employee-that-worked-on-the-longest-task.py](easy/2432-the-employee-that-worked-on-the-longest-task.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -450,7 +458,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (18)
+## Solved — Medium (20)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -472,9 +480,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [medium/2337-move-pieces-to-obtain-a-string.py](medium/2337-move-pieces-to-obtain-a-string.py) |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [medium/2390-removing-stars-from-a-string.py](medium/2390-removing-stars-from-a-string.py) |
+| 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [medium/2428-maximum-sum-of-an-hourglass.py](medium/2428-maximum-sum-of-an-hourglass.py) |
+| 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [medium/2433-find-the-original-array-of-prefix-xor.py](medium/2433-find-the-original-array-of-prefix-xor.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 452**
+**Total solved: 462**
