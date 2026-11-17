@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (494)
+## Solved — Easy (495)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -500,6 +500,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [easy/2710-remove-trailing-zeros-from-a-string.py](easy/2710-remove-trailing-zeros-from-a-string.py) |
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | [easy/2716-minimize-string-length.py](easy/2716-minimize-string-length.py) |
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [easy/2717-semi-ordered-permutation.py](easy/2717-semi-ordered-permutation.py) |
+| 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | [easy/2729-check-if-the-number-is-fascinating.py](easy/2729-check-if-the-number-is-fascinating.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -547,4 +548,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 522**
+**Total solved: 523**
