@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (459)
+## Solved — Easy (469)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -465,6 +465,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | [easy/2506-count-pairs-of-similar-strings.py](easy/2506-count-pairs-of-similar-strings.py) |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [easy/2511-maximum-enemy-forts-that-can-be-captured.py](easy/2511-maximum-enemy-forts-that-can-be-captured.py) |
 | 2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [easy/2515-shortest-distance-to-target-string-in-a-circular-array.py](easy/2515-shortest-distance-to-target-string-in-a-circular-array.py) |
+| 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [easy/2520-count-the-digits-that-divide-a-number.py](easy/2520-count-the-digits-that-divide-a-number.py) |
+| 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [easy/2525-categorize-box-according-to-criteria.py](easy/2525-categorize-box-according-to-criteria.py) |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [easy/2529-maximum-count-of-positive-integer-and-negative-integer.py](easy/2529-maximum-count-of-positive-integer-and-negative-integer.py) |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [easy/2535-difference-between-element-sum-and-digit-sum-of-an-array.py](easy/2535-difference-between-element-sum-and-digit-sum-of-an-array.py) |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [easy/2540-minimum-common-value.py](easy/2540-minimum-common-value.py) |
+| 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | [easy/2544-alternating-digit-sum.py](easy/2544-alternating-digit-sum.py) |
+| 2549 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [easy/2549-count-distinct-numbers-on-board.py](easy/2549-count-distinct-numbers-on-board.py) |
+| 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [easy/2553-separate-the-digits-in-an-array.py](easy/2553-separate-the-digits-in-an-array.py) |
+| 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [easy/2558-take-gifts-from-the-richest-pile.py](easy/2558-take-gifts-from-the-richest-pile.py) |
+| 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) | [easy/2562-find-the-array-concatenation-value.py](easy/2562-find-the-array-concatenation-value.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -507,4 +517,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 482**
+**Total solved: 492**
