@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (487)
+## Solved — Easy (494)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -493,6 +493,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [easy/2660-determine-the-winner-of-a-bowling-game.py](easy/2660-determine-the-winner-of-a-bowling-game.py) |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [easy/2670-find-the-distinct-difference-array.py](easy/2670-find-the-distinct-difference-array.py) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [easy/2678-number-of-senior-citizens.py](easy/2678-number-of-senior-citizens.py) |
+| 2682 | [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [easy/2682-find-the-losers-of-the-circular-game.py](easy/2682-find-the-losers-of-the-circular-game.py) |
+| 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [easy/2696-minimum-string-length-after-removing-substrings.py](easy/2696-minimum-string-length-after-removing-substrings.py) |
+| 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [easy/2697-lexicographically-smallest-palindrome.py](easy/2697-lexicographically-smallest-palindrome.py) |
+| 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [easy/2706-buy-two-chocolates.py](easy/2706-buy-two-chocolates.py) |
+| 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [easy/2710-remove-trailing-zeros-from-a-string.py](easy/2710-remove-trailing-zeros-from-a-string.py) |
+| 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | [easy/2716-minimize-string-length.py](easy/2716-minimize-string-length.py) |
+| 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [easy/2717-semi-ordered-permutation.py](easy/2717-semi-ordered-permutation.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -503,7 +510,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (25)
+## Solved — Medium (28)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -532,9 +539,12 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py](medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [medium/2657-find-the-prefix-common-array-of-two-arrays.py](medium/2657-find-the-prefix-common-array-of-two-arrays.py) |
 | 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [medium/2661-first-completely-painted-row-or-column.py](medium/2661-first-completely-painted-row-or-column.py) |
+| 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [medium/2679-sum-in-a-matrix.py](medium/2679-sum-in-a-matrix.py) |
+| 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | [medium/2683-neighboring-bitwise-xor.py](medium/2683-neighboring-bitwise-xor.py) |
+| 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [medium/2707-extra-characters-in-a-string.py](medium/2707-extra-characters-in-a-string.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 512**
+**Total solved: 522**
