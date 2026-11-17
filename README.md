@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (452)
+## Solved — Easy (459)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -458,6 +458,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [easy/2469-convert-the-temperature.py](easy/2469-convert-the-temperature.py) |
 | 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [easy/2475-number-of-unequal-triplets-in-array.py](easy/2475-number-of-unequal-triplets-in-array.py) |
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [easy/2481-minimum-cuts-to-divide-a-circle.py](easy/2481-minimum-cuts-to-divide-a-circle.py) |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [easy/2485-find-the-pivot-integer.py](easy/2485-find-the-pivot-integer.py) |
+| 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [easy/2490-circular-sentence.py](easy/2490-circular-sentence.py) |
+| 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | [easy/2496-maximum-value-of-a-string-in-an-array.py](easy/2496-maximum-value-of-a-string-in-an-array.py) |
+| 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [easy/2500-delete-greatest-value-in-each-row.py](easy/2500-delete-greatest-value-in-each-row.py) |
+| 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | [easy/2506-count-pairs-of-similar-strings.py](easy/2506-count-pairs-of-similar-strings.py) |
+| 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [easy/2511-maximum-enemy-forts-that-can-be-captured.py](easy/2511-maximum-enemy-forts-that-can-be-captured.py) |
+| 2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [easy/2515-shortest-distance-to-target-string-in-a-circular-array.py](easy/2515-shortest-distance-to-target-string-in-a-circular-array.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -468,7 +475,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (20)
+## Solved — Medium (23)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -492,9 +499,12 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [medium/2390-removing-stars-from-a-string.py](medium/2390-removing-stars-from-a-string.py) |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [medium/2428-maximum-sum-of-an-hourglass.py](medium/2428-maximum-sum-of-an-hourglass.py) |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [medium/2433-find-the-original-array-of-prefix-xor.py](medium/2433-find-the-original-array-of-prefix-xor.py) |
+| 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
+| 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
+| 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py](medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py) |
 
 ## Solved — Hard (0)
 
 Nothing yet.
 
-**Total solved: 472**
+**Total solved: 482**
