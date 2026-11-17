@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (469)
+## Solved — Easy (479)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -475,6 +475,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [easy/2553-separate-the-digits-in-an-array.py](easy/2553-separate-the-digits-in-an-array.py) |
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [easy/2558-take-gifts-from-the-richest-pile.py](easy/2558-take-gifts-from-the-richest-pile.py) |
 | 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) | [easy/2562-find-the-array-concatenation-value.py](easy/2562-find-the-array-concatenation-value.py) |
+| 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [easy/2566-maximum-difference-by-remapping-a-digit.py](easy/2566-maximum-difference-by-remapping-a-digit.py) |
+| 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [easy/2570-merge-two-2d-arrays-by-summing-values.py](easy/2570-merge-two-2d-arrays-by-summing-values.py) |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [easy/2574-left-and-right-sum-differences.py](easy/2574-left-and-right-sum-differences.py) |
+| 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [easy/2578-split-with-minimum-sum.py](easy/2578-split-with-minimum-sum.py) |
+| 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [easy/2582-pass-the-pillow.py](easy/2582-pass-the-pillow.py) |
+| 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [easy/2586-count-the-number-of-vowel-strings-in-range.py](easy/2586-count-the-number-of-vowel-strings-in-range.py) |
+| 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [easy/2591-distribute-money-to-maximum-children.py](easy/2591-distribute-money-to-maximum-children.py) |
+| 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [easy/2595-number-of-even-and-odd-bits.py](easy/2595-number-of-even-and-odd-bits.py) |
+| 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [easy/2600-k-items-with-the-maximum-sum.py](easy/2600-k-items-with-the-maximum-sum.py) |
+| 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [easy/2605-form-smallest-number-from-two-digit-arrays.py](easy/2605-form-smallest-number-from-two-digit-arrays.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -517,4 +527,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 
 Nothing yet.
 
-**Total solved: 492**
+**Total solved: 502**
