@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (269)
+## Solved — Medium (279)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -823,6 +823,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [medium/0790-domino-and-tromino-tiling.py](medium/0790-domino-and-tromino-tiling.py) |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [medium/0791-custom-sort-string.py](medium/0791-custom-sort-string.py) |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [medium/0792-number-of-matching-subsequences.py](medium/0792-number-of-matching-subsequences.py) |
+| 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | [medium/0794-valid-tic-tac-toe-state.py](medium/0794-valid-tic-tac-toe-state.py) |
+| 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [medium/0795-number-of-subarrays-with-bounded-maximum.py](medium/0795-number-of-subarrays-with-bounded-maximum.py) |
+| 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [medium/0797-all-paths-from-source-to-target.py](medium/0797-all-paths-from-source-to-target.py) |
+| 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [medium/0799-champagne-tower.py](medium/0799-champagne-tower.py) |
+| 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [medium/0802-find-eventual-safe-states.py](medium/0802-find-eventual-safe-states.py) |
+| 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [medium/0807-max-increase-to-keep-city-skyline.py](medium/0807-max-increase-to-keep-city-skyline.py) |
+| 808 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | [medium/0808-soup-servings.py](medium/0808-soup-servings.py) |
+| 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [medium/0809-expressive-words.py](medium/0809-expressive-words.py) |
+| 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [medium/0811-subdomain-visit-count.py](medium/0811-subdomain-visit-count.py) |
+| 813 | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | [medium/0813-largest-sum-of-averages.py](medium/0813-largest-sum-of-averages.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -957,4 +967,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 931**
+**Total solved: 941**
