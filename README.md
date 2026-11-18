@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (512)
+## Solved — Easy (522)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -518,6 +518,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | [easy/2828-check-if-a-string-is-an-acronym-of-words.py](easy/2828-check-if-a-string-is-an-acronym-of-words.py) |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [easy/2833-furthest-point-from-origin.py](easy/2833-furthest-point-from-origin.py) |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [easy/2839-check-if-strings-can-be-made-equal-with-operations-i.py](easy/2839-check-if-strings-can-be-made-equal-with-operations-i.py) |
+| 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [easy/2843-count-symmetric-integers.py](easy/2843-count-symmetric-integers.py) |
+| 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | [easy/2848-points-that-intersect-with-cars.py](easy/2848-points-that-intersect-with-cars.py) |
+| 2855 | [Minimum Right Shifts to Sort the Array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | [easy/2855-minimum-right-shifts-to-sort-the-array.py](easy/2855-minimum-right-shifts-to-sort-the-array.py) |
+| 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | [easy/2859-sum-of-values-at-indices-with-k-set-bits.py](easy/2859-sum-of-values-at-indices-with-k-set-bits.py) |
+| 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [easy/2864-maximum-odd-binary-number.py](easy/2864-maximum-odd-binary-number.py) |
+| 2869 | [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | [easy/2869-minimum-operations-to-collect-elements.py](easy/2869-minimum-operations-to-collect-elements.py) |
+| 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [easy/2873-maximum-value-of-an-ordered-triplet-i.py](easy/2873-maximum-value-of-an-ordered-triplet-i.py) |
+| 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | [easy/2877-create-a-dataframe-from-list.py](easy/2877-create-a-dataframe-from-list.py) |
+| 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [easy/2878-get-the-size-of-a-dataframe.py](easy/2878-get-the-size-of-a-dataframe.py) |
+| 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [easy/2879-display-the-first-three-rows.py](easy/2879-display-the-first-three-rows.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -618,4 +628,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py](hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [hard/0391-perfect-rectangle.py](hard/0391-perfect-rectangle.py) |
 
-**Total solved: 592**
+**Total solved: 602**
