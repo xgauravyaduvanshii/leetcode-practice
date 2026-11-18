@@ -603,7 +603,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (90)
+## Solved — Hard (100)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -697,5 +697,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [hard/0782-transform-to-chessboard.py](hard/0782-transform-to-chessboard.py) |
 | 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [hard/0805-split-array-with-same-average.py](hard/0805-split-array-with-same-average.py) |
 | 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [hard/0810-chalkboard-xor-game.py](hard/0810-chalkboard-xor-game.py) |
+| 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [hard/0815-bus-routes.py](hard/0815-bus-routes.py) |
+| 818 | [Race Car](https://leetcode.com/problems/race-car/) | [hard/0818-race-car.py](hard/0818-race-car.py) |
+| 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [hard/0827-making-a-large-island.py](hard/0827-making-a-large-island.py) |
+| 828 | [Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [hard/0828-count-unique-characters-of-all-substrings-of-a-given-string.py](hard/0828-count-unique-characters-of-all-substrings-of-a-given-string.py) |
+| 829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [hard/0829-consecutive-numbers-sum.py](hard/0829-consecutive-numbers-sum.py) |
+| 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [hard/0834-sum-of-distances-in-tree.py](hard/0834-sum-of-distances-in-tree.py) |
+| 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [hard/0839-similar-string-groups.py](hard/0839-similar-string-groups.py) |
+| 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [hard/0843-guess-the-word.py](hard/0843-guess-the-word.py) |
+| 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
+| 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 672**
+**Total solved: 682**
