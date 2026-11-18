@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (359)
+## Solved — Medium (369)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -913,6 +913,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [medium/0962-maximum-width-ramp.py](medium/0962-maximum-width-ramp.py) |
 | 963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/) | [medium/0963-minimum-area-rectangle-ii.py](medium/0963-minimum-area-rectangle-ii.py) |
 | 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [medium/0966-vowel-spellchecker.py](medium/0966-vowel-spellchecker.py) |
+| 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [medium/0967-numbers-with-same-consecutive-differences.py](medium/0967-numbers-with-same-consecutive-differences.py) |
+| 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [medium/0969-pancake-sorting.py](medium/0969-pancake-sorting.py) |
+| 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [medium/0970-powerful-integers.py](medium/0970-powerful-integers.py) |
+| 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [medium/0971-flip-binary-tree-to-match-preorder-traversal.py](medium/0971-flip-binary-tree-to-match-preorder-traversal.py) |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [medium/0973-k-closest-points-to-origin.py](medium/0973-k-closest-points-to-origin.py) |
+| 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [medium/0974-subarray-sums-divisible-by-k.py](medium/0974-subarray-sums-divisible-by-k.py) |
+| 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [medium/0978-longest-turbulent-subarray.py](medium/0978-longest-turbulent-subarray.py) |
+| 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [medium/0979-distribute-coins-in-binary-tree.py](medium/0979-distribute-coins-in-binary-tree.py) |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [medium/0981-time-based-key-value-store.py](medium/0981-time-based-key-value-store.py) |
+| 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [medium/0983-minimum-cost-for-tickets.py](medium/0983-minimum-cost-for-tickets.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1047,4 +1057,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1021**
+**Total solved: 1031**
