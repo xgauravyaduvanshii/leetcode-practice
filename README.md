@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (309)
+## Solved — Medium (319)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -863,6 +863,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [medium/0865-smallest-subtree-with-all-the-deepest-nodes.py](medium/0865-smallest-subtree-with-all-the-deepest-nodes.py) |
 | 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/) | [medium/0866-prime-palindrome.py](medium/0866-prime-palindrome.py) |
 | 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [medium/0869-reordered-power-of-2.py](medium/0869-reordered-power-of-2.py) |
+| 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [medium/0870-advantage-shuffle.py](medium/0870-advantage-shuffle.py) |
+| 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [medium/0873-length-of-longest-fibonacci-subsequence.py](medium/0873-length-of-longest-fibonacci-subsequence.py) |
+| 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [medium/0874-walking-robot-simulation.py](medium/0874-walking-robot-simulation.py) |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [medium/0875-koko-eating-bananas.py](medium/0875-koko-eating-bananas.py) |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [medium/0877-stone-game.py](medium/0877-stone-game.py) |
+| 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [medium/0880-decoded-string-at-index.py](medium/0880-decoded-string-at-index.py) |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [medium/0881-boats-to-save-people.py](medium/0881-boats-to-save-people.py) |
+| 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | [medium/0885-spiral-matrix-iii.py](medium/0885-spiral-matrix-iii.py) |
+| 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [medium/0886-possible-bipartition.py](medium/0886-possible-bipartition.py) |
+| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal.py](medium/0889-construct-binary-tree-from-preorder-and-postorder-traversal.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -997,4 +1007,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 971**
+**Total solved: 981**
