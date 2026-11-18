@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (379)
+## Solved — Medium (389)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -933,6 +933,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [medium/1003-check-if-word-is-valid-after-substitutions.py](medium/1003-check-if-word-is-valid-after-substitutions.py) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [medium/1004-max-consecutive-ones-iii.py](medium/1004-max-consecutive-ones-iii.py) |
 | 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [medium/1006-clumsy-factorial.py](medium/1006-clumsy-factorial.py) |
+| 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [medium/1007-minimum-domino-rotations-for-equal-row.py](medium/1007-minimum-domino-rotations-for-equal-row.py) |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [medium/1008-construct-binary-search-tree-from-preorder-traversal.py](medium/1008-construct-binary-search-tree-from-preorder-traversal.py) |
+| 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [medium/1010-pairs-of-songs-with-total-durations-divisible-by-60.py](medium/1010-pairs-of-songs-with-total-durations-divisible-by-60.py) |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [medium/1011-capacity-to-ship-packages-within-d-days.py](medium/1011-capacity-to-ship-packages-within-d-days.py) |
+| 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [medium/1014-best-sightseeing-pair.py](medium/1014-best-sightseeing-pair.py) |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [medium/1015-smallest-integer-divisible-by-k.py](medium/1015-smallest-integer-divisible-by-k.py) |
+| 1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [medium/1016-binary-string-with-substrings-representing-1-to-n.py](medium/1016-binary-string-with-substrings-representing-1-to-n.py) |
+| 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [medium/1017-convert-to-base-2.py](medium/1017-convert-to-base-2.py) |
+| 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [medium/1019-next-greater-node-in-linked-list.py](medium/1019-next-greater-node-in-linked-list.py) |
+| 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [medium/1020-number-of-enclaves.py](medium/1020-number-of-enclaves.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1067,4 +1077,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1041**
+**Total solved: 1051**
