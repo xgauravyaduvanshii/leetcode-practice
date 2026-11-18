@@ -538,7 +538,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (40)
+## Solved — Medium (50)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -554,6 +554,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [medium/0179-largest-number.py](medium/0179-largest-number.py) |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [medium/0187-repeated-dna-sequences.py](medium/0187-repeated-dna-sequences.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [medium/0189-rotate-array.py](medium/0189-rotate-array.py) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [medium/0198-house-robber.py](medium/0198-house-robber.py) |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [medium/0199-binary-tree-right-side-view.py](medium/0199-binary-tree-right-side-view.py) |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [medium/0200-number-of-islands.py](medium/0200-number-of-islands.py) |
+| 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [medium/0201-bitwise-and-of-numbers-range.py](medium/0201-bitwise-and-of-numbers-range.py) |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [medium/0204-count-primes.py](medium/0204-count-primes.py) |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [medium/0207-course-schedule.py](medium/0207-course-schedule.py) |
+| 208 | [Implement Trie - Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [medium/0208-implement-trie-prefix-tree.py](medium/0208-implement-trie-prefix-tree.py) |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [medium/0209-minimum-size-subarray-sum.py](medium/0209-minimum-size-subarray-sum.py) |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [medium/0210-course-schedule-ii.py](medium/0210-course-schedule-ii.py) |
+| 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [medium/0211-design-add-and-search-words-data-structure.py](medium/0211-design-add-and-search-words-data-structure.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -638,4 +648,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py](hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [hard/0391-perfect-rectangle.py](hard/0391-perfect-rectangle.py) |
 
-**Total solved: 612**
+**Total solved: 622**
