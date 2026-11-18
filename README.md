@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (159)
+## Solved — Medium (169)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -713,6 +713,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [medium/0481-magical-string.py](medium/0481-magical-string.py) |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [medium/0486-predict-the-winner.py](medium/0486-predict-the-winner.py) |
 | 491 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | [medium/0491-non-decreasing-subsequences.py](medium/0491-non-decreasing-subsequences.py) |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [medium/0494-target-sum.py](medium/0494-target-sum.py) |
+| 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [medium/0497-random-point-in-non-overlapping-rectangles.py](medium/0497-random-point-in-non-overlapping-rectangles.py) |
+| 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [medium/0498-diagonal-traverse.py](medium/0498-diagonal-traverse.py) |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [medium/0503-next-greater-element-ii.py](medium/0503-next-greater-element-ii.py) |
+| 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [medium/0508-most-frequent-subtree-sum.py](medium/0508-most-frequent-subtree-sum.py) |
+| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [medium/0513-find-bottom-left-tree-value.py](medium/0513-find-bottom-left-tree-value.py) |
+| 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [medium/0515-find-largest-value-in-each-tree-row.py](medium/0515-find-largest-value-in-each-tree-row.py) |
+| 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [medium/0516-longest-palindromic-subsequence.py](medium/0516-longest-palindromic-subsequence.py) |
+| 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [medium/0518-coin-change-ii.py](medium/0518-coin-change-ii.py) |
+| 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/) | [medium/0519-random-flip-matrix.py](medium/0519-random-flip-matrix.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -847,4 +857,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 821**
+**Total solved: 831**
