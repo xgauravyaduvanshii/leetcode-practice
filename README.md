@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (495)
+## Solved — Easy (502)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -501,6 +501,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | [easy/2716-minimize-string-length.py](easy/2716-minimize-string-length.py) |
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [easy/2717-semi-ordered-permutation.py](easy/2717-semi-ordered-permutation.py) |
 | 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | [easy/2729-check-if-the-number-is-fascinating.py](easy/2729-check-if-the-number-is-fascinating.py) |
+| 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [easy/2733-neither-minimum-nor-maximum.py](easy/2733-neither-minimum-nor-maximum.py) |
+| 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | [easy/2739-total-distance-traveled.py](easy/2739-total-distance-traveled.py) |
+| 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [easy/2744-find-maximum-number-of-string-pairs.py](easy/2744-find-maximum-number-of-string-pairs.py) |
+| 2748 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/) | [easy/2748-number-of-beautiful-pairs.py](easy/2748-number-of-beautiful-pairs.py) |
+| 2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [easy/2760-longest-even-odd-subarray-with-threshold.py](easy/2760-longest-even-odd-subarray-with-threshold.py) |
+| 2765 | [Longest Alternating Subarray](https://leetcode.com/problems/longest-alternating-subarray/) | [easy/2765-longest-alternating-subarray.py](easy/2765-longest-alternating-subarray.py) |
+| 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [easy/2769-find-the-maximum-achievable-number.py](easy/2769-find-the-maximum-achievable-number.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -511,7 +518,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (28)
+## Solved — Medium (30)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -543,9 +550,22 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [medium/2679-sum-in-a-matrix.py](medium/2679-sum-in-a-matrix.py) |
 | 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | [medium/2683-neighboring-bitwise-xor.py](medium/2683-neighboring-bitwise-xor.py) |
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [medium/2707-extra-characters-in-a-string.py](medium/2707-extra-characters-in-a-string.py) |
+| 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
+| 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (0)
+## Solved — Hard (10)
 
-Nothing yet.
+| # | Problem | Solution |
+|---|---------|----------|
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [hard/0004-median-of-two-sorted-arrays.py](hard/0004-median-of-two-sorted-arrays.py) |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [hard/0010-regular-expression-matching.py](hard/0010-regular-expression-matching.py) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [hard/0023-merge-k-sorted-lists.py](hard/0023-merge-k-sorted-lists.py) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [hard/0025-reverse-nodes-in-k-group.py](hard/0025-reverse-nodes-in-k-group.py) |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [hard/0030-substring-with-concatenation-of-all-words.py](hard/0030-substring-with-concatenation-of-all-words.py) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [hard/0032-longest-valid-parentheses.py](hard/0032-longest-valid-parentheses.py) |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [hard/0037-sudoku-solver.py](hard/0037-sudoku-solver.py) |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [hard/0041-first-missing-positive.py](hard/0041-first-missing-positive.py) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [hard/0042-trapping-rain-water.py](hard/0042-trapping-rain-water.py) |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [hard/0044-wildcard-matching.py](hard/0044-wildcard-matching.py) |
 
-**Total solved: 523**
+**Total solved: 542**
