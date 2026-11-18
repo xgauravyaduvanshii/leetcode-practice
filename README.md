@@ -603,7 +603,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (70)
+## Solved — Hard (80)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -677,5 +677,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [hard/0664-strange-printer.py](hard/0664-strange-printer.py) |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [hard/0668-kth-smallest-number-in-multiplication-table.py](hard/0668-kth-smallest-number-in-multiplication-table.py) |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | [hard/0679-24-game.py](hard/0679-24-game.py) |
+| 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [hard/0685-redundant-connection-ii.py](hard/0685-redundant-connection-ii.py) |
+| 691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | [hard/0691-stickers-to-spell-word.py](hard/0691-stickers-to-spell-word.py) |
+| 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | [hard/0710-random-pick-with-blacklist.py](hard/0710-random-pick-with-blacklist.py) |
+| 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [hard/0719-find-k-th-smallest-pair-distance.py](hard/0719-find-k-th-smallest-pair-distance.py) |
+| 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [hard/0726-number-of-atoms.py](hard/0726-number-of-atoms.py) |
+| 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [hard/0732-my-calendar-iii.py](hard/0732-my-calendar-iii.py) |
+| 736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/) | [hard/0736-parse-lisp-expression.py](hard/0736-parse-lisp-expression.py) |
+| 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [hard/0741-cherry-pickup.py](hard/0741-cherry-pickup.py) |
+| 745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [hard/0745-prefix-and-suffix-search.py](hard/0745-prefix-and-suffix-search.py) |
+| 749 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [hard/0749-contain-virus.py](hard/0749-contain-virus.py) |
 
-**Total solved: 652**
+**Total solved: 662**
