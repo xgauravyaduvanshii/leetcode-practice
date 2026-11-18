@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (119)
+## Solved — Medium (129)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -673,6 +673,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [medium/0399-evaluate-division.py](medium/0399-evaluate-division.py) |
 | 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [medium/0400-nth-digit.py](medium/0400-nth-digit.py) |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [medium/0402-remove-k-digits.py](medium/0402-remove-k-digits.py) |
+| 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [medium/0406-queue-reconstruction-by-height.py](medium/0406-queue-reconstruction-by-height.py) |
+| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [medium/0413-arithmetic-slices.py](medium/0413-arithmetic-slices.py) |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [medium/0416-partition-equal-subset-sum.py](medium/0416-partition-equal-subset-sum.py) |
+| 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [medium/0417-pacific-atlantic-water-flow.py](medium/0417-pacific-atlantic-water-flow.py) |
+| 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [medium/0419-battleships-in-a-board.py](medium/0419-battleships-in-a-board.py) |
+| 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [medium/0421-maximum-xor-of-two-numbers-in-an-array.py](medium/0421-maximum-xor-of-two-numbers-in-an-array.py) |
+| 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [medium/0423-reconstruct-original-digits-from-english.py](medium/0423-reconstruct-original-digits-from-english.py) |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [medium/0424-longest-repeating-character-replacement.py](medium/0424-longest-repeating-character-replacement.py) |
+| 427 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [medium/0427-construct-quad-tree.py](medium/0427-construct-quad-tree.py) |
+| 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [medium/0429-n-ary-tree-level-order-traversal.py](medium/0429-n-ary-tree-level-order-traversal.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -807,4 +817,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 781**
+**Total solved: 791**
