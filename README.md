@@ -553,7 +553,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (20)
+## Solved — Hard (30)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -577,5 +577,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [hard/0085-maximal-rectangle.py](hard/0085-maximal-rectangle.py) |
 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [hard/0087-scramble-string.py](hard/0087-scramble-string.py) |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [hard/0115-distinct-subsequences.py](hard/0115-distinct-subsequences.py) |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [hard/0123-best-time-to-buy-and-sell-stock-iii.py](hard/0123-best-time-to-buy-and-sell-stock-iii.py) |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [hard/0124-binary-tree-maximum-path-sum.py](hard/0124-binary-tree-maximum-path-sum.py) |
+| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [hard/0126-word-ladder-ii.py](hard/0126-word-ladder-ii.py) |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [hard/0127-word-ladder.py](hard/0127-word-ladder.py) |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [hard/0132-palindrome-partitioning-ii.py](hard/0132-palindrome-partitioning-ii.py) |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [hard/0135-candy.py](hard/0135-candy.py) |
+| 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [hard/0140-word-break-ii.py](hard/0140-word-break-ii.py) |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [hard/0149-max-points-on-a-line.py](hard/0149-max-points-on-a-line.py) |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [hard/0154-find-minimum-in-rotated-sorted-array-ii.py](hard/0154-find-minimum-in-rotated-sorted-array-ii.py) |
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [hard/0174-dungeon-game.py](hard/0174-dungeon-game.py) |
 
-**Total solved: 552**
+**Total solved: 562**
