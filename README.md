@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (339)
+## Solved — Medium (349)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -893,6 +893,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [medium/0923-3sum-with-multiplicity.py](medium/0923-3sum-with-multiplicity.py) |
 | 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [medium/0926-flip-string-to-monotone-increasing.py](medium/0926-flip-string-to-monotone-increasing.py) |
 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [medium/0930-binary-subarrays-with-sum.py](medium/0930-binary-subarrays-with-sum.py) |
+| 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [medium/0931-minimum-falling-path-sum.py](medium/0931-minimum-falling-path-sum.py) |
+| 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [medium/0932-beautiful-array.py](medium/0932-beautiful-array.py) |
+| 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [medium/0934-shortest-bridge.py](medium/0934-shortest-bridge.py) |
+| 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [medium/0935-knight-dialer.py](medium/0935-knight-dialer.py) |
+| 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [medium/0939-minimum-area-rectangle.py](medium/0939-minimum-area-rectangle.py) |
+| 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [medium/0945-minimum-increment-to-make-array-unique.py](medium/0945-minimum-increment-to-make-array-unique.py) |
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [medium/0946-validate-stack-sequences.py](medium/0946-validate-stack-sequences.py) |
+| 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [medium/0947-most-stones-removed-with-same-row-or-column.py](medium/0947-most-stones-removed-with-same-row-or-column.py) |
+| 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [medium/0948-bag-of-tokens.py](medium/0948-bag-of-tokens.py) |
+| 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [medium/0949-largest-time-for-given-digits.py](medium/0949-largest-time-for-given-digits.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1027,4 +1037,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1001**
+**Total solved: 1011**
