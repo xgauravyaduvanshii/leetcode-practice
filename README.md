@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (109)
+## Solved — Medium (119)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -663,6 +663,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) | [medium/0385-mini-parser.py](medium/0385-mini-parser.py) |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [medium/0386-lexicographical-numbers.py](medium/0386-lexicographical-numbers.py) |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [medium/0388-longest-absolute-file-path.py](medium/0388-longest-absolute-file-path.py) |
+| 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [medium/0390-elimination-game.py](medium/0390-elimination-game.py) |
+| 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [medium/0393-utf-8-validation.py](medium/0393-utf-8-validation.py) |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [medium/0394-decode-string.py](medium/0394-decode-string.py) |
+| 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [medium/0395-longest-substring-with-at-least-k-repeating-characters.py](medium/0395-longest-substring-with-at-least-k-repeating-characters.py) |
+| 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [medium/0396-rotate-function.py](medium/0396-rotate-function.py) |
+| 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [medium/0397-integer-replacement.py](medium/0397-integer-replacement.py) |
+| 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [medium/0398-random-pick-index.py](medium/0398-random-pick-index.py) |
+| 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [medium/0399-evaluate-division.py](medium/0399-evaluate-division.py) |
+| 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [medium/0400-nth-digit.py](medium/0400-nth-digit.py) |
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [medium/0402-remove-k-digits.py](medium/0402-remove-k-digits.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -797,4 +807,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 771**
+**Total solved: 781**
