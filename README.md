@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (169)
+## Solved — Medium (179)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -723,6 +723,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [medium/0516-longest-palindromic-subsequence.py](medium/0516-longest-palindromic-subsequence.py) |
 | 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [medium/0518-coin-change-ii.py](medium/0518-coin-change-ii.py) |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/) | [medium/0519-random-flip-matrix.py](medium/0519-random-flip-matrix.py) |
+| 522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [medium/0522-longest-uncommon-subsequence-ii.py](medium/0522-longest-uncommon-subsequence-ii.py) |
+| 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [medium/0523-continuous-subarray-sum.py](medium/0523-continuous-subarray-sum.py) |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [medium/0524-longest-word-in-dictionary-through-deleting.py](medium/0524-longest-word-in-dictionary-through-deleting.py) |
+| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [medium/0525-contiguous-array.py](medium/0525-contiguous-array.py) |
+| 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [medium/0526-beautiful-arrangement.py](medium/0526-beautiful-arrangement.py) |
+| 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [medium/0528-random-pick-with-weight.py](medium/0528-random-pick-with-weight.py) |
+| 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [medium/0529-minesweeper.py](medium/0529-minesweeper.py) |
+| 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [medium/0532-k-diff-pairs-in-an-array.py](medium/0532-k-diff-pairs-in-an-array.py) |
+| 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [medium/0535-encode-and-decode-tinyurl.py](medium/0535-encode-and-decode-tinyurl.py) |
+| 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [medium/0537-complex-number-multiplication.py](medium/0537-complex-number-multiplication.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -857,4 +867,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 831**
+**Total solved: 841**
