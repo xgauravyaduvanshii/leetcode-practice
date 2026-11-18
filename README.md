@@ -538,12 +538,22 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (30)
+## Solved — Medium (40)
 
 | # | Problem | Solution |
 |---|---------|----------|
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [medium/0045-jump-game-ii.py](medium/0045-jump-game-ii.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [medium/0053-maximum-subarray.py](medium/0053-maximum-subarray.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [medium/0155-min-stack.py](medium/0155-min-stack.py) |
+| 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [medium/0164-maximum-gap.py](medium/0164-maximum-gap.py) |
+| 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [medium/0165-compare-version-numbers.py](medium/0165-compare-version-numbers.py) |
+| 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [medium/0166-fraction-to-recurring-decimal.py](medium/0166-fraction-to-recurring-decimal.py) |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [medium/0167-two-sum-ii-input-array-is-sorted.py](medium/0167-two-sum-ii-input-array-is-sorted.py) |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [medium/0172-factorial-trailing-zeroes.py](medium/0172-factorial-trailing-zeroes.py) |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [medium/0173-binary-search-tree-iterator.py](medium/0173-binary-search-tree-iterator.py) |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [medium/0179-largest-number.py](medium/0179-largest-number.py) |
+| 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [medium/0187-repeated-dna-sequences.py](medium/0187-repeated-dna-sequences.py) |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [medium/0189-rotate-array.py](medium/0189-rotate-array.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -628,4 +638,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py](hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [hard/0391-perfect-rectangle.py](hard/0391-perfect-rectangle.py) |
 
-**Total solved: 602**
+**Total solved: 612**
