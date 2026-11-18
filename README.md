@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (249)
+## Solved — Medium (259)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -803,6 +803,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [medium/0739-daily-temperatures.py](medium/0739-daily-temperatures.py) |
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [medium/0740-delete-and-earn.py](medium/0740-delete-and-earn.py) |
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [medium/0743-network-delay-time.py](medium/0743-network-delay-time.py) |
+| 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [medium/0752-open-the-lock.py](medium/0752-open-the-lock.py) |
+| 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [medium/0754-reach-a-number.py](medium/0754-reach-a-number.py) |
+| 756 | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | [medium/0756-pyramid-transition-matrix.py](medium/0756-pyramid-transition-matrix.py) |
+| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [medium/0763-partition-labels.py](medium/0763-partition-labels.py) |
+| 764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | [medium/0764-largest-plus-sign.py](medium/0764-largest-plus-sign.py) |
+| 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [medium/0767-reorganize-string.py](medium/0767-reorganize-string.py) |
+| 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [medium/0769-max-chunks-to-make-sorted.py](medium/0769-max-chunks-to-make-sorted.py) |
+| 775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [medium/0775-global-and-local-inversions.py](medium/0775-global-and-local-inversions.py) |
+| 777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | [medium/0777-swap-adjacent-in-lr-string.py](medium/0777-swap-adjacent-in-lr-string.py) |
+| 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [medium/0779-k-th-symbol-in-grammar.py](medium/0779-k-th-symbol-in-grammar.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -937,4 +947,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 911**
+**Total solved: 921**
