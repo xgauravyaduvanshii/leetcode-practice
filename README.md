@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (299)
+## Solved — Medium (309)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -853,6 +853,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [medium/0846-hand-of-straights.py](medium/0846-hand-of-straights.py) |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [medium/0848-shifting-letters.py](medium/0848-shifting-letters.py) |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [medium/0849-maximize-distance-to-closest-person.py](medium/0849-maximize-distance-to-closest-person.py) |
+| 851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [medium/0851-loud-and-rich.py](medium/0851-loud-and-rich.py) |
+| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [medium/0853-car-fleet.py](medium/0853-car-fleet.py) |
+| 855 | [Exam Room](https://leetcode.com/problems/exam-room/) | [medium/0855-exam-room.py](medium/0855-exam-room.py) |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [medium/0856-score-of-parentheses.py](medium/0856-score-of-parentheses.py) |
+| 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [medium/0858-mirror-reflection.py](medium/0858-mirror-reflection.py) |
+| 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | [medium/0861-score-after-flipping-matrix.py](medium/0861-score-after-flipping-matrix.py) |
+| 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [medium/0863-all-nodes-distance-k-in-binary-tree.py](medium/0863-all-nodes-distance-k-in-binary-tree.py) |
+| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [medium/0865-smallest-subtree-with-all-the-deepest-nodes.py](medium/0865-smallest-subtree-with-all-the-deepest-nodes.py) |
+| 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/) | [medium/0866-prime-palindrome.py](medium/0866-prime-palindrome.py) |
+| 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [medium/0869-reordered-power-of-2.py](medium/0869-reordered-power-of-2.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -987,4 +997,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 961**
+**Total solved: 971**
