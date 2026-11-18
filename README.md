@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (179)
+## Solved — Medium (189)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -733,6 +733,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [medium/0532-k-diff-pairs-in-an-array.py](medium/0532-k-diff-pairs-in-an-array.py) |
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [medium/0535-encode-and-decode-tinyurl.py](medium/0535-encode-and-decode-tinyurl.py) |
 | 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [medium/0537-complex-number-multiplication.py](medium/0537-complex-number-multiplication.py) |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [medium/0538-convert-bst-to-greater-tree.py](medium/0538-convert-bst-to-greater-tree.py) |
+| 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [medium/0539-minimum-time-difference.py](medium/0539-minimum-time-difference.py) |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [medium/0540-single-element-in-a-sorted-array.py](medium/0540-single-element-in-a-sorted-array.py) |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [medium/0542-01-matrix.py](medium/0542-01-matrix.py) |
+| 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [medium/0547-number-of-provinces.py](medium/0547-number-of-provinces.py) |
+| 553 | [Optimal Division](https://leetcode.com/problems/optimal-division/) | [medium/0553-optimal-division.py](medium/0553-optimal-division.py) |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [medium/0554-brick-wall.py](medium/0554-brick-wall.py) |
+| 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [medium/0556-next-greater-element-iii.py](medium/0556-next-greater-element-iii.py) |
+| 558 | [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees.py](medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees.py) |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [medium/0560-subarray-sum-equals-k.py](medium/0560-subarray-sum-equals-k.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -867,4 +877,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 841**
+**Total solved: 851**
