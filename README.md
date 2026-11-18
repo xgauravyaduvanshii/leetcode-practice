@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (259)
+## Solved — Medium (269)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -813,6 +813,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [medium/0775-global-and-local-inversions.py](medium/0775-global-and-local-inversions.py) |
 | 777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | [medium/0777-swap-adjacent-in-lr-string.py](medium/0777-swap-adjacent-in-lr-string.py) |
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [medium/0779-k-th-symbol-in-grammar.py](medium/0779-k-th-symbol-in-grammar.py) |
+| 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | [medium/0781-rabbits-in-forest.py](medium/0781-rabbits-in-forest.py) |
+| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [medium/0784-letter-case-permutation.py](medium/0784-letter-case-permutation.py) |
+| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [medium/0785-is-graph-bipartite.py](medium/0785-is-graph-bipartite.py) |
+| 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [medium/0786-k-th-smallest-prime-fraction.py](medium/0786-k-th-smallest-prime-fraction.py) |
+| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [medium/0787-cheapest-flights-within-k-stops.py](medium/0787-cheapest-flights-within-k-stops.py) |
+| 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | [medium/0788-rotated-digits.py](medium/0788-rotated-digits.py) |
+| 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | [medium/0789-escape-the-ghosts.py](medium/0789-escape-the-ghosts.py) |
+| 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [medium/0790-domino-and-tromino-tiling.py](medium/0790-domino-and-tromino-tiling.py) |
+| 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [medium/0791-custom-sort-string.py](medium/0791-custom-sort-string.py) |
+| 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [medium/0792-number-of-matching-subsequences.py](medium/0792-number-of-matching-subsequences.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -947,4 +957,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 921**
+**Total solved: 931**
