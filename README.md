@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (229)
+## Solved — Medium (239)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -783,6 +783,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [medium/0684-redundant-connection.py](medium/0684-redundant-connection.py) |
 | 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [medium/0687-longest-univalue-path.py](medium/0687-longest-univalue-path.py) |
 | 688 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [medium/0688-knight-probability-in-chessboard.py](medium/0688-knight-probability-in-chessboard.py) |
+| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [medium/0690-employee-importance.py](medium/0690-employee-importance.py) |
+| 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [medium/0692-top-k-frequent-words.py](medium/0692-top-k-frequent-words.py) |
+| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [medium/0695-max-area-of-island.py](medium/0695-max-area-of-island.py) |
+| 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [medium/0698-partition-to-k-equal-sum-subsets.py](medium/0698-partition-to-k-equal-sum-subsets.py) |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [medium/0701-insert-into-a-binary-search-tree.py](medium/0701-insert-into-a-binary-search-tree.py) |
+| 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [medium/0712-minimum-ascii-delete-sum-for-two-strings.py](medium/0712-minimum-ascii-delete-sum-for-two-strings.py) |
+| 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [medium/0713-subarray-product-less-than-k.py](medium/0713-subarray-product-less-than-k.py) |
+| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.py](medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.py) |
+| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [medium/0718-maximum-length-of-repeated-subarray.py](medium/0718-maximum-length-of-repeated-subarray.py) |
+| 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [medium/0720-longest-word-in-dictionary.py](medium/0720-longest-word-in-dictionary.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -917,4 +927,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 891**
+**Total solved: 901**
