@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (79)
+## Solved — Medium (89)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -633,6 +633,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [medium/0307-range-sum-query-mutable.py](medium/0307-range-sum-query-mutable.py) |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [medium/0309-best-time-to-buy-and-sell-stock-with-cooldown.py](medium/0309-best-time-to-buy-and-sell-stock-with-cooldown.py) |
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [medium/0310-minimum-height-trees.py](medium/0310-minimum-height-trees.py) |
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [medium/0313-super-ugly-number.py](medium/0313-super-ugly-number.py) |
+| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [medium/0316-remove-duplicate-letters.py](medium/0316-remove-duplicate-letters.py) |
+| 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [medium/0318-maximum-product-of-word-lengths.py](medium/0318-maximum-product-of-word-lengths.py) |
+| 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [medium/0319-bulb-switcher.py](medium/0319-bulb-switcher.py) |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [medium/0322-coin-change.py](medium/0322-coin-change.py) |
+| 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [medium/0324-wiggle-sort-ii.py](medium/0324-wiggle-sort-ii.py) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [medium/0328-odd-even-linked-list.py](medium/0328-odd-even-linked-list.py) |
+| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [medium/0331-verify-preorder-serialization-of-a-binary-tree.py](medium/0331-verify-preorder-serialization-of-a-binary-tree.py) |
+| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [medium/0334-increasing-triplet-subsequence.py](medium/0334-increasing-triplet-subsequence.py) |
+| 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [medium/0337-house-robber-iii.py](medium/0337-house-robber-iii.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -767,4 +777,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 741**
+**Total solved: 751**
