@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (552)
+## Solved — Easy (562)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -558,6 +558,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [easy/2960-count-tested-devices-after-test-operations.py](easy/2960-count-tested-devices-after-test-operations.py) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [easy/2965-find-missing-and-repeated-values.py](easy/2965-find-missing-and-repeated-values.py) |
 | 2970 | [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | [easy/2970-count-the-number-of-incremovable-subarrays-i.py](easy/2970-count-the-number-of-incremovable-subarrays-i.py) |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | [easy/2974-minimum-number-game.py](easy/2974-minimum-number-game.py) |
+| 2980 | [Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | [easy/2980-check-if-bitwise-or-has-trailing-zeros.py](easy/2980-check-if-bitwise-or-has-trailing-zeros.py) |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py](easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
+| 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [easy/3000-maximum-area-of-longest-diagonal-rectangle.py](easy/3000-maximum-area-of-longest-diagonal-rectangle.py) |
+| 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [easy/3005-count-elements-with-maximum-frequency.py](easy/3005-count-elements-with-maximum-frequency.py) |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i.py](easy/3010-divide-an-array-into-subarrays-with-minimum-cost-i.py) |
+| 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [easy/3014-minimum-number-of-pushes-to-type-word-i.py](easy/3014-minimum-number-of-pushes-to-type-word-i.py) |
+| 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [easy/3019-number-of-changing-keys.py](easy/3019-number-of-changing-keys.py) |
+| 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | [easy/3024-type-of-triangle.py](easy/3024-type-of-triangle.py) |
+| 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | [easy/3028-ant-on-the-boundary.py](easy/3028-ant-on-the-boundary.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -738,4 +748,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 712**
+**Total solved: 722**
