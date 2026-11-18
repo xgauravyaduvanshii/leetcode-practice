@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (279)
+## Solved — Medium (289)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -833,6 +833,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | [medium/0809-expressive-words.py](medium/0809-expressive-words.py) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [medium/0811-subdomain-visit-count.py](medium/0811-subdomain-visit-count.py) |
 | 813 | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | [medium/0813-largest-sum-of-averages.py](medium/0813-largest-sum-of-averages.py) |
+| 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [medium/0814-binary-tree-pruning.py](medium/0814-binary-tree-pruning.py) |
+| 816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | [medium/0816-ambiguous-coordinates.py](medium/0816-ambiguous-coordinates.py) |
+| 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [medium/0817-linked-list-components.py](medium/0817-linked-list-components.py) |
+| 820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [medium/0820-short-encoding-of-words.py](medium/0820-short-encoding-of-words.py) |
+| 822 | [Card Flipping Game](https://leetcode.com/problems/card-flipping-game/) | [medium/0822-card-flipping-game.py](medium/0822-card-flipping-game.py) |
+| 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [medium/0823-binary-trees-with-factors.py](medium/0823-binary-trees-with-factors.py) |
+| 825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [medium/0825-friends-of-appropriate-ages.py](medium/0825-friends-of-appropriate-ages.py) |
+| 826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | [medium/0826-most-profit-assigning-work.py](medium/0826-most-profit-assigning-work.py) |
+| 831 | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [medium/0831-masking-personal-information.py](medium/0831-masking-personal-information.py) |
+| 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [medium/0833-find-and-replace-in-string.py](medium/0833-find-and-replace-in-string.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -967,4 +977,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 941**
+**Total solved: 951**
