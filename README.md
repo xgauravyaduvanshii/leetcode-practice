@@ -603,7 +603,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (50)
+## Solved — Hard (60)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -657,5 +657,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [hard/0354-russian-doll-envelopes.py](hard/0354-russian-doll-envelopes.py) |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py](hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [hard/0391-perfect-rectangle.py](hard/0391-perfect-rectangle.py) |
+| 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [hard/0403-frog-jump.py](hard/0403-frog-jump.py) |
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [hard/0410-split-array-largest-sum.py](hard/0410-split-array-largest-sum.py) |
+| 420 | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | [hard/0420-strong-password-checker.py](hard/0420-strong-password-checker.py) |
+| 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [hard/0440-k-th-smallest-in-lexicographical-order.py](hard/0440-k-th-smallest-in-lexicographical-order.py) |
+| 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [hard/0460-lfu-cache.py](hard/0460-lfu-cache.py) |
+| 472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [hard/0472-concatenated-words.py](hard/0472-concatenated-words.py) |
+| 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [hard/0480-sliding-window-median.py](hard/0480-sliding-window-median.py) |
+| 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [hard/0483-smallest-good-base.py](hard/0483-smallest-good-base.py) |
+| 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [hard/0493-reverse-pairs.py](hard/0493-reverse-pairs.py) |
+| 514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/) | [hard/0514-freedom-trail.py](hard/0514-freedom-trail.py) |
 
-**Total solved: 632**
+**Total solved: 642**
