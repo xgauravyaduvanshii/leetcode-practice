@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (60)
+## Solved — Medium (69)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -613,7 +613,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [medium/0227-basic-calculator-ii.py](medium/0227-basic-calculator-ii.py) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [medium/0229-majority-element-ii.py](medium/0229-majority-element-ii.py) |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [medium/0230-kth-smallest-element-in-a-bst.py](medium/0230-kth-smallest-element-in-a-bst.py) |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [medium/0235-lowest-common-ancestor-of-a-binary-search-tree.py](medium/0235-lowest-common-ancestor-of-a-binary-search-tree.py) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [medium/0236-lowest-common-ancestor-of-a-binary-tree.py](medium/0236-lowest-common-ancestor-of-a-binary-tree.py) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [medium/0237-delete-node-in-a-linked-list.py](medium/0237-delete-node-in-a-linked-list.py) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [medium/0238-product-of-array-except-self.py](medium/0238-product-of-array-except-self.py) |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [medium/0240-search-a-2d-matrix-ii.py](medium/0240-search-a-2d-matrix-ii.py) |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [medium/0241-different-ways-to-add-parentheses.py](medium/0241-different-ways-to-add-parentheses.py) |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [medium/0260-single-number-iii.py](medium/0260-single-number-iii.py) |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [medium/0264-ugly-number-ii.py](medium/0264-ugly-number-ii.py) |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/) | [medium/0274-h-index.py](medium/0274-h-index.py) |
+| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [medium/0275-h-index-ii.py](medium/0275-h-index-ii.py) |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [medium/0279-perfect-squares.py](medium/0279-perfect-squares.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -748,4 +757,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 722**
+**Total solved: 731**
