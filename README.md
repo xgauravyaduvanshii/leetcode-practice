@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (149)
+## Solved — Medium (159)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -703,6 +703,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [medium/0462-minimum-moves-to-equal-array-elements-ii.py](medium/0462-minimum-moves-to-equal-array-elements-ii.py) |
 | 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | [medium/0464-can-i-win.py](medium/0464-can-i-win.py) |
 | 467 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [medium/0467-unique-substrings-in-wraparound-string.py](medium/0467-unique-substrings-in-wraparound-string.py) |
+| 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [medium/0468-validate-ip-address.py](medium/0468-validate-ip-address.py) |
+| 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [medium/0470-implement-rand10-using-rand7.py](medium/0470-implement-rand10-using-rand7.py) |
+| 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [medium/0473-matchsticks-to-square.py](medium/0473-matchsticks-to-square.py) |
+| 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [medium/0474-ones-and-zeroes.py](medium/0474-ones-and-zeroes.py) |
+| 475 | [Heaters](https://leetcode.com/problems/heaters/) | [medium/0475-heaters.py](medium/0475-heaters.py) |
+| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [medium/0477-total-hamming-distance.py](medium/0477-total-hamming-distance.py) |
+| 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [medium/0478-generate-random-point-in-a-circle.py](medium/0478-generate-random-point-in-a-circle.py) |
+| 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [medium/0481-magical-string.py](medium/0481-magical-string.py) |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [medium/0486-predict-the-winner.py](medium/0486-predict-the-winner.py) |
+| 491 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | [medium/0491-non-decreasing-subsequences.py](medium/0491-non-decreasing-subsequences.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -837,4 +847,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 811**
+**Total solved: 821**
