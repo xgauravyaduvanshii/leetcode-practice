@@ -603,7 +603,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (60)
+## Solved — Hard (70)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -667,5 +667,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [hard/0483-smallest-good-base.py](hard/0483-smallest-good-base.py) |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [hard/0493-reverse-pairs.py](hard/0493-reverse-pairs.py) |
 | 514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/) | [hard/0514-freedom-trail.py](hard/0514-freedom-trail.py) |
+| 546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes/) | [hard/0546-remove-boxes.py](hard/0546-remove-boxes.py) |
+| 552 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [hard/0552-student-attendance-record-ii.py](hard/0552-student-attendance-record-ii.py) |
+| 564 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | [hard/0564-find-the-closest-palindrome.py](hard/0564-find-the-closest-palindrome.py) |
+| 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [hard/0587-erect-the-fence.py](hard/0587-erect-the-fence.py) |
+| 591 | [Tag Validator](https://leetcode.com/problems/tag-validator/) | [hard/0591-tag-validator.py](hard/0591-tag-validator.py) |
+| 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [hard/0632-smallest-range-covering-elements-from-k-lists.py](hard/0632-smallest-range-covering-elements-from-k-lists.py) |
+| 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [hard/0639-decode-ways-ii.py](hard/0639-decode-ways-ii.py) |
+| 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [hard/0664-strange-printer.py](hard/0664-strange-printer.py) |
+| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [hard/0668-kth-smallest-number-in-multiplication-table.py](hard/0668-kth-smallest-number-in-multiplication-table.py) |
+| 679 | [24 Game](https://leetcode.com/problems/24-game/) | [hard/0679-24-game.py](hard/0679-24-game.py) |
 
-**Total solved: 642**
+**Total solved: 652**
