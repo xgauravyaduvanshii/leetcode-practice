@@ -603,7 +603,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (80)
+## Solved — Hard (90)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -687,5 +687,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [hard/0741-cherry-pickup.py](hard/0741-cherry-pickup.py) |
 | 745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [hard/0745-prefix-and-suffix-search.py](hard/0745-prefix-and-suffix-search.py) |
 | 749 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [hard/0749-contain-virus.py](hard/0749-contain-virus.py) |
+| 753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | [hard/0753-cracking-the-safe.py](hard/0753-cracking-the-safe.py) |
+| 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [hard/0757-set-intersection-size-at-least-two.py](hard/0757-set-intersection-size-at-least-two.py) |
+| 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [hard/0761-special-binary-string.py](hard/0761-special-binary-string.py) |
+| 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [hard/0765-couples-holding-hands.py](hard/0765-couples-holding-hands.py) |
+| 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [hard/0768-max-chunks-to-make-sorted-ii.py](hard/0768-max-chunks-to-make-sorted-ii.py) |
+| 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [hard/0778-swim-in-rising-water.py](hard/0778-swim-in-rising-water.py) |
+| 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [hard/0780-reaching-points.py](hard/0780-reaching-points.py) |
+| 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [hard/0782-transform-to-chessboard.py](hard/0782-transform-to-chessboard.py) |
+| 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [hard/0805-split-array-with-same-average.py](hard/0805-split-array-with-same-average.py) |
+| 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [hard/0810-chalkboard-xor-game.py](hard/0810-chalkboard-xor-game.py) |
 
-**Total solved: 662**
+**Total solved: 672**
