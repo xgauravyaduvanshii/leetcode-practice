@@ -553,7 +553,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (30)
+## Solved — Hard (40)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -587,5 +587,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [hard/0149-max-points-on-a-line.py](hard/0149-max-points-on-a-line.py) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [hard/0154-find-minimum-in-rotated-sorted-array-ii.py](hard/0154-find-minimum-in-rotated-sorted-array-ii.py) |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [hard/0174-dungeon-game.py](hard/0174-dungeon-game.py) |
+| 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [hard/0188-best-time-to-buy-and-sell-stock-iv.py](hard/0188-best-time-to-buy-and-sell-stock-iv.py) |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [hard/0212-word-search-ii.py](hard/0212-word-search-ii.py) |
+| 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [hard/0214-shortest-palindrome.py](hard/0214-shortest-palindrome.py) |
+| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [hard/0218-the-skyline-problem.py](hard/0218-the-skyline-problem.py) |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [hard/0224-basic-calculator.py](hard/0224-basic-calculator.py) |
+| 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [hard/0233-number-of-digit-one.py](hard/0233-number-of-digit-one.py) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [hard/0239-sliding-window-maximum.py](hard/0239-sliding-window-maximum.py) |
+| 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [hard/0273-integer-to-english-words.py](hard/0273-integer-to-english-words.py) |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [hard/0282-expression-add-operators.py](hard/0282-expression-add-operators.py) |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [hard/0295-find-median-from-data-stream.py](hard/0295-find-median-from-data-stream.py) |
 
-**Total solved: 562**
+**Total solved: 572**
