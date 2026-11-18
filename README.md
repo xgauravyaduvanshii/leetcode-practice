@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (522)
+## Solved — Easy (532)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -528,6 +528,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | [easy/2877-create-a-dataframe-from-list.py](easy/2877-create-a-dataframe-from-list.py) |
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [easy/2878-get-the-size-of-a-dataframe.py](easy/2878-get-the-size-of-a-dataframe.py) |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [easy/2879-display-the-first-three-rows.py](easy/2879-display-the-first-three-rows.py) |
+| 2880 | [Select Data](https://leetcode.com/problems/select-data/) | [easy/2880-select-data.py](easy/2880-select-data.py) |
+| 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | [easy/2881-create-a-new-column.py](easy/2881-create-a-new-column.py) |
+| 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [easy/2882-drop-duplicate-rows.py](easy/2882-drop-duplicate-rows.py) |
+| 2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/) | [easy/2883-drop-missing-data.py](easy/2883-drop-missing-data.py) |
+| 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [easy/2884-modify-columns.py](easy/2884-modify-columns.py) |
+| 2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | [easy/2885-rename-columns.py](easy/2885-rename-columns.py) |
+| 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | [easy/2886-change-data-type.py](easy/2886-change-data-type.py) |
+| 2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) | [easy/2887-fill-missing-data.py](easy/2887-fill-missing-data.py) |
+| 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [easy/2888-reshape-data-concatenate.py](easy/2888-reshape-data-concatenate.py) |
+| 2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/) | [easy/2889-reshape-data-pivot.py](easy/2889-reshape-data-pivot.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -708,4 +718,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 682**
+**Total solved: 692**
