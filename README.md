@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (542)
+## Solved — Easy (552)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -548,6 +548,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [easy/2913-subarrays-distinct-element-sum-of-squares-i.py](easy/2913-subarrays-distinct-element-sum-of-squares-i.py) |
 | 2917 | [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [easy/2917-find-the-k-or-of-an-array.py](easy/2917-find-the-k-or-of-an-array.py) |
 | 2923 | [Find Champion I](https://leetcode.com/problems/find-champion-i/) | [easy/2923-find-champion-i.py](easy/2923-find-champion-i.py) |
+| 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/) | [easy/2928-distribute-candies-among-children-i.py](easy/2928-distribute-candies-among-children-i.py) |
+| 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [easy/2932-maximum-strong-pair-xor-i.py](easy/2932-maximum-strong-pair-xor-i.py) |
+| 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/) | [easy/2937-make-three-strings-equal.py](easy/2937-make-three-strings-equal.py) |
+| 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [easy/2942-find-words-containing-character.py](easy/2942-find-words-containing-character.py) |
+| 2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [easy/2946-matrix-similarity-after-cyclic-shifts.py](easy/2946-matrix-similarity-after-cyclic-shifts.py) |
+| 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [easy/2951-find-the-peaks.py](easy/2951-find-the-peaks.py) |
+| 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [easy/2956-find-common-elements-between-two-arrays.py](easy/2956-find-common-elements-between-two-arrays.py) |
+| 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [easy/2960-count-tested-devices-after-test-operations.py](easy/2960-count-tested-devices-after-test-operations.py) |
+| 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [easy/2965-find-missing-and-repeated-values.py](easy/2965-find-missing-and-repeated-values.py) |
+| 2970 | [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | [easy/2970-count-the-number-of-incremovable-subarrays-i.py](easy/2970-count-the-number-of-incremovable-subarrays-i.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -728,4 +738,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 702**
+**Total solved: 712**
