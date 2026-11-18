@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (289)
+## Solved — Medium (299)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -843,6 +843,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | [medium/0826-most-profit-assigning-work.py](medium/0826-most-profit-assigning-work.py) |
 | 831 | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [medium/0831-masking-personal-information.py](medium/0831-masking-personal-information.py) |
 | 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [medium/0833-find-and-replace-in-string.py](medium/0833-find-and-replace-in-string.py) |
+| 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [medium/0835-image-overlap.py](medium/0835-image-overlap.py) |
+| 837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [medium/0837-new-21-game.py](medium/0837-new-21-game.py) |
+| 838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [medium/0838-push-dominoes.py](medium/0838-push-dominoes.py) |
+| 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | [medium/0840-magic-squares-in-grid.py](medium/0840-magic-squares-in-grid.py) |
+| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [medium/0841-keys-and-rooms.py](medium/0841-keys-and-rooms.py) |
+| 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [medium/0842-split-array-into-fibonacci-sequence.py](medium/0842-split-array-into-fibonacci-sequence.py) |
+| 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [medium/0845-longest-mountain-in-array.py](medium/0845-longest-mountain-in-array.py) |
+| 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [medium/0846-hand-of-straights.py](medium/0846-hand-of-straights.py) |
+| 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [medium/0848-shifting-letters.py](medium/0848-shifting-letters.py) |
+| 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [medium/0849-maximize-distance-to-closest-person.py](medium/0849-maximize-distance-to-closest-person.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -977,4 +987,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 951**
+**Total solved: 961**
