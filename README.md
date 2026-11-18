@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (129)
+## Solved — Medium (139)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -683,6 +683,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [medium/0424-longest-repeating-character-replacement.py](medium/0424-longest-repeating-character-replacement.py) |
 | 427 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [medium/0427-construct-quad-tree.py](medium/0427-construct-quad-tree.py) |
 | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [medium/0429-n-ary-tree-level-order-traversal.py](medium/0429-n-ary-tree-level-order-traversal.py) |
+| 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [medium/0430-flatten-a-multilevel-doubly-linked-list.py](medium/0430-flatten-a-multilevel-doubly-linked-list.py) |
+| 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [medium/0433-minimum-genetic-mutation.py](medium/0433-minimum-genetic-mutation.py) |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [medium/0435-non-overlapping-intervals.py](medium/0435-non-overlapping-intervals.py) |
+| 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [medium/0436-find-right-interval.py](medium/0436-find-right-interval.py) |
+| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [medium/0437-path-sum-iii.py](medium/0437-path-sum-iii.py) |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [medium/0438-find-all-anagrams-in-a-string.py](medium/0438-find-all-anagrams-in-a-string.py) |
+| 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [medium/0442-find-all-duplicates-in-an-array.py](medium/0442-find-all-duplicates-in-an-array.py) |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [medium/0443-string-compression.py](medium/0443-string-compression.py) |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [medium/0445-add-two-numbers-ii.py](medium/0445-add-two-numbers-ii.py) |
+| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [medium/0447-number-of-boomerangs.py](medium/0447-number-of-boomerangs.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -817,4 +827,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 791**
+**Total solved: 801**
