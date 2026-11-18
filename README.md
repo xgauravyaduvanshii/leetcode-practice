@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (502)
+## Solved — Easy (512)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -508,6 +508,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [easy/2760-longest-even-odd-subarray-with-threshold.py](easy/2760-longest-even-odd-subarray-with-threshold.py) |
 | 2765 | [Longest Alternating Subarray](https://leetcode.com/problems/longest-alternating-subarray/) | [easy/2765-longest-alternating-subarray.py](easy/2765-longest-alternating-subarray.py) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [easy/2769-find-the-maximum-achievable-number.py](easy/2769-find-the-maximum-achievable-number.py) |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [easy/2784-check-if-array-is-good.py](easy/2784-check-if-array-is-good.py) |
+| 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/) | [easy/2788-split-strings-by-separator.py](easy/2788-split-strings-by-separator.py) |
+| 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [easy/2798-number-of-employees-who-met-the-target.py](easy/2798-number-of-employees-who-met-the-target.py) |
+| 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [easy/2806-account-balance-after-rounded-purchase.py](easy/2806-account-balance-after-rounded-purchase.py) |
+| 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [easy/2810-faulty-keyboard.py](easy/2810-faulty-keyboard.py) |
+| 2815 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/) | [easy/2815-max-pair-sum-in-an-array.py](easy/2815-max-pair-sum-in-an-array.py) |
+| 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [easy/2824-count-pairs-whose-sum-is-less-than-target.py](easy/2824-count-pairs-whose-sum-is-less-than-target.py) |
+| 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | [easy/2828-check-if-a-string-is-an-acronym-of-words.py](easy/2828-check-if-a-string-is-an-acronym-of-words.py) |
+| 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [easy/2833-furthest-point-from-origin.py](easy/2833-furthest-point-from-origin.py) |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [easy/2839-check-if-strings-can-be-made-equal-with-operations-i.py](easy/2839-check-if-strings-can-be-made-equal-with-operations-i.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -608,4 +618,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py](hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [hard/0391-perfect-rectangle.py](hard/0391-perfect-rectangle.py) |
 
-**Total solved: 582**
+**Total solved: 592**
