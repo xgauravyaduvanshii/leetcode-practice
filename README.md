@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (389)
+## Solved — Medium (399)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -943,6 +943,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [medium/1017-convert-to-base-2.py](medium/1017-convert-to-base-2.py) |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [medium/1019-next-greater-node-in-linked-list.py](medium/1019-next-greater-node-in-linked-list.py) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [medium/1020-number-of-enclaves.py](medium/1020-number-of-enclaves.py) |
+| 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [medium/1023-camelcase-matching.py](medium/1023-camelcase-matching.py) |
+| 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | [medium/1024-video-stitching.py](medium/1024-video-stitching.py) |
+| 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [medium/1026-maximum-difference-between-node-and-ancestor.py](medium/1026-maximum-difference-between-node-and-ancestor.py) |
+| 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [medium/1027-longest-arithmetic-subsequence.py](medium/1027-longest-arithmetic-subsequence.py) |
+| 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [medium/1029-two-city-scheduling.py](medium/1029-two-city-scheduling.py) |
+| 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [medium/1031-maximum-sum-of-two-non-overlapping-subarrays.py](medium/1031-maximum-sum-of-two-non-overlapping-subarrays.py) |
+| 1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [medium/1033-moving-stones-until-consecutive.py](medium/1033-moving-stones-until-consecutive.py) |
+| 1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [medium/1034-coloring-a-border.py](medium/1034-coloring-a-border.py) |
+| 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [medium/1035-uncrossed-lines.py](medium/1035-uncrossed-lines.py) |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [medium/1038-binary-search-tree-to-greater-sum-tree.py](medium/1038-binary-search-tree-to-greater-sum-tree.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1077,4 +1087,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1051**
+**Total solved: 1061**
