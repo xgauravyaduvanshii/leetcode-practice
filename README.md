@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (189)
+## Solved — Medium (199)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -743,6 +743,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [medium/0556-next-greater-element-iii.py](medium/0556-next-greater-element-iii.py) |
 | 558 | [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees.py](medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees.py) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [medium/0560-subarray-sum-equals-k.py](medium/0560-subarray-sum-equals-k.py) |
+| 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | [medium/0565-array-nesting.py](medium/0565-array-nesting.py) |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [medium/0567-permutation-in-string.py](medium/0567-permutation-in-string.py) |
+| 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [medium/0576-out-of-boundary-paths.py](medium/0576-out-of-boundary-paths.py) |
+| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [medium/0581-shortest-unsorted-continuous-subarray.py](medium/0581-shortest-unsorted-continuous-subarray.py) |
+| 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [medium/0583-delete-operation-for-two-strings.py](medium/0583-delete-operation-for-two-strings.py) |
+| 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [medium/0592-fraction-addition-and-subtraction.py](medium/0592-fraction-addition-and-subtraction.py) |
+| 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [medium/0593-valid-square.py](medium/0593-valid-square.py) |
+| 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [medium/0609-find-duplicate-file-in-system.py](medium/0609-find-duplicate-file-in-system.py) |
+| 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [medium/0611-valid-triangle-number.py](medium/0611-valid-triangle-number.py) |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [medium/0621-task-scheduler.py](medium/0621-task-scheduler.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -877,4 +887,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 851**
+**Total solved: 861**
