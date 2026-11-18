@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (199)
+## Solved — Medium (209)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -753,6 +753,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [medium/0609-find-duplicate-file-in-system.py](medium/0609-find-duplicate-file-in-system.py) |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [medium/0611-valid-triangle-number.py](medium/0611-valid-triangle-number.py) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [medium/0621-task-scheduler.py](medium/0621-task-scheduler.py) |
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [medium/0622-design-circular-queue.py](medium/0622-design-circular-queue.py) |
+| 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [medium/0623-add-one-row-to-tree.py](medium/0623-add-one-row-to-tree.py) |
+| 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | [medium/0624-maximum-distance-in-arrays.py](medium/0624-maximum-distance-in-arrays.py) |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [medium/0633-sum-of-square-numbers.py](medium/0633-sum-of-square-numbers.py) |
+| 636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | [medium/0636-exclusive-time-of-functions.py](medium/0636-exclusive-time-of-functions.py) |
+| 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [medium/0638-shopping-offers.py](medium/0638-shopping-offers.py) |
+| 640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | [medium/0640-solve-the-equation.py](medium/0640-solve-the-equation.py) |
+| 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [medium/0641-design-circular-deque.py](medium/0641-design-circular-deque.py) |
+| 646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [medium/0646-maximum-length-of-pair-chain.py](medium/0646-maximum-length-of-pair-chain.py) |
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [medium/0647-palindromic-substrings.py](medium/0647-palindromic-substrings.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -887,4 +897,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 861**
+**Total solved: 871**
