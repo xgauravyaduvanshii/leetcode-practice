@@ -538,7 +538,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (50)
+## Solved — Medium (60)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -564,6 +564,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [medium/0209-minimum-size-subarray-sum.py](medium/0209-minimum-size-subarray-sum.py) |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [medium/0210-course-schedule-ii.py](medium/0210-course-schedule-ii.py) |
 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [medium/0211-design-add-and-search-words-data-structure.py](medium/0211-design-add-and-search-words-data-structure.py) |
+| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [medium/0213-house-robber-ii.py](medium/0213-house-robber-ii.py) |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [medium/0215-kth-largest-element-in-an-array.py](medium/0215-kth-largest-element-in-an-array.py) |
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [medium/0216-combination-sum-iii.py](medium/0216-combination-sum-iii.py) |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [medium/0221-maximal-square.py](medium/0221-maximal-square.py) |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [medium/0222-count-complete-tree-nodes.py](medium/0222-count-complete-tree-nodes.py) |
+| 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [medium/0223-rectangle-area.py](medium/0223-rectangle-area.py) |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [medium/0227-basic-calculator-ii.py](medium/0227-basic-calculator-ii.py) |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [medium/0229-majority-element-ii.py](medium/0229-majority-element-ii.py) |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [medium/0230-kth-smallest-element-in-a-bst.py](medium/0230-kth-smallest-element-in-a-bst.py) |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [medium/0235-lowest-common-ancestor-of-a-binary-search-tree.py](medium/0235-lowest-common-ancestor-of-a-binary-search-tree.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -648,4 +658,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py](hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [hard/0391-perfect-rectangle.py](hard/0391-perfect-rectangle.py) |
 
-**Total solved: 622**
+**Total solved: 632**
