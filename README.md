@@ -553,7 +553,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (40)
+## Solved — Hard (50)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -597,5 +597,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [hard/0273-integer-to-english-words.py](hard/0273-integer-to-english-words.py) |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [hard/0282-expression-add-operators.py](hard/0282-expression-add-operators.py) |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [hard/0295-find-median-from-data-stream.py](hard/0295-find-median-from-data-stream.py) |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [hard/0297-serialize-and-deserialize-binary-tree.py](hard/0297-serialize-and-deserialize-binary-tree.py) |
+| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [hard/0301-remove-invalid-parentheses.py](hard/0301-remove-invalid-parentheses.py) |
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [hard/0312-burst-balloons.py](hard/0312-burst-balloons.py) |
+| 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [hard/0315-count-of-smaller-numbers-after-self.py](hard/0315-count-of-smaller-numbers-after-self.py) |
+| 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | [hard/0321-create-maximum-number.py](hard/0321-create-maximum-number.py) |
+| 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [hard/0329-longest-increasing-path-in-a-matrix.py](hard/0329-longest-increasing-path-in-a-matrix.py) |
+| 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [hard/0336-palindrome-pairs.py](hard/0336-palindrome-pairs.py) |
+| 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [hard/0354-russian-doll-envelopes.py](hard/0354-russian-doll-envelopes.py) |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py](hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py) |
+| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [hard/0391-perfect-rectangle.py](hard/0391-perfect-rectangle.py) |
 
-**Total solved: 572**
+**Total solved: 582**
