@@ -553,7 +553,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (10)
+## Solved — Hard (20)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -567,5 +567,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [hard/0041-first-missing-positive.py](hard/0041-first-missing-positive.py) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [hard/0042-trapping-rain-water.py](hard/0042-trapping-rain-water.py) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [hard/0044-wildcard-matching.py](hard/0044-wildcard-matching.py) |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [hard/0051-n-queens.py](hard/0051-n-queens.py) |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [hard/0052-n-queens-ii.py](hard/0052-n-queens-ii.py) |
+| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [hard/0060-permutation-sequence.py](hard/0060-permutation-sequence.py) |
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [hard/0065-valid-number.py](hard/0065-valid-number.py) |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [hard/0068-text-justification.py](hard/0068-text-justification.py) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [hard/0076-minimum-window-substring.py](hard/0076-minimum-window-substring.py) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [hard/0084-largest-rectangle-in-histogram.py](hard/0084-largest-rectangle-in-histogram.py) |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [hard/0085-maximal-rectangle.py](hard/0085-maximal-rectangle.py) |
+| 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [hard/0087-scramble-string.py](hard/0087-scramble-string.py) |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [hard/0115-distinct-subsequences.py](hard/0115-distinct-subsequences.py) |
 
-**Total solved: 542**
+**Total solved: 552**
