@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (349)
+## Solved — Medium (359)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -903,6 +903,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [medium/0947-most-stones-removed-with-same-row-or-column.py](medium/0947-most-stones-removed-with-same-row-or-column.py) |
 | 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [medium/0948-bag-of-tokens.py](medium/0948-bag-of-tokens.py) |
 | 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [medium/0949-largest-time-for-given-digits.py](medium/0949-largest-time-for-given-digits.py) |
+| 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [medium/0950-reveal-cards-in-increasing-order.py](medium/0950-reveal-cards-in-increasing-order.py) |
+| 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [medium/0951-flip-equivalent-binary-trees.py](medium/0951-flip-equivalent-binary-trees.py) |
+| 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [medium/0954-array-of-doubled-pairs.py](medium/0954-array-of-doubled-pairs.py) |
+| 955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [medium/0955-delete-columns-to-make-sorted-ii.py](medium/0955-delete-columns-to-make-sorted-ii.py) |
+| 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [medium/0957-prison-cells-after-n-days.py](medium/0957-prison-cells-after-n-days.py) |
+| 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [medium/0958-check-completeness-of-a-binary-tree.py](medium/0958-check-completeness-of-a-binary-tree.py) |
+| 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [medium/0959-regions-cut-by-slashes.py](medium/0959-regions-cut-by-slashes.py) |
+| 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [medium/0962-maximum-width-ramp.py](medium/0962-maximum-width-ramp.py) |
+| 963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/) | [medium/0963-minimum-area-rectangle-ii.py](medium/0963-minimum-area-rectangle-ii.py) |
+| 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [medium/0966-vowel-spellchecker.py](medium/0966-vowel-spellchecker.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1037,4 +1047,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1011**
+**Total solved: 1021**
