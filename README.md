@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (89)
+## Solved — Medium (99)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -643,6 +643,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [medium/0331-verify-preorder-serialization-of-a-binary-tree.py](medium/0331-verify-preorder-serialization-of-a-binary-tree.py) |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [medium/0334-increasing-triplet-subsequence.py](medium/0334-increasing-triplet-subsequence.py) |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [medium/0337-house-robber-iii.py](medium/0337-house-robber-iii.py) |
+| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [medium/0341-flatten-nested-list-iterator.py](medium/0341-flatten-nested-list-iterator.py) |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [medium/0343-integer-break.py](medium/0343-integer-break.py) |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [medium/0347-top-k-frequent-elements.py](medium/0347-top-k-frequent-elements.py) |
+| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [medium/0355-design-twitter.py](medium/0355-design-twitter.py) |
+| 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [medium/0357-count-numbers-with-unique-digits.py](medium/0357-count-numbers-with-unique-digits.py) |
+| 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [medium/0365-water-and-jug-problem.py](medium/0365-water-and-jug-problem.py) |
+| 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [medium/0368-largest-divisible-subset.py](medium/0368-largest-divisible-subset.py) |
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [medium/0371-sum-of-two-integers.py](medium/0371-sum-of-two-integers.py) |
+| 372 | [Super Pow](https://leetcode.com/problems/super-pow/) | [medium/0372-super-pow.py](medium/0372-super-pow.py) |
+| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [medium/0373-find-k-pairs-with-smallest-sums.py](medium/0373-find-k-pairs-with-smallest-sums.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -777,4 +787,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 751**
+**Total solved: 761**
