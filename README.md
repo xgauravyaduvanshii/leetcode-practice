@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (69)
+## Solved — Medium (79)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -623,6 +623,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [medium/0274-h-index.py](medium/0274-h-index.py) |
 | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [medium/0275-h-index-ii.py](medium/0275-h-index-ii.py) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [medium/0279-perfect-squares.py](medium/0279-perfect-squares.py) |
+| 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [medium/0284-peeking-iterator.py](medium/0284-peeking-iterator.py) |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [medium/0287-find-the-duplicate-number.py](medium/0287-find-the-duplicate-number.py) |
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [medium/0289-game-of-life.py](medium/0289-game-of-life.py) |
+| 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [medium/0299-bulls-and-cows.py](medium/0299-bulls-and-cows.py) |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [medium/0300-longest-increasing-subsequence.py](medium/0300-longest-increasing-subsequence.py) |
+| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [medium/0304-range-sum-query-2d-immutable.py](medium/0304-range-sum-query-2d-immutable.py) |
+| 306 | [Additive Number](https://leetcode.com/problems/additive-number/) | [medium/0306-additive-number.py](medium/0306-additive-number.py) |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [medium/0307-range-sum-query-mutable.py](medium/0307-range-sum-query-mutable.py) |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [medium/0309-best-time-to-buy-and-sell-stock-with-cooldown.py](medium/0309-best-time-to-buy-and-sell-stock-with-cooldown.py) |
+| 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [medium/0310-minimum-height-trees.py](medium/0310-minimum-height-trees.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -757,4 +767,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 731**
+**Total solved: 741**
