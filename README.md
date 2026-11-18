@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (532)
+## Solved — Easy (542)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -538,6 +538,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) | [easy/2887-fill-missing-data.py](easy/2887-fill-missing-data.py) |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [easy/2888-reshape-data-concatenate.py](easy/2888-reshape-data-concatenate.py) |
 | 2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/) | [easy/2889-reshape-data-pivot.py](easy/2889-reshape-data-pivot.py) |
+| 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | [easy/2890-reshape-data-melt.py](easy/2890-reshape-data-melt.py) |
+| 2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/) | [easy/2891-method-chaining.py](easy/2891-method-chaining.py) |
+| 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [easy/2894-divisible-and-non-divisible-sums-difference.py](easy/2894-divisible-and-non-divisible-sums-difference.py) |
+| 2899 | [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/) | [easy/2899-last-visited-integers.py](easy/2899-last-visited-integers.py) |
+| 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [easy/2900-longest-unequal-adjacent-groups-subsequence-i.py](easy/2900-longest-unequal-adjacent-groups-subsequence-i.py) |
+| 2903 | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/) | [easy/2903-find-indices-with-index-and-value-difference-i.py](easy/2903-find-indices-with-index-and-value-difference-i.py) |
+| 2908 | [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/) | [easy/2908-minimum-sum-of-mountain-triplets-i.py](easy/2908-minimum-sum-of-mountain-triplets-i.py) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [easy/2913-subarrays-distinct-element-sum-of-squares-i.py](easy/2913-subarrays-distinct-element-sum-of-squares-i.py) |
+| 2917 | [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [easy/2917-find-the-k-or-of-an-array.py](easy/2917-find-the-k-or-of-an-array.py) |
+| 2923 | [Find Champion I](https://leetcode.com/problems/find-champion-i/) | [easy/2923-find-champion-i.py](easy/2923-find-champion-i.py) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [easy/0383-ransom-note.py](easy/0383-ransom-note.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [easy/0412-fizz-buzz.py](easy/0412-fizz-buzz.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [easy/0876-middle-of-linked-list.py](easy/0876-middle-of-linked-list.py) |
@@ -718,4 +728,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 692**
+**Total solved: 702**
