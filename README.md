@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (209)
+## Solved — Medium (219)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -763,6 +763,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [medium/0641-design-circular-deque.py](medium/0641-design-circular-deque.py) |
 | 646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [medium/0646-maximum-length-of-pair-chain.py](medium/0646-maximum-length-of-pair-chain.py) |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [medium/0647-palindromic-substrings.py](medium/0647-palindromic-substrings.py) |
+| 648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [medium/0648-replace-words.py](medium/0648-replace-words.py) |
+| 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [medium/0649-dota2-senate.py](medium/0649-dota2-senate.py) |
+| 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [medium/0650-2-keys-keyboard.py](medium/0650-2-keys-keyboard.py) |
+| 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [medium/0652-find-duplicate-subtrees.py](medium/0652-find-duplicate-subtrees.py) |
+| 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [medium/0654-maximum-binary-tree.py](medium/0654-maximum-binary-tree.py) |
+| 655 | [Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [medium/0655-print-binary-tree.py](medium/0655-print-binary-tree.py) |
+| 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [medium/0658-find-k-closest-elements.py](medium/0658-find-k-closest-elements.py) |
+| 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [medium/0659-split-array-into-consecutive-subsequences.py](medium/0659-split-array-into-consecutive-subsequences.py) |
+| 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [medium/0662-maximum-width-of-binary-tree.py](medium/0662-maximum-width-of-binary-tree.py) |
+| 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [medium/0665-non-decreasing-array.py](medium/0665-non-decreasing-array.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -897,4 +907,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 871**
+**Total solved: 881**
