@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (399)
+## Solved — Medium (409)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -953,6 +953,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [medium/1034-coloring-a-border.py](medium/1034-coloring-a-border.py) |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [medium/1035-uncrossed-lines.py](medium/1035-uncrossed-lines.py) |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [medium/1038-binary-search-tree-to-greater-sum-tree.py](medium/1038-binary-search-tree-to-greater-sum-tree.py) |
+| 1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [medium/1039-minimum-score-triangulation-of-polygon.py](medium/1039-minimum-score-triangulation-of-polygon.py) |
+| 1040 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [medium/1040-moving-stones-until-consecutive-ii.py](medium/1040-moving-stones-until-consecutive-ii.py) |
+| 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [medium/1041-robot-bounded-in-circle.py](medium/1041-robot-bounded-in-circle.py) |
+| 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [medium/1042-flower-planting-with-no-adjacent.py](medium/1042-flower-planting-with-no-adjacent.py) |
+| 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [medium/1043-partition-array-for-maximum-sum.py](medium/1043-partition-array-for-maximum-sum.py) |
+| 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [medium/1048-longest-string-chain.py](medium/1048-longest-string-chain.py) |
+| 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [medium/1049-last-stone-weight-ii.py](medium/1049-last-stone-weight-ii.py) |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [medium/1052-grumpy-bookstore-owner.py](medium/1052-grumpy-bookstore-owner.py) |
+| 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [medium/1053-previous-permutation-with-one-swap.py](medium/1053-previous-permutation-with-one-swap.py) |
+| 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [medium/1054-distant-barcodes.py](medium/1054-distant-barcodes.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1087,4 +1097,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1061**
+**Total solved: 1071**
