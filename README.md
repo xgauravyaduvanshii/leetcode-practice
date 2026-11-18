@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (369)
+## Solved — Medium (379)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -923,6 +923,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [medium/0979-distribute-coins-in-binary-tree.py](medium/0979-distribute-coins-in-binary-tree.py) |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [medium/0981-time-based-key-value-store.py](medium/0981-time-based-key-value-store.py) |
 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [medium/0983-minimum-cost-for-tickets.py](medium/0983-minimum-cost-for-tickets.py) |
+| 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [medium/0984-string-without-aaa-or-bbb.py](medium/0984-string-without-aaa-or-bbb.py) |
+| 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [medium/0986-interval-list-intersections.py](medium/0986-interval-list-intersections.py) |
+| 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [medium/0988-smallest-string-starting-from-leaf.py](medium/0988-smallest-string-starting-from-leaf.py) |
+| 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [medium/0990-satisfiability-of-equality-equations.py](medium/0990-satisfiability-of-equality-equations.py) |
+| 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [medium/0991-broken-calculator.py](medium/0991-broken-calculator.py) |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [medium/0994-rotting-oranges.py](medium/0994-rotting-oranges.py) |
+| 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [medium/0998-maximum-binary-tree-ii.py](medium/0998-maximum-binary-tree-ii.py) |
+| 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [medium/1003-check-if-word-is-valid-after-substitutions.py](medium/1003-check-if-word-is-valid-after-substitutions.py) |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [medium/1004-max-consecutive-ones-iii.py](medium/1004-max-consecutive-ones-iii.py) |
+| 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [medium/1006-clumsy-factorial.py](medium/1006-clumsy-factorial.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1057,4 +1067,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1031**
+**Total solved: 1041**
