@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (219)
+## Solved — Medium (229)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -773,6 +773,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [medium/0659-split-array-into-consecutive-subsequences.py](medium/0659-split-array-into-consecutive-subsequences.py) |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [medium/0662-maximum-width-of-binary-tree.py](medium/0662-maximum-width-of-binary-tree.py) |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [medium/0665-non-decreasing-array.py](medium/0665-non-decreasing-array.py) |
+| 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [medium/0667-beautiful-arrangement-ii.py](medium/0667-beautiful-arrangement-ii.py) |
+| 670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [medium/0670-maximum-swap.py](medium/0670-maximum-swap.py) |
+| 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/) | [medium/0672-bulb-switcher-ii.py](medium/0672-bulb-switcher-ii.py) |
+| 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [medium/0673-number-of-longest-increasing-subsequence.py](medium/0673-number-of-longest-increasing-subsequence.py) |
+| 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [medium/0676-implement-magic-dictionary.py](medium/0676-implement-magic-dictionary.py) |
+| 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [medium/0677-map-sum-pairs.py](medium/0677-map-sum-pairs.py) |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [medium/0678-valid-parenthesis-string.py](medium/0678-valid-parenthesis-string.py) |
+| 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [medium/0684-redundant-connection.py](medium/0684-redundant-connection.py) |
+| 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [medium/0687-longest-univalue-path.py](medium/0687-longest-univalue-path.py) |
+| 688 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [medium/0688-knight-probability-in-chessboard.py](medium/0688-knight-probability-in-chessboard.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -907,4 +917,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 881**
+**Total solved: 891**
