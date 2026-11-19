@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (459)
+## Solved — Medium (469)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1013,6 +1013,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [medium/1222-queens-that-can-attack-the-king.py](medium/1222-queens-that-can-attack-the-king.py) |
 | 1226 | [The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/) | [medium/1226-the-dining-philosophers.py](medium/1226-the-dining-philosophers.py) |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [medium/1227-airplane-seat-assignment-probability.py](medium/1227-airplane-seat-assignment-probability.py) |
+| 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [medium/1233-remove-sub-folders-from-the-filesystem.py](medium/1233-remove-sub-folders-from-the-filesystem.py) |
+| 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [medium/1234-replace-the-substring-for-balanced-string.py](medium/1234-replace-the-substring-for-balanced-string.py) |
+| 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [medium/1238-circular-permutation-in-binary-representation.py](medium/1238-circular-permutation-in-binary-representation.py) |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py](medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters.py) |
+| 1247 | [Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) | [medium/1247-minimum-swaps-to-make-strings-equal.py](medium/1247-minimum-swaps-to-make-strings-equal.py) |
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [medium/1248-count-number-of-nice-subarrays.py](medium/1248-count-number-of-nice-subarrays.py) |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [medium/1249-minimum-remove-to-make-valid-parentheses.py](medium/1249-minimum-remove-to-make-valid-parentheses.py) |
+| 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) | [medium/1253-reconstruct-a-2-row-binary-matrix.py](medium/1253-reconstruct-a-2-row-binary-matrix.py) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [medium/1254-number-of-closed-islands.py](medium/1254-number-of-closed-islands.py) |
+| 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [medium/1261-find-elements-in-a-contaminated-binary-tree.py](medium/1261-find-elements-in-a-contaminated-binary-tree.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1147,4 +1157,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1121**
+**Total solved: 1131**
