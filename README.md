@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (439)
+## Solved — Medium (449)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -993,6 +993,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [medium/1144-decrease-elements-to-make-array-zigzag.py](medium/1144-decrease-elements-to-make-array-zigzag.py) |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [medium/1145-binary-tree-coloring-game.py](medium/1145-binary-tree-coloring-game.py) |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [medium/1146-snapshot-array.py](medium/1146-snapshot-array.py) |
+| 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [medium/1155-number-of-dice-rolls-with-target-sum.py](medium/1155-number-of-dice-rolls-with-target-sum.py) |
+| 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [medium/1156-swap-for-longest-repeated-character-substring.py](medium/1156-swap-for-longest-repeated-character-substring.py) |
+| 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [medium/1161-maximum-level-sum-of-a-binary-tree.py](medium/1161-maximum-level-sum-of-a-binary-tree.py) |
+| 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [medium/1162-as-far-from-land-as-possible.py](medium/1162-as-far-from-land-as-possible.py) |
+| 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [medium/1169-invalid-transactions.py](medium/1169-invalid-transactions.py) |
+| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [medium/1171-remove-zero-sum-consecutive-nodes-from-linked-list.py](medium/1171-remove-zero-sum-consecutive-nodes-from-linked-list.py) |
+| 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [medium/1177-can-make-palindrome-from-substring.py](medium/1177-can-make-palindrome-from-substring.py) |
+| 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [medium/1186-maximum-subarray-sum-with-one-deletion.py](medium/1186-maximum-subarray-sum-with-one-deletion.py) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [medium/1190-reverse-substrings-between-each-pair-of-parentheses.py](medium/1190-reverse-substrings-between-each-pair-of-parentheses.py) |
+| 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [medium/1191-k-concatenation-maximum-sum.py](medium/1191-k-concatenation-maximum-sum.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1127,4 +1137,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1101**
+**Total solved: 1111**
