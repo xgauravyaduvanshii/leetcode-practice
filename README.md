@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (499)
+## Solved — Medium (509)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1053,6 +1053,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [medium/1333-filter-restaurants-by-vegan-friendly-price-and-distance.py](medium/1333-filter-restaurants-by-vegan-friendly-price-and-distance.py) |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py](medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [medium/1338-reduce-array-size-to-the-half.py](medium/1338-reduce-array-size-to-the-half.py) |
+| 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [medium/1339-maximum-product-of-splitted-binary-tree.py](medium/1339-maximum-product-of-splitted-binary-tree.py) |
+| 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py](medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py) |
+| 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [medium/1344-angle-between-hands-of-a-clock.py](medium/1344-angle-between-hands-of-a-clock.py) |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [medium/1347-minimum-number-of-steps-to-make-two-strings-anagram.py](medium/1347-minimum-number-of-steps-to-make-two-strings-anagram.py) |
+| 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | [medium/1348-tweet-counts-per-frequency.py](medium/1348-tweet-counts-per-frequency.py) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [medium/1352-product-of-the-last-k-numbers.py](medium/1352-product-of-the-last-k-numbers.py) |
+| 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [medium/1353-maximum-number-of-events-that-can-be-attended.py](medium/1353-maximum-number-of-events-that-can-be-attended.py) |
+| 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [medium/1357-apply-discount-every-n-orders.py](medium/1357-apply-discount-every-n-orders.py) |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [medium/1358-number-of-substrings-containing-all-three-characters.py](medium/1358-number-of-substrings-containing-all-three-characters.py) |
+| 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | [medium/1361-validate-binary-tree-nodes.py](medium/1361-validate-binary-tree-nodes.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1187,4 +1197,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1161**
+**Total solved: 1171**
