@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (419)
+## Solved — Medium (429)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -973,6 +973,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [medium/1091-shortest-path-in-binary-matrix.py](medium/1091-shortest-path-in-binary-matrix.py) |
 | 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [medium/1093-statistics-from-a-large-sample.py](medium/1093-statistics-from-a-large-sample.py) |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [medium/1094-car-pooling.py](medium/1094-car-pooling.py) |
+| 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [medium/1104-path-in-zigzag-labelled-binary-tree.py](medium/1104-path-in-zigzag-labelled-binary-tree.py) |
+| 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [medium/1105-filling-bookcase-shelves.py](medium/1105-filling-bookcase-shelves.py) |
+| 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [medium/1109-corporate-flight-bookings.py](medium/1109-corporate-flight-bookings.py) |
+| 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [medium/1110-delete-nodes-and-return-forest.py](medium/1110-delete-nodes-and-return-forest.py) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.py](medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.py) |
+| 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) | [medium/1115-print-foobar-alternately.py](medium/1115-print-foobar-alternately.py) |
+| 1116 | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/) | [medium/1116-print-zero-even-odd.py](medium/1116-print-zero-even-odd.py) |
+| 1117 | [Building H2O](https://leetcode.com/problems/building-h2o/) | [medium/1117-building-h2o.py](medium/1117-building-h2o.py) |
+| 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [medium/1123-lowest-common-ancestor-of-deepest-leaves.py](medium/1123-lowest-common-ancestor-of-deepest-leaves.py) |
+| 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [medium/1124-longest-well-performing-interval.py](medium/1124-longest-well-performing-interval.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1107,4 +1117,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1081**
+**Total solved: 1091**
