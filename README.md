@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (429)
+## Solved — Medium (439)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -983,6 +983,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1117 | [Building H2O](https://leetcode.com/problems/building-h2o/) | [medium/1117-building-h2o.py](medium/1117-building-h2o.py) |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [medium/1123-lowest-common-ancestor-of-deepest-leaves.py](medium/1123-lowest-common-ancestor-of-deepest-leaves.py) |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [medium/1124-longest-well-performing-interval.py](medium/1124-longest-well-performing-interval.py) |
+| 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [medium/1129-shortest-path-with-alternating-colors.py](medium/1129-shortest-path-with-alternating-colors.py) |
+| 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [medium/1130-minimum-cost-tree-from-leaf-values.py](medium/1130-minimum-cost-tree-from-leaf-values.py) |
+| 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [medium/1131-maximum-of-absolute-value-expression.py](medium/1131-maximum-of-absolute-value-expression.py) |
+| 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [medium/1138-alphabet-board-path.py](medium/1138-alphabet-board-path.py) |
+| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [medium/1139-largest-1-bordered-square.py](medium/1139-largest-1-bordered-square.py) |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [medium/1140-stone-game-ii.py](medium/1140-stone-game-ii.py) |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [medium/1143-longest-common-subsequence.py](medium/1143-longest-common-subsequence.py) |
+| 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [medium/1144-decrease-elements-to-make-array-zigzag.py](medium/1144-decrease-elements-to-make-array-zigzag.py) |
+| 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [medium/1145-binary-tree-coloring-game.py](medium/1145-binary-tree-coloring-game.py) |
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [medium/1146-snapshot-array.py](medium/1146-snapshot-array.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1117,4 +1127,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1091**
+**Total solved: 1101**
