@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (479)
+## Solved — Medium (489)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1033,6 +1033,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [medium/1286-iterator-for-combination.py](medium/1286-iterator-for-combination.py) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [medium/1288-remove-covered-intervals.py](medium/1288-remove-covered-intervals.py) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [medium/1291-sequential-digits.py](medium/1291-sequential-digits.py) |
+| 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py](medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.py) |
+| 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [medium/1296-divide-array-in-sets-of-k-consecutive-numbers.py](medium/1296-divide-array-in-sets-of-k-consecutive-numbers.py) |
+| 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [medium/1297-maximum-number-of-occurrences-of-a-substring.py](medium/1297-maximum-number-of-occurrences-of-a-substring.py) |
+| 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | [medium/1300-sum-of-mutated-array-closest-to-target.py](medium/1300-sum-of-mutated-array-closest-to-target.py) |
+| 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [medium/1302-deepest-leaves-sum.py](medium/1302-deepest-leaves-sum.py) |
+| 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [medium/1305-all-elements-in-two-binary-search-trees.py](medium/1305-all-elements-in-two-binary-search-trees.py) |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [medium/1306-jump-game-iii.py](medium/1306-jump-game-iii.py) |
+| 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [medium/1310-xor-queries-of-a-subarray.py](medium/1310-xor-queries-of-a-subarray.py) |
+| 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [medium/1311-get-watched-videos-by-your-friends.py](medium/1311-get-watched-videos-by-your-friends.py) |
+| 1314 | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [medium/1314-matrix-block-sum.py](medium/1314-matrix-block-sum.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1167,4 +1177,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1141**
+**Total solved: 1151**
