@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (529)
+## Solved — Medium (539)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1083,6 +1083,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py) |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [medium/1405-longest-happy-string.py](medium/1405-longest-happy-string.py) |
 | 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [medium/1409-queries-on-a-permutation-with-key.py](medium/1409-queries-on-a-permutation-with-key.py) |
+| 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | [medium/1410-html-entity-parser.py](medium/1410-html-entity-parser.py) |
+| 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [medium/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py](medium/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.py) |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py](medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
+| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [medium/1418-display-table-of-food-orders-in-a-restaurant.py](medium/1418-display-table-of-food-orders-in-a-restaurant.py) |
+| 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [medium/1419-minimum-number-of-frogs-croaking.py](medium/1419-minimum-number-of-frogs-croaking.py) |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [medium/1423-maximum-points-you-can-obtain-from-cards.py](medium/1423-maximum-points-you-can-obtain-from-cards.py) |
+| 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [medium/1424-diagonal-traverse-ii.py](medium/1424-diagonal-traverse-ii.py) |
+| 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [medium/1432-max-difference-you-can-get-from-changing-an-integer.py](medium/1432-max-difference-you-can-get-from-changing-an-integer.py) |
+| 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [medium/1433-check-if-a-string-can-break-another-string.py](medium/1433-check-if-a-string-can-break-another-string.py) |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py](medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1217,4 +1227,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1191**
+**Total solved: 1201**
