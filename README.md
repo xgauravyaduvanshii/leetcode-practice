@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (469)
+## Solved — Medium (479)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1023,6 +1023,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) | [medium/1253-reconstruct-a-2-row-binary-matrix.py](medium/1253-reconstruct-a-2-row-binary-matrix.py) |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [medium/1254-number-of-closed-islands.py](medium/1254-number-of-closed-islands.py) |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [medium/1261-find-elements-in-a-contaminated-binary-tree.py](medium/1261-find-elements-in-a-contaminated-binary-tree.py) |
+| 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [medium/1262-greatest-sum-divisible-by-three.py](medium/1262-greatest-sum-divisible-by-three.py) |
+| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | [medium/1267-count-servers-that-communicate.py](medium/1267-count-servers-that-communicate.py) |
+| 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [medium/1268-search-suggestions-system.py](medium/1268-search-suggestions-system.py) |
+| 1276 | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | [medium/1276-number-of-burgers-with-no-waste-of-ingredients.py](medium/1276-number-of-burgers-with-no-waste-of-ingredients.py) |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [medium/1277-count-square-submatrices-with-all-ones.py](medium/1277-count-square-submatrices-with-all-ones.py) |
+| 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [medium/1282-group-the-people-given-the-group-size-they-belong-to.py](medium/1282-group-the-people-given-the-group-size-they-belong-to.py) |
+| 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [medium/1283-find-the-smallest-divisor-given-a-threshold.py](medium/1283-find-the-smallest-divisor-given-a-threshold.py) |
+| 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [medium/1286-iterator-for-combination.py](medium/1286-iterator-for-combination.py) |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [medium/1288-remove-covered-intervals.py](medium/1288-remove-covered-intervals.py) |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [medium/1291-sequential-digits.py](medium/1291-sequential-digits.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1157,4 +1167,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1131**
+**Total solved: 1141**
