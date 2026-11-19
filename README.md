@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (449)
+## Solved — Medium (459)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1003,6 +1003,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [medium/1186-maximum-subarray-sum-with-one-deletion.py](medium/1186-maximum-subarray-sum-with-one-deletion.py) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [medium/1190-reverse-substrings-between-each-pair-of-parentheses.py](medium/1190-reverse-substrings-between-each-pair-of-parentheses.py) |
 | 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [medium/1191-k-concatenation-maximum-sum.py](medium/1191-k-concatenation-maximum-sum.py) |
+| 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | [medium/1195-fizz-buzz-multithreaded.py](medium/1195-fizz-buzz-multithreaded.py) |
+| 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [medium/1201-ugly-number-iii.py](medium/1201-ugly-number-iii.py) |
+| 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [medium/1202-smallest-string-with-swaps.py](medium/1202-smallest-string-with-swaps.py) |
+| 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [medium/1208-get-equal-substrings-within-budget.py](medium/1208-get-equal-substrings-within-budget.py) |
+| 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [medium/1209-remove-all-adjacent-duplicates-in-string-ii.py](medium/1209-remove-all-adjacent-duplicates-in-string-ii.py) |
+| 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [medium/1218-longest-arithmetic-subsequence-of-given-difference.py](medium/1218-longest-arithmetic-subsequence-of-given-difference.py) |
+| 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [medium/1219-path-with-maximum-gold.py](medium/1219-path-with-maximum-gold.py) |
+| 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [medium/1222-queens-that-can-attack-the-king.py](medium/1222-queens-that-can-attack-the-king.py) |
+| 1226 | [The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/) | [medium/1226-the-dining-philosophers.py](medium/1226-the-dining-philosophers.py) |
+| 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [medium/1227-airplane-seat-assignment-probability.py](medium/1227-airplane-seat-assignment-probability.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1137,4 +1147,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1111**
+**Total solved: 1121**
