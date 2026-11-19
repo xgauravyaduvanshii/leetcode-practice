@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (509)
+## Solved — Medium (519)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1063,6 +1063,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [medium/1357-apply-discount-every-n-orders.py](medium/1357-apply-discount-every-n-orders.py) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [medium/1358-number-of-substrings-containing-all-three-characters.py](medium/1358-number-of-substrings-containing-all-three-characters.py) |
 | 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | [medium/1361-validate-binary-tree-nodes.py](medium/1361-validate-binary-tree-nodes.py) |
+| 1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [medium/1362-closest-divisors.py](medium/1362-closest-divisors.py) |
+| 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | [medium/1366-rank-teams-by-votes.py](medium/1366-rank-teams-by-votes.py) |
+| 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | [medium/1367-linked-list-in-binary-tree.py](medium/1367-linked-list-in-binary-tree.py) |
+| 1371 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [medium/1371-find-the-longest-substring-containing-vowels-in-even-counts.py](medium/1371-find-the-longest-substring-containing-vowels-in-even-counts.py) |
+| 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [medium/1372-longest-zigzag-path-in-a-binary-tree.py](medium/1372-longest-zigzag-path-in-a-binary-tree.py) |
+| 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | [medium/1375-number-of-times-binary-string-is-prefix-aligned.py](medium/1375-number-of-times-binary-string-is-prefix-aligned.py) |
+| 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [medium/1376-time-needed-to-inform-all-employees.py](medium/1376-time-needed-to-inform-all-employees.py) |
+| 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [medium/1381-design-a-stack-with-increment-operation.py](medium/1381-design-a-stack-with-increment-operation.py) |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | [medium/1382-balance-a-binary-search-tree.py](medium/1382-balance-a-binary-search-tree.py) |
+| 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | [medium/1386-cinema-seat-allocation.py](medium/1386-cinema-seat-allocation.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1197,4 +1207,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1171**
+**Total solved: 1181**
