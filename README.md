@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (489)
+## Solved — Medium (499)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1043,6 +1043,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [medium/1310-xor-queries-of-a-subarray.py](medium/1310-xor-queries-of-a-subarray.py) |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [medium/1311-get-watched-videos-by-your-friends.py](medium/1311-get-watched-videos-by-your-friends.py) |
 | 1314 | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [medium/1314-matrix-block-sum.py](medium/1314-matrix-block-sum.py) |
+| 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [medium/1315-sum-of-nodes-with-even-valued-grandparent.py](medium/1315-sum-of-nodes-with-even-valued-grandparent.py) |
+| 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [medium/1318-minimum-flips-to-make-a-or-b-equal-to-c.py](medium/1318-minimum-flips-to-make-a-or-b-equal-to-c.py) |
+| 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [medium/1319-number-of-operations-to-make-network-connected.py](medium/1319-number-of-operations-to-make-network-connected.py) |
+| 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [medium/1324-print-words-vertically.py](medium/1324-print-words-vertically.py) |
+| 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [medium/1325-delete-leaves-with-a-given-value.py](medium/1325-delete-leaves-with-a-given-value.py) |
+| 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [medium/1328-break-a-palindrome.py](medium/1328-break-a-palindrome.py) |
+| 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [medium/1329-sort-the-matrix-diagonally.py](medium/1329-sort-the-matrix-diagonally.py) |
+| 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [medium/1333-filter-restaurants-by-vegan-friendly-price-and-distance.py](medium/1333-filter-restaurants-by-vegan-friendly-price-and-distance.py) |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py](medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
+| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [medium/1338-reduce-array-size-to-the-half.py](medium/1338-reduce-array-size-to-the-half.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1177,4 +1187,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1151**
+**Total solved: 1161**
