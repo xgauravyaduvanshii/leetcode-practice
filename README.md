@@ -864,7 +864,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (703)
+## Solved — Medium (704)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1554,6 +1554,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1884 | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | [medium/1884-egg-drop-with-2-eggs-and-n-floors.py](medium/1884-egg-drop-with-2-eggs-and-n-floors.py) |
 | 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [medium/1887-reduction-operations-to-make-the-array-elements-equal.py](medium/1887-reduction-operations-to-make-the-array-elements-equal.py) |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.py](medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.py) |
+| 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [medium/1894-find-the-student-that-will-replace-the-chalk.py](medium/1894-find-the-student-that-will-replace-the-chalk.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
@@ -1572,7 +1573,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (264)
+## Solved — Hard (266)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1836,9 +1837,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [hard/1569-number-of-ways-to-reorder-array-to-get-same-bst.py](hard/1569-number-of-ways-to-reorder-array-to-get-same-bst.py) · [hard/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp](hard/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
 | 1575 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | [hard/1575-count-all-possible-routes.py](hard/1575-count-all-possible-routes.py) · [hard/1575-count-all-possible-routes.js](hard/1575-count-all-possible-routes.js) |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.py](hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.py) · [hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.go](hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.go) |
+| 1585 | [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [hard/1585-check-if-string-is-transformable-with-substring-sort-operations.py](hard/1585-check-if-string-is-transformable-with-substring-sort-operations.py) · [hard/1585-check-if-string-is-transformable-with-substring-sort-operations.rs](hard/1585-check-if-string-is-transformable-with-substring-sort-operations.rs) |
+| 1591 | [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/) | [hard/1591-strange-printer-ii.py](hard/1591-strange-printer-ii.py) · [hard/1591-strange-printer-ii.ts](hard/1591-strange-printer-ii.ts) |
 | 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [hard/1595-minimum-cost-to-connect-two-groups-of-points.py](hard/1595-minimum-cost-to-connect-two-groups-of-points.py) · [hard/1595-minimum-cost-to-connect-two-groups-of-points.cs](hard/1595-minimum-cost-to-connect-two-groups-of-points.cs) |
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [hard/1601-maximum-number-of-achievable-transfer-requests.py](hard/1601-maximum-number-of-achievable-transfer-requests.py) · [hard/1601-maximum-number-of-achievable-transfer-requests.kt](hard/1601-maximum-number-of-achievable-transfer-requests.kt) |
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [hard/1606-find-servers-that-handled-most-number-of-requests.py](hard/1606-find-servers-that-handled-most-number-of-requests.py) · [hard/1606-find-servers-that-handled-most-number-of-requests.java](hard/1606-find-servers-that-handled-most-number-of-requests.java) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1815**
+**Total solved: 1818**
