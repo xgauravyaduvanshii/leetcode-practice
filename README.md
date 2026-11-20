@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (689)
+## Solved — Medium (697)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1243,6 +1243,14 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [medium/1846-maximum-element-after-decreasing-and-rearranging.py](medium/1846-maximum-element-after-decreasing-and-rearranging.py) |
 | 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [medium/1849-splitting-a-string-into-descending-consecutive-values.py](medium/1849-splitting-a-string-into-descending-consecutive-values.py) |
 | 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [medium/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number.py](medium/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number.py) |
+| 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [medium/1855-maximum-distance-between-a-pair-of-values.py](medium/1855-maximum-distance-between-a-pair-of-values.py) |
+| 1856 | [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) | [medium/1856-maximum-subarray-min-product.py](medium/1856-maximum-subarray-min-product.py) |
+| 1860 | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/) | [medium/1860-incremental-memory-leak.py](medium/1860-incremental-memory-leak.py) |
+| 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [medium/1861-rotating-the-box.py](medium/1861-rotating-the-box.py) |
+| 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | [medium/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.py](medium/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.py) |
+| 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [medium/1865-finding-pairs-with-a-certain-sum.py](medium/1865-finding-pairs-with-a-certain-sum.py) |
+| 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [medium/1870-minimum-speed-to-arrive-on-time.py](medium/1870-minimum-speed-to-arrive-on-time.py) |
+| 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [medium/1871-jump-game-vii.py](medium/1871-jump-game-vii.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1377,4 +1385,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1351**
+**Total solved: 1359**
