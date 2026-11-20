@@ -864,7 +864,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (701)
+## Solved — Medium (702)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1552,6 +1552,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1881 | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [medium/1881-maximum-value-after-insertion.py](medium/1881-maximum-value-after-insertion.py) |
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [medium/1882-process-tasks-using-servers.py](medium/1882-process-tasks-using-servers.py) |
 | 1884 | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | [medium/1884-egg-drop-with-2-eggs-and-n-floors.py](medium/1884-egg-drop-with-2-eggs-and-n-floors.py) |
+| 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [medium/1887-reduction-operations-to-make-the-array-elements-equal.py](medium/1887-reduction-operations-to-make-the-array-elements-equal.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
@@ -1570,7 +1571,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (241)
+## Solved — Hard (246)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1814,6 +1815,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | [hard/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py](hard/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) · [hard/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.ts](hard/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.ts) |
 | 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [hard/1473-paint-house-iii.py](hard/1473-paint-house-iii.py) · [hard/1473-paint-house-iii.cs](hard/1473-paint-house-iii.cs) |
 | 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | [hard/1478-allocate-mailboxes.py](hard/1478-allocate-mailboxes.py) · [hard/1478-allocate-mailboxes.kt](hard/1478-allocate-mailboxes.kt) |
+| 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [hard/1483-kth-ancestor-of-a-tree-node.py](hard/1483-kth-ancestor-of-a-tree-node.py) · [hard/1483-kth-ancestor-of-a-tree-node.java](hard/1483-kth-ancestor-of-a-tree-node.java) |
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.py](hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.py) · [hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.cpp](hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.cpp) |
+| 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | [hard/1494-parallel-courses-ii.py](hard/1494-parallel-courses-ii.py) · [hard/1494-parallel-courses-ii.js](hard/1494-parallel-courses-ii.js) |
+| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [hard/1499-max-value-of-equation.py](hard/1499-max-value-of-equation.py) · [hard/1499-max-value-of-equation.go](hard/1499-max-value-of-equation.go) |
+| 1505 | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | [hard/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.py](hard/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.py) · [hard/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.rs](hard/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.rs) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1790**
+**Total solved: 1796**
