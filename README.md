@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (732)
+## Solved — Easy (742)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -748,6 +748,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [easy/3884-first-matching-character-from-both-ends.py](easy/3884-first-matching-character-from-both-ends.py) |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [easy/3894-traffic-signal-color.py](easy/3894-traffic-signal-color.py) |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [easy/3898-find-the-degree-of-each-vertex.py](easy/3898-find-the-degree-of-each-vertex.py) |
+| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | [easy/3903-smallest-stable-index-i.py](easy/3903-smallest-stable-index-i.py) |
+| 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | [easy/3908-valid-digit-number.py](easy/3908-valid-digit-number.py) |
+| 3912 | [Valid Elements in an Array](https://leetcode.com/problems/valid-elements-in-an-array/) | [easy/3912-valid-elements-in-an-array.py](easy/3912-valid-elements-in-an-array.py) |
+| 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [easy/3917-count-indices-with-opposite-parity.py](easy/3917-count-indices-with-opposite-parity.py) |
+| 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | [easy/3921-score-validator.py](easy/3921-score-validator.py) |
+| 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | [easy/3925-concatenate-array-with-reverse.py](easy/3925-concatenate-array-with-reverse.py) |
+| 3931 | [Check Adjacent Digit Differences](https://leetcode.com/problems/check-adjacent-digit-differences/) | [easy/3931-check-adjacent-digit-differences.py](easy/3931-check-adjacent-digit-differences.py) |
+| 3936 | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [easy/3936-minimum-swaps-to-move-zeros-to-end.py](easy/3936-minimum-swaps-to-move-zeros-to-end.py) |
+| 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | [easy/3940-limit-occurrences-in-sorted-array.py](easy/3940-limit-occurrences-in-sorted-array.py) |
+| 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | [easy/3945-digit-frequency-score.py](easy/3945-digit-frequency-score.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1556,4 +1566,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1530**
+**Total solved: 1540**
