@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (742)
+## Solved — Easy (752)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -758,6 +758,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3936 | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [easy/3936-minimum-swaps-to-move-zeros-to-end.py](easy/3936-minimum-swaps-to-move-zeros-to-end.py) |
 | 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | [easy/3940-limit-occurrences-in-sorted-array.py](easy/3940-limit-occurrences-in-sorted-array.py) |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | [easy/3945-digit-frequency-score.py](easy/3945-digit-frequency-score.py) |
+| 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [easy/3950-exactly-one-consecutive-set-bits-pair.py](easy/3950-exactly-one-consecutive-set-bits-pair.py) |
+| 3954 | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [easy/3954-sum-of-compatible-numbers-in-range-i.py](easy/3954-sum-of-compatible-numbers-in-range-i.py) |
+| 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | [easy/3959-check-good-integer.py](easy/3959-check-good-integer.py) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [easy/3963-create-grid-with-exactly-one-path.py](easy/3963-create-grid-with-exactly-one-path.py) |
+| 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | [easy/3978-unique-middle-element.py](easy/3978-unique-middle-element.py) |
+| 3982 | [Sum of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | [easy/3982-sum-of-integers-with-maximum-digit-range.py](easy/3982-sum-of-integers-with-maximum-digit-range.py) |
+| 3986 | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | [easy/3986-number-of-elapsed-seconds-between-two-times.py](easy/3986-number-of-elapsed-seconds-between-two-times.py) |
+| 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | [easy/3992-rearrange-string-to-avoid-character-pair.py](easy/3992-rearrange-string-to-avoid-character-pair.py) |
+| 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | [easy/3996-even-number-of-knight-moves.py](easy/3996-even-number-of-knight-moves.py) |
+| 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | [easy/4000-largest-integer-with-given-digit-sum.py](easy/4000-largest-integer-with-given-digit-sum.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1566,4 +1576,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1540**
+**Total solved: 1550**
