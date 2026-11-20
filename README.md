@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (669)
+## Solved — Medium (679)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1223,6 +1223,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [medium/1792-maximum-average-pass-ratio.py](medium/1792-maximum-average-pass-ratio.py) |
 | 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | [medium/1797-design-authentication-manager.py](medium/1797-design-authentication-manager.py) |
 | 1798 | [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | [medium/1798-maximum-number-of-consecutive-values-you-can-make.py](medium/1798-maximum-number-of-consecutive-values-you-can-make.py) |
+| 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | [medium/1801-number-of-orders-in-the-backlog.py](medium/1801-number-of-orders-in-the-backlog.py) |
+| 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [medium/1802-maximum-value-at-a-given-index-in-a-bounded-array.py](medium/1802-maximum-value-at-a-given-index-in-a-bounded-array.py) |
+| 1806 | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [medium/1806-minimum-number-of-operations-to-reinitialize-a-permutation.py](medium/1806-minimum-number-of-operations-to-reinitialize-a-permutation.py) |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [medium/1807-evaluate-the-bracket-pairs-of-a-string.py](medium/1807-evaluate-the-bracket-pairs-of-a-string.py) |
+| 1813 | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | [medium/1813-sentence-similarity-iii.py](medium/1813-sentence-similarity-iii.py) |
+| 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [medium/1814-count-nice-pairs-in-an-array.py](medium/1814-count-nice-pairs-in-an-array.py) |
+| 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [medium/1817-finding-the-users-active-minutes.py](medium/1817-finding-the-users-active-minutes.py) |
+| 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [medium/1818-minimum-absolute-sum-difference.py](medium/1818-minimum-absolute-sum-difference.py) |
+| 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [medium/1823-find-the-winner-of-the-circular-game.py](medium/1823-find-the-winner-of-the-circular-game.py) |
+| 1824 | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [medium/1824-minimum-sideway-jumps.py](medium/1824-minimum-sideway-jumps.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1357,4 +1367,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1331**
+**Total solved: 1341**
