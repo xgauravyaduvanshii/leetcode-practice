@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (539)
+## Solved — Medium (549)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1093,6 +1093,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [medium/1432-max-difference-you-can-get-from-changing-an-integer.py](medium/1432-max-difference-you-can-get-from-changing-an-integer.py) |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [medium/1433-check-if-a-string-can-break-another-string.py](medium/1433-check-if-a-string-can-break-another-string.py) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py](medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [medium/1442-count-triplets-that-can-form-two-arrays-of-equal-xor.py](medium/1442-count-triplets-that-can-form-two-arrays-of-equal-xor.py) |
+| 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [medium/1443-minimum-time-to-collect-all-apples-in-a-tree.py](medium/1443-minimum-time-to-collect-all-apples-in-a-tree.py) |
+| 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | [medium/1447-simplified-fractions.py](medium/1447-simplified-fractions.py) |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [medium/1448-count-good-nodes-in-binary-tree.py](medium/1448-count-good-nodes-in-binary-tree.py) |
+| 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [medium/1451-rearrange-words-in-a-sentence.py](medium/1451-rearrange-words-in-a-sentence.py) |
+| 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [medium/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py](medium/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.py) |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py](medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py) |
+| 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [medium/1457-pseudo-palindromic-paths-in-a-binary-tree.py](medium/1457-pseudo-palindromic-paths-in-a-binary-tree.py) |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py](medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py) |
+| 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | [medium/1462-course-schedule-iv.py](medium/1462-course-schedule-iv.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1227,4 +1237,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1201**
+**Total solved: 1211**
