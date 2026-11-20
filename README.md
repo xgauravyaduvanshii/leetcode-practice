@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (191)
+## Solved — Hard (201)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1760,6 +1760,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | [hard/1206-design-skiplist.py](hard/1206-design-skiplist.py) |
 | 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [hard/1210-minimum-moves-to-reach-target-with-rotations.py](hard/1210-minimum-moves-to-reach-target-with-rotations.py) |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [hard/1220-count-vowels-permutation.py](hard/1220-count-vowels-permutation.py) |
+| 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | [hard/1223-dice-roll-simulation.py](hard/1223-dice-roll-simulation.py) |
+| 1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | [hard/1224-maximum-equal-frequency.py](hard/1224-maximum-equal-frequency.py) |
+| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [hard/1235-maximum-profit-in-job-scheduling.py](hard/1235-maximum-profit-in-job-scheduling.py) |
+| 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [hard/1240-tiling-a-rectangle-with-the-fewest-squares.py](hard/1240-tiling-a-rectangle-with-the-fewest-squares.py) |
+| 1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | [hard/1250-check-if-it-is-a-good-array.py](hard/1250-check-if-it-is-a-good-array.py) |
+| 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [hard/1255-maximum-score-words-formed-by-letters.py](hard/1255-maximum-score-words-formed-by-letters.py) |
+| 1263 | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) | [hard/1263-minimum-moves-to-move-a-box-to-their-target-location.py](hard/1263-minimum-moves-to-move-a-box-to-their-target-location.py) |
+| 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [hard/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.py](hard/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
+| 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [hard/1278-palindrome-partitioning-iii.py](hard/1278-palindrome-partitioning-iii.py) |
+| 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [hard/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py](hard/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1736**
+**Total solved: 1746**
