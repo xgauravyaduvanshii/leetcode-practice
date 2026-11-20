@@ -1571,7 +1571,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (246)
+## Solved — Hard (251)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1820,6 +1820,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | [hard/1494-parallel-courses-ii.py](hard/1494-parallel-courses-ii.py) · [hard/1494-parallel-courses-ii.js](hard/1494-parallel-courses-ii.js) |
 | 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [hard/1499-max-value-of-equation.py](hard/1499-max-value-of-equation.py) · [hard/1499-max-value-of-equation.go](hard/1499-max-value-of-equation.go) |
 | 1505 | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | [hard/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.py](hard/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.py) · [hard/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.rs](hard/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.rs) |
+| 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [hard/1510-stone-game-iv.py](hard/1510-stone-game-iv.py) · [hard/1510-stone-game-iv.ts](hard/1510-stone-game-iv.ts) |
+| 1515 | [Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/) | [hard/1515-best-position-for-a-service-centre.py](hard/1515-best-position-for-a-service-centre.py) · [hard/1515-best-position-for-a-service-centre.cs](hard/1515-best-position-for-a-service-centre.cs) |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [hard/1520-maximum-number-of-non-overlapping-substrings.py](hard/1520-maximum-number-of-non-overlapping-substrings.py) · [hard/1520-maximum-number-of-non-overlapping-substrings.kt](hard/1520-maximum-number-of-non-overlapping-substrings.kt) |
+| 1521 | [Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/) | [hard/1521-find-a-value-of-a-mysterious-function-closest-to-target.py](hard/1521-find-a-value-of-a-mysterious-function-closest-to-target.py) · [hard/1521-find-a-value-of-a-mysterious-function-closest-to-target.java](hard/1521-find-a-value-of-a-mysterious-function-closest-to-target.java) |
+| 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.py](hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.py) · [hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp](hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1796**
+**Total solved: 1801**
