@@ -1568,7 +1568,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (216)
+## Solved — Hard (221)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1787,6 +1787,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [hard/1345-jump-game-iv.py](hard/1345-jump-game-iv.py) · [hard/1345-jump-game-iv.rs](hard/1345-jump-game-iv.rs) |
 | 1349 | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | [hard/1349-maximum-students-taking-exam.py](hard/1349-maximum-students-taking-exam.py) · [hard/1349-maximum-students-taking-exam.ts](hard/1349-maximum-students-taking-exam.ts) |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [hard/1354-construct-target-array-with-multiple-sums.py](hard/1354-construct-target-array-with-multiple-sums.py) · [hard/1354-construct-target-array-with-multiple-sums.cs](hard/1354-construct-target-array-with-multiple-sums.cs) |
+| 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [hard/1359-count-all-valid-pickup-and-delivery-options.py](hard/1359-count-all-valid-pickup-and-delivery-options.py) · [hard/1359-count-all-valid-pickup-and-delivery-options.kt](hard/1359-count-all-valid-pickup-and-delivery-options.kt) |
+| 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/) | [hard/1363-largest-multiple-of-three.py](hard/1363-largest-multiple-of-three.py) · [hard/1363-largest-multiple-of-three.java](hard/1363-largest-multiple-of-three.java) |
+| 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py](hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py) · [hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.cpp](hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.cpp) |
+| 1373 | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [hard/1373-maximum-sum-bst-in-binary-tree.py](hard/1373-maximum-sum-bst-in-binary-tree.py) · [hard/1373-maximum-sum-bst-in-binary-tree.js](hard/1373-maximum-sum-bst-in-binary-tree.js) |
+| 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | [hard/1377-frog-position-after-t-seconds.py](hard/1377-frog-position-after-t-seconds.py) · [hard/1377-frog-position-after-t-seconds.go](hard/1377-frog-position-after-t-seconds.go) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1763**
+**Total solved: 1768**
