@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (612)
+## Solved — Easy (622)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -628,6 +628,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3146 | [Permutation Difference Between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [easy/3146-permutation-difference-between-two-strings.py](easy/3146-permutation-difference-between-two-strings.py) |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | [easy/3151-special-array-i.py](easy/3151-special-array-i.py) |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [easy/3158-find-the-xor-of-numbers-which-appear-twice.py](easy/3158-find-the-xor-of-numbers-which-appear-twice.py) |
+| 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | [easy/3162-find-the-number-of-good-pairs-i.py](easy/3162-find-the-number-of-good-pairs-i.py) |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | [easy/3168-minimum-number-of-chairs-in-a-waiting-room.py](easy/3168-minimum-number-of-chairs-in-a-waiting-room.py) |
+| 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/) | [easy/3174-clear-digits.py](easy/3174-clear-digits.py) |
+| 3178 | [Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) | [easy/3178-find-the-child-who-has-the-ball-after-k-seconds.py](easy/3178-find-the-child-who-has-the-ball-after-k-seconds.py) |
+| 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | [easy/3184-count-pairs-that-form-a-complete-day-i.py](easy/3184-count-pairs-that-form-a-complete-day-i.py) |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.py](easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.py) |
+| 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [easy/3194-minimum-average-of-smallest-and-largest-elements.py](easy/3194-minimum-average-of-smallest-and-largest-elements.py) |
+| 3200 | [Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/) | [easy/3200-maximum-height-of-a-triangle.py](easy/3200-maximum-height-of-a-triangle.py) |
+| 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [easy/3206-alternating-groups-i.py](easy/3206-alternating-groups-i.py) |
+| 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | [easy/3210-find-the-encrypted-string.py](easy/3210-find-the-encrypted-string.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1436,4 +1446,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1410**
+**Total solved: 1420**
