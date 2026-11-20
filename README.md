@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (812)
+## Solved — Easy (822)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -376,18 +376,24 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [easy/1716-calculate-money-in-leetcode-bank.py](easy/1716-calculate-money-in-leetcode-bank.py) |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [easy/1720-decode-xored-array.py](easy/1720-decode-xored-array.py) |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [easy/1725-number-of-rectangles-that-can-form-the-largest-square.py](easy/1725-number-of-rectangles-that-can-form-the-largest-square.py) |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [easy/1729-find-followers-count.sql](easy/1729-find-followers-count.sql) |
+| 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [easy/1731-the-number-of-employees-which-report-to-each-employee.sql](easy/1731-the-number-of-employees-which-report-to-each-employee.sql) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [easy/1732-find-the-highest-altitude.py](easy/1732-find-the-highest-altitude.py) |
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [easy/1736-latest-time-by-replacing-hidden-digits.py](easy/1736-latest-time-by-replacing-hidden-digits.py) |
+| 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [easy/1741-find-total-time-spent-by-each-employee.sql](easy/1741-find-total-time-spent-by-each-employee.sql) |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [easy/1742-maximum-number-of-balls-in-a-box.py](easy/1742-maximum-number-of-balls-in-a-box.py) |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [easy/1748-sum-of-unique-elements.py](easy/1748-sum-of-unique-elements.py) |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [easy/1752-check-if-array-is-sorted-and-rotated.py](easy/1752-check-if-array-is-sorted-and-rotated.py) |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [easy/1757-recyclable-and-low-fat-products.sql](easy/1757-recyclable-and-low-fat-products.sql) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [easy/1758-minimum-changes-to-make-alternating-binary-string.py](easy/1758-minimum-changes-to-make-alternating-binary-string.py) |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [easy/1763-longest-nice-substring.py](easy/1763-longest-nice-substring.py) |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [easy/1773-count-items-matching-a-rule.py](easy/1773-count-items-matching-a-rule.py) |
 | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [easy/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py](easy/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py) |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones.py](easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones.py) |
+| 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [easy/1789-primary-department-for-each-employee.sql](easy/1789-primary-department-for-each-employee.sql) |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [easy/1790-check-if-one-string-swap-can-make-strings-equal.py](easy/1790-check-if-one-string-swap-can-make-strings-equal.py) |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [easy/1791-find-center-of-star-graph.py](easy/1791-find-center-of-star-graph.py) |
+| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [easy/1795-rearrange-products-table.sql](easy/1795-rearrange-products-table.sql) |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [easy/1796-second-largest-digit-in-a-string.py](easy/1796-second-largest-digit-in-a-string.py) |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [easy/1800-maximum-ascending-subarray-sum.py](easy/1800-maximum-ascending-subarray-sum.py) |
 | 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [easy/1805-number-of-different-integers-in-a-string.py](easy/1805-number-of-different-integers-in-a-string.py) |
@@ -403,9 +409,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [easy/1859-sorting-the-sentence.py](easy/1859-sorting-the-sentence.py) |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [easy/1863-sum-of-all-subset-xor-totals.py](easy/1863-sum-of-all-subset-xor-totals.py) |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [easy/1869-longer-contiguous-segments-of-ones-than-zeros.py](easy/1869-longer-contiguous-segments-of-ones-than-zeros.py) |
+| 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [easy/1873-calculate-special-bonus.sql](easy/1873-calculate-special-bonus.sql) |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [easy/1876-substrings-of-size-three-with-distinct-characters.py](easy/1876-substrings-of-size-three-with-distinct-characters.py) |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [easy/1880-check-if-word-equals-summation-of-two-words.py](easy/1880-check-if-word-equals-summation-of-two-words.py) |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [easy/1886-determine-whether-matrix-can-be-obtained-by-rotation.py](easy/1886-determine-whether-matrix-can-be-obtained-by-rotation.py) |
+| 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [easy/1890-the-latest-login-in-2020.sql](easy/1890-the-latest-login-in-2020.sql) |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [easy/1893-check-if-all-the-integers-in-a-range-are-covered.py](easy/1893-check-if-all-the-integers-in-a-range-are-covered.py) |
 | 1897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [easy/1897-redistribute-characters-to-make-all-strings-equal.py](easy/1897-redistribute-characters-to-make-all-strings-equal.py) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [easy/1903-largest-odd-number-in-string.py](easy/1903-largest-odd-number-in-string.py) |
@@ -418,9 +426,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [easy/1952-three-divisors.py](easy/1952-three-divisors.py) |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [easy/1957-delete-characters-to-make-fancy-string.py](easy/1957-delete-characters-to-make-fancy-string.py) |
 | 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [easy/1961-check-if-string-is-a-prefix-of-array.py](easy/1961-check-if-string-is-a-prefix-of-array.py) |
+| 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [easy/1965-employees-with-missing-information.sql](easy/1965-employees-with-missing-information.sql) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [easy/1967-number-of-strings-that-appear-as-substrings-in-word.py](easy/1967-number-of-strings-that-appear-as-substrings-in-word.py) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [easy/1971-find-if-path-exists-in-graph.py](easy/1971-find-if-path-exists-in-graph.py) |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) | [easy/1974-minimum-time-to-type-word-using-special-typewriter.py](easy/1974-minimum-time-to-type-word-using-special-typewriter.py) |
+| 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [easy/1978-employees-whose-manager-left-the-company.sql](easy/1978-employees-whose-manager-left-the-company.sql) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [easy/1979-find-greatest-common-divisor-of-array.py](easy/1979-find-greatest-common-divisor-of-array.py) |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores.py](easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores.py) |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [easy/1991-find-the-middle-index-in-array.py](easy/1991-find-the-middle-index-in-array.py) |
@@ -1636,4 +1646,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1610**
+**Total solved: 1620**
