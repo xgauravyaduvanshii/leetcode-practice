@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (181)
+## Solved — Hard (191)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1750,6 +1750,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [hard/1106-parsing-a-boolean-expression.py](hard/1106-parsing-a-boolean-expression.py) |
 | 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [hard/1125-smallest-sufficient-team.py](hard/1125-smallest-sufficient-team.py) |
 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [hard/1147-longest-chunked-palindrome-decomposition.py](hard/1147-longest-chunked-palindrome-decomposition.py) |
+| 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [hard/1157-online-majority-element-in-subarray.py](hard/1157-online-majority-element-in-subarray.py) |
+| 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [hard/1163-last-substring-in-lexicographical-order.py](hard/1163-last-substring-in-lexicographical-order.py) |
+| 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | [hard/1172-dinner-plate-stacks.py](hard/1172-dinner-plate-stacks.py) |
+| 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [hard/1178-number-of-valid-words-for-each-puzzle.py](hard/1178-number-of-valid-words-for-each-puzzle.py) |
+| 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [hard/1187-make-array-strictly-increasing.py](hard/1187-make-array-strictly-increasing.py) |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [hard/1192-critical-connections-in-a-network.py](hard/1192-critical-connections-in-a-network.py) |
+| 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [hard/1203-sort-items-by-groups-respecting-dependencies.py](hard/1203-sort-items-by-groups-respecting-dependencies.py) |
+| 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | [hard/1206-design-skiplist.py](hard/1206-design-skiplist.py) |
+| 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [hard/1210-minimum-moves-to-reach-target-with-rotations.py](hard/1210-minimum-moves-to-reach-target-with-rotations.py) |
+| 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [hard/1220-count-vowels-permutation.py](hard/1220-count-vowels-permutation.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1726**
+**Total solved: 1736**
