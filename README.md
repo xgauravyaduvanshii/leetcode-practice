@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (762)
+## Solved — Easy (772)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -778,6 +778,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [easy/4048-count-values-with-equally-spaced-occurrences-i.py](easy/4048-count-values-with-equally-spaced-occurrences-i.py) |
 | 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [easy/4052-cyclically-shift-rows-and-columns.py](easy/4052-cyclically-shift-rows-and-columns.py) |
 | 4056 | [Number of Intersecting Interval Pairs I](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | [easy/4056-number-of-intersecting-interval-pairs-i.py](easy/4056-number-of-intersecting-interval-pairs-i.py) |
+| 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | [easy/4061-minimum-queen-moves-to-reach-target.py](easy/4061-minimum-queen-moves-to-reach-target.py) |
+| 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | [easy/4065-rearrange-array-by-removing-distinct-values.py](easy/4065-rearrange-array-by-removing-distinct-values.py) |
+| 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | [easy/4070-minimum-rotations-to-dial-a-number-i.py](easy/4070-minimum-rotations-to-dial-a-number-i.py) |
+| 4074 | [Maximum Product Pair With Target Sum](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | [easy/4074-maximum-product-pair-with-target-sum.py](easy/4074-maximum-product-pair-with-target-sum.py) |
+| 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | [easy/4078-three-fibonacci-sum.py](easy/4078-three-fibonacci-sum.py) |
+| 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) | [easy/4083-minimum-deletions-to-make-array-sharp.py](easy/4083-minimum-deletions-to-make-array-sharp.py) |
+| 4088 | [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | [easy/4088-difference-between-peaks-and-valleys.py](easy/4088-difference-between-peaks-and-valleys.py) |
+| 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
+| 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
+| 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1586,4 +1596,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1560**
+**Total solved: 1570**
