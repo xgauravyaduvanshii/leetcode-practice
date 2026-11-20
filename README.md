@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (572)
+## Solved — Easy (582)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -146,6 +146,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [easy/0661-image-smoother.py](easy/0661-image-smoother.py) |
 | 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [easy/0671-second-minimum-node-in-a-binary-tree.py](easy/0671-second-minimum-node-in-a-binary-tree.py) |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [easy/0674-longest-continuous-increasing-subsequence.py](easy/0674-longest-continuous-increasing-subsequence.py) |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [easy/680-valid-palindrome-ii.py](easy/680-valid-palindrome-ii.py) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [easy/0682-baseball-game.py](easy/0682-baseball-game.py) |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [easy/0693-binary-number-with-alternating-bits.py](easy/0693-binary-number-with-alternating-bits.py) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [easy/0696-count-binary-substrings.py](easy/0696-count-binary-substrings.py) |
@@ -156,19 +157,24 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [easy/0705-design-hashset.py](easy/0705-design-hashset.py) |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [easy/0706-design-hashmap.py](easy/0706-design-hashmap.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [easy/0709-to-lower-case.py](easy/0709-to-lower-case.py) |
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [easy/717-1-bit-and-2-bit-characters.py](easy/717-1-bit-and-2-bit-characters.py) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [easy/0724-find-pivot-index.py](easy/0724-find-pivot-index.py) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [easy/0728-self-dividing-numbers.py](easy/0728-self-dividing-numbers.py) |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [easy/0733-flood-fill.py](easy/0733-flood-fill.py) |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [easy/744-find-smallest-letter-greater-than-target.py](easy/744-find-smallest-letter-greater-than-target.py) |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [easy/0746-min-cost-climbing-stairs.py](easy/0746-min-cost-climbing-stairs.py) |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [easy/0747-largest-number-at-least-twice-of-others.py](easy/0747-largest-number-at-least-twice-of-others.py) |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [easy/0748-shortest-completing-word.py](easy/0748-shortest-completing-word.py) |
+| 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [easy/762-prime-number-of-set-bits-in-binary-representation.py](easy/762-prime-number-of-set-bits-in-binary-representation.py) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [easy/0766-toeplitz-matrix.py](easy/0766-toeplitz-matrix.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [easy/0771-jewels-and-stones.py](easy/0771-jewels-and-stones.py) |
+| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [easy/783-minimum-distance-between-bst-nodes.py](easy/783-minimum-distance-between-bst-nodes.py) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [easy/0796-rotate-string.py](easy/0796-rotate-string.py) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [easy/0804-unique-morse-code-words.py](easy/0804-unique-morse-code-words.py) |
 | 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | [easy/0806-number-of-lines-to-write-string.py](easy/0806-number-of-lines-to-write-string.py) |
 | 812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [easy/0812-largest-triangle-area.py](easy/0812-largest-triangle-area.py) |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [easy/0819-most-common-word.py](easy/0819-most-common-word.py) |
+| 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [easy/821-shortest-distance-to-a-character.py](easy/821-shortest-distance-to-a-character.py) |
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [easy/0824-goat-latin.py](easy/0824-goat-latin.py) |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [easy/0830-positions-of-large-groups.py](easy/0830-positions-of-large-groups.py) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [easy/0832-flipping-an-image.py](easy/0832-flipping-an-image.py) |
@@ -190,8 +196,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [easy/0914-x-of-a-kind-in-a-deck-of-cards.py](easy/0914-x-of-a-kind-in-a-deck-of-cards.py) |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [easy/0917-reverse-only-letters.py](easy/0917-reverse-only-letters.py) |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [easy/0922-sort-array-by-parity-ii.py](easy/0922-sort-array-by-parity-ii.py) |
+| 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [easy/925-long-pressed-name.py](easy/925-long-pressed-name.py) |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [easy/0929-unique-email-addresses.py](easy/0929-unique-email-addresses.py) |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [easy/0933-number-of-recent-calls.py](easy/0933-number-of-recent-calls.py) |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [easy/938-range-sum-of-bst.py](easy/938-range-sum-of-bst.py) |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [easy/0941-valid-mountain-array.py](easy/0941-valid-mountain-array.py) |
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [easy/0942-di-string-match.py](easy/0942-di-string-match.py) |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [easy/0944-delete-columns-to-make-sorted.py](easy/0944-delete-columns-to-make-sorted.py) |
@@ -203,8 +211,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [easy/0989-add-to-array-form-of-integer.py](easy/0989-add-to-array-form-of-integer.py) |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [easy/0993-cousins-in-binary-tree.py](easy/0993-cousins-in-binary-tree.py) |
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [easy/0997-find-the-town-judge.py](easy/0997-find-the-town-judge.py) |
+| 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [easy/999-available-captures-for-rook.py](easy/999-available-captures-for-rook.py) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [easy/1002-find-common-characters.py](easy/1002-find-common-characters.py) |
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [easy/1005-maximize-sum-of-array-after-k-negations.py](easy/1005-maximize-sum-of-array-after-k-negations.py) |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [easy/1009-complement-of-base-10-integer.py](easy/1009-complement-of-base-10-integer.py) |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [easy/1013-partition-array-into-three-parts-with-equal-sum.py](easy/1013-partition-array-into-three-parts-with-equal-sum.py) |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [easy/1018-binary-prefix-divisible-by-5.py](easy/1018-binary-prefix-divisible-by-5.py) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [easy/1021-remove-outermost-parentheses.py](easy/1021-remove-outermost-parentheses.py) |
@@ -1396,4 +1406,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1370**
+**Total solved: 1380**
