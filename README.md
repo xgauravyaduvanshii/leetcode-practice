@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (121)
+## Solved — Hard (131)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1661,10 +1661,14 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [hard/675-cut-off-trees-for-golf-event.py](hard/675-cut-off-trees-for-golf-event.py) |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | [hard/0679-24-game.py](hard/0679-24-game.py) |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [hard/0685-redundant-connection-ii.py](hard/0685-redundant-connection-ii.py) |
+| 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [hard/689-maximum-sum-of-3-non-overlapping-subarrays.py](hard/689-maximum-sum-of-3-non-overlapping-subarrays.py) |
 | 691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | [hard/0691-stickers-to-spell-word.py](hard/0691-stickers-to-spell-word.py) |
+| 699 | [Falling Squares](https://leetcode.com/problems/falling-squares/) | [hard/699-falling-squares.py](hard/699-falling-squares.py) |
 | 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | [hard/0710-random-pick-with-blacklist.py](hard/0710-random-pick-with-blacklist.py) |
+| 715 | [Range Module](https://leetcode.com/problems/range-module/) | [hard/715-range-module.py](hard/715-range-module.py) |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [hard/0719-find-k-th-smallest-pair-distance.py](hard/0719-find-k-th-smallest-pair-distance.py) |
 | 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [hard/0726-number-of-atoms.py](hard/0726-number-of-atoms.py) |
+| 730 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [hard/730-count-different-palindromic-subsequences.py](hard/730-count-different-palindromic-subsequences.py) |
 | 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [hard/0732-my-calendar-iii.py](hard/0732-my-calendar-iii.py) |
 | 736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/) | [hard/0736-parse-lisp-expression.py](hard/0736-parse-lisp-expression.py) |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [hard/0741-cherry-pickup.py](hard/0741-cherry-pickup.py) |
@@ -1675,9 +1679,15 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [hard/0761-special-binary-string.py](hard/0761-special-binary-string.py) |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [hard/0765-couples-holding-hands.py](hard/0765-couples-holding-hands.py) |
 | 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [hard/0768-max-chunks-to-make-sorted-ii.py](hard/0768-max-chunks-to-make-sorted-ii.py) |
+| 770 | [Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | [hard/770-basic-calculator-iv.py](hard/770-basic-calculator-iv.py) |
+| 773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [hard/773-sliding-puzzle.py](hard/773-sliding-puzzle.py) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [hard/0778-swim-in-rising-water.py](hard/0778-swim-in-rising-water.py) |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [hard/0780-reaching-points.py](hard/0780-reaching-points.py) |
 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [hard/0782-transform-to-chessboard.py](hard/0782-transform-to-chessboard.py) |
+| 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | [hard/793-preimage-size-of-factorial-zeroes-function.py](hard/793-preimage-size-of-factorial-zeroes-function.py) |
+| 798 | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [hard/798-smallest-rotation-with-highest-score.py](hard/798-smallest-rotation-with-highest-score.py) |
+| 801 | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | [hard/801-minimum-swaps-to-make-sequences-increasing.py](hard/801-minimum-swaps-to-make-sequences-increasing.py) |
+| 803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | [hard/803-bricks-falling-when-hit.py](hard/803-bricks-falling-when-hit.py) |
 | 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [hard/0805-split-array-with-same-average.py](hard/0805-split-array-with-same-average.py) |
 | 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [hard/0810-chalkboard-xor-game.py](hard/0810-chalkboard-xor-game.py) |
 | 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [hard/0815-bus-routes.py](hard/0815-bus-routes.py) |
@@ -1692,4 +1702,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1666**
+**Total solved: 1676**
