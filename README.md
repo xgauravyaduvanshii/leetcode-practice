@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (629)
+## Solved — Medium (639)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1183,6 +1183,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [medium/1680-concatenation-of-consecutive-binary-numbers.py](medium/1680-concatenation-of-consecutive-binary-numbers.py) |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [medium/1685-sum-of-absolute-differences-in-a-sorted-array.py](medium/1685-sum-of-absolute-differences-in-a-sorted-array.py) |
 | 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | [medium/1686-stone-game-vi.py](medium/1686-stone-game-vi.py) |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers.py](medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers.py) |
+| 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [medium/1690-stone-game-vii.py](medium/1690-stone-game-vii.py) |
+| 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [medium/1695-maximum-erasure-value.py](medium/1695-maximum-erasure-value.py) |
+| 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [medium/1696-jump-game-vi.py](medium/1696-jump-game-vi.py) |
+| 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | [medium/1701-average-waiting-time.py](medium/1701-average-waiting-time.py) |
+| 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | [medium/1702-maximum-binary-string-after-change.py](medium/1702-maximum-binary-string-after-change.py) |
+| 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [medium/1705-maximum-number-of-eaten-apples.py](medium/1705-maximum-number-of-eaten-apples.py) |
+| 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [medium/1706-where-will-the-ball-fall.py](medium/1706-where-will-the-ball-fall.py) |
+| 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [medium/1711-count-good-meals.py](medium/1711-count-good-meals.py) |
+| 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [medium/1712-ways-to-split-array-into-three-subarrays.py](medium/1712-ways-to-split-array-into-three-subarrays.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1317,4 +1327,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1291**
+**Total solved: 1301**
