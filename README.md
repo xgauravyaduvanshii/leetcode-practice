@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (752)
+## Solved — Easy (762)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -768,6 +768,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | [easy/3992-rearrange-string-to-avoid-character-pair.py](easy/3992-rearrange-string-to-avoid-character-pair.py) |
 | 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | [easy/3996-even-number-of-knight-moves.py](easy/3996-even-number-of-knight-moves.py) |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | [easy/4000-largest-integer-with-given-digit-sum.py](easy/4000-largest-integer-with-given-digit-sum.py) |
+| 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | [easy/4006-count-valid-prefixes.py](easy/4006-count-valid-prefixes.py) |
+| 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | [easy/4010-maximize-pair-strength-using-gcd.py](easy/4010-maximize-pair-strength-using-gcd.py) |
+| 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | [easy/4020-elevator-requests-i.py](easy/4020-elevator-requests-i.py) |
+| 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | [easy/4024-nearest-available-drone.py](easy/4024-nearest-available-drone.py) |
+| 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/) | [easy/4030-check-ascii-palindromic.py](easy/4030-check-ascii-palindromic.py) |
+| 4038 | [Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | [easy/4038-count-integers-appearing-in-a-single-block.py](easy/4038-count-integers-appearing-in-a-single-block.py) |
+| 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | [easy/4043-count-rotations-with-exactly-k-equal-adjacent-pairs.py](easy/4043-count-rotations-with-exactly-k-equal-adjacent-pairs.py) |
+| 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [easy/4048-count-values-with-equally-spaced-occurrences-i.py](easy/4048-count-values-with-equally-spaced-occurrences-i.py) |
+| 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [easy/4052-cyclically-shift-rows-and-columns.py](easy/4052-cyclically-shift-rows-and-columns.py) |
+| 4056 | [Number of Intersecting Interval Pairs I](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | [easy/4056-number-of-intersecting-interval-pairs-i.py](easy/4056-number-of-intersecting-interval-pairs-i.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1576,4 +1586,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1550**
+**Total solved: 1560**
