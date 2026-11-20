@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (837)
+## Solved — Easy (848)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -578,15 +578,26 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [easy/2660-determine-the-winner-of-a-bowling-game.py](easy/2660-determine-the-winner-of-a-bowling-game.py) |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | [easy/2665-counter-ii.js](easy/2665-counter-ii.js) |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | [easy/2666-allow-one-function-call.js](easy/2666-allow-one-function-call.js) |
+| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [easy/2667-create-hello-world-function.js](easy/2667-create-hello-world-function.js) |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [easy/2670-find-the-distinct-difference-array.py](easy/2670-find-the-distinct-difference-array.py) |
+| 2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/) | [easy/2677-chunk-array.js](easy/2677-chunk-array.js) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [easy/2678-number-of-senior-citizens.py](easy/2678-number-of-senior-citizens.py) |
 | 2682 | [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [easy/2682-find-the-losers-of-the-circular-game.py](easy/2682-find-the-losers-of-the-circular-game.py) |
+| 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | [easy/2695-array-wrapper.js](easy/2695-array-wrapper.js) |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [easy/2696-minimum-string-length-after-removing-substrings.py](easy/2696-minimum-string-length-after-removing-substrings.py) |
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [easy/2697-lexicographically-smallest-palindrome.py](easy/2697-lexicographically-smallest-palindrome.py) |
+| 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [easy/2703-return-length-of-arguments-passed.js](easy/2703-return-length-of-arguments-passed.js) |
+| 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [easy/2704-to-be-or-not-to-be.js](easy/2704-to-be-or-not-to-be.js) |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [easy/2706-buy-two-chocolates.py](easy/2706-buy-two-chocolates.py) |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [easy/2710-remove-trailing-zeros-from-a-string.py](easy/2710-remove-trailing-zeros-from-a-string.py) |
+| 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | [easy/2715-timeout-cancellation.js](easy/2715-timeout-cancellation.js) |
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | [easy/2716-minimize-string-length.py](easy/2716-minimize-string-length.py) |
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [easy/2717-semi-ordered-permutation.py](easy/2717-semi-ordered-permutation.py) |
+| 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [easy/2723-add-two-promises.js](easy/2723-add-two-promises.js) |
+| 2724 | [Sort By](https://leetcode.com/problems/sort-by/) | [easy/2724-sort-by.js](easy/2724-sort-by.js) |
+| 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | [easy/2725-interval-cancellation.js](easy/2725-interval-cancellation.js) |
+| 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | [easy/2726-calculator-with-method-chaining.js](easy/2726-calculator-with-method-chaining.js) |
+| 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [easy/2727-is-object-empty.js](easy/2727-is-object-empty.js) |
 | 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | [easy/2729-check-if-the-number-is-fascinating.py](easy/2729-check-if-the-number-is-fascinating.py) |
 | 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [easy/2733-neither-minimum-nor-maximum.py](easy/2733-neither-minimum-nor-maximum.py) |
 | 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | [easy/2739-total-distance-traveled.py](easy/2739-total-distance-traveled.py) |
@@ -1661,4 +1672,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1635**
+**Total solved: 1646**
