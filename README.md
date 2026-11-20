@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (592)
+## Solved — Easy (602)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -608,6 +608,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/) | [easy/3033-modify-the-matrix.py](easy/3033-modify-the-matrix.py) |
 | 3038 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [easy/3038-maximum-number-of-operations-with-the-same-score-i.py](easy/3038-maximum-number-of-operations-with-the-same-score-i.py) |
 | 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [easy/3042-count-prefix-and-suffix-pairs-i.py](easy/3042-count-prefix-and-suffix-pairs-i.py) |
+| 3046 | [Split the Array](https://leetcode.com/problems/split-the-array/) | [easy/3046-split-the-array.py](easy/3046-split-the-array.py) |
+| 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [easy/3065-minimum-operations-to-exceed-threshold-value-i.py](easy/3065-minimum-operations-to-exceed-threshold-value-i.py) |
+| 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [easy/3069-distribute-elements-into-two-arrays-i.py](easy/3069-distribute-elements-into-two-arrays-i.py) |
+| 3074 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | [easy/3074-apple-redistribution-into-boxes.py](easy/3074-apple-redistribution-into-boxes.py) |
+| 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | [easy/3079-find-the-sum-of-encrypted-integers.py](easy/3079-find-the-sum-of-encrypted-integers.py) |
+| 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | [easy/3083-existence-of-a-substring-in-a-string-and-its-reverse.py](easy/3083-existence-of-a-substring-in-a-string-and-its-reverse.py) |
+| 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [easy/3090-maximum-length-substring-with-two-occurrences.py](easy/3090-maximum-length-substring-with-two-occurrences.py) |
+| 3095 | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [easy/3095-shortest-subarray-with-or-at-least-k-i.py](easy/3095-shortest-subarray-with-or-at-least-k-i.py) |
+| 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | [easy/3099-harshad-number.py](easy/3099-harshad-number.py) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py](easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1416,4 +1426,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1390**
+**Total solved: 1400**
