@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (642)
+## Solved — Easy (652)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -658,6 +658,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [easy/3318-find-x-sum-of-all-k-long-subarrays-i.py](easy/3318-find-x-sum-of-all-k-long-subarrays-i.py) |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [easy/3330-find-the-original-typed-string-i.py](easy/3330-find-the-original-typed-string-i.py) |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | [easy/3340-check-balanced-string.py](easy/3340-check-balanced-string.py) |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [easy/3345-smallest-divisible-digit-product-i.py](easy/3345-smallest-divisible-digit-product-i.py) |
+| 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [easy/3349-adjacent-increasing-subarrays-detection-i.py](easy/3349-adjacent-increasing-subarrays-detection-i.py) |
+| 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [easy/3354-make-array-elements-equal-to-zero.py](easy/3354-make-array-elements-equal-to-zero.py) |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | [easy/3360-stone-removal-game.py](easy/3360-stone-removal-game.py) |
+| 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [easy/3364-minimum-positive-sum-subarray.py](easy/3364-minimum-positive-sum-subarray.py) |
+| 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [easy/3370-smallest-number-with-all-set-bits.py](easy/3370-smallest-number-with-all-set-bits.py) |
+| 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [easy/3375-minimum-operations-to-make-array-values-equal-to-k.py](easy/3375-minimum-operations-to-make-array-values-equal-to-k.py) |
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | [easy/3379-transformed-array.py](easy/3379-transformed-array.py) |
+| 3386 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/) | [easy/3386-button-with-longest-push-time.py](easy/3386-button-with-longest-push-time.py) |
+| 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [easy/3392-count-subarrays-of-length-three-with-a-condition.py](easy/3392-count-subarrays-of-length-three-with-a-condition.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1466,4 +1476,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1440**
+**Total solved: 1450**
