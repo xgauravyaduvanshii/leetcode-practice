@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (609)
+## Solved — Medium (619)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1163,6 +1163,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [medium/1625-lexicographically-smallest-string-after-applying-operations.py](medium/1625-lexicographically-smallest-string-after-applying-operations.py) |
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [medium/1626-best-team-with-no-conflicts.py](medium/1626-best-team-with-no-conflicts.py) |
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | [medium/1630-arithmetic-subarrays.py](medium/1630-arithmetic-subarrays.py) |
+| 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | [medium/1631-path-with-minimum-effort.py](medium/1631-path-with-minimum-effort.py) |
+| 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | [medium/1638-count-substrings-that-differ-by-one-character.py](medium/1638-count-substrings-that-differ-by-one-character.py) |
+| 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [medium/1641-count-sorted-vowel-strings.py](medium/1641-count-sorted-vowel-strings.py) |
+| 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | [medium/1642-furthest-building-you-can-reach.py](medium/1642-furthest-building-you-can-reach.py) |
+| 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [medium/1647-minimum-deletions-to-make-character-frequencies-unique.py](medium/1647-minimum-deletions-to-make-character-frequencies-unique.py) |
+| 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | [medium/1648-sell-diminishing-valued-colored-balls.py](medium/1648-sell-diminishing-valued-colored-balls.py) |
+| 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [medium/1653-minimum-deletions-to-make-string-balanced.py](medium/1653-minimum-deletions-to-make-string-balanced.py) |
+| 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [medium/1654-minimum-jumps-to-reach-home.py](medium/1654-minimum-jumps-to-reach-home.py) |
+| 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [medium/1657-determine-if-two-strings-are-close.py](medium/1657-determine-if-two-strings-are-close.py) |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [medium/1658-minimum-operations-to-reduce-x-to-zero.py](medium/1658-minimum-operations-to-reduce-x-to-zero.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1297,4 +1307,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1271**
+**Total solved: 1281**
