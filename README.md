@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (622)
+## Solved — Easy (632)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -638,6 +638,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3200 | [Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/) | [easy/3200-maximum-height-of-a-triangle.py](easy/3200-maximum-height-of-a-triangle.py) |
 | 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [easy/3206-alternating-groups-i.py](easy/3206-alternating-groups-i.py) |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | [easy/3210-find-the-encrypted-string.py](easy/3210-find-the-encrypted-string.py) |
+| 3216 | [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | [easy/3216-lexicographically-smallest-string-after-a-swap.py](easy/3216-lexicographically-smallest-string-after-a-swap.py) |
+| 3222 | [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game/) | [easy/3222-find-the-winning-player-in-coin-game.py](easy/3222-find-the-winning-player-in-coin-game.py) |
+| 3226 | [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | [easy/3226-number-of-bit-changes-to-make-two-integers-equal.py](easy/3226-number-of-bit-changes-to-make-two-integers-equal.py) |
+| 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [easy/3232-find-if-digit-game-can-be-won.py](easy/3232-find-if-digit-game-can-be-won.py) |
+| 3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/) | [easy/3238-find-the-number-of-winning-players.py](easy/3238-find-the-number-of-winning-players.py) |
+| 3242 | [Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) | [easy/3242-design-neighbor-sum-service.py](easy/3242-design-neighbor-sum-service.py) |
+| 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | [easy/3248-snake-in-matrix.py](easy/3248-snake-in-matrix.py) |
+| 3258 | [Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/) | [easy/3258-count-substrings-that-satisfy-k-constraint-i.py](easy/3258-count-substrings-that-satisfy-k-constraint-i.py) |
+| 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [easy/3264-final-array-state-after-k-multiplication-operations-i.py](easy/3264-final-array-state-after-k-multiplication-operations-i.py) |
+| 3270 | [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/) | [easy/3270-find-the-key-of-the-numbers.py](easy/3270-find-the-key-of-the-numbers.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1446,4 +1456,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1420**
+**Total solved: 1430**
