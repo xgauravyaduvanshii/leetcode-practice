@@ -1570,7 +1570,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (236)
+## Solved — Hard (241)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1809,6 +1809,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [hard/1444-number-of-ways-of-cutting-a-pizza.py](hard/1444-number-of-ways-of-cutting-a-pizza.py) · [hard/1444-number-of-ways-of-cutting-a-pizza.java](hard/1444-number-of-ways-of-cutting-a-pizza.java) |
 | 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [hard/1449-form-largest-integer-with-digits-that-add-up-to-target.py](hard/1449-form-largest-integer-with-digits-that-add-up-to-target.py) · [hard/1449-form-largest-integer-with-digits-that-add-up-to-target.cpp](hard/1449-form-largest-integer-with-digits-that-add-up-to-target.cpp) |
 | 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | [hard/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.py](hard/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.py) · [hard/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.js](hard/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.js) |
+| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [hard/1458-max-dot-product-of-two-subsequences.py](hard/1458-max-dot-product-of-two-subsequences.py) · [hard/1458-max-dot-product-of-two-subsequences.go](hard/1458-max-dot-product-of-two-subsequences.go) |
+| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [hard/1463-cherry-pickup-ii.py](hard/1463-cherry-pickup-ii.py) · [hard/1463-cherry-pickup-ii.rs](hard/1463-cherry-pickup-ii.rs) |
+| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | [hard/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py](hard/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) · [hard/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.ts](hard/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.ts) |
+| 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [hard/1473-paint-house-iii.py](hard/1473-paint-house-iii.py) · [hard/1473-paint-house-iii.cs](hard/1473-paint-house-iii.cs) |
+| 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | [hard/1478-allocate-mailboxes.py](hard/1478-allocate-mailboxes.py) · [hard/1478-allocate-mailboxes.kt](hard/1478-allocate-mailboxes.kt) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1785**
+**Total solved: 1790**
