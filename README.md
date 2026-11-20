@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (822)
+## Solved — Easy (827)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -505,6 +505,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [easy/2341-maximum-number-of-pairs-in-array.py](easy/2341-maximum-number-of-pairs-in-array.py) |
 | 2347 | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/) | [easy/2347-best-poker-hand.py](easy/2347-best-poker-hand.py) |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [easy/2351-first-letter-to-appear-twice.py](easy/2351-first-letter-to-appear-twice.py) |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [easy/2356-number-of-unique-subjects-taught-by-each-teacher.sql](easy/2356-number-of-unique-subjects-taught-by-each-teacher.sql) |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [easy/2357-make-array-zero-by-subtracting-equal-amounts.py](easy/2357-make-array-zero-by-subtracting-equal-amounts.py) |
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [easy/2363-merge-similar-items.py](easy/2363-merge-similar-items.py) |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [easy/2367-number-of-arithmetic-triplets.py](easy/2367-number-of-arithmetic-triplets.py) |
@@ -726,11 +727,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.py](easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.py) |
 | 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [easy/3427-sum-of-variable-length-subarrays.py](easy/3427-sum-of-variable-length-subarrays.py) |
 | 3432 | [Count Partitions With Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [easy/3432-count-partitions-with-even-sum-difference.py](easy/3432-count-partitions-with-even-sum-difference.py) |
+| 3436 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails/) | [easy/3436-find-valid-emails.sql](easy/3436-find-valid-emails.sql) |
 | 3438 | [Find Valid Pair of Adjacent Digits in String](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [easy/3438-find-valid-pair-of-adjacent-digits-in-string.py](easy/3438-find-valid-pair-of-adjacent-digits-in-string.py) |
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [easy/3442-maximum-difference-between-even-and-odd-frequency-i.py](easy/3442-maximum-difference-between-even-and-odd-frequency-i.py) |
 | 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers/) | [easy/3452-sum-of-good-numbers.py](easy/3452-sum-of-good-numbers.py) |
 | 3456 | [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/) | [easy/3456-find-special-substring-of-length-k.py](easy/3456-find-special-substring-of-length-k.py) |
 | 3461 | [Check if Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | [easy/3461-check-if-digits-are-equal-in-string-after-operations-i.py](easy/3461-check-if-digits-are-equal-in-string-after-operations-i.py) |
+| 3465 | [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | [easy/3465-find-products-with-valid-serial-numbers.sql](easy/3465-find-products-with-valid-serial-numbers.sql) |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [easy/3467-transform-array-by-parity.py](easy/3467-transform-array-by-parity.py) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [easy/3471-find-the-largest-almost-missing-integer.py](easy/3471-find-the-largest-almost-missing-integer.py) |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [easy/3477-fruits-into-baskets-ii.py](easy/3477-fruits-into-baskets-ii.py) |
@@ -747,6 +750,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3545 | [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | [easy/3545-minimum-deletions-for-at-most-k-distinct-characters.py](easy/3545-minimum-deletions-for-at-most-k-distinct-characters.py) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [easy/3550-smallest-index-with-digit-sum-equal-to-index.py](easy/3550-smallest-index-with-digit-sum-equal-to-index.py) |
 | 3560 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [easy/3560-find-minimum-log-transportation-cost.py](easy/3560-find-minimum-log-transportation-cost.py) |
+| 3570 | [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies/) | [easy/3570-find-books-with-no-available-copies.sql](easy/3570-find-books-with-no-available-copies.sql) |
 | 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [easy/3582-generate-tag-for-video-caption.py](easy/3582-generate-tag-for-video-caption.py) |
 | 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [easy/3591-check-if-any-element-has-prime-frequency.py](easy/3591-check-if-any-element-has-prime-frequency.py) |
 | 3602 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [easy/3602-hexadecimal-and-hexatrigesimal-conversion.py](easy/3602-hexadecimal-and-hexatrigesimal-conversion.py) |
@@ -779,6 +783,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3769 | [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [easy/3769-sort-integers-by-binary-reflection.py](easy/3769-sort-integers-by-binary-reflection.py) |
 | 3774 | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [easy/3774-absolute-difference-between-maximum-and-minimum-k-elements.py](easy/3774-absolute-difference-between-maximum-and-minimum-k-elements.py) |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [easy/3783-mirror-distance-of-an-integer.py](easy/3783-mirror-distance-of-an-integer.py) |
+| 3793 | [Find Users with High Token Usage](https://leetcode.com/problems/find-users-with-high-token-usage/) | [easy/3793-find-users-with-high-token-usage.sql](easy/3793-find-users-with-high-token-usage.sql) |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | [easy/3794-reverse-string-prefix.py](easy/3794-reverse-string-prefix.py) |
 | 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | [easy/3798-largest-even-number.py](easy/3798-largest-even-number.py) |
 | 3803 | [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | [easy/3803-count-residue-prefixes.py](easy/3803-count-residue-prefixes.py) |
@@ -1646,4 +1651,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1620**
+**Total solved: 1625**
