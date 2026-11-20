@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (101)
+## Solved — Hard (111)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1604,6 +1604,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [hard/0212-word-search-ii.py](hard/0212-word-search-ii.py) |
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [hard/0214-shortest-palindrome.py](hard/0214-shortest-palindrome.py) |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [hard/0218-the-skyline-problem.py](hard/0218-the-skyline-problem.py) |
+| 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [hard/220-contains-duplicate-iii.py](hard/220-contains-duplicate-iii.py) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [hard/0224-basic-calculator.py](hard/0224-basic-calculator.py) |
 | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [hard/0233-number-of-digit-one.py](hard/0233-number-of-digit-one.py) |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [hard/0239-sliding-window-maximum.py](hard/0239-sliding-window-maximum.py) |
@@ -1615,15 +1616,24 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [hard/0312-burst-balloons.py](hard/0312-burst-balloons.py) |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [hard/0315-count-of-smaller-numbers-after-self.py](hard/0315-count-of-smaller-numbers-after-self.py) |
 | 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | [hard/0321-create-maximum-number.py](hard/0321-create-maximum-number.py) |
+| 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [hard/327-count-of-range-sum.py](hard/327-count-of-range-sum.py) |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [hard/0329-longest-increasing-path-in-a-matrix.py](hard/0329-longest-increasing-path-in-a-matrix.py) |
+| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | [hard/330-patching-array.py](hard/330-patching-array.py) |
+| 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [hard/332-reconstruct-itinerary.py](hard/332-reconstruct-itinerary.py) |
+| 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | [hard/335-self-crossing.py](hard/335-self-crossing.py) |
 | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [hard/0336-palindrome-pairs.py](hard/0336-palindrome-pairs.py) |
+| 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [hard/352-data-stream-as-disjoint-intervals.py](hard/352-data-stream-as-disjoint-intervals.py) |
 | 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [hard/0354-russian-doll-envelopes.py](hard/0354-russian-doll-envelopes.py) |
+| 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [hard/363-max-sum-of-rectangle-no-larger-than-k.py](hard/363-max-sum-of-rectangle-no-larger-than-k.py) |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py](hard/0381-insert-delete-getrandom-o1-duplicates-allowed.py) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [hard/0391-perfect-rectangle.py](hard/0391-perfect-rectangle.py) |
 | 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [hard/0403-frog-jump.py](hard/0403-frog-jump.py) |
+| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [hard/407-trapping-rain-water-ii.py](hard/407-trapping-rain-water-ii.py) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [hard/0410-split-array-largest-sum.py](hard/0410-split-array-largest-sum.py) |
 | 420 | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | [hard/0420-strong-password-checker.py](hard/0420-strong-password-checker.py) |
+| 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [hard/432-all-oone-data-structure.py](hard/432-all-oone-data-structure.py) |
 | 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [hard/0440-k-th-smallest-in-lexicographical-order.py](hard/0440-k-th-smallest-in-lexicographical-order.py) |
+| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [hard/446-arithmetic-slices-ii-subsequence.py](hard/446-arithmetic-slices-ii-subsequence.py) |
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [hard/0460-lfu-cache.py](hard/0460-lfu-cache.py) |
 | 472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [hard/0472-concatenated-words.py](hard/0472-concatenated-words.py) |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [hard/0480-sliding-window-median.py](hard/0480-sliding-window-median.py) |
@@ -1672,4 +1682,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1646**
+**Total solved: 1656**
