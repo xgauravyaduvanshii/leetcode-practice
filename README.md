@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (141)
+## Solved — Hard (151)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1710,6 +1710,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | [hard/882-reachable-nodes-in-subdivided-graph.py](hard/882-reachable-nodes-in-subdivided-graph.py) |
 | 887 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | [hard/887-super-egg-drop.py](hard/887-super-egg-drop.py) |
 | 891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/) | [hard/891-sum-of-subsequence-widths.py](hard/891-sum-of-subsequence-widths.py) |
+| 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [hard/895-maximum-frequency-stack.py](hard/895-maximum-frequency-stack.py) |
+| 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/) | [hard/899-orderly-queue.py](hard/899-orderly-queue.py) |
+| 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [hard/902-numbers-at-most-n-given-digit-set.py](hard/902-numbers-at-most-n-given-digit-set.py) |
+| 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [hard/903-valid-permutations-for-di-sequence.py](hard/903-valid-permutations-for-di-sequence.py) |
+| 906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/) | [hard/906-super-palindromes.py](hard/906-super-palindromes.py) |
+| 913 | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/) | [hard/913-cat-and-mouse.py](hard/913-cat-and-mouse.py) |
+| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/) | [hard/920-number-of-music-playlists.py](hard/920-number-of-music-playlists.py) |
+| 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [hard/924-minimize-malware-spread.py](hard/924-minimize-malware-spread.py) |
+| 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | [hard/927-three-equal-parts.py](hard/927-three-equal-parts.py) |
+| 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) | [hard/928-minimize-malware-spread-ii.py](hard/928-minimize-malware-spread-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1686**
+**Total solved: 1696**
