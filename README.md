@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (131)
+## Solved — Hard (141)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1700,6 +1700,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [hard/0843-guess-the-word.py](hard/0843-guess-the-word.py) |
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
+| 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | [hard/854-k-similar-strings.py](hard/854-k-similar-strings.py) |
+| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [hard/857-minimum-cost-to-hire-k-workers.py](hard/857-minimum-cost-to-hire-k-workers.py) |
+| 862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [hard/862-shortest-subarray-with-sum-at-least-k.py](hard/862-shortest-subarray-with-sum-at-least-k.py) |
+| 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [hard/864-shortest-path-to-get-all-keys.py](hard/864-shortest-path-to-get-all-keys.py) |
+| 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [hard/871-minimum-number-of-refueling-stops.py](hard/871-minimum-number-of-refueling-stops.py) |
+| 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [hard/878-nth-magical-number.py](hard/878-nth-magical-number.py) |
+| 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | [hard/879-profitable-schemes.py](hard/879-profitable-schemes.py) |
+| 882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | [hard/882-reachable-nodes-in-subdivided-graph.py](hard/882-reachable-nodes-in-subdivided-graph.py) |
+| 887 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) | [hard/887-super-egg-drop.py](hard/887-super-egg-drop.py) |
+| 891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/) | [hard/891-sum-of-subsequence-widths.py](hard/891-sum-of-subsequence-widths.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1676**
+**Total solved: 1686**

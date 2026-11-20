@@ -1,0 +1,11 @@
+class Solution:
+    def superEggDrop(self, k: int, n: int) -> int:
+        # My thinking: with m moves and k eggs I can test dp[m][k]
+        # floors, so grow m until that covers the building.
+        dp = [0] * (k + 1)
+        moves = 0
+        while dp[k] < n:
+            moves += 1
+            for eggs in range(k, 0, -1):
+                dp[eggs] = dp[eggs] + dp[eggs - 1] + 1
+        return moves
