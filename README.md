@@ -1569,7 +1569,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (226)
+## Solved — Hard (231)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1798,6 +1798,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [hard/1392-longest-happy-prefix.py](hard/1392-longest-happy-prefix.py) · [hard/1392-longest-happy-prefix.cs](hard/1392-longest-happy-prefix.cs) |
 | 1397 | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | [hard/1397-find-all-good-strings.py](hard/1397-find-all-good-strings.py) · [hard/1397-find-all-good-strings.kt](hard/1397-find-all-good-strings.kt) |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [hard/1402-reducing-dishes.py](hard/1402-reducing-dishes.py) · [hard/1402-reducing-dishes.java](hard/1402-reducing-dishes.java) |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [hard/1406-stone-game-iii.py](hard/1406-stone-game-iii.py) · [hard/1406-stone-game-iii.cpp](hard/1406-stone-game-iii.cpp) |
+| 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [hard/1411-number-of-ways-to-paint-n-3-grid.py](hard/1411-number-of-ways-to-paint-n-3-grid.py) · [hard/1411-number-of-ways-to-paint-n-3-grid.js](hard/1411-number-of-ways-to-paint-n-3-grid.js) |
+| 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | [hard/1416-restore-the-array.py](hard/1416-restore-the-array.py) · [hard/1416-restore-the-array.go](hard/1416-restore-the-array.go) |
+| 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py](hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py) · [hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.rs](hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.rs) |
+| 1425 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) | [hard/1425-constrained-subsequence-sum.py](hard/1425-constrained-subsequence-sum.py) · [hard/1425-constrained-subsequence-sum.ts](hard/1425-constrained-subsequence-sum.ts) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1774**
+**Total solved: 1779**
