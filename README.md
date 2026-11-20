@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (602)
+## Solved — Easy (612)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -618,6 +618,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3095 | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [easy/3095-shortest-subarray-with-or-at-least-k-i.py](easy/3095-shortest-subarray-with-or-at-least-k-i.py) |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | [easy/3099-harshad-number.py](easy/3099-harshad-number.py) |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py](easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [easy/3110-score-of-a-string.py](easy/3110-score-of-a-string.py) |
+| 3114 | [Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/) | [easy/3114-latest-time-you-can-obtain-after-replacing-characters.py](easy/3114-latest-time-you-can-obtain-after-replacing-characters.py) |
+| 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [easy/3120-count-the-number-of-special-characters-i.py](easy/3120-count-the-number-of-special-characters-i.py) |
+| 3127 | [Make a Square with the Same Color](https://leetcode.com/problems/make-a-square-with-the-same-color/) | [easy/3127-make-a-square-with-the-same-color.py](easy/3127-make-a-square-with-the-same-color.py) |
+| 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [easy/3131-find-the-integer-added-to-array-i.py](easy/3131-find-the-integer-added-to-array-i.py) |
+| 3136 | [Valid Word](https://leetcode.com/problems/valid-word/) | [easy/3136-valid-word.py](easy/3136-valid-word.py) |
+| 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) | [easy/3142-check-if-grid-satisfies-conditions.py](easy/3142-check-if-grid-satisfies-conditions.py) |
+| 3146 | [Permutation Difference Between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [easy/3146-permutation-difference-between-two-strings.py](easy/3146-permutation-difference-between-two-strings.py) |
+| 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | [easy/3151-special-array-i.py](easy/3151-special-array-i.py) |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [easy/3158-find-the-xor-of-numbers-which-appear-twice.py](easy/3158-find-the-xor-of-numbers-which-appear-twice.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1426,4 +1436,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1400**
+**Total solved: 1410**
