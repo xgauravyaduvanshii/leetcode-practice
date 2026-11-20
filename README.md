@@ -864,7 +864,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (704)
+## Solved — Medium (705)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1555,6 +1555,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [medium/1887-reduction-operations-to-make-the-array-elements-equal.py](medium/1887-reduction-operations-to-make-the-array-elements-equal.py) |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.py](medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.py) |
 | 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [medium/1894-find-the-student-that-will-replace-the-chalk.py](medium/1894-find-the-student-that-will-replace-the-chalk.py) |
+| 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | [medium/1895-largest-magic-square.py](medium/1895-largest-magic-square.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
@@ -1573,7 +1574,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (271)
+## Solved — Hard (276)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1847,6 +1848,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1617 | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [hard/1617-count-subtrees-with-max-distance-between-cities.py](hard/1617-count-subtrees-with-max-distance-between-cities.py) · [hard/1617-count-subtrees-with-max-distance-between-cities.go](hard/1617-count-subtrees-with-max-distance-between-cities.go) |
 | 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [hard/1622-fancy-sequence.py](hard/1622-fancy-sequence.py) · [hard/1622-fancy-sequence.rs](hard/1622-fancy-sequence.rs) |
 | 1627 | [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [hard/1627-graph-connectivity-with-threshold.py](hard/1627-graph-connectivity-with-threshold.py) · [hard/1627-graph-connectivity-with-threshold.ts](hard/1627-graph-connectivity-with-threshold.ts) |
+| 1632 | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [hard/1632-rank-transform-of-a-matrix.py](hard/1632-rank-transform-of-a-matrix.py) · [hard/1632-rank-transform-of-a-matrix.cs](hard/1632-rank-transform-of-a-matrix.cs) |
+| 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.py](hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.py) · [hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.kt](hard/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.kt) |
+| 1643 | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/) | [hard/1643-kth-smallest-instructions.py](hard/1643-kth-smallest-instructions.py) · [hard/1643-kth-smallest-instructions.java](hard/1643-kth-smallest-instructions.java) |
+| 1649 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [hard/1649-create-sorted-array-through-instructions.py](hard/1649-create-sorted-array-through-instructions.py) · [hard/1649-create-sorted-array-through-instructions.cpp](hard/1649-create-sorted-array-through-instructions.cpp) |
+| 1655 | [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/) | [hard/1655-distribute-repeating-integers.py](hard/1655-distribute-repeating-integers.py) · [hard/1655-distribute-repeating-integers.js](hard/1655-distribute-repeating-integers.js) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1823**
+**Total solved: 1829**
