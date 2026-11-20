@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (802)
+## Solved — Easy (812)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -320,14 +320,17 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [easy/1464-maximum-product-of-two-elements-in-an-array.py](easy/1464-maximum-product-of-two-elements-in-an-array.py) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [easy/1470-shuffle-the-array.py](easy/1470-shuffle-the-array.py) |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [easy/1475-final-prices-with-a-special-discount-in-a-shop.py](easy/1475-final-prices-with-a-special-discount-in-a-shop.py) |
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [easy/1484-group-sold-products-by-the-date.sql](easy/1484-group-sold-products-by-the-date.sql) |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [easy/1486-xor-operation-in-an-array.py](easy/1486-xor-operation-in-an-array.py) |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [easy/1491-average-salary-excluding-the-minimum-and-maximum-salary.py](easy/1491-average-salary-excluding-the-minimum-and-maximum-salary.py) |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [easy/1496-path-crossing.py](easy/1496-path-crossing.py) |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [easy/1502-can-make-arithmetic-progression-from-sequence.py](easy/1502-can-make-arithmetic-progression-from-sequence.py) |
 | 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date/) | [easy/1507-reformat-date.py](easy/1507-reformat-date.py) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [easy/1512-number-of-good-pairs.py](easy/1512-number-of-good-pairs.py) |
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [easy/1517-find-users-with-valid-e-mails.sql](easy/1517-find-users-with-valid-e-mails.sql) |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [easy/1518-water-bottles.py](easy/1518-water-bottles.py) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [easy/1523-count-odd-numbers-in-an-interval-range.py](easy/1523-count-odd-numbers-in-an-interval-range.py) |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [easy/1527-patients-with-a-condition.sql](easy/1527-patients-with-a-condition.sql) |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [easy/1528-shuffle-string.py](easy/1528-shuffle-string.py) |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [easy/1534-count-good-triplets.py](easy/1534-count-good-triplets.py) |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [easy/1539-kth-missing-positive-number.py](easy/1539-kth-missing-positive-number.py) |
@@ -338,7 +341,9 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [easy/1566-detect-pattern-of-length-m-repeated-k-or-more-times.py](easy/1566-detect-pattern-of-length-m-repeated-k-or-more-times.py) |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [easy/1572-matrix-diagonal-sum.py](easy/1572-matrix-diagonal-sum.py) |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [easy/1576-replace-all-question-marks-to-avoid-consecutive-repeating-characters.py](easy/1576-replace-all-question-marks-to-avoid-consecutive-repeating-characters.py) |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [easy/1581-customer-who-visited-but-did-not-make-any-transactions.sql](easy/1581-customer-who-visited-but-did-not-make-any-transactions.sql) |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [easy/1582-special-positions-in-a-binary-matrix.py](easy/1582-special-positions-in-a-binary-matrix.py) |
+| 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [easy/1587-bank-account-summary-ii.sql](easy/1587-bank-account-summary-ii.sql) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [easy/1588-sum-of-all-odd-length-subarrays.py](easy/1588-sum-of-all-odd-length-subarrays.py) |
 | 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [easy/1592-rearrange-spaces-between-words.py](easy/1592-rearrange-spaces-between-words.py) |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [easy/1598-crawler-log-folder.py](easy/1598-crawler-log-folder.py) |
@@ -348,17 +353,22 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [easy/1619-mean-of-array-after-removing-some-elements.py](easy/1619-mean-of-array-after-removing-some-elements.py) |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [easy/1624-largest-substring-between-two-equal-characters.py](easy/1624-largest-substring-between-two-equal-characters.py) |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key/) | [easy/1629-slowest-key.py](easy/1629-slowest-key.py) |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [easy/1633-percentage-of-users-attended-a-contest.sql](easy/1633-percentage-of-users-attended-a-contest.sql) |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [easy/1636-sort-array-by-increasing-frequency.py](easy/1636-sort-array-by-increasing-frequency.py) |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [easy/1637-widest-vertical-area-between-two-points-containing-no-points.py](easy/1637-widest-vertical-area-between-two-points-containing-no-points.py) |
 | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [easy/1640-check-array-formation-through-concatenation.py](easy/1640-check-array-formation-through-concatenation.py) |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [easy/1646-get-maximum-in-generated-array.py](easy/1646-get-maximum-in-generated-array.py) |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [easy/1652-defuse-the-bomb.py](easy/1652-defuse-the-bomb.py) |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [easy/1656-design-an-ordered-stream.py](easy/1656-design-an-ordered-stream.py) |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | [easy/1661-average-time-of-process-per-machine.sql](easy/1661-average-time-of-process-per-machine.sql) |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [easy/1662-check-if-two-string-arrays-are-equivalent.py](easy/1662-check-if-two-string-arrays-are-equivalent.py) |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [easy/1667-fix-names-in-a-table.sql](easy/1667-fix-names-in-a-table.sql) |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [easy/1668-maximum-repeating-substring.py](easy/1668-maximum-repeating-substring.py) |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [easy/1678-goal-parser-interpretation.py](easy/1678-goal-parser-interpretation.py) |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [easy/1683-invalid-tweets.sql](easy/1683-invalid-tweets.sql) |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [easy/1684-count-the-number-of-consistent-strings.py](easy/1684-count-the-number-of-consistent-strings.py) |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [easy/1688-count-of-matches-in-tournament.py](easy/1688-count-of-matches-in-tournament.py) |
+| 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [easy/1693-daily-leads-and-partners.sql](easy/1693-daily-leads-and-partners.sql) |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [easy/1694-reformat-phone-number.py](easy/1694-reformat-phone-number.py) |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [easy/1700-number-of-students-unable-to-eat-lunch.py](easy/1700-number-of-students-unable-to-eat-lunch.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [easy/1704-determine-if-string-halves-are-alike.py](easy/1704-determine-if-string-halves-are-alike.py) |
@@ -1626,4 +1636,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1600**
+**Total solved: 1610**
