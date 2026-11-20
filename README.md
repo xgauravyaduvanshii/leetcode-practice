@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (792)
+## Solved — Easy (802)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -247,6 +247,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [easy/1071-greatest-common-divisor-of-strings.py](easy/1071-greatest-common-divisor-of-strings.py) |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [easy/1075-project-employees-i.sql](easy/1075-project-employees-i.sql) |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [easy/1078-occurrences-after-bigram.py](easy/1078-occurrences-after-bigram.py) |
+| 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [easy/1084-sales-analysis-iii.sql](easy/1084-sales-analysis-iii.sql) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [easy/1089-duplicate-zeros.py](easy/1089-duplicate-zeros.py) |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [easy/1103-distribute-candies-to-people.py](easy/1103-distribute-candies-to-people.py) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [easy/1108-defanging-an-ip-address.py](easy/1108-defanging-an-ip-address.py) |
@@ -254,21 +255,27 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [easy/1122-relative-sort-array.py](easy/1122-relative-sort-array.py) |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [easy/1128-number-of-equivalent-domino-pairs.py](easy/1128-number-of-equivalent-domino-pairs.py) |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [easy/1137-n-th-tribonacci-number.py](easy/1137-n-th-tribonacci-number.py) |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [easy/1141-user-activity-for-the-past-30-days-i.sql](easy/1141-user-activity-for-the-past-30-days-i.sql) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [easy/1148-article-views-i.sql](easy/1148-article-views-i.sql) |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [easy/1154-day-of-the-year.py](easy/1154-day-of-the-year.py) |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [easy/1160-find-words-that-can-be-formed-by-characters.py](easy/1160-find-words-that-can-be-formed-by-characters.py) |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [easy/1175-prime-arrangements.py](easy/1175-prime-arrangements.py) |
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [easy/1179-reformat-department-table.sql](easy/1179-reformat-department-table.sql) |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [easy/1184-distance-between-bus-stops.py](easy/1184-distance-between-bus-stops.py) |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [easy/1185-day-of-the-week.py](easy/1185-day-of-the-week.py) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [easy/1189-maximum-number-of-balloons.py](easy/1189-maximum-number-of-balloons.py) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [easy/1200-minimum-absolute-difference.py](easy/1200-minimum-absolute-difference.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [easy/1207-unique-number-of-occurrences.py](easy/1207-unique-number-of-occurrences.py) |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [easy/1211-queries-quality-and-percentage.sql](easy/1211-queries-quality-and-percentage.sql) |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [easy/1217-minimum-cost-to-move-chips-to-the-same-position.py](easy/1217-minimum-cost-to-move-chips-to-the-same-position.py) |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [easy/1221-split-a-string-in-balanced-strings.py](easy/1221-split-a-string-in-balanced-strings.py) |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [easy/1232-check-if-it-is-a-straight-line.py](easy/1232-check-if-it-is-a-straight-line.py) |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [easy/1251-average-selling-price.sql](easy/1251-average-selling-price.sql) |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [easy/1252-cells-with-odd-values-in-a-matrix.py](easy/1252-cells-with-odd-values-in-a-matrix.py) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [easy/1260-shift-2d-grid.py](easy/1260-shift-2d-grid.py) |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [easy/1266-minimum-time-visiting-all-points.py](easy/1266-minimum-time-visiting-all-points.py) |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [easy/1275-find-winner-on-a-tic-tac-toe-game.py](easy/1275-find-winner-on-a-tic-tac-toe-game.py) |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | [easy/1280-students-and-examinations.sql](easy/1280-students-and-examinations.sql) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer.py](easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer.py) |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-percent-in-sorted-array/) | [easy/1287-element-appearing-more-than-25-percent-in-sorted-array.py](easy/1287-element-appearing-more-than-25-percent-in-sorted-array.py) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [easy/1290-convert-binary-number-in-a-linked-list-to-integer.py](easy/1290-convert-binary-number-in-a-linked-list-to-integer.py) |
@@ -279,6 +286,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [easy/1313-decompress-run-length-encoded-list.py](easy/1313-decompress-run-length-encoded-list.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers.py](easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers.py) |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [easy/1323-maximum-69-number.py](easy/1323-maximum-69-number.py) |
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [easy/1327-list-the-products-ordered-in-a-period.sql](easy/1327-list-the-products-ordered-in-a-period.sql) |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [easy/1331-rank-transform-of-an-array.py](easy/1331-rank-transform-of-an-array.py) |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [easy/1332-remove-palindromic-subsequences.py](easy/1332-remove-palindromic-subsequences.py) |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [easy/1337-the-k-weakest-rows-in-a-matrix.py](easy/1337-the-k-weakest-rows-in-a-matrix.py) |
@@ -289,6 +297,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [easy/1365-how-many-numbers-are-smaller-than-the-current-number.py](easy/1365-how-many-numbers-are-smaller-than-the-current-number.py) |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [easy/1370-increasing-decreasing-string.py](easy/1370-increasing-decreasing-string.py) |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [easy/1374-generate-a-string-with-characters-that-have-odd-counts.py](easy/1374-generate-a-string-with-characters-that-have-odd-counts.py) |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [easy/1378-replace-employee-id-with-the-unique-identifier.sql](easy/1378-replace-employee-id-with-the-unique-identifier.sql) |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py](easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [easy/1380-lucky-numbers-in-a-matrix.py](easy/1380-lucky-numbers-in-a-matrix.py) |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [easy/1385-find-the-distance-value-between-two-arrays.py](easy/1385-find-the-distance-value-between-two-arrays.py) |
@@ -296,6 +305,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [easy/1394-find-lucky-integer-in-an-array.py](easy/1394-find-lucky-integer-in-an-array.py) |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [easy/1399-count-largest-group.py](easy/1399-count-largest-group.py) |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [easy/1403-minimum-subsequence-in-non-increasing-order.py](easy/1403-minimum-subsequence-in-non-increasing-order.py) |
+| 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [easy/1407-top-travellers.sql](easy/1407-top-travellers.sql) |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [easy/1408-string-matching-in-an-array.py](easy/1408-string-matching-in-an-array.py) |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [easy/1413-minimum-value-to-get-positive-step-by-step-sum.py](easy/1413-minimum-value-to-get-positive-step-by-step-sum.py) |
 | 1417 | [Reformat the String](https://leetcode.com/problems/reformat-the-string/) | [easy/1417-reformat-the-string.py](easy/1417-reformat-the-string.py) |
@@ -1616,4 +1626,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1590**
+**Total solved: 1600**
