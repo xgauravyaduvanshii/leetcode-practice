@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (682)
+## Solved — Easy (692)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -698,6 +698,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [easy/3550-smallest-index-with-digit-sum-equal-to-index.py](easy/3550-smallest-index-with-digit-sum-equal-to-index.py) |
 | 3560 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [easy/3560-find-minimum-log-transportation-cost.py](easy/3560-find-minimum-log-transportation-cost.py) |
 | 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [easy/3582-generate-tag-for-video-caption.py](easy/3582-generate-tag-for-video-caption.py) |
+| 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [easy/3591-check-if-any-element-has-prime-frequency.py](easy/3591-check-if-any-element-has-prime-frequency.py) |
+| 3602 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [easy/3602-hexadecimal-and-hexatrigesimal-conversion.py](easy/3602-hexadecimal-and-hexatrigesimal-conversion.py) |
+| 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | [easy/3606-coupon-code-validator.py](easy/3606-coupon-code-validator.py) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [easy/3622-check-divisibility-by-digit-sum-and-product.py](easy/3622-check-divisibility-by-digit-sum-and-product.py) |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [easy/3633-earliest-finish-time-for-land-and-water-rides-i.py](easy/3633-earliest-finish-time-for-land-and-water-rides-i.py) |
+| 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [easy/3637-trionic-array-i.py](easy/3637-trionic-array-i.py) |
+| 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [easy/3643-flip-square-submatrix-vertically.py](easy/3643-flip-square-submatrix-vertically.py) |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [easy/3658-gcd-of-odd-and-even-sums.py](easy/3658-gcd-of-odd-and-even-sums.py) |
+| 3663 | [Find the Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/) | [easy/3663-find-the-least-frequent-digit.py](easy/3663-find-the-least-frequent-digit.py) |
+| 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | [easy/3668-restore-finishing-order.py](easy/3668-restore-finishing-order.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1506,4 +1516,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1480**
+**Total solved: 1490**
