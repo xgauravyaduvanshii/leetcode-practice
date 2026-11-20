@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (569)
+## Solved — Medium (579)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1123,6 +1123,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.py](medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.py) |
 | 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [medium/1513-number-of-substrings-with-only-1s.py](medium/1513-number-of-substrings-with-only-1s.py) |
 | 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [medium/1514-path-with-maximum-probability.py](medium/1514-path-with-maximum-probability.py) |
+| 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | [medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.py](medium/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
+| 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [medium/1524-number-of-sub-arrays-with-odd-sum.py](medium/1524-number-of-sub-arrays-with-odd-sum.py) |
+| 1525 | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | [medium/1525-number-of-good-ways-to-split-a-string.py](medium/1525-number-of-good-ways-to-split-a-string.py) |
+| 1529 | [Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/) | [medium/1529-minimum-suffix-flips.py](medium/1529-minimum-suffix-flips.py) |
+| 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | [medium/1530-number-of-good-leaf-nodes-pairs.py](medium/1530-number-of-good-leaf-nodes-pairs.py) |
+| 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | [medium/1535-find-the-winner-of-an-array-game.py](medium/1535-find-the-winner-of-an-array-game.py) |
+| 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [medium/1536-minimum-swaps-to-arrange-a-binary-grid.py](medium/1536-minimum-swaps-to-arrange-a-binary-grid.py) |
+| 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [medium/1540-can-convert-string-in-k-moves.py](medium/1540-can-convert-string-in-k-moves.py) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [medium/1541-minimum-insertions-to-balance-a-parentheses-string.py](medium/1541-minimum-insertions-to-balance-a-parentheses-string.py) |
+| 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [medium/1545-find-kth-bit-in-nth-binary-string.py](medium/1545-find-kth-bit-in-nth-binary-string.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1257,4 +1267,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1231**
+**Total solved: 1241**
