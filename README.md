@@ -864,7 +864,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (699)
+## Solved — Medium (700)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1550,6 +1550,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [medium/1877-minimize-maximum-pair-sum-in-array.py](medium/1877-minimize-maximum-pair-sum-in-array.py) |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [medium/1878-get-biggest-three-rhombus-sums-in-a-grid.py](medium/1878-get-biggest-three-rhombus-sums-in-a-grid.py) |
 | 1881 | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [medium/1881-maximum-value-after-insertion.py](medium/1881-maximum-value-after-insertion.py) |
+| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [medium/1882-process-tasks-using-servers.py](medium/1882-process-tasks-using-servers.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
@@ -1568,7 +1569,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (221)
+## Solved — Hard (226)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1792,6 +1793,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py](hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py) · [hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.cpp](hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.cpp) |
 | 1373 | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [hard/1373-maximum-sum-bst-in-binary-tree.py](hard/1373-maximum-sum-bst-in-binary-tree.py) · [hard/1373-maximum-sum-bst-in-binary-tree.js](hard/1373-maximum-sum-bst-in-binary-tree.js) |
 | 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | [hard/1377-frog-position-after-t-seconds.py](hard/1377-frog-position-after-t-seconds.py) · [hard/1377-frog-position-after-t-seconds.go](hard/1377-frog-position-after-t-seconds.go) |
+| 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [hard/1383-maximum-performance-of-a-team.py](hard/1383-maximum-performance-of-a-team.py) · [hard/1383-maximum-performance-of-a-team.rs](hard/1383-maximum-performance-of-a-team.rs) |
+| 1388 | [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/) | [hard/1388-pizza-with-3n-slices.py](hard/1388-pizza-with-3n-slices.py) · [hard/1388-pizza-with-3n-slices.ts](hard/1388-pizza-with-3n-slices.ts) |
+| 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [hard/1392-longest-happy-prefix.py](hard/1392-longest-happy-prefix.py) · [hard/1392-longest-happy-prefix.cs](hard/1392-longest-happy-prefix.cs) |
+| 1397 | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | [hard/1397-find-all-good-strings.py](hard/1397-find-all-good-strings.py) · [hard/1397-find-all-good-strings.kt](hard/1397-find-all-good-strings.kt) |
+| 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [hard/1402-reducing-dishes.py](hard/1402-reducing-dishes.py) · [hard/1402-reducing-dishes.java](hard/1402-reducing-dishes.java) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1768**
+**Total solved: 1774**
