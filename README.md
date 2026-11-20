@@ -1572,7 +1572,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (256)
+## Solved — Hard (261)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1831,6 +1831,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1542 | [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/) | [hard/1542-find-longest-awesome-substring.py](hard/1542-find-longest-awesome-substring.py) · [hard/1542-find-longest-awesome-substring.rs](hard/1542-find-longest-awesome-substring.rs) |
 | 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [hard/1547-minimum-cost-to-cut-a-stick.py](hard/1547-minimum-cost-to-cut-a-stick.py) · [hard/1547-minimum-cost-to-cut-a-stick.ts](hard/1547-minimum-cost-to-cut-a-stick.ts) |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [hard/1553-minimum-number-of-days-to-eat-n-oranges.py](hard/1553-minimum-number-of-days-to-eat-n-oranges.py) · [hard/1553-minimum-number-of-days-to-eat-n-oranges.cs](hard/1553-minimum-number-of-days-to-eat-n-oranges.cs) |
+| 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) | [hard/1563-stone-game-v.py](hard/1563-stone-game-v.py) · [hard/1563-stone-game-v.kt](hard/1563-stone-game-v.kt) |
+| 1568 | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | [hard/1568-minimum-number-of-days-to-disconnect-island.py](hard/1568-minimum-number-of-days-to-disconnect-island.py) · [hard/1568-minimum-number-of-days-to-disconnect-island.java](hard/1568-minimum-number-of-days-to-disconnect-island.java) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [hard/1569-number-of-ways-to-reorder-array-to-get-same-bst.py](hard/1569-number-of-ways-to-reorder-array-to-get-same-bst.py) · [hard/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp](hard/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
+| 1575 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | [hard/1575-count-all-possible-routes.py](hard/1575-count-all-possible-routes.py) · [hard/1575-count-all-possible-routes.js](hard/1575-count-all-possible-routes.js) |
+| 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.py](hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.py) · [hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.go](hard/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.go) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1807**
+**Total solved: 1812**
