@@ -864,7 +864,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (700)
+## Solved — Medium (701)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1551,6 +1551,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [medium/1878-get-biggest-three-rhombus-sums-in-a-grid.py](medium/1878-get-biggest-three-rhombus-sums-in-a-grid.py) |
 | 1881 | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [medium/1881-maximum-value-after-insertion.py](medium/1881-maximum-value-after-insertion.py) |
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [medium/1882-process-tasks-using-servers.py](medium/1882-process-tasks-using-servers.py) |
+| 1884 | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | [medium/1884-egg-drop-with-2-eggs-and-n-floors.py](medium/1884-egg-drop-with-2-eggs-and-n-floors.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
@@ -1569,7 +1570,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (231)
+## Solved — Hard (236)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1803,6 +1804,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | [hard/1416-restore-the-array.py](hard/1416-restore-the-array.py) · [hard/1416-restore-the-array.go](hard/1416-restore-the-array.go) |
 | 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py](hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py) · [hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.rs](hard/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.rs) |
 | 1425 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) | [hard/1425-constrained-subsequence-sum.py](hard/1425-constrained-subsequence-sum.py) · [hard/1425-constrained-subsequence-sum.ts](hard/1425-constrained-subsequence-sum.ts) |
+| 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [hard/1434-number-of-ways-to-wear-different-hats-to-each-other.py](hard/1434-number-of-ways-to-wear-different-hats-to-each-other.py) · [hard/1434-number-of-ways-to-wear-different-hats-to-each-other.cs](hard/1434-number-of-ways-to-wear-different-hats-to-each-other.cs) |
+| 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | [hard/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.py](hard/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.py) · [hard/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.kt](hard/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.kt) |
+| 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [hard/1444-number-of-ways-of-cutting-a-pizza.py](hard/1444-number-of-ways-of-cutting-a-pizza.py) · [hard/1444-number-of-ways-of-cutting-a-pizza.java](hard/1444-number-of-ways-of-cutting-a-pizza.java) |
+| 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [hard/1449-form-largest-integer-with-digits-that-add-up-to-target.py](hard/1449-form-largest-integer-with-digits-that-add-up-to-target.py) · [hard/1449-form-largest-integer-with-digits-that-add-up-to-target.cpp](hard/1449-form-largest-integer-with-digits-that-add-up-to-target.cpp) |
+| 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | [hard/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.py](hard/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.py) · [hard/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.js](hard/1453-maximum-number-of-darts-inside-of-a-circular-dartboard.js) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1779**
+**Total solved: 1785**
