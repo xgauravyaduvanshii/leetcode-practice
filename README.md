@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (722)
+## Solved — Easy (732)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -738,6 +738,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3833 | [Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | [easy/3833-count-dominant-indices.py](easy/3833-count-dominant-indices.py) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | [easy/3838-weighted-word-mapping.py](easy/3838-weighted-word-mapping.py) |
 | 3842 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [easy/3842-toggle-light-bulbs.py](easy/3842-toggle-light-bulbs.py) |
+| 3852 | [Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | [easy/3852-smallest-pair-with-different-frequencies.py](easy/3852-smallest-pair-with-different-frequencies.py) |
+| 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | [easy/3856-trim-trailing-vowels.py](easy/3856-trim-trailing-vowels.py) |
+| 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | [easy/3861-minimum-capacity-box.py](easy/3861-minimum-capacity-box.py) |
+| 3866 | [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/) | [easy/3866-first-unique-even-element.py](easy/3866-first-unique-even-element.py) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | [easy/3870-count-commas-in-range.py](easy/3870-count-commas-in-range.py) |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [easy/3875-construct-uniform-parity-array-i.py](easy/3875-construct-uniform-parity-array-i.py) |
+| 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | [easy/3880-minimum-absolute-difference-between-two-values.py](easy/3880-minimum-absolute-difference-between-two-values.py) |
+| 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [easy/3884-first-matching-character-from-both-ends.py](easy/3884-first-matching-character-from-both-ends.py) |
+| 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [easy/3894-traffic-signal-color.py](easy/3894-traffic-signal-color.py) |
+| 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [easy/3898-find-the-degree-of-each-vertex.py](easy/3898-find-the-degree-of-each-vertex.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1546,4 +1556,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1520**
+**Total solved: 1530**
