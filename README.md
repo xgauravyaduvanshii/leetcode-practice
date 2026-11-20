@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (619)
+## Solved — Medium (629)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1173,6 +1173,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [medium/1654-minimum-jumps-to-reach-home.py](medium/1654-minimum-jumps-to-reach-home.py) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [medium/1657-determine-if-two-strings-are-close.py](medium/1657-determine-if-two-strings-are-close.py) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [medium/1658-minimum-operations-to-reduce-x-to-zero.py](medium/1658-minimum-operations-to-reduce-x-to-zero.py) |
+| 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [medium/1663-smallest-string-with-a-given-numeric-value.py](medium/1663-smallest-string-with-a-given-numeric-value.py) |
+| 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | [medium/1664-ways-to-make-a-fair-array.py](medium/1664-ways-to-make-a-fair-array.py) |
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [medium/1669-merge-in-between-linked-lists.py](medium/1669-merge-in-between-linked-lists.py) |
+| 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [medium/1670-design-front-middle-back-queue.py](medium/1670-design-front-middle-back-queue.py) |
+| 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [medium/1673-find-the-most-competitive-subsequence.py](medium/1673-find-the-most-competitive-subsequence.py) |
+| 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [medium/1674-minimum-moves-to-make-array-complementary.py](medium/1674-minimum-moves-to-make-array-complementary.py) |
+| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [medium/1679-max-number-of-k-sum-pairs.py](medium/1679-max-number-of-k-sum-pairs.py) |
+| 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [medium/1680-concatenation-of-consecutive-binary-numbers.py](medium/1680-concatenation-of-consecutive-binary-numbers.py) |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [medium/1685-sum-of-absolute-differences-in-a-sorted-array.py](medium/1685-sum-of-absolute-differences-in-a-sorted-array.py) |
+| 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | [medium/1686-stone-game-vi.py](medium/1686-stone-game-vi.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1307,4 +1317,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1281**
+**Total solved: 1291**
