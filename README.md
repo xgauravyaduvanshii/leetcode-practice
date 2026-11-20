@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (589)
+## Solved — Medium (599)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1143,6 +1143,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/) | [medium/1562-find-latest-group-of-size-m.py](medium/1562-find-latest-group-of-size-m.py) |
 | 1567 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [medium/1567-maximum-length-of-subarray-with-positive-product.py](medium/1567-maximum-length-of-subarray-with-positive-product.py) |
 | 1573 | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [medium/1573-number-of-ways-to-split-a-string.py](medium/1573-number-of-ways-to-split-a-string.py) |
+| 1574 | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | [medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted.py](medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted.py) |
+| 1577 | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [medium/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.py](medium/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.py) |
+| 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [medium/1578-minimum-time-to-make-rope-colorful.py](medium/1578-minimum-time-to-make-rope-colorful.py) |
+| 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | [medium/1583-count-unhappy-friends.py](medium/1583-count-unhappy-friends.py) |
+| 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [medium/1584-min-cost-to-connect-all-points.py](medium/1584-min-cost-to-connect-all-points.py) |
+| 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [medium/1589-maximum-sum-obtained-of-any-permutation.py](medium/1589-maximum-sum-obtained-of-any-permutation.py) |
+| 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [medium/1590-make-sum-divisible-by-p.py](medium/1590-make-sum-divisible-by-p.py) |
+| 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [medium/1593-split-a-string-into-the-max-number-of-unique-substrings.py](medium/1593-split-a-string-into-the-max-number-of-unique-substrings.py) |
+| 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [medium/1594-maximum-non-negative-product-in-a-matrix.py](medium/1594-maximum-non-negative-product-in-a-matrix.py) |
+| 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [medium/1599-maximum-profit-of-operating-a-centennial-wheel.py](medium/1599-maximum-profit-of-operating-a-centennial-wheel.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1277,4 +1287,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1251**
+**Total solved: 1261**
