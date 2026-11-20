@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (672)
+## Solved — Easy (682)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -688,6 +688,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [easy/3487-maximum-unique-subarray-sum-after-deletion.py](easy/3487-maximum-unique-subarray-sum-after-deletion.py) |
 | 3492 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [easy/3492-maximum-containers-on-a-ship.py](easy/3492-maximum-containers-on-a-ship.py) |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [easy/3498-reverse-degree-of-a-string.py](easy/3498-reverse-degree-of-a-string.py) |
+| 3502 | [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/) | [easy/3502-minimum-cost-to-reach-every-position.py](easy/3502-minimum-cost-to-reach-every-position.py) |
+| 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [easy/3507-minimum-pair-removal-to-sort-array-i.py](easy/3507-minimum-pair-removal-to-sort-array-i.py) |
+| 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | [easy/3512-minimum-operations-to-make-array-sum-divisible-by-k.py](easy/3512-minimum-operations-to-make-array-sum-divisible-by-k.py) |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | [easy/3516-find-closest-person.py](easy/3516-find-closest-person.py) |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [easy/3536-maximum-product-of-two-digits.py](easy/3536-maximum-product-of-two-digits.py) |
+| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [easy/3541-find-most-frequent-vowel-and-consonant.py](easy/3541-find-most-frequent-vowel-and-consonant.py) |
+| 3545 | [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | [easy/3545-minimum-deletions-for-at-most-k-distinct-characters.py](easy/3545-minimum-deletions-for-at-most-k-distinct-characters.py) |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [easy/3550-smallest-index-with-digit-sum-equal-to-index.py](easy/3550-smallest-index-with-digit-sum-equal-to-index.py) |
+| 3560 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [easy/3560-find-minimum-log-transportation-cost.py](easy/3560-find-minimum-log-transportation-cost.py) |
+| 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [easy/3582-generate-tag-for-video-caption.py](easy/3582-generate-tag-for-video-caption.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1496,4 +1506,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1470**
+**Total solved: 1480**
