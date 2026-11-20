@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (659)
+## Solved — Medium (669)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1213,6 +1213,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [medium/1760-minimum-limit-of-balls-in-a-bag.py](medium/1760-minimum-limit-of-balls-in-a-bag.py) |
 | 1764 | [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [medium/1764-form-array-by-concatenating-subarrays-of-another-array.py](medium/1764-form-array-by-concatenating-subarrays-of-another-array.py) |
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [medium/1765-map-of-highest-peak.py](medium/1765-map-of-highest-peak.py) |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box.py](medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box.py) |
+| 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | [medium/1774-closest-dessert-cost.py](medium/1774-closest-dessert-cost.py) |
+| 1775 | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [medium/1775-equal-sum-arrays-with-minimum-number-of-operations.py](medium/1775-equal-sum-arrays-with-minimum-number-of-operations.py) |
+| 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [medium/1780-check-if-number-is-a-sum-of-powers-of-three.py](medium/1780-check-if-number-is-a-sum-of-powers-of-three.py) |
+| 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [medium/1781-sum-of-beauty-of-all-substrings.py](medium/1781-sum-of-beauty-of-all-substrings.py) |
+| 1785 | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [medium/1785-minimum-elements-to-add-to-form-a-given-sum.py](medium/1785-minimum-elements-to-add-to-form-a-given-sum.py) |
+| 1786 | [Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [medium/1786-number-of-restricted-paths-from-first-to-last-node.py](medium/1786-number-of-restricted-paths-from-first-to-last-node.py) |
+| 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [medium/1792-maximum-average-pass-ratio.py](medium/1792-maximum-average-pass-ratio.py) |
+| 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | [medium/1797-design-authentication-manager.py](medium/1797-design-authentication-manager.py) |
+| 1798 | [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | [medium/1798-maximum-number-of-consecutive-values-you-can-make.py](medium/1798-maximum-number-of-consecutive-values-you-can-make.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1347,4 +1357,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1321**
+**Total solved: 1331**
