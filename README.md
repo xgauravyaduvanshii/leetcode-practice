@@ -864,7 +864,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (702)
+## Solved — Medium (703)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1553,6 +1553,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [medium/1882-process-tasks-using-servers.py](medium/1882-process-tasks-using-servers.py) |
 | 1884 | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | [medium/1884-egg-drop-with-2-eggs-and-n-floors.py](medium/1884-egg-drop-with-2-eggs-and-n-floors.py) |
 | 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [medium/1887-reduction-operations-to-make-the-array-elements-equal.py](medium/1887-reduction-operations-to-make-the-array-elements-equal.py) |
+| 1888 | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.py](medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
@@ -1571,7 +1572,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (251)
+## Solved — Hard (256)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1825,6 +1826,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1520 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [hard/1520-maximum-number-of-non-overlapping-substrings.py](hard/1520-maximum-number-of-non-overlapping-substrings.py) · [hard/1520-maximum-number-of-non-overlapping-substrings.kt](hard/1520-maximum-number-of-non-overlapping-substrings.kt) |
 | 1521 | [Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/) | [hard/1521-find-a-value-of-a-mysterious-function-closest-to-target.py](hard/1521-find-a-value-of-a-mysterious-function-closest-to-target.py) · [hard/1521-find-a-value-of-a-mysterious-function-closest-to-target.java](hard/1521-find-a-value-of-a-mysterious-function-closest-to-target.java) |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.py](hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.py) · [hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp](hard/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp) |
+| 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [hard/1531-string-compression-ii.py](hard/1531-string-compression-ii.py) · [hard/1531-string-compression-ii.js](hard/1531-string-compression-ii.js) |
+| 1537 | [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/) | [hard/1537-get-the-maximum-score.py](hard/1537-get-the-maximum-score.py) · [hard/1537-get-the-maximum-score.go](hard/1537-get-the-maximum-score.go) |
+| 1542 | [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/) | [hard/1542-find-longest-awesome-substring.py](hard/1542-find-longest-awesome-substring.py) · [hard/1542-find-longest-awesome-substring.rs](hard/1542-find-longest-awesome-substring.rs) |
+| 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [hard/1547-minimum-cost-to-cut-a-stick.py](hard/1547-minimum-cost-to-cut-a-stick.py) · [hard/1547-minimum-cost-to-cut-a-stick.ts](hard/1547-minimum-cost-to-cut-a-stick.ts) |
+| 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [hard/1553-minimum-number-of-days-to-eat-n-oranges.py](hard/1553-minimum-number-of-days-to-eat-n-oranges.py) · [hard/1553-minimum-number-of-days-to-eat-n-oranges.cs](hard/1553-minimum-number-of-days-to-eat-n-oranges.cs) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1801**
+**Total solved: 1807**
