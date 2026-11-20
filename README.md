@@ -1573,7 +1573,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (266)
+## Solved — Hard (271)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1842,6 +1842,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [hard/1595-minimum-cost-to-connect-two-groups-of-points.py](hard/1595-minimum-cost-to-connect-two-groups-of-points.py) · [hard/1595-minimum-cost-to-connect-two-groups-of-points.cs](hard/1595-minimum-cost-to-connect-two-groups-of-points.cs) |
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [hard/1601-maximum-number-of-achievable-transfer-requests.py](hard/1601-maximum-number-of-achievable-transfer-requests.py) · [hard/1601-maximum-number-of-achievable-transfer-requests.kt](hard/1601-maximum-number-of-achievable-transfer-requests.kt) |
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [hard/1606-find-servers-that-handled-most-number-of-requests.py](hard/1606-find-servers-that-handled-most-number-of-requests.py) · [hard/1606-find-servers-that-handled-most-number-of-requests.java](hard/1606-find-servers-that-handled-most-number-of-requests.java) |
+| 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [hard/1610-maximum-number-of-visible-points.py](hard/1610-maximum-number-of-visible-points.py) · [hard/1610-maximum-number-of-visible-points.cpp](hard/1610-maximum-number-of-visible-points.cpp) |
+| 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [hard/1611-minimum-one-bit-operations-to-make-integers-zero.py](hard/1611-minimum-one-bit-operations-to-make-integers-zero.py) · [hard/1611-minimum-one-bit-operations-to-make-integers-zero.js](hard/1611-minimum-one-bit-operations-to-make-integers-zero.js) |
+| 1617 | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [hard/1617-count-subtrees-with-max-distance-between-cities.py](hard/1617-count-subtrees-with-max-distance-between-cities.py) · [hard/1617-count-subtrees-with-max-distance-between-cities.go](hard/1617-count-subtrees-with-max-distance-between-cities.go) |
+| 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [hard/1622-fancy-sequence.py](hard/1622-fancy-sequence.py) · [hard/1622-fancy-sequence.rs](hard/1622-fancy-sequence.rs) |
+| 1627 | [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [hard/1627-graph-connectivity-with-threshold.py](hard/1627-graph-connectivity-with-threshold.py) · [hard/1627-graph-connectivity-with-threshold.ts](hard/1627-graph-connectivity-with-threshold.ts) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1818**
+**Total solved: 1823**
