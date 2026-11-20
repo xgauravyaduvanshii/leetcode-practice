@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (827)
+## Solved — Easy (837)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -561,13 +561,23 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [easy/2605-form-smallest-number-from-two-digit-arrays.py](easy/2605-form-smallest-number-from-two-digit-arrays.py) |
 | 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [easy/2609-find-the-longest-balanced-substring-of-a-binary-string.py](easy/2609-find-the-longest-balanced-substring-of-a-binary-string.py) |
 | 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | [easy/2614-prime-in-diagonal.py](easy/2614-prime-in-diagonal.py) |
+| 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | [easy/2619-array-prototype-last.js](easy/2619-array-prototype-last.js) |
+| 2620 | [Counter](https://leetcode.com/problems/counter/) | [easy/2620-counter.js](easy/2620-counter.js) |
+| 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [easy/2621-sleep.js](easy/2621-sleep.js) |
+| 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | [easy/2626-array-reduce-transformation.js](easy/2626-array-reduce-transformation.js) |
+| 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | [easy/2629-function-composition.js](easy/2629-function-composition.js) |
+| 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | [easy/2634-filter-elements-from-array.js](easy/2634-filter-elements-from-array.js) |
+| 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [easy/2635-apply-transform-over-each-element-in-array.js](easy/2635-apply-transform-over-each-element-in-array.js) |
 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [easy/2639-find-the-width-of-columns-of-a-grid.py](easy/2639-find-the-width-of-columns-of-a-grid.py) |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [easy/2643-row-with-maximum-ones.py](easy/2643-row-with-maximum-ones.py) |
 | 2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [easy/2644-find-the-maximum-divisibility-score.py](easy/2644-find-the-maximum-divisibility-score.py) |
+| 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/) | [easy/2648-generate-fibonacci-sequence.js](easy/2648-generate-fibonacci-sequence.js) |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [easy/2651-calculate-delayed-arrival-time.py](easy/2651-calculate-delayed-arrival-time.py) |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [easy/2652-sum-multiples.py](easy/2652-sum-multiples.py) |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [easy/2656-maximum-sum-with-exactly-k-elements.py](easy/2656-maximum-sum-with-exactly-k-elements.py) |
 | 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [easy/2660-determine-the-winner-of-a-bowling-game.py](easy/2660-determine-the-winner-of-a-bowling-game.py) |
+| 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | [easy/2665-counter-ii.js](easy/2665-counter-ii.js) |
+| 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | [easy/2666-allow-one-function-call.js](easy/2666-allow-one-function-call.js) |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [easy/2670-find-the-distinct-difference-array.py](easy/2670-find-the-distinct-difference-array.py) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [easy/2678-number-of-senior-citizens.py](easy/2678-number-of-senior-citizens.py) |
 | 2682 | [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [easy/2682-find-the-losers-of-the-circular-game.py](easy/2682-find-the-losers-of-the-circular-game.py) |
@@ -1651,4 +1661,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1625**
+**Total solved: 1635**
