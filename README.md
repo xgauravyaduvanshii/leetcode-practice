@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (652)
+## Solved — Easy (662)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -668,6 +668,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | [easy/3379-transformed-array.py](easy/3379-transformed-array.py) |
 | 3386 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/) | [easy/3386-button-with-longest-push-time.py](easy/3386-button-with-longest-push-time.py) |
 | 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [easy/3392-count-subarrays-of-length-three-with-a-condition.py](easy/3392-count-subarrays-of-length-three-with-a-condition.py) |
+| 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | [easy/3396-minimum-number-of-operations-to-make-elements-in-array-distinct.py](easy/3396-minimum-number-of-operations-to-make-elements-in-array-distinct.py) |
+| 3402 | [Minimum Operations to Make Columns Strictly Increasing](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/) | [easy/3402-minimum-operations-to-make-columns-strictly-increasing.py](easy/3402-minimum-operations-to-make-columns-strictly-increasing.py) |
+| 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/) | [easy/3407-substring-matching-pattern.py](easy/3407-substring-matching-pattern.py) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [easy/3411-maximum-subarray-with-equal-products.py](easy/3411-maximum-subarray-with-equal-products.py) |
+| 3417 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [easy/3417-zigzag-grid-traversal-with-skip.py](easy/3417-zigzag-grid-traversal-with-skip.py) |
+| 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.py](easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.py) |
+| 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [easy/3427-sum-of-variable-length-subarrays.py](easy/3427-sum-of-variable-length-subarrays.py) |
+| 3432 | [Count Partitions With Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [easy/3432-count-partitions-with-even-sum-difference.py](easy/3432-count-partitions-with-even-sum-difference.py) |
+| 3438 | [Find Valid Pair of Adjacent Digits in String](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [easy/3438-find-valid-pair-of-adjacent-digits-in-string.py](easy/3438-find-valid-pair-of-adjacent-digits-in-string.py) |
+| 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [easy/3442-maximum-difference-between-even-and-odd-frequency-i.py](easy/3442-maximum-difference-between-even-and-odd-frequency-i.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1476,4 +1486,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1450**
+**Total solved: 1460**
