@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (692)
+## Solved — Easy (702)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -708,6 +708,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [easy/3658-gcd-of-odd-and-even-sums.py](easy/3658-gcd-of-odd-and-even-sums.py) |
 | 3663 | [Find the Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/) | [easy/3663-find-the-least-frequent-digit.py](easy/3663-find-the-least-frequent-digit.py) |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | [easy/3668-restore-finishing-order.py](easy/3668-restore-finishing-order.py) |
+| 3674 | [Minimum Operations to Equalize Array](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | [easy/3674-minimum-operations-to-equalize-array.py](easy/3674-minimum-operations-to-equalize-array.py) |
+| 3678 | [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [easy/3678-smallest-absent-positive-greater-than-average.py](easy/3678-smallest-absent-positive-greater-than-average.py) |
+| 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) | [easy/3683-earliest-time-to-finish-one-task.py](easy/3683-earliest-time-to-finish-one-task.py) |
+| 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | [easy/3684-maximize-sum-of-at-most-k-distinct-elements.py](easy/3684-maximize-sum-of-at-most-k-distinct-elements.py) |
+| 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [easy/3688-bitwise-or-of-even-numbers-in-an-array.py](easy/3688-bitwise-or-of-even-numbers-in-an-array.py) |
+| 3692 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | [easy/3692-majority-frequency-characters.py](easy/3692-majority-frequency-characters.py) |
+| 3697 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation/) | [easy/3697-compute-decimal-representation.py](easy/3697-compute-decimal-representation.py) |
+| 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [easy/3701-compute-alternating-sum.py](easy/3701-compute-alternating-sum.py) |
+| 3707 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | [easy/3707-equal-score-substrings.py](easy/3707-equal-score-substrings.py) |
+| 3712 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | [easy/3712-sum-of-elements-with-frequency-divisible-by-k.py](easy/3712-sum-of-elements-with-frequency-divisible-by-k.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1516,4 +1526,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1490**
+**Total solved: 1500**
