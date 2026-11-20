@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (579)
+## Solved — Medium (589)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1133,6 +1133,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [medium/1540-can-convert-string-in-k-moves.py](medium/1540-can-convert-string-in-k-moves.py) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [medium/1541-minimum-insertions-to-balance-a-parentheses-string.py](medium/1541-minimum-insertions-to-balance-a-parentheses-string.py) |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [medium/1545-find-kth-bit-in-nth-binary-string.py](medium/1545-find-kth-bit-in-nth-binary-string.py) |
+| 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [medium/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.py](medium/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.py) |
+| 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [medium/1551-minimum-operations-to-make-array-equal.py](medium/1551-minimum-operations-to-make-array-equal.py) |
+| 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [medium/1552-magnetic-force-between-two-balls.py](medium/1552-magnetic-force-between-two-balls.py) |
+| 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [medium/1557-minimum-number-of-vertices-to-reach-all-nodes.py](medium/1557-minimum-number-of-vertices-to-reach-all-nodes.py) |
+| 1558 | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) | [medium/1558-minimum-numbers-of-function-calls-to-make-target-array.py](medium/1558-minimum-numbers-of-function-calls-to-make-target-array.py) |
+| 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [medium/1559-detect-cycles-in-2d-grid.py](medium/1559-detect-cycles-in-2d-grid.py) |
+| 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [medium/1561-maximum-number-of-coins-you-can-get.py](medium/1561-maximum-number-of-coins-you-can-get.py) |
+| 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/) | [medium/1562-find-latest-group-of-size-m.py](medium/1562-find-latest-group-of-size-m.py) |
+| 1567 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [medium/1567-maximum-length-of-subarray-with-positive-product.py](medium/1567-maximum-length-of-subarray-with-positive-product.py) |
+| 1573 | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [medium/1573-number-of-ways-to-split-a-string.py](medium/1573-number-of-ways-to-split-a-string.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1267,4 +1277,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1241**
+**Total solved: 1251**
