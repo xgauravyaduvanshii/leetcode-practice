@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (582)
+## Solved — Easy (592)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -269,6 +269,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [easy/1365-how-many-numbers-are-smaller-than-the-current-number.py](easy/1365-how-many-numbers-are-smaller-than-the-current-number.py) |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [easy/1370-increasing-decreasing-string.py](easy/1370-increasing-decreasing-string.py) |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [easy/1374-generate-a-string-with-characters-that-have-odd-counts.py](easy/1374-generate-a-string-with-characters-that-have-odd-counts.py) |
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py](easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [easy/1380-lucky-numbers-in-a-matrix.py](easy/1380-lucky-numbers-in-a-matrix.py) |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [easy/1385-find-the-distance-value-between-two-arrays.py](easy/1385-find-the-distance-value-between-two-arrays.py) |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [easy/1389-create-target-array-in-the-given-order.py](easy/1389-create-target-array-in-the-given-order.py) |
@@ -343,6 +344,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [easy/1758-minimum-changes-to-make-alternating-binary-string.py](easy/1758-minimum-changes-to-make-alternating-binary-string.py) |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [easy/1763-longest-nice-substring.py](easy/1763-longest-nice-substring.py) |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [easy/1773-count-items-matching-a-rule.py](easy/1773-count-items-matching-a-rule.py) |
+| 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [easy/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py](easy/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.py) |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones.py](easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones.py) |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [easy/1790-check-if-one-string-swap-can-make-strings-equal.py](easy/1790-check-if-one-string-swap-can-make-strings-equal.py) |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [easy/1791-find-center-of-star-graph.py](easy/1791-find-center-of-star-graph.py) |
@@ -415,6 +417,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [easy/2148-count-elements-with-strictly-smaller-and-greater-elements.py](easy/2148-count-elements-with-strictly-smaller-and-greater-elements.py) |
 | 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [easy/2154-keep-multiplying-found-values-by-two.py](easy/2154-keep-multiplying-found-values-by-two.py) |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py](easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py) |
+| 2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [easy/2164-sort-even-and-odd-indices-independently.py](easy/2164-sort-even-and-odd-indices-independently.py) |
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [easy/2169-count-operations-to-obtain-zero.py](easy/2169-count-operations-to-obtain-zero.py) |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [easy/2176-count-equal-and-divisible-pairs-in-an-array.py](easy/2176-count-equal-and-divisible-pairs-in-an-array.py) |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [easy/2180-count-integers-with-even-digit-sum.py](easy/2180-count-integers-with-even-digit-sum.py) |
@@ -507,6 +510,9 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [easy/2605-form-smallest-number-from-two-digit-arrays.py](easy/2605-form-smallest-number-from-two-digit-arrays.py) |
 | 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [easy/2609-find-the-longest-balanced-substring-of-a-binary-string.py](easy/2609-find-the-longest-balanced-substring-of-a-binary-string.py) |
 | 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | [easy/2614-prime-in-diagonal.py](easy/2614-prime-in-diagonal.py) |
+| 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [easy/2639-find-the-width-of-columns-of-a-grid.py](easy/2639-find-the-width-of-columns-of-a-grid.py) |
+| 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [easy/2643-row-with-maximum-ones.py](easy/2643-row-with-maximum-ones.py) |
+| 2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [easy/2644-find-the-maximum-divisibility-score.py](easy/2644-find-the-maximum-divisibility-score.py) |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [easy/2651-calculate-delayed-arrival-time.py](easy/2651-calculate-delayed-arrival-time.py) |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [easy/2652-sum-multiples.py](easy/2652-sum-multiples.py) |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [easy/2656-maximum-sum-with-exactly-k-elements.py](easy/2656-maximum-sum-with-exactly-k-elements.py) |
@@ -528,6 +534,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [easy/2760-longest-even-odd-subarray-with-threshold.py](easy/2760-longest-even-odd-subarray-with-threshold.py) |
 | 2765 | [Longest Alternating Subarray](https://leetcode.com/problems/longest-alternating-subarray/) | [easy/2765-longest-alternating-subarray.py](easy/2765-longest-alternating-subarray.py) |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [easy/2769-find-the-maximum-achievable-number.py](easy/2769-find-the-maximum-achievable-number.py) |
+| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [easy/2778-sum-of-squares-of-special-elements.py](easy/2778-sum-of-squares-of-special-elements.py) |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [easy/2784-check-if-array-is-good.py](easy/2784-check-if-array-is-good.py) |
 | 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/) | [easy/2788-split-strings-by-separator.py](easy/2788-split-strings-by-separator.py) |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [easy/2798-number-of-employees-who-met-the-target.py](easy/2798-number-of-employees-who-met-the-target.py) |
@@ -598,6 +605,9 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
+| 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/) | [easy/3033-modify-the-matrix.py](easy/3033-modify-the-matrix.py) |
+| 3038 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [easy/3038-maximum-number-of-operations-with-the-same-score-i.py](easy/3038-maximum-number-of-operations-with-the-same-score-i.py) |
+| 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [easy/3042-count-prefix-and-suffix-pairs-i.py](easy/3042-count-prefix-and-suffix-pairs-i.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1406,4 +1416,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1380**
+**Total solved: 1390**
