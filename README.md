@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (702)
+## Solved — Easy (712)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -718,6 +718,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [easy/3701-compute-alternating-sum.py](easy/3701-compute-alternating-sum.py) |
 | 3707 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | [easy/3707-equal-score-substrings.py](easy/3707-equal-score-substrings.py) |
 | 3712 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | [easy/3712-sum-of-elements-with-frequency-divisible-by-k.py](easy/3712-sum-of-elements-with-frequency-divisible-by-k.py) |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [easy/3718-smallest-missing-multiple-of-k.py](easy/3718-smallest-missing-multiple-of-k.py) |
+| 3726 | [Remove Zeros in Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | [easy/3726-remove-zeros-in-decimal-representation.py](easy/3726-remove-zeros-in-decimal-representation.py) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [easy/3731-find-missing-elements.py](easy/3731-find-missing-elements.py) |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [easy/3736-minimum-moves-to-equal-array-elements-iii.py](easy/3736-minimum-moves-to-equal-array-elements-iii.py) |
+| 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [easy/3740-minimum-distance-between-three-equal-elements-i.py](easy/3740-minimum-distance-between-three-equal-elements-i.py) |
+| 3745 | [Maximize Expression of Three Elements](https://leetcode.com/problems/maximize-expression-of-three-elements/) | [easy/3745-maximize-expression-of-three-elements.py](easy/3745-maximize-expression-of-three-elements.py) |
+| 3750 | [Minimum Number of Flips to Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [easy/3750-minimum-number-of-flips-to-reverse-binary-string.py](easy/3750-minimum-number-of-flips-to-reverse-binary-string.py) |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.py](easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.py) |
+| 3769 | [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [easy/3769-sort-integers-by-binary-reflection.py](easy/3769-sort-integers-by-binary-reflection.py) |
+| 3774 | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [easy/3774-absolute-difference-between-maximum-and-minimum-k-elements.py](easy/3774-absolute-difference-between-maximum-and-minimum-k-elements.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1526,4 +1536,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1500**
+**Total solved: 1510**
