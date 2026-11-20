@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (632)
+## Solved — Easy (642)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -648,6 +648,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3258 | [Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/) | [easy/3258-count-substrings-that-satisfy-k-constraint-i.py](easy/3258-count-substrings-that-satisfy-k-constraint-i.py) |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [easy/3264-final-array-state-after-k-multiplication-operations-i.py](easy/3264-final-array-state-after-k-multiplication-operations-i.py) |
 | 3270 | [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/) | [easy/3270-find-the-key-of-the-numbers.py](easy/3270-find-the-key-of-the-numbers.py) |
+| 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [easy/3274-check-if-two-chessboard-squares-have-the-same-color.py](easy/3274-check-if-two-chessboard-squares-have-the-same-color.py) |
+| 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | [easy/3280-convert-date-to-binary.py](easy/3280-convert-date-to-binary.py) |
+| 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | [easy/3285-find-indices-of-stable-mountains.py](easy/3285-find-indices-of-stable-mountains.py) |
+| 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [easy/3289-the-two-sneaky-numbers-of-digitville.py](easy/3289-the-two-sneaky-numbers-of-digitville.py) |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [easy/3300-minimum-element-after-replacement-with-digit-sum.py](easy/3300-minimum-element-after-replacement-with-digit-sum.py) |
+| 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [easy/3304-find-the-k-th-character-in-string-game-i.py](easy/3304-find-the-k-th-character-in-string-game-i.py) |
+| 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [easy/3314-construct-the-minimum-bitwise-array-i.py](easy/3314-construct-the-minimum-bitwise-array-i.py) |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [easy/3318-find-x-sum-of-all-k-long-subarrays-i.py](easy/3318-find-x-sum-of-all-k-long-subarrays-i.py) |
+| 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [easy/3330-find-the-original-typed-string-i.py](easy/3330-find-the-original-typed-string-i.py) |
+| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | [easy/3340-check-balanced-string.py](easy/3340-check-balanced-string.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1456,4 +1466,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1430**
+**Total solved: 1440**
