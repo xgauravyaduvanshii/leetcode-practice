@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (599)
+## Solved — Medium (609)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1153,6 +1153,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [medium/1593-split-a-string-into-the-max-number-of-unique-substrings.py](medium/1593-split-a-string-into-the-max-number-of-unique-substrings.py) |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [medium/1594-maximum-non-negative-product-in-a-matrix.py](medium/1594-maximum-non-negative-product-in-a-matrix.py) |
 | 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [medium/1599-maximum-profit-of-operating-a-centennial-wheel.py](medium/1599-maximum-profit-of-operating-a-centennial-wheel.py) |
+| 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [medium/1600-throne-inheritance.py](medium/1600-throne-inheritance.py) |
+| 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [medium/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.py](medium/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.py) |
+| 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [medium/1609-even-odd-tree.py](medium/1609-even-odd-tree.py) |
+| 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [medium/1615-maximal-network-rank.py](medium/1615-maximal-network-rank.py) |
+| 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [medium/1616-split-two-strings-to-make-palindrome.py](medium/1616-split-two-strings-to-make-palindrome.py) |
+| 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | [medium/1620-coordinate-with-maximum-network-quality.py](medium/1620-coordinate-with-maximum-network-quality.py) |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [medium/1621-number-of-sets-of-k-non-overlapping-line-segments.py](medium/1621-number-of-sets-of-k-non-overlapping-line-segments.py) |
+| 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [medium/1625-lexicographically-smallest-string-after-applying-operations.py](medium/1625-lexicographically-smallest-string-after-applying-operations.py) |
+| 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [medium/1626-best-team-with-no-conflicts.py](medium/1626-best-team-with-no-conflicts.py) |
+| 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | [medium/1630-arithmetic-subarrays.py](medium/1630-arithmetic-subarrays.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1287,4 +1297,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1261**
+**Total solved: 1271**
