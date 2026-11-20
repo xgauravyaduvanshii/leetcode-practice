@@ -1574,7 +1574,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (276)
+## Solved — Hard (281)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1853,6 +1853,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1643 | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/) | [hard/1643-kth-smallest-instructions.py](hard/1643-kth-smallest-instructions.py) · [hard/1643-kth-smallest-instructions.java](hard/1643-kth-smallest-instructions.java) |
 | 1649 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [hard/1649-create-sorted-array-through-instructions.py](hard/1649-create-sorted-array-through-instructions.py) · [hard/1649-create-sorted-array-through-instructions.cpp](hard/1649-create-sorted-array-through-instructions.cpp) |
 | 1655 | [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/) | [hard/1655-distribute-repeating-integers.py](hard/1655-distribute-repeating-integers.py) · [hard/1655-distribute-repeating-integers.js](hard/1655-distribute-repeating-integers.js) |
+| 1659 | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [hard/1659-maximize-grid-happiness.py](hard/1659-maximize-grid-happiness.py) · [hard/1659-maximize-grid-happiness.go](hard/1659-maximize-grid-happiness.go) |
+| 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [hard/1665-minimum-initial-energy-to-finish-tasks.py](hard/1665-minimum-initial-energy-to-finish-tasks.py) · [hard/1665-minimum-initial-energy-to-finish-tasks.rs](hard/1665-minimum-initial-energy-to-finish-tasks.rs) |
+| 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [hard/1671-minimum-number-of-removals-to-make-mountain-array.py](hard/1671-minimum-number-of-removals-to-make-mountain-array.py) · [hard/1671-minimum-number-of-removals-to-make-mountain-array.ts](hard/1671-minimum-number-of-removals-to-make-mountain-array.ts) |
+| 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | [hard/1675-minimize-deviation-in-array.py](hard/1675-minimize-deviation-in-array.py) · [hard/1675-minimize-deviation-in-array.cs](hard/1675-minimize-deviation-in-array.cs) |
+| 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [hard/1681-minimum-incompatibility.py](hard/1681-minimum-incompatibility.py) · [hard/1681-minimum-incompatibility.kt](hard/1681-minimum-incompatibility.kt) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1829**
+**Total solved: 1834**
