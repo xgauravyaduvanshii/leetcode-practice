@@ -1567,7 +1567,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (206)
+## Solved — Hard (211)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1776,6 +1776,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [hard/1298-maximum-candies-you-can-get-from-boxes.py](hard/1298-maximum-candies-you-can-get-from-boxes.py) · [hard/1298-maximum-candies-you-can-get-from-boxes.js](hard/1298-maximum-candies-you-can-get-from-boxes.js) |
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | [hard/1301-number-of-paths-with-max-score.py](hard/1301-number-of-paths-with-max-score.py) · [hard/1301-number-of-paths-with-max-score.go](hard/1301-number-of-paths-with-max-score.go) |
 | 1307 | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [hard/1307-verbal-arithmetic-puzzle.py](hard/1307-verbal-arithmetic-puzzle.py) · [hard/1307-verbal-arithmetic-puzzle.rs](hard/1307-verbal-arithmetic-puzzle.rs) |
+| 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [hard/1312-minimum-insertion-steps-to-make-a-string-palindrome.py](hard/1312-minimum-insertion-steps-to-make-a-string-palindrome.py) · [hard/1312-minimum-insertion-steps-to-make-a-string-palindrome.ts](hard/1312-minimum-insertion-steps-to-make-a-string-palindrome.ts) |
+| 1316 | [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/) | [hard/1316-distinct-echo-substrings.py](hard/1316-distinct-echo-substrings.py) · [hard/1316-distinct-echo-substrings.cs](hard/1316-distinct-echo-substrings.cs) |
+| 1320 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [hard/1320-minimum-distance-to-type-a-word-using-two-fingers.py](hard/1320-minimum-distance-to-type-a-word-using-two-fingers.py) · [hard/1320-minimum-distance-to-type-a-word-using-two-fingers.kt](hard/1320-minimum-distance-to-type-a-word-using-two-fingers.kt) |
+| 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [hard/1326-minimum-number-of-taps-to-open-to-water-a-garden.py](hard/1326-minimum-number-of-taps-to-open-to-water-a-garden.py) · [hard/1326-minimum-number-of-taps-to-open-to-water-a-garden.java](hard/1326-minimum-number-of-taps-to-open-to-water-a-garden.java) |
+| 1330 | [Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) | [hard/1330-reverse-subarray-to-maximize-array-value.py](hard/1330-reverse-subarray-to-maximize-array-value.py) · [hard/1330-reverse-subarray-to-maximize-array-value.cpp](hard/1330-reverse-subarray-to-maximize-array-value.cpp) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1752**
+**Total solved: 1757**
