@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (549)
+## Solved — Medium (559)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1103,6 +1103,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [medium/1457-pseudo-palindromic-paths-in-a-binary-tree.py](medium/1457-pseudo-palindromic-paths-in-a-binary-tree.py) |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py](medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k.py) |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | [medium/1462-course-schedule-iv.py](medium/1462-course-schedule-iv.py) |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [medium/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py](medium/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py) |
+| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.py](medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.py) |
+| 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [medium/1471-the-k-strongest-values-in-an-array.py](medium/1471-the-k-strongest-values-in-an-array.py) |
+| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [medium/1472-design-browser-history.py](medium/1472-design-browser-history.py) |
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [medium/1476-subrectangle-queries.py](medium/1476-subrectangle-queries.py) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.py](medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.py) |
+| 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [medium/1481-least-number-of-unique-integers-after-k-removals.py](medium/1481-least-number-of-unique-integers-after-k-removals.py) |
+| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [medium/1482-minimum-number-of-days-to-make-m-bouquets.py](medium/1482-minimum-number-of-days-to-make-m-bouquets.py) |
+| 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [medium/1487-making-file-names-unique.py](medium/1487-making-file-names-unique.py) |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [medium/1488-avoid-flood-in-the-city.py](medium/1488-avoid-flood-in-the-city.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1237,4 +1247,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1211**
+**Total solved: 1221**
