@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (782)
+## Solved — Easy (792)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -143,10 +143,17 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [easy/0589-n-ary-tree-preorder-traversal.py](easy/0589-n-ary-tree-preorder-traversal.py) |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [easy/0590-n-ary-tree-postorder-traversal.py](easy/0590-n-ary-tree-postorder-traversal.py) |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [easy/0594-longest-harmonious-subsequence.py](easy/0594-longest-harmonious-subsequence.py) |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [easy/595-big-countries.sql](easy/595-big-countries.sql) |
+| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | [easy/596-classes-with-at-least-5-students.sql](easy/596-classes-with-at-least-5-students.sql) |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [easy/0598-range-addition-ii.py](easy/0598-range-addition-ii.py) |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [easy/0599-minimum-index-sum-of-two-lists.py](easy/0599-minimum-index-sum-of-two-lists.py) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [easy/0605-can-place-flowers.py](easy/0605-can-place-flowers.py) |
+| 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [easy/607-sales-person.sql](easy/607-sales-person.sql) |
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [easy/610-triangle-judgement.sql](easy/610-triangle-judgement.sql) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [easy/0617-merge-two-binary-trees.py](easy/0617-merge-two-binary-trees.py) |
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [easy/619-biggest-single-number.sql](easy/619-biggest-single-number.sql) |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [easy/620-not-boring-movies.sql](easy/620-not-boring-movies.sql) |
+| 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | [easy/627-swap-sex-of-employees.sql](easy/627-swap-sex-of-employees.sql) |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [easy/0628-maximum-product-of-three-numbers.py](easy/0628-maximum-product-of-three-numbers.py) |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [easy/0637-average-of-levels-in-binary-tree.py](easy/0637-average-of-levels-in-binary-tree.py) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [easy/0643-maximum-average-subarray-i.py](easy/0643-maximum-average-subarray-i.py) |
@@ -234,8 +241,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [easy/1037-valid-boomerang.py](easy/1037-valid-boomerang.py) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [easy/1046-last-stone-weight.py](easy/1046-last-stone-weight.py) |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [easy/1047-remove-all-adjacent-duplicates-in-string.py](easy/1047-remove-all-adjacent-duplicates-in-string.py) |
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [easy/1050-actors-and-directors-who-cooperated-at-least-three-times.sql](easy/1050-actors-and-directors-who-cooperated-at-least-three-times.sql) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [easy/1051-height-checker.py](easy/1051-height-checker.py) |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [easy/1068-product-sales-analysis-i.sql](easy/1068-product-sales-analysis-i.sql) |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [easy/1071-greatest-common-divisor-of-strings.py](easy/1071-greatest-common-divisor-of-strings.py) |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [easy/1075-project-employees-i.sql](easy/1075-project-employees-i.sql) |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [easy/1078-occurrences-after-bigram.py](easy/1078-occurrences-after-bigram.py) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [easy/1089-duplicate-zeros.py](easy/1089-duplicate-zeros.py) |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [easy/1103-distribute-candies-to-people.py](easy/1103-distribute-candies-to-people.py) |
@@ -1606,4 +1616,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1580**
+**Total solved: 1590**
