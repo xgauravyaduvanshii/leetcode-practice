@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (679)
+## Solved — Medium (689)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1233,6 +1233,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [medium/1818-minimum-absolute-sum-difference.py](medium/1818-minimum-absolute-sum-difference.py) |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [medium/1823-find-the-winner-of-the-circular-game.py](medium/1823-find-the-winner-of-the-circular-game.py) |
 | 1824 | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [medium/1824-minimum-sideway-jumps.py](medium/1824-minimum-sideway-jumps.py) |
+| 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | [medium/1828-queries-on-number-of-points-inside-a-circle.py](medium/1828-queries-on-number-of-points-inside-a-circle.py) |
+| 1829 | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | [medium/1829-maximum-xor-for-each-query.py](medium/1829-maximum-xor-for-each-query.py) |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [medium/1833-maximum-ice-cream-bars.py](medium/1833-maximum-ice-cream-bars.py) |
+| 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [medium/1834-single-threaded-cpu.py](medium/1834-single-threaded-cpu.py) |
+| 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [medium/1838-frequency-of-the-most-frequent-element.py](medium/1838-frequency-of-the-most-frequent-element.py) |
+| 1839 | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [medium/1839-longest-substring-of-all-vowels-in-order.py](medium/1839-longest-substring-of-all-vowels-in-order.py) |
+| 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [medium/1845-seat-reservation-manager.py](medium/1845-seat-reservation-manager.py) |
+| 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [medium/1846-maximum-element-after-decreasing-and-rearranging.py](medium/1846-maximum-element-after-decreasing-and-rearranging.py) |
+| 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [medium/1849-splitting-a-string-into-descending-consecutive-values.py](medium/1849-splitting-a-string-into-descending-consecutive-values.py) |
+| 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [medium/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number.py](medium/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1367,4 +1377,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1341**
+**Total solved: 1351**
