@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (712)
+## Solved — Easy (722)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -728,6 +728,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.py](easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.py) |
 | 3769 | [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [easy/3769-sort-integers-by-binary-reflection.py](easy/3769-sort-integers-by-binary-reflection.py) |
 | 3774 | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [easy/3774-absolute-difference-between-maximum-and-minimum-k-elements.py](easy/3774-absolute-difference-between-maximum-and-minimum-k-elements.py) |
+| 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [easy/3783-mirror-distance-of-an-integer.py](easy/3783-mirror-distance-of-an-integer.py) |
+| 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | [easy/3794-reverse-string-prefix.py](easy/3794-reverse-string-prefix.py) |
+| 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | [easy/3798-largest-even-number.py](easy/3798-largest-even-number.py) |
+| 3803 | [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | [easy/3803-count-residue-prefixes.py](easy/3803-count-residue-prefixes.py) |
+| 3813 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [easy/3813-vowel-consonant-score.py](easy/3813-vowel-consonant-score.py) |
+| 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [easy/3823-reverse-letters-then-special-characters-in-a-string.py](easy/3823-reverse-letters-then-special-characters-in-a-string.py) |
+| 3827 | [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [easy/3827-count-monobit-integers.py](easy/3827-count-monobit-integers.py) |
+| 3833 | [Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | [easy/3833-count-dominant-indices.py](easy/3833-count-dominant-indices.py) |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | [easy/3838-weighted-word-mapping.py](easy/3838-weighted-word-mapping.py) |
+| 3842 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [easy/3842-toggle-light-bulbs.py](easy/3842-toggle-light-bulbs.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1536,4 +1546,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1510**
+**Total solved: 1520**
