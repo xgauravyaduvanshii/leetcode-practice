@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (559)
+## Solved — Medium (569)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1113,6 +1113,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [medium/1482-minimum-number-of-days-to-make-m-bouquets.py](medium/1482-minimum-number-of-days-to-make-m-bouquets.py) |
 | 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [medium/1487-making-file-names-unique.py](medium/1487-making-file-names-unique.py) |
 | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [medium/1488-avoid-flood-in-the-city.py](medium/1488-avoid-flood-in-the-city.py) |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [medium/1492-the-kth-factor-of-n.py](medium/1492-the-kth-factor-of-n.py) |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [medium/1493-longest-subarray-of-1s-after-deleting-one-element.py](medium/1493-longest-subarray-of-1s-after-deleting-one-element.py) |
+| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [medium/1497-check-if-array-pairs-are-divisible-by-k.py](medium/1497-check-if-array-pairs-are-divisible-by-k.py) |
+| 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.py](medium/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.py) |
+| 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [medium/1503-last-moment-before-all-ants-fall-out-of-a-plank.py](medium/1503-last-moment-before-all-ants-fall-out-of-a-plank.py) |
+| 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [medium/1504-count-submatrices-with-all-ones.py](medium/1504-count-submatrices-with-all-ones.py) |
+| 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | [medium/1508-range-sum-of-sorted-subarray-sums.py](medium/1508-range-sum-of-sorted-subarray-sums.py) |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.py](medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.py) |
+| 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [medium/1513-number-of-substrings-with-only-1s.py](medium/1513-number-of-substrings-with-only-1s.py) |
+| 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [medium/1514-path-with-maximum-probability.py](medium/1514-path-with-maximum-probability.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1247,4 +1257,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1221**
+**Total solved: 1231**
