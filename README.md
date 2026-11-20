@@ -864,7 +864,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (697)
+## Solved — Medium (698)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1548,6 +1548,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [medium/1237-find-positive-integer-solution-for-a-given-equation.py](medium/1237-find-positive-integer-solution-for-a-given-equation.py) |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [medium/1441-build-an-array-with-stack-operations.py](medium/1441-build-an-array-with-stack-operations.py) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [medium/1877-minimize-maximum-pair-sum-in-array.py](medium/1877-minimize-maximum-pair-sum-in-array.py) |
+| 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [medium/1878-get-biggest-three-rhombus-sums-in-a-grid.py](medium/1878-get-biggest-three-rhombus-sums-in-a-grid.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
@@ -1566,7 +1567,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (201)
+## Solved — Hard (206)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1770,6 +1771,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [hard/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.py](hard/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [hard/1278-palindrome-partitioning-iii.py](hard/1278-palindrome-partitioning-iii.py) |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [hard/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py](hard/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py) |
+| 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | [hard/1289-minimum-falling-path-sum-ii.py](hard/1289-minimum-falling-path-sum-ii.py) · [hard/1289-minimum-falling-path-sum-ii.java](hard/1289-minimum-falling-path-sum-ii.java) |
+| 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [hard/1293-shortest-path-in-a-grid-with-obstacles-elimination.py](hard/1293-shortest-path-in-a-grid-with-obstacles-elimination.py) · [hard/1293-shortest-path-in-a-grid-with-obstacles-elimination.cpp](hard/1293-shortest-path-in-a-grid-with-obstacles-elimination.cpp) |
+| 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [hard/1298-maximum-candies-you-can-get-from-boxes.py](hard/1298-maximum-candies-you-can-get-from-boxes.py) · [hard/1298-maximum-candies-you-can-get-from-boxes.js](hard/1298-maximum-candies-you-can-get-from-boxes.js) |
+| 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | [hard/1301-number-of-paths-with-max-score.py](hard/1301-number-of-paths-with-max-score.py) · [hard/1301-number-of-paths-with-max-score.go](hard/1301-number-of-paths-with-max-score.go) |
+| 1307 | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [hard/1307-verbal-arithmetic-puzzle.py](hard/1307-verbal-arithmetic-puzzle.py) · [hard/1307-verbal-arithmetic-puzzle.rs](hard/1307-verbal-arithmetic-puzzle.rs) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1746**
+**Total solved: 1752**
