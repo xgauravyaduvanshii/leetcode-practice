@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (649)
+## Solved — Medium (659)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1203,6 +1203,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) | [medium/1734-decode-xored-permutation.py](medium/1734-decode-xored-permutation.py) |
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [medium/1737-change-minimum-characters-to-satisfy-one-of-three-conditions.py](medium/1737-change-minimum-characters-to-satisfy-one-of-three-conditions.py) |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [medium/1738-find-kth-largest-xor-coordinate-value.py](medium/1738-find-kth-largest-xor-coordinate-value.py) |
+| 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [medium/1743-restore-the-array-from-adjacent-pairs.py](medium/1743-restore-the-array-from-adjacent-pairs.py) |
+| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [medium/1744-can-you-eat-your-favorite-candy-on-your-favorite-day.py](medium/1744-can-you-eat-your-favorite-candy-on-your-favorite-day.py) |
+| 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [medium/1749-maximum-absolute-sum-of-any-subarray.py](medium/1749-maximum-absolute-sum-of-any-subarray.py) |
+| 1750 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [medium/1750-minimum-length-of-string-after-deleting-similar-ends.py](medium/1750-minimum-length-of-string-after-deleting-similar-ends.py) |
+| 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | [medium/1753-maximum-score-from-removing-stones.py](medium/1753-maximum-score-from-removing-stones.py) |
+| 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | [medium/1754-largest-merge-of-two-strings.py](medium/1754-largest-merge-of-two-strings.py) |
+| 1759 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | [medium/1759-count-number-of-homogenous-substrings.py](medium/1759-count-number-of-homogenous-substrings.py) |
+| 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [medium/1760-minimum-limit-of-balls-in-a-bag.py](medium/1760-minimum-limit-of-balls-in-a-bag.py) |
+| 1764 | [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [medium/1764-form-array-by-concatenating-subarrays-of-another-array.py](medium/1764-form-array-by-concatenating-subarrays-of-another-array.py) |
+| 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [medium/1765-map-of-highest-peak.py](medium/1765-map-of-highest-peak.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1337,4 +1347,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1311**
+**Total solved: 1321**
