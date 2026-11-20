@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (111)
+## Solved — Hard (121)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1634,21 +1634,31 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [hard/432-all-oone-data-structure.py](hard/432-all-oone-data-structure.py) |
 | 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [hard/0440-k-th-smallest-in-lexicographical-order.py](hard/0440-k-th-smallest-in-lexicographical-order.py) |
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [hard/446-arithmetic-slices-ii-subsequence.py](hard/446-arithmetic-slices-ii-subsequence.py) |
+| 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [hard/458-poor-pigs.py](hard/458-poor-pigs.py) |
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [hard/0460-lfu-cache.py](hard/0460-lfu-cache.py) |
+| 466 | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | [hard/466-count-the-repetitions.py](hard/466-count-the-repetitions.py) |
 | 472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [hard/0472-concatenated-words.py](hard/0472-concatenated-words.py) |
+| 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [hard/479-largest-palindrome-product.py](hard/479-largest-palindrome-product.py) |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [hard/0480-sliding-window-median.py](hard/0480-sliding-window-median.py) |
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [hard/0483-smallest-good-base.py](hard/0483-smallest-good-base.py) |
+| 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [hard/488-zuma-game.py](hard/488-zuma-game.py) |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [hard/0493-reverse-pairs.py](hard/0493-reverse-pairs.py) |
+| 502 | [IPO](https://leetcode.com/problems/ipo/) | [hard/502-ipo.py](hard/502-ipo.py) |
 | 514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/) | [hard/0514-freedom-trail.py](hard/0514-freedom-trail.py) |
+| 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [hard/517-super-washing-machines.py](hard/517-super-washing-machines.py) |
 | 546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes/) | [hard/0546-remove-boxes.py](hard/0546-remove-boxes.py) |
 | 552 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [hard/0552-student-attendance-record-ii.py](hard/0552-student-attendance-record-ii.py) |
 | 564 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | [hard/0564-find-the-closest-palindrome.py](hard/0564-find-the-closest-palindrome.py) |
 | 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [hard/0587-erect-the-fence.py](hard/0587-erect-the-fence.py) |
 | 591 | [Tag Validator](https://leetcode.com/problems/tag-validator/) | [hard/0591-tag-validator.py](hard/0591-tag-validator.py) |
+| 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [hard/600-non-negative-integers-without-consecutive-ones.py](hard/600-non-negative-integers-without-consecutive-ones.py) |
+| 629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [hard/629-k-inverse-pairs-array.py](hard/629-k-inverse-pairs-array.py) |
+| 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [hard/630-course-schedule-iii.py](hard/630-course-schedule-iii.py) |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [hard/0632-smallest-range-covering-elements-from-k-lists.py](hard/0632-smallest-range-covering-elements-from-k-lists.py) |
 | 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [hard/0639-decode-ways-ii.py](hard/0639-decode-ways-ii.py) |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [hard/0664-strange-printer.py](hard/0664-strange-printer.py) |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [hard/0668-kth-smallest-number-in-multiplication-table.py](hard/0668-kth-smallest-number-in-multiplication-table.py) |
+| 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [hard/675-cut-off-trees-for-golf-event.py](hard/675-cut-off-trees-for-golf-event.py) |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | [hard/0679-24-game.py](hard/0679-24-game.py) |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [hard/0685-redundant-connection-ii.py](hard/0685-redundant-connection-ii.py) |
 | 691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | [hard/0691-stickers-to-spell-word.py](hard/0691-stickers-to-spell-word.py) |
@@ -1682,4 +1692,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1656**
+**Total solved: 1666**
