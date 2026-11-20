@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (662)
+## Solved — Easy (672)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -678,6 +678,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3432 | [Count Partitions With Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [easy/3432-count-partitions-with-even-sum-difference.py](easy/3432-count-partitions-with-even-sum-difference.py) |
 | 3438 | [Find Valid Pair of Adjacent Digits in String](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [easy/3438-find-valid-pair-of-adjacent-digits-in-string.py](easy/3438-find-valid-pair-of-adjacent-digits-in-string.py) |
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [easy/3442-maximum-difference-between-even-and-odd-frequency-i.py](easy/3442-maximum-difference-between-even-and-odd-frequency-i.py) |
+| 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers/) | [easy/3452-sum-of-good-numbers.py](easy/3452-sum-of-good-numbers.py) |
+| 3456 | [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/) | [easy/3456-find-special-substring-of-length-k.py](easy/3456-find-special-substring-of-length-k.py) |
+| 3461 | [Check if Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | [easy/3461-check-if-digits-are-equal-in-string-after-operations-i.py](easy/3461-check-if-digits-are-equal-in-string-after-operations-i.py) |
+| 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [easy/3467-transform-array-by-parity.py](easy/3467-transform-array-by-parity.py) |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [easy/3471-find-the-largest-almost-missing-integer.py](easy/3471-find-the-largest-almost-missing-integer.py) |
+| 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [easy/3477-fruits-into-baskets-ii.py](easy/3477-fruits-into-baskets-ii.py) |
+| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [easy/3483-unique-3-digit-even-numbers.py](easy/3483-unique-3-digit-even-numbers.py) |
+| 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [easy/3487-maximum-unique-subarray-sum-after-deletion.py](easy/3487-maximum-unique-subarray-sum-after-deletion.py) |
+| 3492 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [easy/3492-maximum-containers-on-a-ship.py](easy/3492-maximum-containers-on-a-ship.py) |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [easy/3498-reverse-degree-of-a-string.py](easy/3498-reverse-degree-of-a-string.py) |
 ## Solved — Medium (697)
 
 | # | Problem | Solution |
@@ -1486,4 +1496,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1460**
+**Total solved: 1470**
