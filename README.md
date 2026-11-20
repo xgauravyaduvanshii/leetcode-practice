@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (151)
+## Solved — Hard (161)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1720,6 +1720,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [hard/924-minimize-malware-spread.py](hard/924-minimize-malware-spread.py) |
 | 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | [hard/927-three-equal-parts.py](hard/927-three-equal-parts.py) |
 | 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) | [hard/928-minimize-malware-spread-ii.py](hard/928-minimize-malware-spread-ii.py) |
+| 936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [hard/936-stamping-the-sequence.py](hard/936-stamping-the-sequence.py) |
+| 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [hard/940-distinct-subsequences-ii.py](hard/940-distinct-subsequences-ii.py) |
+| 943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [hard/943-find-the-shortest-superstring.py](hard/943-find-the-shortest-superstring.py) |
+| 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [hard/952-largest-component-size-by-common-factor.py](hard/952-largest-component-size-by-common-factor.py) |
+| 956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [hard/956-tallest-billboard.py](hard/956-tallest-billboard.py) |
+| 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [hard/960-delete-columns-to-make-sorted-iii.py](hard/960-delete-columns-to-make-sorted-iii.py) |
+| 964 | [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number/) | [hard/964-least-operators-to-express-number.py](hard/964-least-operators-to-express-number.py) |
+| 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [hard/968-binary-tree-cameras.py](hard/968-binary-tree-cameras.py) |
+| 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | [hard/975-odd-even-jump.py](hard/975-odd-even-jump.py) |
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [hard/980-unique-paths-iii.py](hard/980-unique-paths-iii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1696**
+**Total solved: 1706**
