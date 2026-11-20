@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (772)
+## Solved — Easy (782)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -54,8 +54,14 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [easy/168-excel-sheet-column-title.py](easy/168-excel-sheet-column-title.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [easy/0169-majority-element.py](easy/0169-majority-element.py) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [easy/0171-excel-sheet-column-number.py](easy/0171-excel-sheet-column-number.py) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [easy/175-combine-two-tables.sql](easy/175-combine-two-tables.sql) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [easy/181-employees-earning-more-than-their-managers.sql](easy/181-employees-earning-more-than-their-managers.sql) |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [easy/182-duplicate-emails.sql](easy/182-duplicate-emails.sql) |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [easy/183-customers-who-never-order.sql](easy/183-customers-who-never-order.sql) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [easy/190-reverse-bits.py](easy/190-reverse-bits.py) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [easy/0191-number-of-1-bits.py](easy/0191-number-of-1-bits.py) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [easy/196-delete-duplicate-emails.sql](easy/196-delete-duplicate-emails.sql) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [easy/197-rising-temperature.sql](easy/197-rising-temperature.sql) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [easy/0202-happy-number.py](easy/0202-happy-number.py) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [easy/0203-remove-linked-list-elements.py](easy/0203-remove-linked-list-elements.py) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [easy/0205-isomorphic-strings.py](easy/0205-isomorphic-strings.py) |
@@ -117,6 +123,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [easy/0506-relative-ranks.py](easy/0506-relative-ranks.py) |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [easy/507-perfect-number.py](easy/507-perfect-number.py) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [easy/0509-fibonacci-number.py](easy/0509-fibonacci-number.py) |
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [easy/511-game-play-analysis-i.sql](easy/511-game-play-analysis-i.sql) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [easy/0520-detect-capital.py](easy/0520-detect-capital.py) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [easy/0521-longest-uncommon-subsequence-i.py](easy/0521-longest-uncommon-subsequence-i.py) |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [easy/0530-minimum-absolute-difference-in-bst.py](easy/0530-minimum-absolute-difference-in-bst.py) |
@@ -130,6 +137,9 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [easy/0566-reshape-the-matrix.py](easy/0566-reshape-the-matrix.py) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [easy/0572-subtree-of-another-tree.py](easy/0572-subtree-of-another-tree.py) |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [easy/0575-distribute-candies.py](easy/0575-distribute-candies.py) |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [easy/577-employee-bonus.sql](easy/577-employee-bonus.sql) |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [easy/584-find-customer-referee.sql](easy/584-find-customer-referee.sql) |
+| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [easy/586-customer-placing-the-largest-number-of-orders.sql](easy/586-customer-placing-the-largest-number-of-orders.sql) |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [easy/0589-n-ary-tree-preorder-traversal.py](easy/0589-n-ary-tree-preorder-traversal.py) |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [easy/0590-n-ary-tree-postorder-traversal.py](easy/0590-n-ary-tree-postorder-traversal.py) |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [easy/0594-longest-harmonious-subsequence.py](easy/0594-longest-harmonious-subsequence.py) |
@@ -1596,4 +1606,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1570**
+**Total solved: 1580**
