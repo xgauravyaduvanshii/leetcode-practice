@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (171)
+## Solved — Hard (181)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1740,6 +1740,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | [hard/1001-grid-illumination.py](hard/1001-grid-illumination.py) |
 | 1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/) | [hard/1012-numbers-with-repeated-digits.py](hard/1012-numbers-with-repeated-digits.py) |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [hard/1028-recover-a-tree-from-preorder-traversal.py](hard/1028-recover-a-tree-from-preorder-traversal.py) |
+| 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [hard/1032-stream-of-characters.py](hard/1032-stream-of-characters.py) |
+| 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [hard/1036-escape-a-large-maze.py](hard/1036-escape-a-large-maze.py) |
+| 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [hard/1044-longest-duplicate-substring.py](hard/1044-longest-duplicate-substring.py) |
+| 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [hard/1074-number-of-submatrices-that-sum-to-target.py](hard/1074-number-of-submatrices-that-sum-to-target.py) |
+| 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [hard/1092-shortest-common-supersequence.py](hard/1092-shortest-common-supersequence.py) |
+| 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [hard/1095-find-in-mountain-array.py](hard/1095-find-in-mountain-array.py) |
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [hard/1096-brace-expansion-ii.py](hard/1096-brace-expansion-ii.py) |
+| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [hard/1106-parsing-a-boolean-expression.py](hard/1106-parsing-a-boolean-expression.py) |
+| 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [hard/1125-smallest-sufficient-team.py](hard/1125-smallest-sufficient-team.py) |
+| 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [hard/1147-longest-chunked-palindrome-decomposition.py](hard/1147-longest-chunked-palindrome-decomposition.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1716**
+**Total solved: 1726**
