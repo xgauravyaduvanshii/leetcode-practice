@@ -1566,7 +1566,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (161)
+## Solved — Hard (171)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1728,8 +1728,18 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [hard/960-delete-columns-to-make-sorted-iii.py](hard/960-delete-columns-to-make-sorted-iii.py) |
 | 964 | [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number/) | [hard/964-least-operators-to-express-number.py](hard/964-least-operators-to-express-number.py) |
 | 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [hard/968-binary-tree-cameras.py](hard/968-binary-tree-cameras.py) |
+| 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [hard/972-equal-rational-numbers.py](hard/972-equal-rational-numbers.py) |
 | 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | [hard/975-odd-even-jump.py](hard/975-odd-even-jump.py) |
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [hard/980-unique-paths-iii.py](hard/980-unique-paths-iii.py) |
+| 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [hard/982-triples-with-bitwise-and-equal-to-zero.py](hard/982-triples-with-bitwise-and-equal-to-zero.py) |
+| 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [hard/987-vertical-order-traversal-of-a-binary-tree.py](hard/987-vertical-order-traversal-of-a-binary-tree.py) |
+| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [hard/992-subarrays-with-k-different-integers.py](hard/992-subarrays-with-k-different-integers.py) |
+| 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [hard/995-minimum-number-of-k-consecutive-bit-flips.py](hard/995-minimum-number-of-k-consecutive-bit-flips.py) |
+| 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | [hard/996-number-of-squareful-arrays.py](hard/996-number-of-squareful-arrays.py) |
+| 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [hard/1000-minimum-cost-to-merge-stones.py](hard/1000-minimum-cost-to-merge-stones.py) |
+| 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | [hard/1001-grid-illumination.py](hard/1001-grid-illumination.py) |
+| 1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/) | [hard/1012-numbers-with-repeated-digits.py](hard/1012-numbers-with-repeated-digits.py) |
+| 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [hard/1028-recover-a-tree-from-preorder-traversal.py](hard/1028-recover-a-tree-from-preorder-traversal.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1706**
+**Total solved: 1716**
