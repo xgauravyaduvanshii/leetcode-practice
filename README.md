@@ -864,7 +864,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (698)
+## Solved — Medium (699)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1549,6 +1549,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [medium/1441-build-an-array-with-stack-operations.py](medium/1441-build-an-array-with-stack-operations.py) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [medium/1877-minimize-maximum-pair-sum-in-array.py](medium/1877-minimize-maximum-pair-sum-in-array.py) |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [medium/1878-get-biggest-three-rhombus-sums-in-a-grid.py](medium/1878-get-biggest-three-rhombus-sums-in-a-grid.py) |
+| 1881 | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [medium/1881-maximum-value-after-insertion.py](medium/1881-maximum-value-after-insertion.py) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
 | 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py](medium/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target.py) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [medium/2149-rearrange-array-elements-by-sign.py](medium/2149-rearrange-array-elements-by-sign.py) |
@@ -1567,7 +1568,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (211)
+## Solved — Hard (216)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1781,6 +1782,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [hard/1320-minimum-distance-to-type-a-word-using-two-fingers.py](hard/1320-minimum-distance-to-type-a-word-using-two-fingers.py) · [hard/1320-minimum-distance-to-type-a-word-using-two-fingers.kt](hard/1320-minimum-distance-to-type-a-word-using-two-fingers.kt) |
 | 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [hard/1326-minimum-number-of-taps-to-open-to-water-a-garden.py](hard/1326-minimum-number-of-taps-to-open-to-water-a-garden.py) · [hard/1326-minimum-number-of-taps-to-open-to-water-a-garden.java](hard/1326-minimum-number-of-taps-to-open-to-water-a-garden.java) |
 | 1330 | [Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) | [hard/1330-reverse-subarray-to-maximize-array-value.py](hard/1330-reverse-subarray-to-maximize-array-value.py) · [hard/1330-reverse-subarray-to-maximize-array-value.cpp](hard/1330-reverse-subarray-to-maximize-array-value.cpp) |
+| 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [hard/1335-minimum-difficulty-of-a-job-schedule.py](hard/1335-minimum-difficulty-of-a-job-schedule.py) · [hard/1335-minimum-difficulty-of-a-job-schedule.js](hard/1335-minimum-difficulty-of-a-job-schedule.js) |
+| 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [hard/1340-jump-game-v.py](hard/1340-jump-game-v.py) · [hard/1340-jump-game-v.go](hard/1340-jump-game-v.go) |
+| 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [hard/1345-jump-game-iv.py](hard/1345-jump-game-iv.py) · [hard/1345-jump-game-iv.rs](hard/1345-jump-game-iv.rs) |
+| 1349 | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | [hard/1349-maximum-students-taking-exam.py](hard/1349-maximum-students-taking-exam.py) · [hard/1349-maximum-students-taking-exam.ts](hard/1349-maximum-students-taking-exam.ts) |
+| 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [hard/1354-construct-target-array-with-multiple-sums.py](hard/1354-construct-target-array-with-multiple-sums.py) · [hard/1354-construct-target-array-with-multiple-sums.cs](hard/1354-construct-target-array-with-multiple-sums.cs) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1757**
+**Total solved: 1763**
