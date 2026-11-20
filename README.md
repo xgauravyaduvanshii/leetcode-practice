@@ -578,7 +578,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [easy/1929-concatenation-of-array.py](easy/1929-concatenation-of-array.py) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [easy/2243-calculate-digit-sum-of-a-string.py](easy/2243-calculate-digit-sum-of-a-string.py) |
 
-## Solved — Medium (639)
+## Solved — Medium (649)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1193,6 +1193,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [medium/1706-where-will-the-ball-fall.py](medium/1706-where-will-the-ball-fall.py) |
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [medium/1711-count-good-meals.py](medium/1711-count-good-meals.py) |
 | 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [medium/1712-ways-to-split-array-into-three-subarrays.py](medium/1712-ways-to-split-array-into-three-subarrays.py) |
+| 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [medium/1717-maximum-score-from-removing-substrings.py](medium/1717-maximum-score-from-removing-substrings.py) |
+| 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [medium/1718-construct-the-lexicographically-largest-valid-sequence.py](medium/1718-construct-the-lexicographically-largest-valid-sequence.py) |
+| 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [medium/1721-swapping-nodes-in-a-linked-list.py](medium/1721-swapping-nodes-in-a-linked-list.py) |
+| 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [medium/1722-minimize-hamming-distance-after-swap-operations.py](medium/1722-minimize-hamming-distance-after-swap-operations.py) |
+| 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | [medium/1726-tuple-with-same-product.py](medium/1726-tuple-with-same-product.py) |
+| 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [medium/1727-largest-submatrix-with-rearrangements.py](medium/1727-largest-submatrix-with-rearrangements.py) |
+| 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | [medium/1733-minimum-number-of-people-to-teach.py](medium/1733-minimum-number-of-people-to-teach.py) |
+| 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) | [medium/1734-decode-xored-permutation.py](medium/1734-decode-xored-permutation.py) |
+| 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [medium/1737-change-minimum-characters-to-satisfy-one-of-three-conditions.py](medium/1737-change-minimum-characters-to-satisfy-one-of-three-conditions.py) |
+| 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [medium/1738-find-kth-largest-xor-coordinate-value.py](medium/1738-find-kth-largest-xor-coordinate-value.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [medium/0686-repeated-string-match.py](medium/0686-repeated-string-match.py) |
@@ -1327,4 +1337,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1301**
+**Total solved: 1311**
