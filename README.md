@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (562)
+## Solved — Easy (572)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -35,6 +35,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [easy/0083-remove-duplicates-from-sorted-list.py](easy/0083-remove-duplicates-from-sorted-list.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [easy/0088-merge-sorted-array.py](easy/0088-merge-sorted-array.py) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [easy/0094-binary-tree-inorder-traversal.py](easy/0094-binary-tree-inorder-traversal.py) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [easy/100-same-tree.py](easy/100-same-tree.py) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [easy/0101-symmetric-tree.py](easy/0101-symmetric-tree.py) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [easy/0104-maximum-depth-of-binary-tree.py](easy/0104-maximum-depth-of-binary-tree.py) |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [easy/0108-convert-sorted-array-to-binary-search-tree.py](easy/0108-convert-sorted-array-to-binary-search-tree.py) |
@@ -50,8 +51,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [easy/0144-binary-tree-preorder-traversal.py](easy/0144-binary-tree-preorder-traversal.py) |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [easy/0145-binary-tree-postorder-traversal.py](easy/0145-binary-tree-postorder-traversal.py) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [easy/0160-intersection-of-two-linked-lists.py](easy/0160-intersection-of-two-linked-lists.py) |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [easy/168-excel-sheet-column-title.py](easy/168-excel-sheet-column-title.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [easy/0169-majority-element.py](easy/0169-majority-element.py) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [easy/0171-excel-sheet-column-number.py](easy/0171-excel-sheet-column-number.py) |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [easy/190-reverse-bits.py](easy/190-reverse-bits.py) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [easy/0191-number-of-1-bits.py](easy/0191-number-of-1-bits.py) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [easy/0202-happy-number.py](easy/0202-happy-number.py) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [easy/0203-remove-linked-list-elements.py](easy/0203-remove-linked-list-elements.py) |
@@ -59,7 +62,9 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [easy/0206-reverse-linked-list.py](easy/0206-reverse-linked-list.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [easy/0217-contains-duplicate.py](easy/0217-contains-duplicate.py) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [easy/0219-contains-duplicate-ii.py](easy/0219-contains-duplicate-ii.py) |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [easy/225-implement-stack-using-queues.py](easy/225-implement-stack-using-queues.py) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [easy/0226-invert-binary-tree.py](easy/0226-invert-binary-tree.py) |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [easy/228-summary-ranges.py](easy/228-summary-ranges.py) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [easy/0231-power-of-two.py](easy/0231-power-of-two.py) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [easy/0232-implement-queue-using-stacks.py](easy/0232-implement-queue-using-stacks.py) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [easy/0234-palindrome-linked-list.py](easy/0234-palindrome-linked-list.py) |
@@ -69,11 +74,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [easy/0258-add-digits.py](easy/0258-add-digits.py) |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [easy/0263-ugly-number.py](easy/0263-ugly-number.py) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [easy/0268-missing-number.py](easy/0268-missing-number.py) |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [easy/278-first-bad-version.py](easy/278-first-bad-version.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [easy/0283-move-zeroes.py](easy/0283-move-zeroes.py) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [easy/0290-word-pattern.py](easy/0290-word-pattern.py) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [easy/0292-nim-game.py](easy/0292-nim-game.py) |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [easy/0303-range-sum-query-immutable.py](easy/0303-range-sum-query-immutable.py) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [easy/0326-power-of-three.py](easy/0326-power-of-three.py) |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [easy/338-counting-bits.py](easy/338-counting-bits.py) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [easy/0342-power-of-four.py](easy/0342-power-of-four.py) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [easy/0344-reverse-string.py](easy/0344-reverse-string.py) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [easy/0345-reverse-vowels-of-a-string.py](easy/0345-reverse-vowels-of-a-string.py) |
@@ -81,6 +88,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [easy/0350-intersection-of-two-arrays-ii.py](easy/0350-intersection-of-two-arrays-ii.py) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [easy/0367-valid-perfect-square.py](easy/0367-valid-perfect-square.py) |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [easy/0374-guess-number-higher-or-lower.py](easy/0374-guess-number-higher-or-lower.py) |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [easy/387-first-unique-character-in-a-string.py](easy/387-first-unique-character-in-a-string.py) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [easy/0389-find-the-difference.py](easy/0389-find-the-difference.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [easy/0392-is-subsequence.py](easy/0392-is-subsequence.py) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [easy/0401-binary-watch.py](easy/0401-binary-watch.py) |
@@ -104,8 +112,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [easy/0495-teemo-attacking.py](easy/0495-teemo-attacking.py) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [easy/0496-next-greater-element-i.py](easy/0496-next-greater-element-i.py) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [easy/0500-keyboard-row.py](easy/0500-keyboard-row.py) |
+| 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [easy/501-find-mode-in-binary-search-tree.py](easy/501-find-mode-in-binary-search-tree.py) |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | [easy/0504-base-7.py](easy/0504-base-7.py) |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [easy/0506-relative-ranks.py](easy/0506-relative-ranks.py) |
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [easy/507-perfect-number.py](easy/507-perfect-number.py) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [easy/0509-fibonacci-number.py](easy/0509-fibonacci-number.py) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [easy/0520-detect-capital.py](easy/0520-detect-capital.py) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [easy/0521-longest-uncommon-subsequence-i.py](easy/0521-longest-uncommon-subsequence-i.py) |
@@ -1385,4 +1395,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [hard/0847-shortest-path-visiting-all-nodes.py](hard/0847-shortest-path-visiting-all-nodes.py) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [hard/0850-rectangle-area-ii.py](hard/0850-rectangle-area-ii.py) |
 
-**Total solved: 1359**
+**Total solved: 1369**
