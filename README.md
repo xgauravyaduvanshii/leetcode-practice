@@ -866,12 +866,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (716)
+## Solved — Medium (718)
 
 | # | Problem | Solution |
 |---|---------|----------|
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [medium/0045-jump-game-ii.py](medium/0045-jump-game-ii.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [medium/0053-maximum-subarray.py](medium/0053-maximum-subarray.py) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [medium/0056-merge-intervals.py](medium/0056-merge-intervals.py) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [medium/0146-lru-cache.py](medium/0146-lru-cache.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [medium/0150-evaluate-reverse-polish-notation.py](medium/0150-evaluate-reverse-polish-notation.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [medium/0155-min-stack.py](medium/0155-min-stack.py) |
@@ -1549,6 +1550,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [medium/1870-minimum-speed-to-arrive-on-time.py](medium/1870-minimum-speed-to-arrive-on-time.py) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [medium/1871-jump-game-vii.py](medium/1871-jump-game-vii.py) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
+| 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
 | 3576 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [medium/3576-find-subtree-sizes-after-changes.py](medium/3576-find-subtree-sizes-after-changes.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
@@ -1875,4 +1877,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [hard/1681-minimum-incompatibility.py](hard/1681-minimum-incompatibility.py) · [hard/1681-minimum-incompatibility.kt](hard/1681-minimum-incompatibility.kt) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1849**
+**Total solved: 1851**
