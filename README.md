@@ -866,7 +866,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (707)
+## Solved — Medium (714)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -880,7 +880,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [medium/0167-two-sum-ii-input-array-is-sorted.py](medium/0167-two-sum-ii-input-array-is-sorted.py) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [medium/0172-factorial-trailing-zeroes.py](medium/0172-factorial-trailing-zeroes.py) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [medium/0173-binary-search-tree-iterator.py](medium/0173-binary-search-tree-iterator.py) |
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [medium/0178-rank-scores.sql](medium/0178-rank-scores.sql) |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [medium/0179-largest-number.py](medium/0179-largest-number.py) |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [medium/0180-consecutive-numbers.sql](medium/0180-consecutive-numbers.sql) |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [medium/0184-department-highest-salary.sql](medium/0184-department-highest-salary.sql) |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [medium/0187-repeated-dna-sequences.py](medium/0187-repeated-dna-sequences.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [medium/0189-rotate-array.py](medium/0189-rotate-array.py) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [medium/0198-house-robber.py](medium/0198-house-robber.py) |
@@ -1037,8 +1040,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [medium/0576-out-of-boundary-paths.py](medium/0576-out-of-boundary-paths.py) |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [medium/0581-shortest-unsorted-continuous-subarray.py](medium/0581-shortest-unsorted-continuous-subarray.py) |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [medium/0583-delete-operation-for-two-strings.py](medium/0583-delete-operation-for-two-strings.py) |
+| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [medium/0585-investments-in-2016.sql](medium/0585-investments-in-2016.sql) |
 | 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [medium/0592-fraction-addition-and-subtraction.py](medium/0592-fraction-addition-and-subtraction.py) |
 | 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [medium/0593-valid-square.py](medium/0593-valid-square.py) |
+| 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [medium/0608-tree-node.sql](medium/0608-tree-node.sql) |
 | 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [medium/0609-find-duplicate-file-in-system.py](medium/0609-find-duplicate-file-in-system.py) |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [medium/0611-valid-triangle-number.py](medium/0611-valid-triangle-number.py) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [medium/0621-task-scheduler.py](medium/0621-task-scheduler.py) |
@@ -1253,6 +1258,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [medium/1053-previous-permutation-with-one-swap.py](medium/1053-previous-permutation-with-one-swap.py) |
 | 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [medium/1054-distant-barcodes.py](medium/1054-distant-barcodes.py) |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [medium/1061-lexicographically-smallest-equivalent-string.py](medium/1061-lexicographically-smallest-equivalent-string.py) |
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | [medium/1070-product-sales-analysis-iii.sql](medium/1070-product-sales-analysis-iii.sql) |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [medium/1072-flip-columns-for-maximum-number-of-equal-rows.py](medium/1072-flip-columns-for-maximum-number-of-equal-rows.py) |
 | 1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | [medium/1073-adding-two-negabinary-numbers.py](medium/1073-adding-two-negabinary-numbers.py) |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [medium/1079-letter-tile-possibilities.py](medium/1079-letter-tile-possibilities.py) |
@@ -1343,6 +1349,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py](medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [medium/1338-reduce-array-size-to-the-half.py](medium/1338-reduce-array-size-to-the-half.py) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [medium/1339-maximum-product-of-splitted-binary-tree.py](medium/1339-maximum-product-of-splitted-binary-tree.py) |
+| 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [medium/1341-movie-rating.sql](medium/1341-movie-rating.sql) |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py](medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [medium/1344-angle-between-hands-of-a-clock.py](medium/1344-angle-between-hands-of-a-clock.py) |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [medium/1347-minimum-number-of-steps-to-make-two-strings-anagram.py](medium/1347-minimum-number-of-steps-to-make-two-strings-anagram.py) |
@@ -1578,7 +1585,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (281)
+## Solved — Hard (283)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1620,6 +1627,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [hard/0224-basic-calculator.py](hard/0224-basic-calculator.py) |
 | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [hard/0233-number-of-digit-one.py](hard/0233-number-of-digit-one.py) |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [hard/0239-sliding-window-maximum.py](hard/0239-sliding-window-maximum.py) |
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [hard/0262-trips-and-users.sql](hard/0262-trips-and-users.sql) |
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [hard/0273-integer-to-english-words.py](hard/0273-integer-to-english-words.py) |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [hard/0282-expression-add-operators.py](hard/0282-expression-add-operators.py) |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [hard/0295-find-median-from-data-stream.py](hard/0295-find-median-from-data-stream.py) |
@@ -1664,6 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [hard/0587-erect-the-fence.py](hard/0587-erect-the-fence.py) |
 | 591 | [Tag Validator](https://leetcode.com/problems/tag-validator/) | [hard/0591-tag-validator.py](hard/0591-tag-validator.py) |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [hard/600-non-negative-integers-without-consecutive-ones.py](hard/600-non-negative-integers-without-consecutive-ones.py) |
+| 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [hard/0601-human-traffic-of-stadium.sql](hard/0601-human-traffic-of-stadium.sql) |
 | 629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [hard/629-k-inverse-pairs-array.py](hard/629-k-inverse-pairs-array.py) |
 | 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [hard/630-course-schedule-iii.py](hard/630-course-schedule-iii.py) |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [hard/0632-smallest-range-covering-elements-from-k-lists.py](hard/0632-smallest-range-covering-elements-from-k-lists.py) |
@@ -1864,4 +1873,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [hard/1681-minimum-incompatibility.py](hard/1681-minimum-incompatibility.py) · [hard/1681-minimum-incompatibility.kt](hard/1681-minimum-incompatibility.kt) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1838**
+**Total solved: 1847**
