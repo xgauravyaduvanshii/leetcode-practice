@@ -866,10 +866,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (721)
+## Solved — Medium (724)
 
 | # | Problem | Solution |
 |---|---------|----------|
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [medium/0022-generate-parentheses.py](medium/0022-generate-parentheses.py) |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [medium/0045-jump-game-ii.py](medium/0045-jump-game-ii.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [medium/0053-maximum-subarray.py](medium/0053-maximum-subarray.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [medium/0056-merge-intervals.py](medium/0056-merge-intervals.py) |
@@ -877,6 +878,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [medium/0137-single-number-ii.py](medium/0137-single-number-ii.py) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [medium/0146-lru-cache.py](medium/0146-lru-cache.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [medium/0150-evaluate-reverse-polish-notation.py](medium/0150-evaluate-reverse-polish-notation.py) |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [medium/0152-maximum-product-subarray.py](medium/0152-maximum-product-subarray.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [medium/0155-min-stack.py](medium/0155-min-stack.py) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [medium/0164-maximum-gap.py](medium/0164-maximum-gap.py) |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [medium/0165-compare-version-numbers.py](medium/0165-compare-version-numbers.py) |
@@ -1554,6 +1556,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
 | 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [medium/2523-closest-prime-numbers-in-range.py](medium/2523-closest-prime-numbers-in-range.py) |
+| 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [medium/2571-minimum-operations-to-reduce-an-integer-to-0.py](medium/2571-minimum-operations-to-reduce-an-integer-to-0.py) |
 | 3576 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [medium/3576-find-subtree-sizes-after-changes.py](medium/3576-find-subtree-sizes-after-changes.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [medium/0669-trim-a-binary-search-tree.py](medium/0669-trim-a-binary-search-tree.py) |
@@ -1592,7 +1595,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (284)
+## Solved — Hard (285)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1879,6 +1882,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | [hard/1675-minimize-deviation-in-array.py](hard/1675-minimize-deviation-in-array.py) · [hard/1675-minimize-deviation-in-array.cs](hard/1675-minimize-deviation-in-array.cs) |
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [hard/1681-minimum-incompatibility.py](hard/1681-minimum-incompatibility.py) · [hard/1681-minimum-incompatibility.kt](hard/1681-minimum-incompatibility.kt) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
+| 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1855**
+**Total solved: 1859**
