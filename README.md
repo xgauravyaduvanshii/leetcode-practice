@@ -866,12 +866,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (724)
+## Solved — Medium (725)
 
 | # | Problem | Solution |
 |---|---------|----------|
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [medium/0022-generate-parentheses.py](medium/0022-generate-parentheses.py) |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [medium/0045-jump-game-ii.py](medium/0045-jump-game-ii.py) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [medium/0049-group-anagrams.py](medium/0049-group-anagrams.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [medium/0053-maximum-subarray.py](medium/0053-maximum-subarray.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [medium/0056-merge-intervals.py](medium/0056-merge-intervals.py) |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [medium/0089-gray-code.py](medium/0089-gray-code.py) |
@@ -1885,4 +1886,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1859**
+**Total solved: 1860**
