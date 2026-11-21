@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (848)
+## Solved — Easy (850)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -239,6 +239,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [easy/1025-divisor-game.py](easy/1025-divisor-game.py) |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [easy/1030-matrix-cells-in-distance-order.py](easy/1030-matrix-cells-in-distance-order.py) |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [easy/1037-valid-boomerang.py](easy/1037-valid-boomerang.py) |
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [easy/1045-customers-who-bought-all-products.sql](easy/1045-customers-who-bought-all-products.sql) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [easy/1046-last-stone-weight.py](easy/1046-last-stone-weight.py) |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [easy/1047-remove-all-adjacent-duplicates-in-string.py](easy/1047-remove-all-adjacent-duplicates-in-string.py) |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [easy/1050-actors-and-directors-who-cooperated-at-least-three-times.sql](easy/1050-actors-and-directors-who-cooperated-at-least-three-times.sql) |
@@ -264,6 +265,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [easy/1184-distance-between-bus-stops.py](easy/1184-distance-between-bus-stops.py) |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [easy/1185-day-of-the-week.py](easy/1185-day-of-the-week.py) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [easy/1189-maximum-number-of-balloons.py](easy/1189-maximum-number-of-balloons.py) |
+| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [easy/1193-monthly-transactions-i.sql](easy/1193-monthly-transactions-i.sql) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [easy/1200-minimum-absolute-difference.py](easy/1200-minimum-absolute-difference.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [easy/1207-unique-number-of-occurrences.py](easy/1207-unique-number-of-occurrences.py) |
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [easy/1211-queries-quality-and-percentage.sql](easy/1211-queries-quality-and-percentage.sql) |
@@ -1862,4 +1864,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [hard/1681-minimum-incompatibility.py](hard/1681-minimum-incompatibility.py) · [hard/1681-minimum-incompatibility.kt](hard/1681-minimum-incompatibility.kt) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1836**
+**Total solved: 1838**
