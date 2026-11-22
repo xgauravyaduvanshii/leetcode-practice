@@ -1652,7 +1652,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (299)
+## Solved — Hard (304)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1943,6 +1943,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [hard/1697-checking-existence-of-edge-length-limited-paths.py](hard/1697-checking-existence-of-edge-length-limited-paths.py) · [hard/1697-checking-existence-of-edge-length-limited-paths.js](hard/1697-checking-existence-of-edge-length-limited-paths.js) |
 | 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones.py](hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones.py) · [hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones.go](hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones.go) |
 | 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [hard/1707-maximum-xor-with-an-element-from-array.py](hard/1707-maximum-xor-with-an-element-from-array.py) · [hard/1707-maximum-xor-with-an-element-from-array.rs](hard/1707-maximum-xor-with-an-element-from-array.rs) |
+| 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | [hard/1713-minimum-operations-to-make-a-subsequence.py](hard/1713-minimum-operations-to-make-a-subsequence.py) · [hard/1713-minimum-operations-to-make-a-subsequence.ts](hard/1713-minimum-operations-to-make-a-subsequence.ts) |
+| 1719 | [Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/) | [hard/1719-number-of-ways-to-reconstruct-a-tree.py](hard/1719-number-of-ways-to-reconstruct-a-tree.py) · [hard/1719-number-of-ways-to-reconstruct-a-tree.cs](hard/1719-number-of-ways-to-reconstruct-a-tree.cs) |
+| 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) | [hard/1723-find-minimum-time-to-finish-all-jobs.py](hard/1723-find-minimum-time-to-finish-all-jobs.py) · [hard/1723-find-minimum-time-to-finish-all-jobs.kt](hard/1723-find-minimum-time-to-finish-all-jobs.kt) |
+| 1728 | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | [hard/1728-cat-and-mouse-ii.py](hard/1728-cat-and-mouse-ii.py) · [hard/1728-cat-and-mouse-ii.java](hard/1728-cat-and-mouse-ii.java) |
+| 1735 | [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [hard/1735-count-ways-to-make-array-with-product.py](hard/1735-count-ways-to-make-array-with-product.py) · [hard/1735-count-ways-to-make-array-with-product.cpp](hard/1735-count-ways-to-make-array-with-product.cpp) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
@@ -1955,4 +1960,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1929**
+**Total solved: 1934**
