@@ -1652,7 +1652,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (304)
+## Solved — Hard (309)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1948,6 +1948,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) | [hard/1723-find-minimum-time-to-finish-all-jobs.py](hard/1723-find-minimum-time-to-finish-all-jobs.py) · [hard/1723-find-minimum-time-to-finish-all-jobs.kt](hard/1723-find-minimum-time-to-finish-all-jobs.kt) |
 | 1728 | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | [hard/1728-cat-and-mouse-ii.py](hard/1728-cat-and-mouse-ii.py) · [hard/1728-cat-and-mouse-ii.java](hard/1728-cat-and-mouse-ii.java) |
 | 1735 | [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [hard/1735-count-ways-to-make-array-with-product.py](hard/1735-count-ways-to-make-array-with-product.py) · [hard/1735-count-ways-to-make-array-with-product.cpp](hard/1735-count-ways-to-make-array-with-product.cpp) |
+| 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | [hard/1739-building-boxes.py](hard/1739-building-boxes.py) · [hard/1739-building-boxes.js](hard/1739-building-boxes.js) |
+| 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | [hard/1745-palindrome-partitioning-iv.py](hard/1745-palindrome-partitioning-iv.py) · [hard/1745-palindrome-partitioning-iv.go](hard/1745-palindrome-partitioning-iv.go) |
+| 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [hard/1751-maximum-number-of-events-that-can-be-attended-ii.py](hard/1751-maximum-number-of-events-that-can-be-attended-ii.py) · [hard/1751-maximum-number-of-events-that-can-be-attended-ii.rs](hard/1751-maximum-number-of-events-that-can-be-attended-ii.rs) |
+| 1755 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | [hard/1755-closest-subsequence-sum.py](hard/1755-closest-subsequence-sum.py) · [hard/1755-closest-subsequence-sum.ts](hard/1755-closest-subsequence-sum.ts) |
+| 1761 | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | [hard/1761-minimum-degree-of-a-connected-trio-in-a-graph.py](hard/1761-minimum-degree-of-a-connected-trio-in-a-graph.py) · [hard/1761-minimum-degree-of-a-connected-trio-in-a-graph.cs](hard/1761-minimum-degree-of-a-connected-trio-in-a-graph.cs) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
@@ -1960,4 +1965,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1934**
+**Total solved: 1939**
