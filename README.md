@@ -866,7 +866,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (728)
+## Solved — Medium (730)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -876,7 +876,9 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [medium/0049-group-anagrams.py](medium/0049-group-anagrams.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [medium/0053-maximum-subarray.py](medium/0053-maximum-subarray.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [medium/0056-merge-intervals.py](medium/0056-merge-intervals.py) |
+| 77 | [Combinations](https://leetcode.com/problems/combinations/) | [medium/0077-combinations.py](medium/0077-combinations.py) |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [medium/0089-gray-code.py](medium/0089-gray-code.py) |
+| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [medium/0093-restore-ip-addresses.py](medium/0093-restore-ip-addresses.py) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [medium/0137-single-number-ii.py](medium/0137-single-number-ii.py) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [medium/0138-copy-list-with-random-pointer.py](medium/0138-copy-list-with-random-pointer.py) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [medium/0146-lru-cache.py](medium/0146-lru-cache.py) |
@@ -1599,7 +1601,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (286)
+## Solved — Hard (287)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1887,7 +1889,8 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [hard/1681-minimum-incompatibility.py](hard/1681-minimum-incompatibility.py) · [hard/1681-minimum-incompatibility.kt](hard/1681-minimum-incompatibility.kt) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
+| 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2858 | [Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | [hard/2858-minimum-edge-reversals-so-every-node-is-reachable.py](hard/2858-minimum-edge-reversals-so-every-node-is-reachable.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1864**
+**Total solved: 1867**
