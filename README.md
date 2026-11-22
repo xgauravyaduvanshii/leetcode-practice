@@ -1655,7 +1655,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (330)
+## Solved — Hard (335)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1978,6 +1978,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1862 | [Sum of Floored Pairs](https://leetcode.com/problems/sum-of-floored-pairs/) | [hard/1862-sum-of-floored-pairs.py](hard/1862-sum-of-floored-pairs.py) · [hard/1862-sum-of-floored-pairs.go](hard/1862-sum-of-floored-pairs.go) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) · [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.rs](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.rs) |
 | 1872 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | [hard/1872-stone-game-viii.py](hard/1872-stone-game-viii.py) · [hard/1872-stone-game-viii.ts](hard/1872-stone-game-viii.ts) |
+| 1879 | [Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/) | [hard/1879-minimum-xor-sum-of-two-arrays.py](hard/1879-minimum-xor-sum-of-two-arrays.py) · [hard/1879-minimum-xor-sum-of-two-arrays.cs](hard/1879-minimum-xor-sum-of-two-arrays.cs) |
+| 1883 | [Minimum Skips to Arrive at Meeting On Time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/) | [hard/1883-minimum-skips-to-arrive-at-meeting-on-time.py](hard/1883-minimum-skips-to-arrive-at-meeting-on-time.py) · [hard/1883-minimum-skips-to-arrive-at-meeting-on-time.kt](hard/1883-minimum-skips-to-arrive-at-meeting-on-time.kt) |
+| 1889 | [Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/) | [hard/1889-minimum-space-wasted-from-packaging.py](hard/1889-minimum-space-wasted-from-packaging.py) · [hard/1889-minimum-space-wasted-from-packaging.java](hard/1889-minimum-space-wasted-from-packaging.java) |
+| 1896 | [Minimum Cost to Change the Final Value of Expression](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/) | [hard/1896-minimum-cost-to-change-the-final-value-of-expression.py](hard/1896-minimum-cost-to-change-the-final-value-of-expression.py) · [hard/1896-minimum-cost-to-change-the-final-value-of-expression.cpp](hard/1896-minimum-cost-to-change-the-final-value-of-expression.cpp) |
+| 1900 | [The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | [hard/1900-the-earliest-and-latest-rounds-where-players-compete.py](hard/1900-the-earliest-and-latest-rounds-where-players-compete.py) · [hard/1900-the-earliest-and-latest-rounds-where-players-compete.js](hard/1900-the-earliest-and-latest-rounds-where-players-compete.js) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [hard/2076-process-restricted-friend-requests.py](hard/2076-process-restricted-friend-requests.py) |
@@ -1989,4 +1994,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1963**
+**Total solved: 1968**
