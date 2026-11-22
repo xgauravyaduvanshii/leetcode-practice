@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (852)
+## Solved — Easy (853)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -55,6 +55,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [easy/0169-majority-element.py](easy/0169-majority-element.py) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [easy/0171-excel-sheet-column-number.py](easy/0171-excel-sheet-column-number.py) |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [easy/175-combine-two-tables.sql](easy/175-combine-two-tables.sql) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [easy/0176-second-highest-salary.sql](easy/0176-second-highest-salary.sql) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [easy/181-employees-earning-more-than-their-managers.sql](easy/181-employees-earning-more-than-their-managers.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [easy/182-duplicate-emails.sql](easy/182-duplicate-emails.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [easy/183-customers-who-never-order.sql](easy/183-customers-who-never-order.sql) |
@@ -871,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (759)
+## Solved — Medium (767)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1056,6 +1057,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [medium/0540-single-element-in-a-sorted-array.py](medium/0540-single-element-in-a-sorted-array.py) |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [medium/0542-01-matrix.py](medium/0542-01-matrix.py) |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [medium/0547-number-of-provinces.py](medium/0547-number-of-provinces.py) |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [medium/0550-game-play-analysis-iv.sql](medium/0550-game-play-analysis-iv.sql) |
 | 553 | [Optimal Division](https://leetcode.com/problems/optimal-division/) | [medium/0553-optimal-division.py](medium/0553-optimal-division.py) |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [medium/0554-brick-wall.py](medium/0554-brick-wall.py) |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [medium/0556-next-greater-element-iii.py](medium/0556-next-greater-element-iii.py) |
@@ -1063,12 +1065,14 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [medium/0560-subarray-sum-equals-k.py](medium/0560-subarray-sum-equals-k.py) |
 | 565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | [medium/0565-array-nesting.py](medium/0565-array-nesting.py) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [medium/0567-permutation-in-string.py](medium/0567-permutation-in-string.py) |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [medium/0570-managers-with-at-least-5-direct-reports.sql](medium/0570-managers-with-at-least-5-direct-reports.sql) |
 | 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [medium/0576-out-of-boundary-paths.py](medium/0576-out-of-boundary-paths.py) |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [medium/0581-shortest-unsorted-continuous-subarray.py](medium/0581-shortest-unsorted-continuous-subarray.py) |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [medium/0583-delete-operation-for-two-strings.py](medium/0583-delete-operation-for-two-strings.py) |
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [medium/0585-investments-in-2016.sql](medium/0585-investments-in-2016.sql) |
 | 592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [medium/0592-fraction-addition-and-subtraction.py](medium/0592-fraction-addition-and-subtraction.py) |
 | 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [medium/0593-valid-square.py](medium/0593-valid-square.py) |
+| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [medium/0602-friend-requests-ii-who-has-the-most-friends.sql](medium/0602-friend-requests-ii-who-has-the-most-friends.sql) |
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [medium/0608-tree-node.sql](medium/0608-tree-node.sql) |
 | 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [medium/0609-find-duplicate-file-in-system.py](medium/0609-find-duplicate-file-in-system.py) |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [medium/0611-valid-triangle-number.py](medium/0611-valid-triangle-number.py) |
@@ -1076,6 +1080,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [medium/0622-design-circular-queue.py](medium/0622-design-circular-queue.py) |
 | 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [medium/0623-add-one-row-to-tree.py](medium/0623-add-one-row-to-tree.py) |
 | 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | [medium/0624-maximum-distance-in-arrays.py](medium/0624-maximum-distance-in-arrays.py) |
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [medium/0626-exchange-seats.sql](medium/0626-exchange-seats.sql) |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [medium/0633-sum-of-square-numbers.py](medium/0633-sum-of-square-numbers.py) |
 | 636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | [medium/0636-exclusive-time-of-functions.py](medium/0636-exclusive-time-of-functions.py) |
 | 638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [medium/0638-shopping-offers.py](medium/0638-shopping-offers.py) |
@@ -1320,6 +1325,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [medium/1162-as-far-from-land-as-possible.py](medium/1162-as-far-from-land-as-possible.py) |
 | 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [medium/1169-invalid-transactions.py](medium/1169-invalid-transactions.py) |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [medium/1171-remove-zero-sum-consecutive-nodes-from-linked-list.py](medium/1171-remove-zero-sum-consecutive-nodes-from-linked-list.py) |
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [medium/1174-immediate-food-delivery-ii.sql](medium/1174-immediate-food-delivery-ii.sql) |
 | 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [medium/1177-can-make-palindrome-from-substring.py](medium/1177-can-make-palindrome-from-substring.py) |
 | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [medium/1186-maximum-subarray-sum-with-one-deletion.py](medium/1186-maximum-subarray-sum-with-one-deletion.py) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [medium/1190-reverse-substrings-between-each-pair-of-parentheses.py](medium/1190-reverse-substrings-between-each-pair-of-parentheses.py) |
@@ -1327,6 +1333,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | [medium/1195-fizz-buzz-multithreaded.py](medium/1195-fizz-buzz-multithreaded.py) |
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [medium/1201-ugly-number-iii.py](medium/1201-ugly-number-iii.py) |
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [medium/1202-smallest-string-with-swaps.py](medium/1202-smallest-string-with-swaps.py) |
+| 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [medium/1204-last-person-to-fit-in-the-bus.sql](medium/1204-last-person-to-fit-in-the-bus.sql) |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [medium/1208-get-equal-substrings-within-budget.py](medium/1208-get-equal-substrings-within-budget.py) |
 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [medium/1209-remove-all-adjacent-duplicates-in-string-ii.py](medium/1209-remove-all-adjacent-duplicates-in-string-ii.py) |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [medium/1218-longest-arithmetic-subsequence-of-given-difference.py](medium/1218-longest-arithmetic-subsequence-of-given-difference.py) |
@@ -1367,6 +1374,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [medium/1315-sum-of-nodes-with-even-valued-grandparent.py](medium/1315-sum-of-nodes-with-even-valued-grandparent.py) |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [medium/1318-minimum-flips-to-make-a-or-b-equal-to-c.py](medium/1318-minimum-flips-to-make-a-or-b-equal-to-c.py) |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [medium/1319-number-of-operations-to-make-network-connected.py](medium/1319-number-of-operations-to-make-network-connected.py) |
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [medium/1321-restaurant-growth.sql](medium/1321-restaurant-growth.sql) |
 | 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [medium/1324-print-words-vertically.py](medium/1324-print-words-vertically.py) |
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [medium/1325-delete-leaves-with-a-given-value.py](medium/1325-delete-leaves-with-a-given-value.py) |
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [medium/1328-break-a-palindrome.py](medium/1328-break-a-palindrome.py) |
@@ -1574,6 +1582,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [medium/1870-minimum-speed-to-arrive-on-time.py](medium/1870-minimum-speed-to-arrive-on-time.py) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [medium/1871-jump-game-vii.py](medium/1871-jump-game-vii.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
+| 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [medium/2095-delete-the-middle-node-of-a-linked-list.py](medium/2095-delete-the-middle-node-of-a-linked-list.py) |
@@ -1624,6 +1633,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py](medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py) |
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [hard/0185-department-top-three-salaries.sql](hard/0185-department-top-three-salaries.sql) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [medium/2657-find-the-prefix-common-array-of-two-arrays.py](medium/2657-find-the-prefix-common-array-of-two-arrays.py) |
 | 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [medium/2661-first-completely-painted-row-or-column.py](medium/2661-first-completely-painted-row-or-column.py) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [medium/2679-sum-in-a-matrix.py](medium/2679-sum-in-a-matrix.py) |
@@ -1632,7 +1642,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (293)
+## Solved — Hard (294)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1930,4 +1940,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1904**
+**Total solved: 1914**
