@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (767)
+## Solved — Medium (769)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1323,6 +1323,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [medium/1156-swap-for-longest-repeated-character-substring.py](medium/1156-swap-for-longest-repeated-character-substring.py) |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [medium/1161-maximum-level-sum-of-a-binary-tree.py](medium/1161-maximum-level-sum-of-a-binary-tree.py) |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [medium/1162-as-far-from-land-as-possible.py](medium/1162-as-far-from-land-as-possible.py) |
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [medium/1164-product-price-at-a-given-date.sql](medium/1164-product-price-at-a-given-date.sql) |
 | 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [medium/1169-invalid-transactions.py](medium/1169-invalid-transactions.py) |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [medium/1171-remove-zero-sum-consecutive-nodes-from-linked-list.py](medium/1171-remove-zero-sum-consecutive-nodes-from-linked-list.py) |
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [medium/1174-immediate-food-delivery-ii.sql](medium/1174-immediate-food-delivery-ii.sql) |
@@ -1581,6 +1582,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [medium/1865-finding-pairs-with-a-certain-sum.py](medium/1865-finding-pairs-with-a-certain-sum.py) |
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [medium/1870-minimum-speed-to-arrive-on-time.py](medium/1870-minimum-speed-to-arrive-on-time.py) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [medium/1871-jump-game-vii.py](medium/1871-jump-game-vii.py) |
+| 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [medium/1907-count-salary-categories.sql](medium/1907-count-salary-categories.sql) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
@@ -1940,4 +1942,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1914**
+**Total solved: 1916**
