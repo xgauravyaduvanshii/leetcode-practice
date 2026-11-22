@@ -1656,7 +1656,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (339)
+## Solved — Hard (343)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1988,7 +1988,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1916 | [Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/) | [hard/1916-count-ways-to-build-rooms-in-an-ant-colony.py](hard/1916-count-ways-to-build-rooms-in-an-ant-colony.py) · [hard/1916-count-ways-to-build-rooms-in-an-ant-colony.rs](hard/1916-count-ways-to-build-rooms-in-an-ant-colony.rs) |
 | 1923 | [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) | [hard/1923-longest-common-subpath.py](hard/1923-longest-common-subpath.py) · [hard/1923-longest-common-subpath.ts](hard/1923-longest-common-subpath.ts) |
 | 1928 | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [hard/1928-minimum-cost-to-reach-destination-in-time.py](hard/1928-minimum-cost-to-reach-destination-in-time.py) · [hard/1928-minimum-cost-to-reach-destination-in-time.cs](hard/1928-minimum-cost-to-reach-destination-in-time.cs) |
-| 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
+| 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [hard/1931-painting-a-grid-with-three-different-colors.py](hard/1931-painting-a-grid-with-three-different-colors.py) · [hard/1931-painting-a-grid-with-three-different-colors.kt](hard/1931-painting-a-grid-with-three-different-colors.kt) |
+| 1932 | [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/) | [hard/1932-merge-bsts-to-create-single-bst.py](hard/1932-merge-bsts-to-create-single-bst.py) · [hard/1932-merge-bsts-to-create-single-bst.java](hard/1932-merge-bsts-to-create-single-bst.java) |
+| 1938 | [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/) | [hard/1938-maximum-genetic-difference-query.py](hard/1938-maximum-genetic-difference-query.py) · [hard/1938-maximum-genetic-difference-query.cpp](hard/1938-maximum-genetic-difference-query.cpp) |
+| 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) · [hard/1944-number-of-visible-people-in-a-queue.js](hard/1944-number-of-visible-people-in-a-queue.js) |
+| 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [hard/1948-delete-duplicate-folders-in-system.py](hard/1948-delete-duplicate-folders-in-system.py) · [hard/1948-delete-duplicate-folders-in-system.go](hard/1948-delete-duplicate-folders-in-system.go) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [hard/2076-process-restricted-friend-requests.py](hard/2076-process-restricted-friend-requests.py) |
 | 2093 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [hard/2093-minimum-weighted-subgraph-with-the-required-paths.py](hard/2093-minimum-weighted-subgraph-with-the-required-paths.py) |
@@ -1999,4 +2003,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1973**
+**Total solved: 1977**
