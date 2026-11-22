@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (780)
+## Solved — Medium (781)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1593,6 +1593,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [medium/1899-merge-triplets-to-form-target-triplet.py](medium/1899-merge-triplets-to-form-target-triplet.py) |
 | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [medium/1901-find-a-peak-element-ii.py](medium/1901-find-a-peak-element-ii.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [medium/1904-the-number-of-full-rounds-you-have-played.py](medium/1904-the-number-of-full-rounds-you-have-played.py) |
+| 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [medium/1905-count-sub-islands.py](medium/1905-count-sub-islands.py) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [medium/1907-count-salary-categories.sql](medium/1907-count-salary-categories.sql) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
@@ -1655,7 +1656,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (335)
+## Solved — Hard (339)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1983,6 +1984,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1889 | [Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/) | [hard/1889-minimum-space-wasted-from-packaging.py](hard/1889-minimum-space-wasted-from-packaging.py) · [hard/1889-minimum-space-wasted-from-packaging.java](hard/1889-minimum-space-wasted-from-packaging.java) |
 | 1896 | [Minimum Cost to Change the Final Value of Expression](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/) | [hard/1896-minimum-cost-to-change-the-final-value-of-expression.py](hard/1896-minimum-cost-to-change-the-final-value-of-expression.py) · [hard/1896-minimum-cost-to-change-the-final-value-of-expression.cpp](hard/1896-minimum-cost-to-change-the-final-value-of-expression.cpp) |
 | 1900 | [The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | [hard/1900-the-earliest-and-latest-rounds-where-players-compete.py](hard/1900-the-earliest-and-latest-rounds-where-players-compete.py) · [hard/1900-the-earliest-and-latest-rounds-where-players-compete.js](hard/1900-the-earliest-and-latest-rounds-where-players-compete.js) |
+| 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | [hard/1912-design-movie-rental-system.py](hard/1912-design-movie-rental-system.py) · [hard/1912-design-movie-rental-system.go](hard/1912-design-movie-rental-system.go) |
+| 1916 | [Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/) | [hard/1916-count-ways-to-build-rooms-in-an-ant-colony.py](hard/1916-count-ways-to-build-rooms-in-an-ant-colony.py) · [hard/1916-count-ways-to-build-rooms-in-an-ant-colony.rs](hard/1916-count-ways-to-build-rooms-in-an-ant-colony.rs) |
+| 1923 | [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) | [hard/1923-longest-common-subpath.py](hard/1923-longest-common-subpath.py) · [hard/1923-longest-common-subpath.ts](hard/1923-longest-common-subpath.ts) |
+| 1928 | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [hard/1928-minimum-cost-to-reach-destination-in-time.py](hard/1928-minimum-cost-to-reach-destination-in-time.py) · [hard/1928-minimum-cost-to-reach-destination-in-time.cs](hard/1928-minimum-cost-to-reach-destination-in-time.cs) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [hard/2076-process-restricted-friend-requests.py](hard/2076-process-restricted-friend-requests.py) |
@@ -1994,4 +1999,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1968**
+**Total solved: 1973**
