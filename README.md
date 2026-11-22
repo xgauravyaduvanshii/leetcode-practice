@@ -1658,7 +1658,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (356)
+## Solved — Hard (361)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2008,6 +2008,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2009 | [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [hard/2009-minimum-number-of-operations-to-make-array-continuous.py](hard/2009-minimum-number-of-operations-to-make-array-continuous.py) · [hard/2009-minimum-number-of-operations-to-make-array-continuous.cs](hard/2009-minimum-number-of-operations-to-make-array-continuous.cs) |
 | 2014 | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | [hard/2014-longest-subsequence-repeated-k-times.py](hard/2014-longest-subsequence-repeated-k-times.py) · [hard/2014-longest-subsequence-repeated-k-times.kt](hard/2014-longest-subsequence-repeated-k-times.kt) |
 | 2019 | [The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [hard/2019-the-score-of-students-solving-math-expression.py](hard/2019-the-score-of-students-solving-math-expression.py) · [hard/2019-the-score-of-students-solving-math-expression.java](hard/2019-the-score-of-students-solving-math-expression.java) |
+| 2025 | [Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/) | [hard/2025-maximum-number-of-ways-to-partition-an-array.py](hard/2025-maximum-number-of-ways-to-partition-an-array.py) · [hard/2025-maximum-number-of-ways-to-partition-an-array.cpp](hard/2025-maximum-number-of-ways-to-partition-an-array.cpp) |
+| 2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/) | [hard/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter.py](hard/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter.py) · [hard/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter.js](hard/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter.js) |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [hard/2035-partition-array-into-two-arrays-to-minimize-sum-difference.py](hard/2035-partition-array-into-two-arrays-to-minimize-sum-difference.py) · [hard/2035-partition-array-into-two-arrays-to-minimize-sum-difference.go](hard/2035-partition-array-into-two-arrays-to-minimize-sum-difference.go) |
+| 2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) | [hard/2040-kth-smallest-product-of-two-sorted-arrays.py](hard/2040-kth-smallest-product-of-two-sorted-arrays.py) · [hard/2040-kth-smallest-product-of-two-sorted-arrays.rs](hard/2040-kth-smallest-product-of-two-sorted-arrays.rs) |
+| 2045 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [hard/2045-second-minimum-time-to-reach-destination.py](hard/2045-second-minimum-time-to-reach-destination.py) · [hard/2045-second-minimum-time-to-reach-destination.ts](hard/2045-second-minimum-time-to-reach-destination.ts) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [hard/2076-process-restricted-friend-requests.py](hard/2076-process-restricted-friend-requests.py) |
 | 2093 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [hard/2093-minimum-weighted-subgraph-with-the-required-paths.py](hard/2093-minimum-weighted-subgraph-with-the-required-paths.py) |
@@ -2018,4 +2023,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1992**
+**Total solved: 1997**
