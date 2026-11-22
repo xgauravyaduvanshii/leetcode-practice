@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (777)
+## Solved — Medium (778)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1590,6 +1590,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [medium/1870-minimum-speed-to-arrive-on-time.py](medium/1870-minimum-speed-to-arrive-on-time.py) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [medium/1871-jump-game-vii.py](medium/1871-jump-game-vii.py) |
 | 1898 | [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [medium/1898-maximum-number-of-removable-characters.py](medium/1898-maximum-number-of-removable-characters.py) |
+| 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [medium/1899-merge-triplets-to-form-target-triplet.py](medium/1899-merge-triplets-to-form-target-triplet.py) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [medium/1907-count-salary-categories.sql](medium/1907-count-salary-categories.sql) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
@@ -1652,7 +1653,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (309)
+## Solved — Hard (313)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1953,6 +1954,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [hard/1751-maximum-number-of-events-that-can-be-attended-ii.py](hard/1751-maximum-number-of-events-that-can-be-attended-ii.py) · [hard/1751-maximum-number-of-events-that-can-be-attended-ii.rs](hard/1751-maximum-number-of-events-that-can-be-attended-ii.rs) |
 | 1755 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | [hard/1755-closest-subsequence-sum.py](hard/1755-closest-subsequence-sum.py) · [hard/1755-closest-subsequence-sum.ts](hard/1755-closest-subsequence-sum.ts) |
 | 1761 | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | [hard/1761-minimum-degree-of-a-connected-trio-in-a-graph.py](hard/1761-minimum-degree-of-a-connected-trio-in-a-graph.py) · [hard/1761-minimum-degree-of-a-connected-trio-in-a-graph.cs](hard/1761-minimum-degree-of-a-connected-trio-in-a-graph.cs) |
+| 1766 | [Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/) | [hard/1766-tree-of-coprimes.py](hard/1766-tree-of-coprimes.py) · [hard/1766-tree-of-coprimes.java](hard/1766-tree-of-coprimes.java) |
+| 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [hard/1770-maximum-score-from-performing-multiplication-operations.py](hard/1770-maximum-score-from-performing-multiplication-operations.py) · [hard/1770-maximum-score-from-performing-multiplication-operations.cpp](hard/1770-maximum-score-from-performing-multiplication-operations.cpp) |
+| 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [hard/1771-maximize-palindrome-length-from-subsequences.py](hard/1771-maximize-palindrome-length-from-subsequences.py) · [hard/1771-maximize-palindrome-length-from-subsequences.js](hard/1771-maximize-palindrome-length-from-subsequences.js) |
+| 1776 | [Car Fleet II](https://leetcode.com/problems/car-fleet-ii/) | [hard/1776-car-fleet-ii.py](hard/1776-car-fleet-ii.py) · [hard/1776-car-fleet-ii.go](hard/1776-car-fleet-ii.go) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
@@ -1965,4 +1970,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1939**
+**Total solved: 1944**
