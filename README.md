@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (781)
+## Solved — Medium (782)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1594,6 +1594,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [medium/1901-find-a-peak-element-ii.py](medium/1901-find-a-peak-element-ii.py) |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [medium/1904-the-number-of-full-rounds-you-have-played.py](medium/1904-the-number-of-full-rounds-you-have-played.py) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [medium/1905-count-sub-islands.py](medium/1905-count-sub-islands.py) |
+| 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [medium/1906-minimum-absolute-difference-queries.py](medium/1906-minimum-absolute-difference-queries.py) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [medium/1907-count-salary-categories.sql](medium/1907-count-salary-categories.sql) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
@@ -1656,7 +1657,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (343)
+## Solved — Hard (347)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1993,6 +1994,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1938 | [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/) | [hard/1938-maximum-genetic-difference-query.py](hard/1938-maximum-genetic-difference-query.py) · [hard/1938-maximum-genetic-difference-query.cpp](hard/1938-maximum-genetic-difference-query.cpp) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) · [hard/1944-number-of-visible-people-in-a-queue.js](hard/1944-number-of-visible-people-in-a-queue.js) |
 | 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [hard/1948-delete-duplicate-folders-in-system.py](hard/1948-delete-duplicate-folders-in-system.py) · [hard/1948-delete-duplicate-folders-in-system.go](hard/1948-delete-duplicate-folders-in-system.go) |
+| 1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/) | [hard/1955-count-number-of-special-subsequences.py](hard/1955-count-number-of-special-subsequences.py) · [hard/1955-count-number-of-special-subsequences.rs](hard/1955-count-number-of-special-subsequences.rs) |
+| 1960 | [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/) | [hard/1960-maximum-product-of-the-length-of-two-palindromic-substrings.py](hard/1960-maximum-product-of-the-length-of-two-palindromic-substrings.py) · [hard/1960-maximum-product-of-the-length-of-two-palindromic-substrings.ts](hard/1960-maximum-product-of-the-length-of-two-palindromic-substrings.ts) |
+| 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [hard/1964-find-the-longest-valid-obstacle-course-at-each-position.py](hard/1964-find-the-longest-valid-obstacle-course-at-each-position.py) · [hard/1964-find-the-longest-valid-obstacle-course-at-each-position.cs](hard/1964-find-the-longest-valid-obstacle-course-at-each-position.cs) |
+| 1970 | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [hard/1970-last-day-where-you-can-still-cross.py](hard/1970-last-day-where-you-can-still-cross.py) · [hard/1970-last-day-where-you-can-still-cross.kt](hard/1970-last-day-where-you-can-still-cross.kt) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [hard/2076-process-restricted-friend-requests.py](hard/2076-process-restricted-friend-requests.py) |
 | 2093 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [hard/2093-minimum-weighted-subgraph-with-the-required-paths.py](hard/2093-minimum-weighted-subgraph-with-the-required-paths.py) |
@@ -2003,4 +2008,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1977**
+**Total solved: 1982**
