@@ -1654,7 +1654,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (322)
+## Solved — Hard (327)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1968,6 +1968,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1815 | [Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/) | [hard/1815-maximum-number-of-groups-getting-fresh-donuts.py](hard/1815-maximum-number-of-groups-getting-fresh-donuts.py) · [hard/1815-maximum-number-of-groups-getting-fresh-donuts.js](hard/1815-maximum-number-of-groups-getting-fresh-donuts.js) |
 | 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [hard/1819-number-of-different-subsequences-gcds.py](hard/1819-number-of-different-subsequences-gcds.py) · [hard/1819-number-of-different-subsequences-gcds.go](hard/1819-number-of-different-subsequences-gcds.go) |
 | 1825 | [Finding MK Average](https://leetcode.com/problems/finding-mk-average/) | [hard/1825-finding-mk-average.py](hard/1825-finding-mk-average.py) · [hard/1825-finding-mk-average.rs](hard/1825-finding-mk-average.rs) |
+| 1830 | [Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/) | [hard/1830-minimum-number-of-operations-to-make-string-sorted.py](hard/1830-minimum-number-of-operations-to-make-string-sorted.py) · [hard/1830-minimum-number-of-operations-to-make-string-sorted.ts](hard/1830-minimum-number-of-operations-to-make-string-sorted.ts) |
+| 1835 | [Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [hard/1835-find-xor-sum-of-all-pairs-bitwise-and.py](hard/1835-find-xor-sum-of-all-pairs-bitwise-and.py) · [hard/1835-find-xor-sum-of-all-pairs-bitwise-and.cs](hard/1835-find-xor-sum-of-all-pairs-bitwise-and.cs) |
+| 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | [hard/1840-maximum-building-height.py](hard/1840-maximum-building-height.py) · [hard/1840-maximum-building-height.kt](hard/1840-maximum-building-height.kt) |
+| 1847 | [Closest Room](https://leetcode.com/problems/closest-room/) | [hard/1847-closest-room.py](hard/1847-closest-room.py) · [hard/1847-closest-room.java](hard/1847-closest-room.java) |
+| 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [hard/1851-minimum-interval-to-include-each-query.py](hard/1851-minimum-interval-to-include-each-query.py) · [hard/1851-minimum-interval-to-include-each-query.cpp](hard/1851-minimum-interval-to-include-each-query.cpp) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
@@ -1980,4 +1985,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1954**
+**Total solved: 1959**
