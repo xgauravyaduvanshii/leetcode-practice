@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (782)
+## Solved — Medium (783)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1596,6 +1596,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [medium/1905-count-sub-islands.py](medium/1905-count-sub-islands.py) |
 | 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [medium/1906-minimum-absolute-difference-queries.py](medium/1906-minimum-absolute-difference-queries.py) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [medium/1907-count-salary-categories.sql](medium/1907-count-salary-categories.sql) |
+| 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [medium/1910-remove-all-occurrences-of-a-substring.py](medium/1910-remove-all-occurrences-of-a-substring.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
@@ -1657,7 +1658,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (352)
+## Solved — Hard (356)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2003,6 +2004,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1987 | [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/) | [hard/1987-number-of-unique-good-subsequences.py](hard/1987-number-of-unique-good-subsequences.py) · [hard/1987-number-of-unique-good-subsequences.js](hard/1987-number-of-unique-good-subsequences.js) |
 | 1994 | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/) | [hard/1994-the-number-of-good-subsets.py](hard/1994-the-number-of-good-subsets.py) · [hard/1994-the-number-of-good-subsets.go](hard/1994-the-number-of-good-subsets.go) |
 | 1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [hard/1998-gcd-sort-of-an-array.py](hard/1998-gcd-sort-of-an-array.py) · [hard/1998-gcd-sort-of-an-array.rs](hard/1998-gcd-sort-of-an-array.rs) |
+| 2003 | [Smallest Missing Genetic Value in Each Subtree](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [hard/2003-smallest-missing-genetic-value-in-each-subtree.py](hard/2003-smallest-missing-genetic-value-in-each-subtree.py) · [hard/2003-smallest-missing-genetic-value-in-each-subtree.ts](hard/2003-smallest-missing-genetic-value-in-each-subtree.ts) |
+| 2009 | [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [hard/2009-minimum-number-of-operations-to-make-array-continuous.py](hard/2009-minimum-number-of-operations-to-make-array-continuous.py) · [hard/2009-minimum-number-of-operations-to-make-array-continuous.cs](hard/2009-minimum-number-of-operations-to-make-array-continuous.cs) |
+| 2014 | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | [hard/2014-longest-subsequence-repeated-k-times.py](hard/2014-longest-subsequence-repeated-k-times.py) · [hard/2014-longest-subsequence-repeated-k-times.kt](hard/2014-longest-subsequence-repeated-k-times.kt) |
+| 2019 | [The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [hard/2019-the-score-of-students-solving-math-expression.py](hard/2019-the-score-of-students-solving-math-expression.py) · [hard/2019-the-score-of-students-solving-math-expression.java](hard/2019-the-score-of-students-solving-math-expression.java) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [hard/2076-process-restricted-friend-requests.py](hard/2076-process-restricted-friend-requests.py) |
 | 2093 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [hard/2093-minimum-weighted-subgraph-with-the-required-paths.py](hard/2093-minimum-weighted-subgraph-with-the-required-paths.py) |
@@ -2013,4 +2018,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1987**
+**Total solved: 1992**
