@@ -1653,7 +1653,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (313)
+## Solved — Hard (318)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1958,6 +1958,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [hard/1770-maximum-score-from-performing-multiplication-operations.py](hard/1770-maximum-score-from-performing-multiplication-operations.py) · [hard/1770-maximum-score-from-performing-multiplication-operations.cpp](hard/1770-maximum-score-from-performing-multiplication-operations.cpp) |
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [hard/1771-maximize-palindrome-length-from-subsequences.py](hard/1771-maximize-palindrome-length-from-subsequences.py) · [hard/1771-maximize-palindrome-length-from-subsequences.js](hard/1771-maximize-palindrome-length-from-subsequences.js) |
 | 1776 | [Car Fleet II](https://leetcode.com/problems/car-fleet-ii/) | [hard/1776-car-fleet-ii.py](hard/1776-car-fleet-ii.py) · [hard/1776-car-fleet-ii.go](hard/1776-car-fleet-ii.go) |
+| 1782 | [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/) | [hard/1782-count-pairs-of-nodes.py](hard/1782-count-pairs-of-nodes.py) · [hard/1782-count-pairs-of-nodes.rs](hard/1782-count-pairs-of-nodes.rs) |
+| 1787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [hard/1787-make-the-xor-of-all-segments-equal-to-zero.py](hard/1787-make-the-xor-of-all-segments-equal-to-zero.py) · [hard/1787-make-the-xor-of-all-segments-equal-to-zero.ts](hard/1787-make-the-xor-of-all-segments-equal-to-zero.ts) |
+| 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [hard/1793-maximum-score-of-a-good-subarray.py](hard/1793-maximum-score-of-a-good-subarray.py) · [hard/1793-maximum-score-of-a-good-subarray.cs](hard/1793-maximum-score-of-a-good-subarray.cs) |
+| 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | [hard/1799-maximize-score-after-n-operations.py](hard/1799-maximize-score-after-n-operations.py) · [hard/1799-maximize-score-after-n-operations.kt](hard/1799-maximize-score-after-n-operations.kt) |
+| 1803 | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [hard/1803-count-pairs-with-xor-in-a-range.py](hard/1803-count-pairs-with-xor-in-a-range.py) · [hard/1803-count-pairs-with-xor-in-a-range.java](hard/1803-count-pairs-with-xor-in-a-range.java) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
@@ -1970,4 +1975,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1944**
+**Total solved: 1949**
