@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (776)
+## Solved — Medium (777)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1589,6 +1589,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [medium/1865-finding-pairs-with-a-certain-sum.py](medium/1865-finding-pairs-with-a-certain-sum.py) |
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [medium/1870-minimum-speed-to-arrive-on-time.py](medium/1870-minimum-speed-to-arrive-on-time.py) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [medium/1871-jump-game-vii.py](medium/1871-jump-game-vii.py) |
+| 1898 | [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [medium/1898-maximum-number-of-removable-characters.py](medium/1898-maximum-number-of-removable-characters.py) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [medium/1907-count-salary-categories.sql](medium/1907-count-salary-categories.sql) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
@@ -1651,7 +1652,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (294)
+## Solved — Hard (297)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1937,6 +1938,9 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [hard/1671-minimum-number-of-removals-to-make-mountain-array.py](hard/1671-minimum-number-of-removals-to-make-mountain-array.py) · [hard/1671-minimum-number-of-removals-to-make-mountain-array.ts](hard/1671-minimum-number-of-removals-to-make-mountain-array.ts) |
 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | [hard/1675-minimize-deviation-in-array.py](hard/1675-minimize-deviation-in-array.py) · [hard/1675-minimize-deviation-in-array.cs](hard/1675-minimize-deviation-in-array.cs) |
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | [hard/1681-minimum-incompatibility.py](hard/1681-minimum-incompatibility.py) · [hard/1681-minimum-incompatibility.kt](hard/1681-minimum-incompatibility.kt) |
+| 1687 | [Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/) | [hard/1687-delivering-boxes-from-storage-to-ports.py](hard/1687-delivering-boxes-from-storage-to-ports.py) · [hard/1687-delivering-boxes-from-storage-to-ports.java](hard/1687-delivering-boxes-from-storage-to-ports.java) |
+| 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [hard/1691-maximum-height-by-stacking-cuboids.py](hard/1691-maximum-height-by-stacking-cuboids.py) · [hard/1691-maximum-height-by-stacking-cuboids.cpp](hard/1691-maximum-height-by-stacking-cuboids.cpp) |
+| 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [hard/1697-checking-existence-of-edge-length-limited-paths.py](hard/1697-checking-existence-of-edge-length-limited-paths.py) · [hard/1697-checking-existence-of-edge-length-limited-paths.js](hard/1697-checking-existence-of-edge-length-limited-paths.js) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
@@ -1949,4 +1953,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1923**
+**Total solved: 1927**
