@@ -871,7 +871,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (754)
+## Solved — Medium (759)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1587,7 +1587,12 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [medium/2523-closest-prime-numbers-in-range.py](medium/2523-closest-prime-numbers-in-range.py) |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [medium/2542-maximum-subsequence-score.py](medium/2542-maximum-subsequence-score.py) |
 | 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [medium/2571-minimum-operations-to-reduce-an-integer-to-0.py](medium/2571-minimum-operations-to-reduce-an-integer-to-0.py) |
+| 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | [medium/2625-flatten-deeply-nested-array.js](medium/2625-flatten-deeply-nested-array.js) |
+| 2631 | [Group By](https://leetcode.com/problems/group-by/) | [medium/2631-group-by.js](medium/2631-group-by.js) |
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | [medium/2685-count-the-number-of-complete-components.py](medium/2685-count-the-number-of-complete-components.py) |
+| 2694 | [Event Emitter](https://leetcode.com/problems/event-emitter/) | [medium/2694-event-emitter.js](medium/2694-event-emitter.js) |
+| 2705 | [Compact Object](https://leetcode.com/problems/compact-object/) | [medium/2705-compact-object.js](medium/2705-compact-object.js) |
+| 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | [medium/2722-join-two-arrays-by-id.js](medium/2722-join-two-arrays-by-id.js) |
 | 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [medium/3115-maximum-prime-difference.py](medium/3115-maximum-prime-difference.py) |
 | 3576 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [medium/3576-find-subtree-sizes-after-changes.py](medium/3576-find-subtree-sizes-after-changes.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [medium/0606-construct-string-from-binary-tree.py](medium/0606-construct-string-from-binary-tree.py) |
@@ -1925,4 +1930,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1899**
+**Total solved: 1904**
