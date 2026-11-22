@@ -1657,7 +1657,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (347)
+## Solved — Hard (352)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1998,6 +1998,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1960 | [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/) | [hard/1960-maximum-product-of-the-length-of-two-palindromic-substrings.py](hard/1960-maximum-product-of-the-length-of-two-palindromic-substrings.py) · [hard/1960-maximum-product-of-the-length-of-two-palindromic-substrings.ts](hard/1960-maximum-product-of-the-length-of-two-palindromic-substrings.ts) |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [hard/1964-find-the-longest-valid-obstacle-course-at-each-position.py](hard/1964-find-the-longest-valid-obstacle-course-at-each-position.py) · [hard/1964-find-the-longest-valid-obstacle-course-at-each-position.cs](hard/1964-find-the-longest-valid-obstacle-course-at-each-position.cs) |
 | 1970 | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [hard/1970-last-day-where-you-can-still-cross.py](hard/1970-last-day-where-you-can-still-cross.py) · [hard/1970-last-day-where-you-can-still-cross.kt](hard/1970-last-day-where-you-can-still-cross.kt) |
+| 1977 | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [hard/1977-number-of-ways-to-separate-numbers.py](hard/1977-number-of-ways-to-separate-numbers.py) · [hard/1977-number-of-ways-to-separate-numbers.java](hard/1977-number-of-ways-to-separate-numbers.java) |
+| 1982 | [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/) | [hard/1982-find-array-given-subset-sums.py](hard/1982-find-array-given-subset-sums.py) · [hard/1982-find-array-given-subset-sums.cpp](hard/1982-find-array-given-subset-sums.cpp) |
+| 1987 | [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/) | [hard/1987-number-of-unique-good-subsequences.py](hard/1987-number-of-unique-good-subsequences.py) · [hard/1987-number-of-unique-good-subsequences.js](hard/1987-number-of-unique-good-subsequences.js) |
+| 1994 | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/) | [hard/1994-the-number-of-good-subsets.py](hard/1994-the-number-of-good-subsets.py) · [hard/1994-the-number-of-good-subsets.go](hard/1994-the-number-of-good-subsets.go) |
+| 1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [hard/1998-gcd-sort-of-an-array.py](hard/1998-gcd-sort-of-an-array.py) · [hard/1998-gcd-sort-of-an-array.rs](hard/1998-gcd-sort-of-an-array.rs) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [hard/2076-process-restricted-friend-requests.py](hard/2076-process-restricted-friend-requests.py) |
 | 2093 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [hard/2093-minimum-weighted-subgraph-with-the-required-paths.py](hard/2093-minimum-weighted-subgraph-with-the-required-paths.py) |
@@ -2008,4 +2013,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1982**
+**Total solved: 1987**
