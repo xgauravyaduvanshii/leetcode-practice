@@ -1652,7 +1652,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (297)
+## Solved — Hard (299)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1941,6 +1941,8 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1687 | [Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/) | [hard/1687-delivering-boxes-from-storage-to-ports.py](hard/1687-delivering-boxes-from-storage-to-ports.py) · [hard/1687-delivering-boxes-from-storage-to-ports.java](hard/1687-delivering-boxes-from-storage-to-ports.java) |
 | 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [hard/1691-maximum-height-by-stacking-cuboids.py](hard/1691-maximum-height-by-stacking-cuboids.py) · [hard/1691-maximum-height-by-stacking-cuboids.cpp](hard/1691-maximum-height-by-stacking-cuboids.cpp) |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [hard/1697-checking-existence-of-edge-length-limited-paths.py](hard/1697-checking-existence-of-edge-length-limited-paths.py) · [hard/1697-checking-existence-of-edge-length-limited-paths.js](hard/1697-checking-existence-of-edge-length-limited-paths.js) |
+| 1703 | [Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones.py](hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones.py) · [hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones.go](hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones.go) |
+| 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [hard/1707-maximum-xor-with-an-element-from-array.py](hard/1707-maximum-xor-with-an-element-from-array.py) · [hard/1707-maximum-xor-with-an-element-from-array.rs](hard/1707-maximum-xor-with-an-element-from-array.rs) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
@@ -1953,4 +1955,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1927**
+**Total solved: 1929**
