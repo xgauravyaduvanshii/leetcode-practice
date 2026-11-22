@@ -866,7 +866,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (738)
+## Solved — Medium (748)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -888,8 +888,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [medium/0146-lru-cache.py](medium/0146-lru-cache.py) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [medium/0147-insertion-sort-list.py](medium/0147-insertion-sort-list.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [medium/0150-evaluate-reverse-polish-notation.py](medium/0150-evaluate-reverse-polish-notation.py) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [medium/0151-reverse-words-in-a-string.py](medium/0151-reverse-words-in-a-string.py) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [medium/0152-maximum-product-subarray.py](medium/0152-maximum-product-subarray.py) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [medium/0155-min-stack.py](medium/0155-min-stack.py) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [medium/0162-find-peak-element.py](medium/0162-find-peak-element.py) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [medium/0164-maximum-gap.py](medium/0164-maximum-gap.py) |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [medium/0165-compare-version-numbers.py](medium/0165-compare-version-numbers.py) |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [medium/0166-fraction-to-recurring-decimal.py](medium/0166-fraction-to-recurring-decimal.py) |
@@ -1563,11 +1565,19 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [medium/1865-finding-pairs-with-a-certain-sum.py](medium/1865-finding-pairs-with-a-certain-sum.py) |
 | 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [medium/1870-minimum-speed-to-arrive-on-time.py](medium/1870-minimum-speed-to-arrive-on-time.py) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [medium/1871-jump-game-vii.py](medium/1871-jump-game-vii.py) |
+| 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [medium/2095-delete-the-middle-node-of-a-linked-list.py](medium/2095-delete-the-middle-node-of-a-linked-list.py) |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [medium/2130-maximum-twin-sum-of-a-linked-list.py](medium/2130-maximum-twin-sum-of-a-linked-list.py) |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [medium/2196-create-binary-tree-from-descriptions.py](medium/2196-create-binary-tree-from-descriptions.py) |
+| 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [medium/2300-successful-pairs-of-spells-and-potions.py](medium/2300-successful-pairs-of-spells-and-potions.py) |
+| 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [medium/2336-smallest-number-in-infinite-set.py](medium/2336-smallest-number-in-infinite-set.py) |
+| 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [medium/2352-equal-row-and-column-pairs.py](medium/2352-equal-row-and-column-pairs.py) |
+| 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [medium/2462-total-cost-to-hire-k-workers.py](medium/2462-total-cost-to-hire-k-workers.py) |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [medium/2492-minimum-score-of-a-path-between-two-cities.py](medium/2492-minimum-score-of-a-path-between-two-cities.py) |
 | 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [medium/2523-closest-prime-numbers-in-range.py](medium/2523-closest-prime-numbers-in-range.py) |
+| 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [medium/2542-maximum-subsequence-score.py](medium/2542-maximum-subsequence-score.py) |
 | 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [medium/2571-minimum-operations-to-reduce-an-integer-to-0.py](medium/2571-minimum-operations-to-reduce-an-integer-to-0.py) |
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | [medium/2685-count-the-number-of-complete-components.py](medium/2685-count-the-number-of-complete-components.py) |
 | 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [medium/3115-maximum-prime-difference.py](medium/3115-maximum-prime-difference.py) |
@@ -1907,4 +1917,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1881**
+**Total solved: 1891**
