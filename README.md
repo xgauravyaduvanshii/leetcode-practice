@@ -866,17 +866,20 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (748)
+## Solved — Medium (751)
 
 | # | Problem | Solution |
 |---|---------|----------|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [medium/0011-container-with-most-water.py](medium/0011-container-with-most-water.py) |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [medium/0017-letter-combinations-of-a-phone-number.py](medium/0017-letter-combinations-of-a-phone-number.py) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [medium/0022-generate-parentheses.py](medium/0022-generate-parentheses.py) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [medium/0033-search-in-rotated-sorted-array.py](medium/0033-search-in-rotated-sorted-array.py) |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [medium/0045-jump-game-ii.py](medium/0045-jump-game-ii.py) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [medium/0049-group-anagrams.py](medium/0049-group-anagrams.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [medium/0053-maximum-subarray.py](medium/0053-maximum-subarray.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [medium/0056-merge-intervals.py](medium/0056-merge-intervals.py) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [medium/0062-unique-paths.py](medium/0062-unique-paths.py) |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [medium/0072-edit-distance.py](medium/0072-edit-distance.py) |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [medium/0077-combinations.py](medium/0077-combinations.py) |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [medium/0089-gray-code.py](medium/0089-gray-code.py) |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [medium/0093-restore-ip-addresses.py](medium/0093-restore-ip-addresses.py) |
@@ -1917,4 +1920,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1891**
+**Total solved: 1894**
