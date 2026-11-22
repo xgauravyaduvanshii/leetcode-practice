@@ -11,7 +11,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 - `medium/` — Medium problems
 - `hard/` — Hard problems
 
-## Solved — Easy (850)
+## Solved — Easy (852)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -566,7 +566,9 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | [easy/2619-array-prototype-last.js](easy/2619-array-prototype-last.js) |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [easy/2620-counter.js](easy/2620-counter.js) |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [easy/2621-sleep.js](easy/2621-sleep.js) |
+| 2623 | [Memoize](https://leetcode.com/problems/memoize/) | [easy/2623-memoize.js](easy/2623-memoize.js) |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | [easy/2626-array-reduce-transformation.js](easy/2626-array-reduce-transformation.js) |
+| 2627 | [Debounce](https://leetcode.com/problems/debounce/) | [easy/2627-debounce.js](easy/2627-debounce.js) |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | [easy/2629-function-composition.js](easy/2629-function-composition.js) |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | [easy/2634-filter-elements-from-array.js](easy/2634-filter-elements-from-array.js) |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [easy/2635-apply-transform-over-each-element-in-array.js](easy/2635-apply-transform-over-each-element-in-array.js) |
@@ -865,8 +867,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4088 | [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | [easy/4088-difference-between-peaks-and-valleys.py](easy/4088-difference-between-peaks-and-valleys.py) |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
+| 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | [medium/2622-cache-with-time-limit.js](medium/2622-cache-with-time-limit.js) |
+| 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
+| 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (751)
+## Solved — Medium (754)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1920,4 +1925,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1894**
+**Total solved: 1899**
