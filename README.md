@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (778)
+## Solved — Medium (779)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1591,6 +1591,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [medium/1871-jump-game-vii.py](medium/1871-jump-game-vii.py) |
 | 1898 | [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [medium/1898-maximum-number-of-removable-characters.py](medium/1898-maximum-number-of-removable-characters.py) |
 | 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [medium/1899-merge-triplets-to-form-target-triplet.py](medium/1899-merge-triplets-to-form-target-triplet.py) |
+| 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [medium/1901-find-a-peak-element-ii.py](medium/1901-find-a-peak-element-ii.py) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [medium/1907-count-salary-categories.sql](medium/1907-count-salary-categories.sql) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
@@ -1653,7 +1654,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (318)
+## Solved — Hard (322)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1963,6 +1964,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [hard/1793-maximum-score-of-a-good-subarray.py](hard/1793-maximum-score-of-a-good-subarray.py) · [hard/1793-maximum-score-of-a-good-subarray.cs](hard/1793-maximum-score-of-a-good-subarray.cs) |
 | 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | [hard/1799-maximize-score-after-n-operations.py](hard/1799-maximize-score-after-n-operations.py) · [hard/1799-maximize-score-after-n-operations.kt](hard/1799-maximize-score-after-n-operations.kt) |
 | 1803 | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [hard/1803-count-pairs-with-xor-in-a-range.py](hard/1803-count-pairs-with-xor-in-a-range.py) · [hard/1803-count-pairs-with-xor-in-a-range.java](hard/1803-count-pairs-with-xor-in-a-range.java) |
+| 1808 | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | [hard/1808-maximize-number-of-nice-divisors.py](hard/1808-maximize-number-of-nice-divisors.py) · [hard/1808-maximize-number-of-nice-divisors.cpp](hard/1808-maximize-number-of-nice-divisors.cpp) |
+| 1815 | [Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/) | [hard/1815-maximum-number-of-groups-getting-fresh-donuts.py](hard/1815-maximum-number-of-groups-getting-fresh-donuts.py) · [hard/1815-maximum-number-of-groups-getting-fresh-donuts.js](hard/1815-maximum-number-of-groups-getting-fresh-donuts.js) |
+| 1819 | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [hard/1819-number-of-different-subsequences-gcds.py](hard/1819-number-of-different-subsequences-gcds.py) · [hard/1819-number-of-different-subsequences-gcds.go](hard/1819-number-of-different-subsequences-gcds.go) |
+| 1825 | [Finding MK Average](https://leetcode.com/problems/finding-mk-average/) | [hard/1825-finding-mk-average.py](hard/1825-finding-mk-average.py) · [hard/1825-finding-mk-average.rs](hard/1825-finding-mk-average.rs) |
 | 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py](hard/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py) |
 | 1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [hard/1944-number-of-visible-people-in-a-queue.py](hard/1944-number-of-visible-people-in-a-queue.py) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
@@ -1975,4 +1980,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1949**
+**Total solved: 1954**
