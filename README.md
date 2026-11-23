@@ -1673,7 +1673,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (488)
+## Solved — Hard (493)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2163,6 +2163,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2790 | [Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) | [hard/2790-maximum-number-of-groups-with-increasing-length.py](hard/2790-maximum-number-of-groups-with-increasing-length.py) · [hard/2790-maximum-number-of-groups-with-increasing-length.java](hard/2790-maximum-number-of-groups-with-increasing-length.java) |
 | 2858 | [Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | [hard/2858-minimum-edge-reversals-so-every-node-is-reachable.py](hard/2858-minimum-edge-reversals-so-every-node-is-reachable.py) |
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
+| 2999 | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [hard/2999-count-the-number-of-powerful-integers.py](hard/2999-count-the-number-of-powerful-integers.py) · [hard/2999-count-the-number-of-powerful-integers.js](hard/2999-count-the-number-of-powerful-integers.js) |
+| 3003 | [Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | [hard/3003-maximize-the-number-of-partitions-after-operations.py](hard/3003-maximize-the-number-of-partitions-after-operations.py) · [hard/3003-maximize-the-number-of-partitions-after-operations.go](hard/3003-maximize-the-number-of-partitions-after-operations.go) |
+| 3008 | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | [hard/3008-find-beautiful-indices-in-the-given-array-ii.py](hard/3008-find-beautiful-indices-in-the-given-array-ii.py) · [hard/3008-find-beautiful-indices-in-the-given-array-ii.rs](hard/3008-find-beautiful-indices-in-the-given-array-ii.rs) |
+| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [hard/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.py](hard/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.py) · [hard/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.ts](hard/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.ts) |
+| 3017 | [Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/) | [hard/3017-count-the-number-of-houses-at-a-certain-distance-ii.py](hard/3017-count-the-number-of-houses-at-a-certain-distance-ii.py) · [hard/3017-count-the-number-of-houses-at-a-certain-distance-ii.cs](hard/3017-count-the-number-of-houses-at-a-certain-distance-ii.cs) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2157**
+**Total solved: 2162**
