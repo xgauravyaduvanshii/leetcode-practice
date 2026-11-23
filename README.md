@@ -1666,7 +1666,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (420)
+## Solved — Hard (425)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2082,6 +2082,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2334 | [Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/) | [hard/2334-subarray-with-elements-greater-than-varying-threshold.py](hard/2334-subarray-with-elements-greater-than-varying-threshold.py) · [hard/2334-subarray-with-elements-greater-than-varying-threshold.java](hard/2334-subarray-with-elements-greater-than-varying-threshold.java) |
 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [hard/2338-count-the-number-of-ideal-arrays.py](hard/2338-count-the-number-of-ideal-arrays.py) · [hard/2338-count-the-number-of-ideal-arrays.cpp](hard/2338-count-the-number-of-ideal-arrays.cpp) |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [hard/2344-minimum-deletions-to-make-array-divisible.py](hard/2344-minimum-deletions-to-make-array-divisible.py) · [hard/2344-minimum-deletions-to-make-array-divisible.go](hard/2344-minimum-deletions-to-make-array-divisible.go) |
+| 2350 | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) | [hard/2350-shortest-impossible-sequence-of-rolls.py](hard/2350-shortest-impossible-sequence-of-rolls.py) · [hard/2350-shortest-impossible-sequence-of-rolls.rs](hard/2350-shortest-impossible-sequence-of-rolls.rs) |
+| 2354 | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/) | [hard/2354-number-of-excellent-pairs.py](hard/2354-number-of-excellent-pairs.py) · [hard/2354-number-of-excellent-pairs.ts](hard/2354-number-of-excellent-pairs.ts) |
+| 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [hard/2360-longest-cycle-in-a-graph.py](hard/2360-longest-cycle-in-a-graph.py) · [hard/2360-longest-cycle-in-a-graph.cs](hard/2360-longest-cycle-in-a-graph.cs) |
+| 2366 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [hard/2366-minimum-replacements-to-sort-the-array.py](hard/2366-minimum-replacements-to-sort-the-array.py) · [hard/2366-minimum-replacements-to-sort-the-array.kt](hard/2366-minimum-replacements-to-sort-the-array.kt) |
+| 2376 | [Count Special Integers](https://leetcode.com/problems/count-special-integers/) | [hard/2376-count-special-integers.py](hard/2376-count-special-integers.py) · [hard/2376-count-special-integers.java](hard/2376-count-special-integers.java) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2090,4 +2095,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2064**
+**Total solved: 2069**
