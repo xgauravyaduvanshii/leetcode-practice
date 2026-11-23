@@ -1665,7 +1665,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (411)
+## Solved — Hard (416)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2072,6 +2072,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | [hard/2296-design-a-text-editor.py](hard/2296-design-a-text-editor.py) · [hard/2296-design-a-text-editor.cs](hard/2296-design-a-text-editor.cs) |
 | 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | [hard/2301-match-substring-after-replacement.py](hard/2301-match-substring-after-replacement.py) · [hard/2301-match-substring-after-replacement.kt](hard/2301-match-substring-after-replacement.kt) |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | [hard/2302-count-subarrays-with-score-less-than-k.py](hard/2302-count-subarrays-with-score-less-than-k.py) · [hard/2302-count-subarrays-with-score-less-than-k.java](hard/2302-count-subarrays-with-score-less-than-k.java) |
+| 2306 | [Naming a Company](https://leetcode.com/problems/naming-a-company/) | [hard/2306-naming-a-company.py](hard/2306-naming-a-company.py) · [hard/2306-naming-a-company.cpp](hard/2306-naming-a-company.cpp) |
+| 2312 | [Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/) | [hard/2312-selling-pieces-of-wood.py](hard/2312-selling-pieces-of-wood.py) · [hard/2312-selling-pieces-of-wood.go](hard/2312-selling-pieces-of-wood.go) |
+| 2318 | [Number of Distinct Roll Sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences/) | [hard/2318-number-of-distinct-roll-sequences.py](hard/2318-number-of-distinct-roll-sequences.py) · [hard/2318-number-of-distinct-roll-sequences.rs](hard/2318-number-of-distinct-roll-sequences.rs) |
+| 2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/) | [hard/2321-maximum-score-of-spliced-array.py](hard/2321-maximum-score-of-spliced-array.py) · [hard/2321-maximum-score-of-spliced-array.ts](hard/2321-maximum-score-of-spliced-array.ts) |
+| 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [hard/2322-minimum-score-after-removals-on-a-tree.py](hard/2322-minimum-score-after-removals-on-a-tree.py) · [hard/2322-minimum-score-after-removals-on-a-tree.cs](hard/2322-minimum-score-after-removals-on-a-tree.cs) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2080,4 +2085,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2054**
+**Total solved: 2059**
