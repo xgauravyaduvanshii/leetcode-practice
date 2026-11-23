@@ -1668,7 +1668,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (438)
+## Solved — Hard (443)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2102,6 +2102,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2430 | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [hard/2430-maximum-deletions-on-a-string.py](hard/2430-maximum-deletions-on-a-string.py) · [hard/2430-maximum-deletions-on-a-string.ts](hard/2430-maximum-deletions-on-a-string.ts) |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k.py](hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k.py) · [hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k.cs](hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k.cs) |
 | 2440 | [Create Components With Same Value](https://leetcode.com/problems/create-components-with-same-value/) | [hard/2440-create-components-with-same-value.py](hard/2440-create-components-with-same-value.py) · [hard/2440-create-components-with-same-value.kt](hard/2440-create-components-with-same-value.kt) |
+| 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [hard/2444-count-subarrays-with-fixed-bounds.py](hard/2444-count-subarrays-with-fixed-bounds.py) · [hard/2444-count-subarrays-with-fixed-bounds.java](hard/2444-count-subarrays-with-fixed-bounds.java) |
+| 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [hard/2448-minimum-cost-to-make-array-equal.py](hard/2448-minimum-cost-to-make-array-equal.py) · [hard/2448-minimum-cost-to-make-array-equal.cpp](hard/2448-minimum-cost-to-make-array-equal.cpp) |
+| 2449 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [hard/2449-minimum-number-of-operations-to-make-arrays-similar.py](hard/2449-minimum-number-of-operations-to-make-arrays-similar.py) · [hard/2449-minimum-number-of-operations-to-make-arrays-similar.go](hard/2449-minimum-number-of-operations-to-make-arrays-similar.go) |
+| 2454 | [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) | [hard/2454-next-greater-element-iv.py](hard/2454-next-greater-element-iv.py) · [hard/2454-next-greater-element-iv.rs](hard/2454-next-greater-element-iv.rs) |
+| 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [hard/2458-height-of-binary-tree-after-subtree-removal-queries.py](hard/2458-height-of-binary-tree-after-subtree-removal-queries.py) · [hard/2458-height-of-binary-tree-after-subtree-removal-queries.ts](hard/2458-height-of-binary-tree-after-subtree-removal-queries.ts) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2110,4 +2115,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2084**
+**Total solved: 2089**
