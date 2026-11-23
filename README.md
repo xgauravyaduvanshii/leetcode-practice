@@ -1673,7 +1673,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (493)
+## Solved — Hard (498)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2168,6 +2168,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3008 | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | [hard/3008-find-beautiful-indices-in-the-given-array-ii.py](hard/3008-find-beautiful-indices-in-the-given-array-ii.py) · [hard/3008-find-beautiful-indices-in-the-given-array-ii.rs](hard/3008-find-beautiful-indices-in-the-given-array-ii.rs) |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [hard/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.py](hard/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.py) · [hard/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.ts](hard/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.ts) |
 | 3017 | [Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/) | [hard/3017-count-the-number-of-houses-at-a-certain-distance-ii.py](hard/3017-count-the-number-of-houses-at-a-certain-distance-ii.py) · [hard/3017-count-the-number-of-houses-at-a-certain-distance-ii.cs](hard/3017-count-the-number-of-houses-at-a-certain-distance-ii.cs) |
+| 3022 | [Minimize OR of Remaining Elements Using Operations](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/) | [hard/3022-minimize-or-of-remaining-elements-using-operations.py](hard/3022-minimize-or-of-remaining-elements-using-operations.py) · [hard/3022-minimize-or-of-remaining-elements-using-operations.kt](hard/3022-minimize-or-of-remaining-elements-using-operations.kt) |
+| 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [hard/3027-find-the-number-of-ways-to-place-people-ii.py](hard/3027-find-the-number-of-ways-to-place-people-ii.py) · [hard/3027-find-the-number-of-ways-to-place-people-ii.java](hard/3027-find-the-number-of-ways-to-place-people-ii.java) |
+| 3031 | [Minimum Time to Revert Word to Initial State II](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/) | [hard/3031-minimum-time-to-revert-word-to-initial-state-ii.py](hard/3031-minimum-time-to-revert-word-to-initial-state-ii.py) · [hard/3031-minimum-time-to-revert-word-to-initial-state-ii.cpp](hard/3031-minimum-time-to-revert-word-to-initial-state-ii.cpp) |
+| 3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | [hard/3036-number-of-subarrays-that-match-a-pattern-ii.py](hard/3036-number-of-subarrays-that-match-a-pattern-ii.py) · [hard/3036-number-of-subarrays-that-match-a-pattern-ii.js](hard/3036-number-of-subarrays-that-match-a-pattern-ii.js) |
+| 3045 | [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) | [hard/3045-count-prefix-and-suffix-pairs-ii.py](hard/3045-count-prefix-and-suffix-pairs-ii.py) · [hard/3045-count-prefix-and-suffix-pairs-ii.go](hard/3045-count-prefix-and-suffix-pairs-ii.go) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2162**
+**Total solved: 2172**
