@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (518)
+## Solved — Hard (523)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2194,5 +2194,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3145 | [Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/) | [hard/3145-find-products-of-elements-of-big-array.py](hard/3145-find-products-of-elements-of-big-array.py) · [hard/3145-find-products-of-elements-of-big-array.ts](hard/3145-find-products-of-elements-of-big-array.ts) |
 | 3149 | [Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/) | [hard/3149-find-the-minimum-cost-array-permutation.py](hard/3149-find-the-minimum-cost-array.py) · [hard/3149-find-the-minimum-cost-array-permutation.cs](hard/3149-find-the-minimum-cost-array-permutation.cs) |
 | 3154 | [Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/) | [hard/3154-find-number-of-ways-to-reach-the-k-th-stair.py](hard/3154-find-number-of-ways-to-reach-the-k-th-stair.py) · [hard/3154-find-number-of-ways-to-reach-the-k-th-stair.kt](hard/3154-find-number-of-ways-to-reach-the-k-th-stair.kt) |
+| 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | [hard/3161-block-placement-queries.py](hard/3161-block-placement-queries.py) · [hard/3161-block-placement-queries.java](hard/3161-block-placement-queries.java) |
+| 3165 | [Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) | [hard/3165-maximum-sum-of-subsequence-with-non-adjacent-elements.py](hard/3165-maximum-sum-of-subsequence-with-non-adjacent-elements.py) · [hard/3165-maximum-sum-of-subsequence-with-non-adjacent-elements.cpp](hard/3165-maximum-sum-of-subsequence-with-non-adjacent-elements.cpp) |
+| 3171 | [Find Subarray With Bitwise OR Closest to K](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/) | [hard/3171-find-subarray-with-bitwise-or-closest-to-k.py](hard/3171-find-subarray-with-bitwise-or-closest-to-k.py) · [hard/3171-find-subarray-with-bitwise-or-closest-to-k.js](hard/3171-find-subarray-with-bitwise-or-closest-to-k.js) |
+| 3177 | [Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) | [hard/3177-find-the-maximum-length-of-a-good-subsequence-ii.py](hard/3177-find-the-maximum-length-of-a-good-subsequence-ii.py) · [hard/3177-find-the-maximum-length-of-a-good-subsequence-ii.go](hard/3177-find-the-maximum-length-of-a-good-subsequence-ii.go) |
+| 3181 | [Maximum Total Reward Using Operations II](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/) | [hard/3181-maximum-total-reward-using-operations-ii.py](hard/3181-maximum-total-reward-using-operations-ii.py) · [hard/3181-maximum-total-reward-using-operations-ii.rs](hard/3181-maximum-total-reward-using-operations-ii.rs) |
 
-**Total solved: 2169**
+**Total solved: 2174**
