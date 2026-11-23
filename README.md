@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (795)
+## Solved — Medium (796)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1610,6 +1610,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [medium/1942-the-number-of-the-smallest-unoccupied-chair.py](medium/1942-the-number-of-the-smallest-unoccupied-chair.py) |
 | 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | [medium/1943-describe-the-painting.py](medium/1943-describe-the-painting.py) |
 | 1946 | [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [medium/1946-largest-number-after-mutating-substring.py](medium/1946-largest-number-after-mutating-substring.py) |
+| 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | [medium/1947-maximum-compatibility-score-sum.py](medium/1947-maximum-compatibility-score-sum.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
@@ -1670,7 +1671,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (461)
+## Solved — Hard (465)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2127,6 +2128,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2543 | [Check if Point Is Reachable](https://leetcode.com/problems/check-if-point-is-reachable/) | [hard/2543-check-if-point-is-reachable.py](hard/2543-check-if-point-is-reachable.py) · [hard/2543-check-if-point-is-reachable.cs](hard/2543-check-if-point-is-reachable.cs) |
 | 2547 | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/) | [hard/2547-minimum-cost-to-split-an-array.py](hard/2547-minimum-cost-to-split-an-array.py) · [hard/2547-minimum-cost-to-split-an-array.kt](hard/2547-minimum-cost-to-split-an-array.kt) |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | [hard/2551-put-marbles-in-bags.py](hard/2551-put-marbles-in-bags.py) · [hard/2551-put-marbles-in-bags.java](hard/2551-put-marbles-in-bags.java) |
+| 2552 | [Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/) | [hard/2552-count-increasing-quadruplets.py](hard/2552-count-increasing-quadruplets.py) · [hard/2552-count-increasing-quadruplets.cpp](hard/2552-count-increasing-quadruplets.cpp) |
+| 2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/) | [hard/2561-rearranging-fruits.py](hard/2561-rearranging-fruits.py) · [hard/2561-rearranging-fruits.js](hard/2561-rearranging-fruits.js) |
+| 2565 | [Subsequence With the Minimum Score](https://leetcode.com/problems/subsequence-with-the-minimum-score/) | [hard/2565-subsequence-with-the-minimum-score.py](hard/2565-subsequence-with-the-minimum-score.py) · [hard/2565-subsequence-with-the-minimum-score.go](hard/2565-subsequence-with-the-minimum-score.go) |
+| 2569 | [Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update/) | [hard/2569-handling-sum-queries-after-update.py](hard/2569-handling-sum-queries-after-update.py) · [hard/2569-handling-sum-queries-after-update.rs](hard/2569-handling-sum-queries-after-update.rs) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2135,4 +2140,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2109**
+**Total solved: 2114**
