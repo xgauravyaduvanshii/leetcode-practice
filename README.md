@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (785)
+## Solved — Medium (786)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1599,6 +1599,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [medium/1910-remove-all-occurrences-of-a-substring.py](medium/1910-remove-all-occurrences-of-a-substring.py) |
 | 1911 | [Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | [medium/1911-maximum-alternating-subsequence-sum.py](medium/1911-maximum-alternating-subsequence-sum.py) |
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [medium/1914-cyclically-rotating-a-grid.py](medium/1914-cyclically-rotating-a-grid.py) |
+| 1915 | [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) | [medium/1915-number-of-wonderful-substrings.py](medium/1915-number-of-wonderful-substrings.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
@@ -1660,7 +1661,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (379)
+## Solved — Hard (383)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2036,6 +2037,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [hard/2136-earliest-possible-day-of-full-bloom.py](hard/2136-earliest-possible-day-of-full-bloom.py) · [hard/2136-earliest-possible-day-of-full-bloom.ts](hard/2136-earliest-possible-day-of-full-bloom.ts) |
 | 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [hard/2141-maximum-running-time-of-n-computers.py](hard/2141-maximum-running-time-of-n-computers.py) · [hard/2141-maximum-running-time-of-n-computers.cs](hard/2141-maximum-running-time-of-n-computers.cs) |
 | 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [hard/2147-number-of-ways-to-divide-a-long-corridor.py](hard/2147-number-of-ways-to-divide-a-long-corridor.py) · [hard/2147-number-of-ways-to-divide-a-long-corridor.kt](hard/2147-number-of-ways-to-divide-a-long-corridor.kt) |
+| 2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [hard/2151-maximum-good-people-based-on-statements.py](hard/2151-maximum-good-people-based-on-statements.py) · [hard/2151-maximum-good-people-based-on-statements.java](hard/2151-maximum-good-people-based-on-statements.java) |
+| 2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/) | [hard/2156-find-substring-with-given-hash-value.py](hard/2156-find-substring-with-given-hash-value.py) · [hard/2156-find-substring-with-given-hash-value.cpp](hard/2156-find-substring-with-given-hash-value.cpp) |
+| 2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | [hard/2157-groups-of-strings.py](hard/2157-groups-of-strings.py) · [hard/2157-groups-of-strings.js](hard/2157-groups-of-strings.js) |
+| 2163 | [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | [hard/2163-minimum-difference-in-sums-after-removal-of-elements.py](hard/2163-minimum-difference-in-sums-after-removal-of-elements.py) · [hard/2163-minimum-difference-in-sums-after-removal-of-elements.go](hard/2163-minimum-difference-in-sums-after-removal-of-elements.go) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2043,4 +2048,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2017**
+**Total solved: 2022**
