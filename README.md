@@ -1664,7 +1664,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (402)
+## Solved — Hard (407)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2062,6 +2062,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [hard/2251-number-of-flowers-in-full-bloom.py](hard/2251-number-of-flowers-in-full-bloom.py) · [hard/2251-number-of-flowers-in-full-bloom.rs](hard/2251-number-of-flowers-in-full-bloom.rs) |
 | 2258 | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/) | [hard/2258-escape-the-spreading-fire.py](hard/2258-escape-the-spreading-fire.py) · [hard/2258-escape-the-spreading-fire.ts](hard/2258-escape-the-spreading-fire.ts) |
 | 2262 | [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) | [hard/2262-total-appeal-of-a-string.py](hard/2262-total-appeal-of-a-string.py) · [hard/2262-total-appeal-of-a-string.cs](hard/2262-total-appeal-of-a-string.cs) |
+| 2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [hard/2267-check-if-there-is-a-valid-parentheses-string-path.py](hard/2267-check-if-there-is-a-valid-parentheses-string-path.py) · [hard/2267-check-if-there-is-a-valid-parentheses-string-path.kt](hard/2267-check-if-there-is-a-valid-parentheses-string-path.kt) |
+| 2272 | [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) | [hard/2272-substring-with-largest-variance.py](hard/2272-substring-with-largest-variance.py) · [hard/2272-substring-with-largest-variance.java](hard/2272-substring-with-largest-variance.java) |
+| 2276 | [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/) | [hard/2276-count-integers-in-intervals.py](hard/2276-count-integers-in-intervals.py) · [hard/2276-count-integers-in-intervals.cpp](hard/2276-count-integers-in-intervals.cpp) |
+| 2281 | [Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) | [hard/2281-sum-of-total-strength-of-wizards.py](hard/2281-sum-of-total-strength-of-wizards.py) · [hard/2281-sum-of-total-strength-of-wizards.go](hard/2281-sum-of-total-strength-of-wizards.go) |
+| 2286 | [Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/) | [hard/2286-booking-concert-tickets-in-groups.py](hard/2286-booking-concert-tickets-in-groups.py) · [hard/2286-booking-concert-tickets-in-groups.rs](hard/2286-booking-concert-tickets-in-groups.rs) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2070,4 +2075,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2044**
+**Total solved: 2049**
