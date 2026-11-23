@@ -1673,7 +1673,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (483)
+## Solved — Hard (488)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2152,6 +2152,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2681 | [Power of Heroes](https://leetcode.com/problems/power-of-heroes/) | [hard/2681-power-of-heroes.py](hard/2681-power-of-heroes.py) · [hard/2681-power-of-heroes.rs](hard/2681-power-of-heroes.rs) |
 | 2699 | [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/) | [hard/2699-modify-graph-edge-weights.py](hard/2699-modify-graph-edge-weights.py) · [hard/2699-modify-graph-edge-weights.ts](hard/2699-modify-graph-edge-weights.ts) |
 | 2709 | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [hard/2709-greatest-common-divisor-traversal.py](hard/2709-greatest-common-divisor-traversal.py) · [hard/2709-greatest-common-divisor-traversal.cs](hard/2709-greatest-common-divisor-traversal.cs) |
+| 2713 | [Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/) | [hard/2713-maximum-strictly-increasing-cells-in-a-matrix.py](hard/2713-maximum-strictly-increasing-cells-in-a-matrix.py) · [hard/2713-maximum-strictly-increasing-cells-in-a-matrix.kt](hard/2713-maximum-strictly-increasing-cells-in-a-matrix.kt) |
+| 2719 | [Count of Integers](https://leetcode.com/problems/count-of-integers/) | [hard/2719-count-of-integers.py](hard/2719-count-of-integers.py) · [hard/2719-count-of-integers.java](hard/2719-count-of-integers.java) |
+| 2732 | [Find a Good Subset of the Matrix](https://leetcode.com/problems/find-a-good-subset-of-the-matrix/) | [hard/2732-find-a-good-subset-of-the-matrix.py](hard/2732-find-a-good-subset-of-the-matrix.py) · [hard/2732-find-a-good-subset-of-the-matrix.cpp](hard/2732-find-a-good-subset-of-the-matrix.cpp) |
+| 2736 | [Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/) | [hard/2736-maximum-sum-queries.py](hard/2736-maximum-sum-queries.py) · [hard/2736-maximum-sum-queries.js](hard/2736-maximum-sum-queries.js) |
+| 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [hard/2742-painting-the-walls.py](hard/2742-painting-the-walls.py) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2160,4 +2165,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2148**
+**Total solved: 2157**
