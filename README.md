@@ -1667,7 +1667,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (429)
+## Solved — Hard (434)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2092,6 +2092,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2386 | [Find the K-Sum of an Array](https://leetcode.com/problems/find-the-k-sum-of-an-array/) | [hard/2386-find-the-k-sum-of-an-array.py](hard/2386-find-the-k-sum-of-an-array.py) · [hard/2386-find-the-k-sum-of-an-array.go](hard/2386-find-the-k-sum-of-an-array.go) |
 | 2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | [hard/2392-build-a-matrix-with-conditions.py](hard/2392-build-a-matrix-with-conditions.py) · [hard/2392-build-a-matrix-with-conditions.rs](hard/2392-build-a-matrix-with-conditions.rs) |
 | 2398 | [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) | [hard/2398-maximum-number-of-robots-within-budget.py](hard/2398-maximum-number-of-robots-within-budget.py) · [hard/2398-maximum-number-of-robots-within-budget.ts](hard/2398-maximum-number-of-robots-within-budget.ts) |
+| 2402 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | [hard/2402-meeting-rooms-iii.py](hard/2402-meeting-rooms-iii.py) · [hard/2402-meeting-rooms-iii.cs](hard/2402-meeting-rooms-iii.cs) |
+| 2407 | [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/) | [hard/2407-longest-increasing-subsequence-ii.py](hard/2407-longest-increasing-subsequence-ii.py) · [hard/2407-longest-increasing-subsequence-ii.kt](hard/2407-longest-increasing-subsequence-ii.kt) |
+| 2412 | [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/) | [hard/2412-minimum-money-required-before-transactions.py](hard/2412-minimum-money-required-before-transactions.py) · [hard/2412-minimum-money-required-before-transactions.java](hard/2412-minimum-money-required-before-transactions.java) |
+| 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [hard/2416-sum-of-prefix-scores-of-strings.py](hard/2416-sum-of-prefix-scores-of-strings.py) |
+| 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) | [hard/2421-number-of-good-paths.py](hard/2421-number-of-good-paths.py) · [hard/2421-number-of-good-paths.go](hard/2421-number-of-good-paths.go) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2100,4 +2105,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2074**
+**Total solved: 2079**
