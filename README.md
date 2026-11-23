@@ -2180,4 +2180,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3082 | [Find the Sum of the Power of All Subsequences](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/) | [hard/3082-find-the-sum-of-the-power-of-all-subsequences.py](hard/3082-find-the-sum-of-the-power-of-all-subsequences.py) · [hard/3082-find-the-sum-of-the-power-of-all-subsequences.java](hard/3082-find-the-sum-of-the-power-of-all-subsequences.java) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2182**
+**Total solved: 2154**
