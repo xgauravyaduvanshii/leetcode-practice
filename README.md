@@ -1660,7 +1660,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (374)
+## Solved — Hard (379)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2031,6 +2031,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2111 | [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [hard/2111-minimum-operations-to-make-the-array-k-increasing.py](hard/2111-minimum-operations-to-make-the-array-k-increasing.py) · [hard/2111-minimum-operations-to-make-the-array-k-increasing.java](hard/2111-minimum-operations-to-make-the-array-k-increasing.java) |
 | 2117 | [Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/) | [hard/2117-abbreviating-the-product-of-a-range.py](hard/2117-abbreviating-the-product-of-a-range.py) · [hard/2117-abbreviating-the-product-of-a-range.cpp](hard/2117-abbreviating-the-product-of-a-range.cpp) |
 | 2122 | [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/) | [hard/2122-recover-the-original-array.py](hard/2122-recover-the-original-array.py) · [hard/2122-recover-the-original-array.js](hard/2122-recover-the-original-array.js) |
+| 2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | [hard/2127-maximum-employees-to-be-invited-to-a-meeting.py](hard/2127-maximum-employees-to-be-invited-to-a-meeting.py) · [hard/2127-maximum-employees-to-be-invited-to-a-meeting.go](hard/2127-maximum-employees-to-be-invited-to-a-meeting.go) |
+| 2132 | [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/) | [hard/2132-stamping-the-grid.py](hard/2132-stamping-the-grid.py) · [hard/2132-stamping-the-grid.rs](hard/2132-stamping-the-grid.rs) |
+| 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [hard/2136-earliest-possible-day-of-full-bloom.py](hard/2136-earliest-possible-day-of-full-bloom.py) · [hard/2136-earliest-possible-day-of-full-bloom.ts](hard/2136-earliest-possible-day-of-full-bloom.ts) |
+| 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [hard/2141-maximum-running-time-of-n-computers.py](hard/2141-maximum-running-time-of-n-computers.py) · [hard/2141-maximum-running-time-of-n-computers.cs](hard/2141-maximum-running-time-of-n-computers.cs) |
+| 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [hard/2147-number-of-ways-to-divide-a-long-corridor.py](hard/2147-number-of-ways-to-divide-a-long-corridor.py) · [hard/2147-number-of-ways-to-divide-a-long-corridor.kt](hard/2147-number-of-ways-to-divide-a-long-corridor.kt) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2038,4 +2043,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2012**
+**Total solved: 2017**
