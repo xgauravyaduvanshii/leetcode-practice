@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (791)
+## Solved — Medium (792)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1606,6 +1606,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | [medium/1927-sum-game.py](medium/1927-sum-game.py) |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [medium/1930-unique-length-3-palindromic-subsequences.py](medium/1930-unique-length-3-palindromic-subsequences.py) |
 | 1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [medium/1936-add-minimum-number-of-rungs.py](medium/1936-add-minimum-number-of-rungs.py) |
+| 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [medium/1937-maximum-number-of-points-with-cost.py](medium/1937-maximum-number-of-points-with-cost.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
@@ -1666,7 +1667,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (425)
+## Solved — Hard (429)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2087,6 +2088,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [hard/2360-longest-cycle-in-a-graph.py](hard/2360-longest-cycle-in-a-graph.py) · [hard/2360-longest-cycle-in-a-graph.cs](hard/2360-longest-cycle-in-a-graph.cs) |
 | 2366 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [hard/2366-minimum-replacements-to-sort-the-array.py](hard/2366-minimum-replacements-to-sort-the-array.py) · [hard/2366-minimum-replacements-to-sort-the-array.kt](hard/2366-minimum-replacements-to-sort-the-array.kt) |
 | 2376 | [Count Special Integers](https://leetcode.com/problems/count-special-integers/) | [hard/2376-count-special-integers.py](hard/2376-count-special-integers.py) · [hard/2376-count-special-integers.java](hard/2376-count-special-integers.java) |
+| 2382 | [Maximum Segment Sum After Removals](https://leetcode.com/problems/maximum-segment-sum-after-removals/) | [hard/2382-maximum-segment-sum-after-removals.py](hard/2382-maximum-segment-sum-after-removals.py) · [hard/2382-maximum-segment-sum-after-removals.cpp](hard/2382-maximum-segment-sum-after-removals.cpp) |
+| 2386 | [Find the K-Sum of an Array](https://leetcode.com/problems/find-the-k-sum-of-an-array/) | [hard/2386-find-the-k-sum-of-an-array.py](hard/2386-find-the-k-sum-of-an-array.py) · [hard/2386-find-the-k-sum-of-an-array.go](hard/2386-find-the-k-sum-of-an-array.go) |
+| 2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | [hard/2392-build-a-matrix-with-conditions.py](hard/2392-build-a-matrix-with-conditions.py) · [hard/2392-build-a-matrix-with-conditions.rs](hard/2392-build-a-matrix-with-conditions.rs) |
+| 2398 | [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) | [hard/2398-maximum-number-of-robots-within-budget.py](hard/2398-maximum-number-of-robots-within-budget.py) · [hard/2398-maximum-number-of-robots-within-budget.ts](hard/2398-maximum-number-of-robots-within-budget.ts) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2095,4 +2100,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2069**
+**Total solved: 2074**
