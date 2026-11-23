@@ -1659,7 +1659,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (365)
+## Solved — Hard (370)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2020,7 +2020,12 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | [hard/2071-maximum-number-of-tasks-you-can-assign.py](hard/2071-maximum-number-of-tasks-you-can-assign.py) · [hard/2071-maximum-number-of-tasks-you-can-assign.cpp](hard/2071-maximum-number-of-tasks-you-can-assign.cpp) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [hard/2076-process-restricted-friend-requests.py](hard/2076-process-restricted-friend-requests.py) |
+| 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | [hard/2081-sum-of-k-mirror-numbers.py](hard/2081-sum-of-k-mirror-numbers.py) · [hard/2081-sum-of-k-mirror-numbers.js](hard/2081-sum-of-k-mirror-numbers.js) |
+| 2088 | [Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/) | [hard/2088-count-fertile-pyramids-in-a-land.py](hard/2088-count-fertile-pyramids-in-a-land.py) · [hard/2088-count-fertile-pyramids-in-a-land.go](hard/2088-count-fertile-pyramids-in-a-land.go) |
+| 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | [hard/2092-find-all-people-with-secret.py](hard/2092-find-all-people-with-secret.py) · [hard/2092-find-all-people-with-secret.rs](hard/2092-find-all-people-with-secret.rs) |
 | 2093 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [hard/2093-minimum-weighted-subgraph-with-the-required-paths.py](hard/2093-minimum-weighted-subgraph-with-the-required-paths.py) |
+| 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [hard/2097-valid-arrangement-of-pairs.py](hard/2097-valid-arrangement-of-pairs.py) · [hard/2097-valid-arrangement-of-pairs.ts](hard/2097-valid-arrangement-of-pairs.ts) |
+| 2102 | [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/) | [hard/2102-sequentially-ordinal-rank-tracker.py](hard/2102-sequentially-ordinal-rank-tracker.py) · [hard/2102-sequentially-ordinal-rank-tracker.cs](hard/2102-sequentially-ordinal-rank-tracker.cs) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2028,4 +2033,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2002**
+**Total solved: 2007**
