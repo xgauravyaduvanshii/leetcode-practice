@@ -1664,7 +1664,6 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py](medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py) |
-| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [hard/0185-department-top-three-salaries.sql](hard/0185-department-top-three-salaries.sql) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [medium/2657-find-the-prefix-common-array-of-two-arrays.py](medium/2657-find-the-prefix-common-array-of-two-arrays.py) |
 | 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [medium/2661-first-completely-painted-row-or-column.py](medium/2661-first-completely-painted-row-or-column.py) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [medium/2679-sum-in-a-matrix.py](medium/2679-sum-in-a-matrix.py) |
@@ -1673,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (508)
+## Solved — Hard (513)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2185,5 +2184,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3098 | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | [hard/3098-find-the-sum-of-subsequence-powers.py](hard/3098-find-the-sum-of-subsequence-powers.py) · [hard/3098-find-the-sum-of-subsequence-powers.go](hard/3098-find-the-sum-of-subsequence-powers.go) |
 | 3102 | [Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/) | [hard/3102-minimize-manhattan-distances.py](hard/3102-minimize-manhattan-distances.py) · [hard/3102-minimize-manhattan-distances.rs](hard/3102-minimize-manhattan-distances.rs) |
 | 3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [hard/3108-minimum-cost-walk-in-weighted-graph.py](hard/3108-minimum-cost-walk-in-weighted-graph.py) · [hard/3108-minimum-cost-walk-in-weighted-graph.ts](hard/3108-minimum-cost-walk-in-weighted-graph.ts) |
+| 3113 | [Find the Number of Subarrays Where Boundary Elements Are Maximum](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | [hard/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum.py](hard/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum.py) · [hard/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum.cs](hard/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum.cs) |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [hard/3116-kth-smallest-amount-with-single-denomination-combination.py](hard/3116-kth-smallest-amount-with-single-denomination-combination.py) · [hard/3116-kth-smallest-amount-with-single-denomination-combination.kt](hard/3116-kth-smallest-amount-with-single-denomination-combination.kt) |
+| 3117 | [Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) | [hard/3117-minimum-sum-of-values-by-dividing-array.py](hard/3117-minimum-sum-of-values-by-dividing-array.py) · [hard/3117-minimum-sum-of-values-by-dividing-array.java](hard/3117-minimum-sum-of-values-by-dividing-array.java) |
+| 3123 | [Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [hard/3123-find-edges-in-shortest-paths.py](hard/3123-find-edges-in-shortest-paths.py) · [hard/3123-find-edges-in-shortest-paths.cpp](hard/3123-find-edges-in-shortest-paths.cpp) |
+| 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [hard/3130-find-all-possible-stable-binary-arrays-ii.py](hard/3130-find-all-possible-stable-binary-arrays-ii.py) · [hard/3130-find-all-possible-stable-binary-arrays-ii.js](hard/3130-find-all-possible-stable-binary-arrays-ii.js) |
 
-**Total solved: 2159**
+**Total solved: 2164**
