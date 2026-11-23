@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (543)
+## Solved — Hard (548)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2219,5 +2219,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3260 | [Find the Largest Palindrome Divisible by K](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/) | [hard/3260-find-the-largest-palindrome-divisible-by-k.py](hard/3260-find-the-largest-palindrome-divisible-by-k.py) · [hard/3260-find-the-largest-palindrome-divisible-by-k.cs](hard/3260-find-the-largest-palindrome-divisible-by-k.cs) |
 | 3261 | [Count Substrings That Satisfy K-Constraint II](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/) | [hard/3261-count-substrings-that-satisfy-k-constraint-ii.py](hard/3261-count-substrings-that-satisfy-k-constraint-ii.py) · [hard/3261-count-substrings-that-satisfy-k-constraint-ii.kt](hard/3261-count-substrings-that-satisfy-k-constraint-ii.kt) |
 | 3266 | [Final Array State After K Multiplication Operations II](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/) | [hard/3266-final-array-state-after-k-multiplication-operations-ii.py](hard/3266-final-array-state-after-k-multiplication-operations-ii.py) · [hard/3266-final-array-state-after-k-multiplication-operations-ii.java](hard/3266-final-array-state-after-k-multiplication-operations-ii.java) |
+| 3267 | [Count Almost Equal Pairs II](https://leetcode.com/problems/count-almost-equal-pairs-ii/) | [hard/3267-count-almost-equal-pairs-ii.py](hard/3267-count-almost-equal-pairs-ii.py) · [hard/3267-count-almost-equal-pairs-ii.cpp](hard/3267-count-almost-equal-pairs-ii.cpp) |
+| 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [hard/3272-find-the-count-of-good-integers.py](hard/3272-find-the-count-of-good-integers.py) · [hard/3272-find-the-count-of-good-integers.js](hard/3272-find-the-count-of-good-integers.js) |
+| 3273 | [Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | [hard/3273-minimum-amount-of-damage-dealt-to-bob.py](hard/3273-minimum-amount-of-damage-dealt-to-bob.py) · [hard/3273-minimum-amount-of-damage-dealt-to-bob.go](hard/3273-minimum-amount-of-damage-dealt-to-bob.go) |
+| 3276 | [Select Cells in Grid With Maximum Score](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/) | [hard/3276-select-cells-in-grid-with-maximum-score.py](hard/3276-select-cells-in-grid-with-maximum-score.py) · [hard/3276-select-cells-in-grid-with-maximum-score.rs](hard/3276-select-cells-in-grid-with-maximum-score.rs) |
+| 3277 | [Maximum XOR Score Subarray Queries](https://leetcode.com/problems/maximum-xor-score-subarray-queries/) | [hard/3277-maximum-xor-score-subarray-queries.py](hard/3277-maximum-xor-score-subarray-queries.py) · [hard/3277-maximum-xor-score-subarray-queries.ts](hard/3277-maximum-xor-score-subarray-queries.ts) |
 
-**Total solved: 2194**
+**Total solved: 2199**
