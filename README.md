@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (783)
+## Solved — Medium (784)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1597,6 +1597,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [medium/1906-minimum-absolute-difference-queries.py](medium/1906-minimum-absolute-difference-queries.py) |
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | [medium/1907-count-salary-categories.sql](medium/1907-count-salary-categories.sql) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [medium/1910-remove-all-occurrences-of-a-substring.py](medium/1910-remove-all-occurrences-of-a-substring.py) |
+| 1911 | [Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | [medium/1911-maximum-alternating-subsequence-sum.py](medium/1911-maximum-alternating-subsequence-sum.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
@@ -1658,7 +1659,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (361)
+## Solved — Hard (365)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2013,6 +2014,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [hard/2035-partition-array-into-two-arrays-to-minimize-sum-difference.py](hard/2035-partition-array-into-two-arrays-to-minimize-sum-difference.py) · [hard/2035-partition-array-into-two-arrays-to-minimize-sum-difference.go](hard/2035-partition-array-into-two-arrays-to-minimize-sum-difference.go) |
 | 2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) | [hard/2040-kth-smallest-product-of-two-sorted-arrays.py](hard/2040-kth-smallest-product-of-two-sorted-arrays.py) · [hard/2040-kth-smallest-product-of-two-sorted-arrays.rs](hard/2040-kth-smallest-product-of-two-sorted-arrays.rs) |
 | 2045 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [hard/2045-second-minimum-time-to-reach-destination.py](hard/2045-second-minimum-time-to-reach-destination.py) · [hard/2045-second-minimum-time-to-reach-destination.ts](hard/2045-second-minimum-time-to-reach-destination.ts) |
+| 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | [hard/2050-parallel-courses-iii.py](hard/2050-parallel-courses-iii.py) · [hard/2050-parallel-courses-iii.cs](hard/2050-parallel-courses-iii.cs) |
+| 2056 | [Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/) | [hard/2056-number-of-valid-move-combinations-on-chessboard.py](hard/2056-number-of-valid-move-combinations-on-chessboard.py) · [hard/2056-number-of-valid-move-combinations-on-chessboard.kt](hard/2056-number-of-valid-move-combinations-on-chessboard.kt) |
+| 2060 | [Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/) | [hard/2060-check-if-an-original-string-exists-given-two-encoded-strings.py](hard/2060-check-if-an-original-string-exists-given-two-encoded-strings.py) · [hard/2060-check-if-an-original-string-exists-given-two-encoded-strings.java](hard/2060-check-if-an-original-string-exists-given-two-encoded-strings.java) |
+| 2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | [hard/2071-maximum-number-of-tasks-you-can-assign.py](hard/2071-maximum-number-of-tasks-you-can-assign.py) · [hard/2071-maximum-number-of-tasks-you-can-assign.cpp](hard/2071-maximum-number-of-tasks-you-can-assign.cpp) |
 | 2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [hard/2065-maximum-path-quality-of-a-graph.py](hard/2065-maximum-path-quality-of-a-graph.py) |
 | 2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [hard/2076-process-restricted-friend-requests.py](hard/2076-process-restricted-friend-requests.py) |
 | 2093 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [hard/2093-minimum-weighted-subgraph-with-the-required-paths.py](hard/2093-minimum-weighted-subgraph-with-the-required-paths.py) |
@@ -2023,4 +2028,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 1997**
+**Total solved: 2002**
