@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (790)
+## Solved — Medium (791)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1605,6 +1605,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | [medium/1927-sum-game.py](medium/1927-sum-game.py) |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [medium/1930-unique-length-3-palindromic-subsequences.py](medium/1930-unique-length-3-palindromic-subsequences.py) |
+| 1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [medium/1936-add-minimum-number-of-rungs.py](medium/1936-add-minimum-number-of-rungs.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
@@ -1665,7 +1666,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (416)
+## Solved — Hard (420)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2077,6 +2078,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2318 | [Number of Distinct Roll Sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences/) | [hard/2318-number-of-distinct-roll-sequences.py](hard/2318-number-of-distinct-roll-sequences.py) · [hard/2318-number-of-distinct-roll-sequences.rs](hard/2318-number-of-distinct-roll-sequences.rs) |
 | 2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/) | [hard/2321-maximum-score-of-spliced-array.py](hard/2321-maximum-score-of-spliced-array.py) · [hard/2321-maximum-score-of-spliced-array.ts](hard/2321-maximum-score-of-spliced-array.ts) |
 | 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [hard/2322-minimum-score-after-removals-on-a-tree.py](hard/2322-minimum-score-after-removals-on-a-tree.py) · [hard/2322-minimum-score-after-removals-on-a-tree.cs](hard/2322-minimum-score-after-removals-on-a-tree.cs) |
+| 2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | [hard/2328-number-of-increasing-paths-in-a-grid.py](hard/2328-number-of-increasing-paths-in-a-grid.py) · [hard/2328-number-of-increasing-paths-in-a-grid.kt](hard/2328-number-of-increasing-paths-in-a-grid.kt) |
+| 2334 | [Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/) | [hard/2334-subarray-with-elements-greater-than-varying-threshold.py](hard/2334-subarray-with-elements-greater-than-varying-threshold.py) · [hard/2334-subarray-with-elements-greater-than-varying-threshold.java](hard/2334-subarray-with-elements-greater-than-varying-threshold.java) |
+| 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [hard/2338-count-the-number-of-ideal-arrays.py](hard/2338-count-the-number-of-ideal-arrays.py) · [hard/2338-count-the-number-of-ideal-arrays.cpp](hard/2338-count-the-number-of-ideal-arrays.cpp) |
+| 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [hard/2344-minimum-deletions-to-make-array-divisible.py](hard/2344-minimum-deletions-to-make-array-divisible.py) · [hard/2344-minimum-deletions-to-make-array-divisible.go](hard/2344-minimum-deletions-to-make-array-divisible.go) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2085,4 +2090,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2059**
+**Total solved: 2064**
