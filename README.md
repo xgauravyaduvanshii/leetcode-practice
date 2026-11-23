@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (474)
+## Solved — Hard (479)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2142,6 +2142,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2603 | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/) | [hard/2603-collect-coins-in-a-tree.py](hard/2603-collect-coins-in-a-tree.py) · [hard/2603-collect-coins-in-a-tree.go](hard/2603-collect-coins-in-a-tree.go) |
 | 2608 | [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [hard/2608-shortest-cycle-in-a-graph.py](hard/2608-shortest-cycle-in-a-graph.py) · [hard/2608-shortest-cycle-in-a-graph.rs](hard/2608-shortest-cycle-in-a-graph.rs) |
 | 2612 | [Minimum Reverse Operations](https://leetcode.com/problems/minimum-reverse-operations/) | [hard/2612-minimum-reverse-operations.py](hard/2612-minimum-reverse-operations.py) · [hard/2612-minimum-reverse-operations.ts](hard/2612-minimum-reverse-operations.ts) |
+| 2617 | [Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | [hard/2617-minimum-number-of-visited-cells-in-a-grid.py](hard/2617-minimum-number-of-visited-cells-in-a-grid.py) · [hard/2617-minimum-number-of-visited-cells-in-a-grid.cs](hard/2617-minimum-number-of-visited-cells-in-a-grid.cs) |
+| 2630 | [Memoize II](https://leetcode.com/problems/memoize-ii/) | [hard/2630-memoize-ii.js](hard/2630-memoize-ii.js) · [hard/2630-memoize-ii.ts](hard/2630-memoize-ii.ts) |
+| 2646 | [Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [hard/2646-minimize-the-total-price-of-the-trips.py](hard/2646-minimize-the-total-price-of-the-trips.py) · [hard/2646-minimize-the-total-price-of-the-trips.java](hard/2646-minimize-the-total-price-of-the-trips.java) |
+| 2650 | [Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/) | [hard/2650-design-cancellable-function.js](hard/2650-design-cancellable-function.js) · [hard/2650-design-cancellable-function.ts](hard/2650-design-cancellable-function.ts) |
+| 2659 | [Make Array Empty](https://leetcode.com/problems/make-array-empty/) | [hard/2659-make-array-empty.py](hard/2659-make-array-empty.py) · [hard/2659-make-array-empty.js](hard/2659-make-array-empty.js) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2150,4 +2155,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2133**
+**Total solved: 2143**
