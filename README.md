@@ -1673,7 +1673,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (503)
+## Solved — Hard (508)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1707,6 +1707,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [hard/0149-max-points-on-a-line.py](hard/0149-max-points-on-a-line.py) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [hard/0154-find-minimum-in-rotated-sorted-array-ii.py](hard/0154-find-minimum-in-rotated-sorted-array-ii.py) |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [hard/0174-dungeon-game.py](hard/0174-dungeon-game.py) |
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [hard/0185-department-top-three-salaries.sql](hard/0185-department-top-three-salaries.sql) |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [hard/0188-best-time-to-buy-and-sell-stock-iv.py](hard/0188-best-time-to-buy-and-sell-stock-iv.py) |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [hard/0212-word-search-ii.py](hard/0212-word-search-ii.py) |
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [hard/0214-shortest-palindrome.py](hard/0214-shortest-palindrome.py) |
@@ -2179,5 +2180,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3077 | [Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/) | [hard/3077-maximum-strength-of-k-disjoint-subarrays.py](hard/3077-maximum-strength-of-k-disjoint-subarrays.py) · [hard/3077-maximum-strength-of-k-disjoint-subarrays.kt](hard/3077-maximum-strength-of-k-disjoint-subarrays.kt) |
 | 3082 | [Find the Sum of the Power of All Subsequences](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/) | [hard/3082-find-the-sum-of-the-power-of-all-subsequences.py](hard/3082-find-the-sum-of-the-power-of-all-subsequences.py) · [hard/3082-find-the-sum-of-the-power-of-all-subsequences.java](hard/3082-find-the-sum-of-the-power-of-all-subsequences.java) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
+| 3086 | [Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) | [hard/3086-minimum-moves-to-pick-k-ones.py](hard/3086-minimum-moves-to-pick-k-ones.py) · [hard/3086-minimum-moves-to-pick-k-ones.cpp](hard/3086-minimum-moves-to-pick-k-ones.cpp) |
+| 3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | [hard/3093-longest-common-suffix-queries.py](hard/3093-longest-common-suffix-queries.py) · [hard/3093-longest-common-suffix-queries.js](hard/3093-longest-common-suffix-queries.js) |
+| 3098 | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | [hard/3098-find-the-sum-of-subsequence-powers.py](hard/3098-find-the-sum-of-subsequence-powers.py) · [hard/3098-find-the-sum-of-subsequence-powers.go](hard/3098-find-the-sum-of-subsequence-powers.go) |
+| 3102 | [Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/) | [hard/3102-minimize-manhattan-distances.py](hard/3102-minimize-manhattan-distances.py) · [hard/3102-minimize-manhattan-distances.rs](hard/3102-minimize-manhattan-distances.rs) |
+| 3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [hard/3108-minimum-cost-walk-in-weighted-graph.py](hard/3108-minimum-cost-walk-in-weighted-graph.py) · [hard/3108-minimum-cost-walk-in-weighted-graph.ts](hard/3108-minimum-cost-walk-in-weighted-graph.ts) |
 
-**Total solved: 2154**
+**Total solved: 2159**
