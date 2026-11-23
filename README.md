@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (538)
+## Solved — Hard (543)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2214,5 +2214,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3245 | [Alternating Groups III](https://leetcode.com/problems/alternating-groups-iii/) | [hard/3245-alternating-groups-iii.py](hard/3245-alternating-groups-iii.py) · [hard/3245-alternating-groups-iii.cpp](hard/3245-alternating-groups-iii.cpp) |
 | 3250 | [Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/) | [hard/3250-find-the-count-of-monotonic-pairs-i.py](hard/3250-find-the-count-of-monotonic-pairs-i.py) · [hard/3250-find-the-count-of-monotonic-pairs-i.js](hard/3250-find-the-count-of-monotonic-pairs-i.js) |
 | 3251 | [Find the Count of Monotonic Pairs II](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/) | [hard/3251-find-the-count-of-monotonic-pairs-ii.py](hard/3251-find-the-count-of-monotonic-pairs-ii.py) · [hard/3251-find-the-count-of-monotonic-pairs-ii.go](hard/3251-find-the-count-of-monotonic-pairs-ii.go) |
+| 3256 | [Maximum Value Sum by Placing Three Rooks I](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/) | [hard/3256-maximum-value-sum-by-placing-three-rooks-i.py](hard/3256-maximum-value-sum-by-placing-three-rooks-i.py) · [hard/3256-maximum-value-sum-by-placing-three-rooks-i.rs](hard/3256-maximum-value-sum-by-placing-three-rooks-i.rs) |
+| 3257 | [Maximum Value Sum by Placing Three Rooks II](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/) | [hard/3257-maximum-value-sum-by-placing-three-rooks-ii.py](hard/3257-maximum-value-sum-by-placing-three-rooks-ii.py) · [hard/3257-maximum-value-sum-by-placing-three-rooks-ii.ts](hard/3257-maximum-value-sum-by-placing-three-rooks-ii.ts) |
+| 3260 | [Find the Largest Palindrome Divisible by K](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/) | [hard/3260-find-the-largest-palindrome-divisible-by-k.py](hard/3260-find-the-largest-palindrome-divisible-by-k.py) · [hard/3260-find-the-largest-palindrome-divisible-by-k.cs](hard/3260-find-the-largest-palindrome-divisible-by-k.cs) |
+| 3261 | [Count Substrings That Satisfy K-Constraint II](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/) | [hard/3261-count-substrings-that-satisfy-k-constraint-ii.py](hard/3261-count-substrings-that-satisfy-k-constraint-ii.py) · [hard/3261-count-substrings-that-satisfy-k-constraint-ii.kt](hard/3261-count-substrings-that-satisfy-k-constraint-ii.kt) |
+| 3266 | [Final Array State After K Multiplication Operations II](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/) | [hard/3266-final-array-state-after-k-multiplication-operations-ii.py](hard/3266-final-array-state-after-k-multiplication-operations-ii.py) · [hard/3266-final-array-state-after-k-multiplication-operations-ii.java](hard/3266-final-array-state-after-k-multiplication-operations-ii.java) |
 
-**Total solved: 2189**
+**Total solved: 2194**
