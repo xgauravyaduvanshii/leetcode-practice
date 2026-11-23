@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (796)
+## Solved — Medium (797)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1611,6 +1611,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | [medium/1943-describe-the-painting.py](medium/1943-describe-the-painting.py) |
 | 1946 | [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [medium/1946-largest-number-after-mutating-substring.py](medium/1946-largest-number-after-mutating-substring.py) |
 | 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | [medium/1947-maximum-compatibility-score-sum.py](medium/1947-maximum-compatibility-score-sum.py) |
+| 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [medium/1953-maximum-number-of-weeks-for-which-you-can-work.py](medium/1953-maximum-number-of-weeks-for-which-you-can-work.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
@@ -1671,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (470)
+## Solved — Hard (474)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2137,6 +2138,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2581 | [Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/) | [hard/2581-count-number-of-possible-root-nodes.py](hard/2581-count-number-of-possible-root-nodes.py) · [hard/2581-count-number-of-possible-root-nodes.kt](hard/2581-count-number-of-possible-root-nodes.kt) |
 | 2584 | [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | [hard/2584-split-the-array-to-make-coprime-products.py](hard/2584-split-the-array-to-make-coprime-products.py) · [hard/2584-split-the-array-to-make-coprime-products.java](hard/2584-split-the-array-to-make-coprime-products.java) |
 | 2585 | [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | [hard/2585-number-of-ways-to-earn-points.py](hard/2585-number-of-ways-to-earn-points.py) · [hard/2585-number-of-ways-to-earn-points.cpp](hard/2585-number-of-ways-to-earn-points.cpp) |
+| 2589 | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | [hard/2589-minimum-time-to-complete-all-tasks.py](hard/2589-minimum-time-to-complete-all-tasks.py) · [hard/2589-minimum-time-to-complete-all-tasks.js](hard/2589-minimum-time-to-complete-all-tasks.js) |
+| 2603 | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/) | [hard/2603-collect-coins-in-a-tree.py](hard/2603-collect-coins-in-a-tree.py) · [hard/2603-collect-coins-in-a-tree.go](hard/2603-collect-coins-in-a-tree.go) |
+| 2608 | [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [hard/2608-shortest-cycle-in-a-graph.py](hard/2608-shortest-cycle-in-a-graph.py) · [hard/2608-shortest-cycle-in-a-graph.rs](hard/2608-shortest-cycle-in-a-graph.rs) |
+| 2612 | [Minimum Reverse Operations](https://leetcode.com/problems/minimum-reverse-operations/) | [hard/2612-minimum-reverse-operations.py](hard/2612-minimum-reverse-operations.py) · [hard/2612-minimum-reverse-operations.ts](hard/2612-minimum-reverse-operations.ts) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2145,4 +2150,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2124**
+**Total solved: 2133**
