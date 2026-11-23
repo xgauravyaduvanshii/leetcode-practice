@@ -1663,7 +1663,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (393)
+## Solved — Hard (398)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2052,6 +2052,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2197 | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | [hard/2197-replace-non-coprime-numbers-in-array.py](hard/2197-replace-non-coprime-numbers-in-array.py) · [hard/2197-replace-non-coprime-numbers-in-array.js](hard/2197-replace-non-coprime-numbers-in-array.js) |
 | 2203 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [hard/2203-minimum-weighted-subgraph-with-the-required-paths.py](hard/2203-minimum-weighted-subgraph-with-the-required-paths.py) |
 | 2209 | [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/) | [hard/2209-minimum-white-tiles-after-covering-with-carpets.py](hard/2209-minimum-white-tiles-after-covering-with-carpets.py) · [hard/2209-minimum-white-tiles-after-covering-with-carpets.rs](hard/2209-minimum-white-tiles-after-covering-with-carpets.rs) |
+| 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | [hard/2213-longest-substring-of-one-repeating-character.py](hard/2213-longest-substring-of-one-repeating-character.py) · [hard/2213-longest-substring-of-one-repeating-character.ts](hard/2213-longest-substring-of-one-repeating-character.ts) |
+| 2218 | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | [hard/2218-maximum-value-of-k-coins-from-piles.py](hard/2218-maximum-value-of-k-coins-from-piles.py) · [hard/2218-maximum-value-of-k-coins-from-piles.cs](hard/2218-maximum-value-of-k-coins-from-piles.cs) |
+| 2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | [hard/2227-encrypt-and-decrypt-strings.py](hard/2227-encrypt-and-decrypt-strings.py) · [hard/2227-encrypt-and-decrypt-strings.kt](hard/2227-encrypt-and-decrypt-strings.kt) |
+| 2234 | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/) | [hard/2234-maximum-total-beauty-of-the-gardens.py](hard/2234-maximum-total-beauty-of-the-gardens.py) · [hard/2234-maximum-total-beauty-of-the-gardens.java](hard/2234-maximum-total-beauty-of-the-gardens.java) |
+| 2242 | [Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/) | [hard/2242-maximum-score-of-a-node-sequence.py](hard/2242-maximum-score-of-a-node-sequence.py) · [hard/2242-maximum-score-of-a-node-sequence.cpp](hard/2242-maximum-score-of-a-node-sequence.cpp) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2060,4 +2065,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2034**
+**Total solved: 2039**
