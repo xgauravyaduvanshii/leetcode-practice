@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (523)
+## Solved — Hard (528)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2199,5 +2199,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3171 | [Find Subarray With Bitwise OR Closest to K](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/) | [hard/3171-find-subarray-with-bitwise-or-closest-to-k.py](hard/3171-find-subarray-with-bitwise-or-closest-to-k.py) · [hard/3171-find-subarray-with-bitwise-or-closest-to-k.js](hard/3171-find-subarray-with-bitwise-or-closest-to-k.js) |
 | 3177 | [Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) | [hard/3177-find-the-maximum-length-of-a-good-subsequence-ii.py](hard/3177-find-the-maximum-length-of-a-good-subsequence-ii.py) · [hard/3177-find-the-maximum-length-of-a-good-subsequence-ii.go](hard/3177-find-the-maximum-length-of-a-good-subsequence-ii.go) |
 | 3181 | [Maximum Total Reward Using Operations II](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/) | [hard/3181-maximum-total-reward-using-operations-ii.py](hard/3181-maximum-total-reward-using-operations-ii.py) · [hard/3181-maximum-total-reward-using-operations-ii.rs](hard/3181-maximum-total-reward-using-operations-ii.rs) |
+| 3187 | [Peaks in Array](https://leetcode.com/problems/peaks-in-array/) | [hard/3187-peaks-in-array.py](hard/3187-peaks-in-array.py) · [hard/3187-peaks-in-array.ts](hard/3187-peaks-in-array.ts) |
+| 3193 | [Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/) | [hard/3193-count-the-number-of-inversions.py](hard/3193-count-the-number-of-inversions.py) · [hard/3193-count-the-number-of-inversions.cs](hard/3193-count-the-number-of-inversions.cs) |
+| 3197 | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [hard/3197-find-the-minimum-area-to-cover-all-ones-ii.py](hard/3197-find-the-minimum-area-to-cover-all-ones-ii.py) · [hard/3197-find-the-minimum-area-to-cover-all-ones-ii.kt](hard/3197-find-the-minimum-area-to-cover-all-ones-ii.kt) |
+| 3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [hard/3203-find-minimum-diameter-after-merging-two-trees.py](hard/3203-find-minimum-diameter-after-merging-two-trees.py) · [hard/3203-find-minimum-diameter-after-merging-two-trees.java](hard/3203-find-minimum-diameter-after-merging-two-trees.java) |
+| 3209 | [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/) | [hard/3209-number-of-subarrays-with-and-value-of-k.py](hard/3209-number-of-subarrays-with-and-value-of-k.py) · [hard/3209-number-of-subarrays-with-and-value-of-k.cpp](hard/3209-number-of-subarrays-with-and-value-of-k.cpp) |
 
-**Total solved: 2174**
+**Total solved: 2179**
