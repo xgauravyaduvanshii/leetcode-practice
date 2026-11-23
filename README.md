@@ -1669,7 +1669,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (447)
+## Solved — Hard (452)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2112,6 +2112,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2468 | [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) | [hard/2468-split-message-based-on-limit.py](hard/2468-split-message-based-on-limit.py) · [hard/2468-split-message-based-on-limit.kt](hard/2468-split-message-based-on-limit.kt) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [hard/2472-maximum-number-of-non-overlapping-palindrome-substrings.py](hard/2472-maximum-number-of-non-overlapping-palindrome-substrings.py) · [hard/2472-maximum-number-of-non-overlapping-palindrome-substrings.java](hard/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 2478 | [Number of Beautiful Partitions](https://leetcode.com/problems/number-of-beautiful-partitions/) | [hard/2478-number-of-beautiful-partitions.py](hard/2478-number-of-beautiful-partitions.py) · [hard/2478-number-of-beautiful-partitions.cpp](hard/2478-number-of-beautiful-partitions.cpp) |
+| 2484 | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/) | [hard/2484-count-palindromic-subsequences.py](hard/2484-count-palindromic-subsequences.py) · [hard/2484-count-palindromic-subsequences.go](hard/2484-count-palindromic-subsequences.go) |
+| 2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | [hard/2488-count-subarrays-with-median-k.py](hard/2488-count-subarrays-with-median-k.py) · [hard/2488-count-subarrays-with-median-k.rs](hard/2488-count-subarrays-with-median-k.rs) |
+| 2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [hard/2493-divide-nodes-into-the-maximum-number-of-groups.py](hard/2493-divide-nodes-into-the-maximum-number-of-groups.py) · [hard/2493-divide-nodes-into-the-maximum-number-of-groups.ts](hard/2493-divide-nodes-into-the-maximum-number-of-groups.ts) |
+| 2499 | [Minimum Total Cost to Make Arrays Unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/) | [hard/2499-minimum-total-cost-to-make-arrays-unequal.py](hard/2499-minimum-total-cost-to-make-arrays-unequal.py) · [hard/2499-minimum-total-cost-to-make-arrays-unequal.cs](hard/2499-minimum-total-cost-to-make-arrays-unequal.cs) |
+| 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [hard/2503-maximum-number-of-points-from-grid-queries.py](hard/2503-maximum-number-of-points-from-grid-queries.py) · [hard/2503-maximum-number-of-points-from-grid-queries.kt](hard/2503-maximum-number-of-points-from-grid-queries.kt) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2120,4 +2125,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2094**
+**Total solved: 2099**
