@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (788)
+## Solved — Medium (789)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1603,6 +1603,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1921 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [medium/1921-eliminate-maximum-number-of-monsters.py](medium/1921-eliminate-maximum-number-of-monsters.py) |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [medium/1922-count-good-numbers.py](medium/1922-count-good-numbers.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
+| 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | [medium/1927-sum-game.py](medium/1927-sum-game.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
@@ -1663,7 +1664,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (398)
+## Solved — Hard (402)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2057,6 +2058,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | [hard/2227-encrypt-and-decrypt-strings.py](hard/2227-encrypt-and-decrypt-strings.py) · [hard/2227-encrypt-and-decrypt-strings.kt](hard/2227-encrypt-and-decrypt-strings.kt) |
 | 2234 | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/) | [hard/2234-maximum-total-beauty-of-the-gardens.py](hard/2234-maximum-total-beauty-of-the-gardens.py) · [hard/2234-maximum-total-beauty-of-the-gardens.java](hard/2234-maximum-total-beauty-of-the-gardens.java) |
 | 2242 | [Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/) | [hard/2242-maximum-score-of-a-node-sequence.py](hard/2242-maximum-score-of-a-node-sequence.py) · [hard/2242-maximum-score-of-a-node-sequence.cpp](hard/2242-maximum-score-of-a-node-sequence.cpp) |
+| 2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [hard/2246-longest-path-with-different-adjacent-characters.py](hard/2246-longest-path-with-different-adjacent-characters.py) · [hard/2246-longest-path-with-different-adjacent-characters.go](hard/2246-longest-path-with-different-adjacent-characters.go) |
+| 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [hard/2251-number-of-flowers-in-full-bloom.py](hard/2251-number-of-flowers-in-full-bloom.py) · [hard/2251-number-of-flowers-in-full-bloom.rs](hard/2251-number-of-flowers-in-full-bloom.rs) |
+| 2258 | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/) | [hard/2258-escape-the-spreading-fire.py](hard/2258-escape-the-spreading-fire.py) · [hard/2258-escape-the-spreading-fire.ts](hard/2258-escape-the-spreading-fire.ts) |
+| 2262 | [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) | [hard/2262-total-appeal-of-a-string.py](hard/2262-total-appeal-of-a-string.py) · [hard/2262-total-appeal-of-a-string.cs](hard/2262-total-appeal-of-a-string.cs) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2065,4 +2070,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2039**
+**Total solved: 2044**
