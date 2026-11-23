@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (528)
+## Solved — Hard (533)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2204,5 +2204,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3197 | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [hard/3197-find-the-minimum-area-to-cover-all-ones-ii.py](hard/3197-find-the-minimum-area-to-cover-all-ones-ii.py) · [hard/3197-find-the-minimum-area-to-cover-all-ones-ii.kt](hard/3197-find-the-minimum-area-to-cover-all-ones-ii.kt) |
 | 3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [hard/3203-find-minimum-diameter-after-merging-two-trees.py](hard/3203-find-minimum-diameter-after-merging-two-trees.py) · [hard/3203-find-minimum-diameter-after-merging-two-trees.java](hard/3203-find-minimum-diameter-after-merging-two-trees.java) |
 | 3209 | [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/) | [hard/3209-number-of-subarrays-with-and-value-of-k.py](hard/3209-number-of-subarrays-with-and-value-of-k.py) · [hard/3209-number-of-subarrays-with-and-value-of-k.cpp](hard/3209-number-of-subarrays-with-and-value-of-k.cpp) |
+| 3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [hard/3213-construct-string-with-minimum-cost.py](hard/3213-construct-string-with-minimum-cost.py) · [hard/3213-construct-string-with-minimum-cost.js](hard/3213-construct-string-with-minimum-cost.js) |
+| 3219 | [Minimum Cost for Cutting Cake II](https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/) | [hard/3219-minimum-cost-for-cutting-cake-ii.py](hard/3219-minimum-cost-for-cutting-cake-ii.py) · [hard/3219-minimum-cost-for-cutting-cake-ii.go](hard/3219-minimum-cost-for-cutting-cake-ii.go) |
+| 3225 | [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [hard/3225-maximum-score-from-grid-operations.py](hard/3225-maximum-score-from-grid-operations.py) · [hard/3225-maximum-score-from-grid-operations.rs](hard/3225-maximum-score-from-grid-operations.rs) |
+| 3229 | [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [hard/3229-minimum-operations-to-make-array-equal-to-target.py](hard/3229-minimum-operations-to-make-array-equal-to-target.py) · [hard/3229-minimum-operations-to-make-array-equal-to-target.ts](hard/3229-minimum-operations-to-make-array-equal-to-target.ts) |
+| 3235 | [Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | [hard/3235-check-if-the-rectangle-corner-is-reachable.py](hard/3235-check-if-the-rectangle-corner-is-reachable.py) · [hard/3235-check-if-the-rectangle-corner-is-reachable.cs](hard/3235-check-if-the-rectangle-corner-is-reachable.cs) |
 
-**Total solved: 2179**
+**Total solved: 2184**
