@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (548)
+## Solved — Hard (553)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2224,5 +2224,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3273 | [Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | [hard/3273-minimum-amount-of-damage-dealt-to-bob.py](hard/3273-minimum-amount-of-damage-dealt-to-bob.py) · [hard/3273-minimum-amount-of-damage-dealt-to-bob.go](hard/3273-minimum-amount-of-damage-dealt-to-bob.go) |
 | 3276 | [Select Cells in Grid With Maximum Score](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/) | [hard/3276-select-cells-in-grid-with-maximum-score.py](hard/3276-select-cells-in-grid-with-maximum-score.py) · [hard/3276-select-cells-in-grid-with-maximum-score.rs](hard/3276-select-cells-in-grid-with-maximum-score.rs) |
 | 3277 | [Maximum XOR Score Subarray Queries](https://leetcode.com/problems/maximum-xor-score-subarray-queries/) | [hard/3277-maximum-xor-score-subarray-queries.py](hard/3277-maximum-xor-score-subarray-queries.py) · [hard/3277-maximum-xor-score-subarray-queries.ts](hard/3277-maximum-xor-score-subarray-queries.ts) |
+| 3283 | [Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/) | [hard/3283-maximum-number-of-moves-to-kill-all-pawns.py](hard/3283-maximum-number-of-moves-to-kill-all-pawns.py) · [hard/3283-maximum-number-of-moves-to-kill-all-pawns.cs](hard/3283-maximum-number-of-moves-to-kill-all-pawns.cs) |
+| 3287 | [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/) | [hard/3287-find-the-maximum-sequence-value-of-array.py](hard/3287-find-the-maximum-sequence-value-of-array.py) · [hard/3287-find-the-maximum-sequence-value-of-array.kt](hard/3287-find-the-maximum-sequence-value-of-array.kt) |
+| 3288 | [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [hard/3288-length-of-the-longest-increasing-path.py](hard/3288-length-of-the-longest-increasing-path.py) · [hard/3288-length-of-the-longest-increasing-path.java](hard/3288-length-of-the-longest-increasing-path.java) |
+| 3292 | [Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/) | [hard/3292-minimum-number-of-valid-strings-to-form-target-ii.py](hard/3292-minimum-number-of-valid-strings-to-form-target-ii.py) · [hard/3292-minimum-number-of-valid-strings-to-form-target-ii.cpp](hard/3292-minimum-number-of-valid-strings-to-form-target-ii.cpp) |
+| 3298 | [Count Substrings That Can Be Rearranged to Contain a String II](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | [hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii.py](hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii.py) · [hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii.js](hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii.js) |
 
-**Total solved: 2199**
+**Total solved: 2204**
