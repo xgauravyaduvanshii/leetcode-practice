@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (793)
+## Solved — Medium (794)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1608,6 +1608,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [medium/1936-add-minimum-number-of-rungs.py](medium/1936-add-minimum-number-of-rungs.py) |
 | 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [medium/1937-maximum-number-of-points-with-cost.py](medium/1937-maximum-number-of-points-with-cost.py) |
 | 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [medium/1942-the-number-of-the-smallest-unoccupied-chair.py](medium/1942-the-number-of-the-smallest-unoccupied-chair.py) |
+| 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | [medium/1943-describe-the-painting.py](medium/1943-describe-the-painting.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
@@ -1668,7 +1669,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (443)
+## Solved — Hard (447)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2107,6 +2108,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2449 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [hard/2449-minimum-number-of-operations-to-make-arrays-similar.py](hard/2449-minimum-number-of-operations-to-make-arrays-similar.py) · [hard/2449-minimum-number-of-operations-to-make-arrays-similar.go](hard/2449-minimum-number-of-operations-to-make-arrays-similar.go) |
 | 2454 | [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) | [hard/2454-next-greater-element-iv.py](hard/2454-next-greater-element-iv.py) · [hard/2454-next-greater-element-iv.rs](hard/2454-next-greater-element-iv.rs) |
 | 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [hard/2458-height-of-binary-tree-after-subtree-removal-queries.py](hard/2458-height-of-binary-tree-after-subtree-removal-queries.py) · [hard/2458-height-of-binary-tree-after-subtree-removal-queries.ts](hard/2458-height-of-binary-tree-after-subtree-removal-queries.ts) |
+| 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [hard/2463-minimum-total-distance-traveled.py](hard/2463-minimum-total-distance-traveled.py) · [hard/2463-minimum-total-distance-traveled.cs](hard/2463-minimum-total-distance-traveled.cs) |
+| 2468 | [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) | [hard/2468-split-message-based-on-limit.py](hard/2468-split-message-based-on-limit.py) · [hard/2468-split-message-based-on-limit.kt](hard/2468-split-message-based-on-limit.kt) |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [hard/2472-maximum-number-of-non-overlapping-palindrome-substrings.py](hard/2472-maximum-number-of-non-overlapping-palindrome-substrings.py) · [hard/2472-maximum-number-of-non-overlapping-palindrome-substrings.java](hard/2472-maximum-number-of-non-overlapping-palindrome-substrings.java) |
+| 2478 | [Number of Beautiful Partitions](https://leetcode.com/problems/number-of-beautiful-partitions/) | [hard/2478-number-of-beautiful-partitions.py](hard/2478-number-of-beautiful-partitions.py) · [hard/2478-number-of-beautiful-partitions.cpp](hard/2478-number-of-beautiful-partitions.cpp) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2115,4 +2120,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2089**
+**Total solved: 2094**
