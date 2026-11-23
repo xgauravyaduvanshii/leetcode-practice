@@ -872,7 +872,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (789)
+## Solved — Medium (790)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1604,6 +1604,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [medium/1922-count-good-numbers.py](medium/1922-count-good-numbers.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [medium/1926-nearest-exit-from-entrance-in-maze.py](medium/1926-nearest-exit-from-entrance-in-maze.py) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | [medium/1927-sum-game.py](medium/1927-sum-game.py) |
+| 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [medium/1930-unique-length-3-palindromic-subsequences.py](medium/1930-unique-length-3-palindromic-subsequences.py) |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [medium/1934-confirmation-rate.sql](medium/1934-confirmation-rate.sql) |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [medium/2043-simple-bank-system.py](medium/2043-simple-bank-system.py) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [medium/2080-range-frequency-queries.py](medium/2080-range-frequency-queries.py) |
@@ -1664,7 +1665,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (407)
+## Solved — Hard (411)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2067,6 +2068,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2276 | [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/) | [hard/2276-count-integers-in-intervals.py](hard/2276-count-integers-in-intervals.py) · [hard/2276-count-integers-in-intervals.cpp](hard/2276-count-integers-in-intervals.cpp) |
 | 2281 | [Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) | [hard/2281-sum-of-total-strength-of-wizards.py](hard/2281-sum-of-total-strength-of-wizards.py) · [hard/2281-sum-of-total-strength-of-wizards.go](hard/2281-sum-of-total-strength-of-wizards.go) |
 | 2286 | [Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/) | [hard/2286-booking-concert-tickets-in-groups.py](hard/2286-booking-concert-tickets-in-groups.py) · [hard/2286-booking-concert-tickets-in-groups.rs](hard/2286-booking-concert-tickets-in-groups.rs) |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [hard/2290-minimum-obstacle-removal-to-reach-corner.py](hard/2290-minimum-obstacle-removal-to-reach-corner.py) · [hard/2290-minimum-obstacle-removal-to-reach-corner.ts](hard/2290-minimum-obstacle-removal-to-reach-corner.ts) |
+| 2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) | [hard/2296-design-a-text-editor.py](hard/2296-design-a-text-editor.py) · [hard/2296-design-a-text-editor.cs](hard/2296-design-a-text-editor.cs) |
+| 2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/) | [hard/2301-match-substring-after-replacement.py](hard/2301-match-substring-after-replacement.py) · [hard/2301-match-substring-after-replacement.kt](hard/2301-match-substring-after-replacement.kt) |
+| 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | [hard/2302-count-subarrays-with-score-less-than-k.py](hard/2302-count-subarrays-with-score-less-than-k.py) · [hard/2302-count-subarrays-with-score-less-than-k.java](hard/2302-count-subarrays-with-score-less-than-k.java) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2075,4 +2080,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2049**
+**Total solved: 2054**
