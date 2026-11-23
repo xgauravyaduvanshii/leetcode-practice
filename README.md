@@ -1661,7 +1661,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (383)
+## Solved — Hard (388)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2041,6 +2041,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/) | [hard/2156-find-substring-with-given-hash-value.py](hard/2156-find-substring-with-given-hash-value.py) · [hard/2156-find-substring-with-given-hash-value.cpp](hard/2156-find-substring-with-given-hash-value.cpp) |
 | 2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | [hard/2157-groups-of-strings.py](hard/2157-groups-of-strings.py) · [hard/2157-groups-of-strings.js](hard/2157-groups-of-strings.js) |
 | 2163 | [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | [hard/2163-minimum-difference-in-sums-after-removal-of-elements.py](hard/2163-minimum-difference-in-sums-after-removal-of-elements.py) · [hard/2163-minimum-difference-in-sums-after-removal-of-elements.go](hard/2163-minimum-difference-in-sums-after-removal-of-elements.go) |
+| 2167 | [Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [hard/2167-minimum-time-to-remove-all-cars-containing-illegal-goods.py](hard/2167-minimum-time-to-remove-all-cars-containing-illegal-goods.py) · [hard/2167-minimum-time-to-remove-all-cars-containing-illegal-goods.rs](hard/2167-minimum-time-to-remove-all-cars-containing-illegal-goods.rs) |
+| 2172 | [Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/) | [hard/2172-maximum-and-sum-of-array.py](hard/2172-maximum-and-sum-of-array.py) · [hard/2172-maximum-and-sum-of-array.ts](hard/2172-maximum-and-sum-of-array.ts) |
+| 2179 | [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | [hard/2179-count-good-triplets-in-an-array.py](hard/2179-count-good-triplets-in-an-array.py) · [hard/2179-count-good-triplets-in-an-array.cs](hard/2179-count-good-triplets-in-an-array.cs) |
+| 2183 | [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [hard/2183-count-array-pairs-divisible-by-k.py](hard/2183-count-array-pairs-divisible-by-k.py) · [hard/2183-count-array-pairs-divisible-by-k.kt](hard/2183-count-array-pairs-divisible-by-k.kt) |
+| 2188 | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [hard/2188-minimum-time-to-finish-the-race.py](hard/2188-minimum-time-to-finish-the-race.py) · [hard/2188-minimum-time-to-finish-the-race.java](hard/2188-minimum-time-to-finish-the-race.java) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2048,4 +2053,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2022**
+**Total solved: 2027**
