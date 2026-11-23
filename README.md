@@ -1670,7 +1670,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (456)
+## Solved — Hard (461)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2122,6 +2122,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2514 | [Count Anagrams](https://leetcode.com/problems/count-anagrams/) | [hard/2514-count-anagrams.py](hard/2514-count-anagrams.py) · [hard/2514-count-anagrams.cpp](hard/2514-count-anagrams.cpp) |
 | 2518 | [Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/) | [hard/2518-number-of-great-partitions.py](hard/2518-number-of-great-partitions.py) · [hard/2518-number-of-great-partitions.js](hard/2518-number-of-great-partitions.js) |
 | 2528 | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [hard/2528-maximize-the-minimum-powered-city.py](hard/2528-maximize-the-minimum-powered-city.py) · [hard/2528-maximize-the-minimum-powered-city.go](hard/2528-maximize-the-minimum-powered-city.go) |
+| 2532 | [Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/) | [hard/2532-time-to-cross-a-bridge.py](hard/2532-time-to-cross-a-bridge.py) · [hard/2532-time-to-cross-a-bridge.rs](hard/2532-time-to-cross-a-bridge.rs) |
+| 2538 | [Difference Between Maximum and Minimum Price Sum](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/) | [hard/2538-difference-between-maximum-and-minimum-price-sum.py](hard/2538-difference-between-maximum-and-minimum-price-sum.py) · [hard/2538-difference-between-maximum-and-minimum-price-sum.ts](hard/2538-difference-between-maximum-and-minimum-price-sum.ts) |
+| 2543 | [Check if Point Is Reachable](https://leetcode.com/problems/check-if-point-is-reachable/) | [hard/2543-check-if-point-is-reachable.py](hard/2543-check-if-point-is-reachable.py) · [hard/2543-check-if-point-is-reachable.cs](hard/2543-check-if-point-is-reachable.cs) |
+| 2547 | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/) | [hard/2547-minimum-cost-to-split-an-array.py](hard/2547-minimum-cost-to-split-an-array.py) · [hard/2547-minimum-cost-to-split-an-array.kt](hard/2547-minimum-cost-to-split-an-array.kt) |
+| 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | [hard/2551-put-marbles-in-bags.py](hard/2551-put-marbles-in-bags.py) · [hard/2551-put-marbles-in-bags.java](hard/2551-put-marbles-in-bags.java) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [hard/2223-sum-of-scores-of-built-strings.py](hard/2223-sum-of-scores-of-built-strings.py) |
 | 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py](hard/2508-add-edges-to-make-degrees-of-all-nodes-even.py) |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [hard/2642-design-graph-with-shortest-path-calculator.py](hard/2642-design-graph-with-shortest-path-calculator.py) |
@@ -2130,4 +2135,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [hard/2940-find-building-where-alice-and-bob-can-meet.py](hard/2940-find-building-where-alice-and-bob-can-meet.py) |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py](hard/3041-maximize-consecutive-elements-in-an-array-after-modification.py) |
 
-**Total solved: 2104**
+**Total solved: 2109**
