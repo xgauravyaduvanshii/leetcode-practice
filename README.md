@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (533)
+## Solved — Hard (538)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2209,5 +2209,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3225 | [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [hard/3225-maximum-score-from-grid-operations.py](hard/3225-maximum-score-from-grid-operations.py) · [hard/3225-maximum-score-from-grid-operations.rs](hard/3225-maximum-score-from-grid-operations.rs) |
 | 3229 | [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [hard/3229-minimum-operations-to-make-array-equal-to-target.py](hard/3229-minimum-operations-to-make-array-equal-to-target.py) · [hard/3229-minimum-operations-to-make-array-equal-to-target.ts](hard/3229-minimum-operations-to-make-array-equal-to-target.ts) |
 | 3235 | [Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | [hard/3235-check-if-the-rectangle-corner-is-reachable.py](hard/3235-check-if-the-rectangle-corner-is-reachable.py) · [hard/3235-check-if-the-rectangle-corner-is-reachable.cs](hard/3235-check-if-the-rectangle-corner-is-reachable.cs) |
+| 3241 | [Time Taken to Mark All Nodes](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [hard/3241-time-taken-to-mark-all-nodes.py](hard/3241-time-taken-to-mark-all-nodes.py) · [hard/3241-time-taken-to-mark-all-nodes.kt](hard/3241-time-taken-to-mark-all-nodes.kt) |
+| 3244 | [Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/) | [hard/3244-shortest-distance-after-road-addition-queries-ii.py](hard/3244-shortest-distance-after-road-addition-queries-ii.py) · [hard/3244-shortest-distance-after-road-addition-queries-ii.java](hard/3244-shortest-distance-after-road-addition-queries-ii.java) |
+| 3245 | [Alternating Groups III](https://leetcode.com/problems/alternating-groups-iii/) | [hard/3245-alternating-groups-iii.py](hard/3245-alternating-groups-iii.py) · [hard/3245-alternating-groups-iii.cpp](hard/3245-alternating-groups-iii.cpp) |
+| 3250 | [Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/) | [hard/3250-find-the-count-of-monotonic-pairs-i.py](hard/3250-find-the-count-of-monotonic-pairs-i.py) · [hard/3250-find-the-count-of-monotonic-pairs-i.js](hard/3250-find-the-count-of-monotonic-pairs-i.js) |
+| 3251 | [Find the Count of Monotonic Pairs II](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/) | [hard/3251-find-the-count-of-monotonic-pairs-ii.py](hard/3251-find-the-count-of-monotonic-pairs-ii.py) · [hard/3251-find-the-count-of-monotonic-pairs-ii.go](hard/3251-find-the-count-of-monotonic-pairs-ii.go) |
 
-**Total solved: 2184**
+**Total solved: 2189**
