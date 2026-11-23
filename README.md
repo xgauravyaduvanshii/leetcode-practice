@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (513)
+## Solved — Hard (518)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2189,5 +2189,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3117 | [Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) | [hard/3117-minimum-sum-of-values-by-dividing-array.py](hard/3117-minimum-sum-of-values-by-dividing-array.py) · [hard/3117-minimum-sum-of-values-by-dividing-array.java](hard/3117-minimum-sum-of-values-by-dividing-array.java) |
 | 3123 | [Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [hard/3123-find-edges-in-shortest-paths.py](hard/3123-find-edges-in-shortest-paths.py) · [hard/3123-find-edges-in-shortest-paths.cpp](hard/3123-find-edges-in-shortest-paths.cpp) |
 | 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [hard/3130-find-all-possible-stable-binary-arrays-ii.py](hard/3130-find-all-possible-stable-binary-arrays-ii.py) · [hard/3130-find-all-possible-stable-binary-arrays-ii.js](hard/3130-find-all-possible-stable-binary-arrays-ii.js) |
+| 3134 | [Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/) | [hard/3134-find-the-median-of-the-uniqueness-array.py](hard/3134-find-the-median-of-the-uniqueness-array.py) · [hard/3134-find-the-median-of-the-uniqueness-array.go](hard/3134-find-the-median-of-the-uniqueness-array.go) |
+| 3139 | [Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/) | [hard/3139-minimum-cost-to-equalize-array.py](hard/3139-minimum-cost-to-equalize-array.py) · [hard/3139-minimum-cost-to-equalize-array.rs](hard/3139-minimum-cost-to-equalize-array.rs) |
+| 3145 | [Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/) | [hard/3145-find-products-of-elements-of-big-array.py](hard/3145-find-products-of-elements-of-big-array.py) · [hard/3145-find-products-of-elements-of-big-array.ts](hard/3145-find-products-of-elements-of-big-array.ts) |
+| 3149 | [Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/) | [hard/3149-find-the-minimum-cost-array-permutation.py](hard/3149-find-the-minimum-cost-array.py) · [hard/3149-find-the-minimum-cost-array-permutation.cs](hard/3149-find-the-minimum-cost-array-permutation.cs) |
+| 3154 | [Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/) | [hard/3154-find-number-of-ways-to-reach-the-k-th-stair.py](hard/3154-find-number-of-ways-to-reach-the-k-th-stair.py) · [hard/3154-find-number-of-ways-to-reach-the-k-th-stair.kt](hard/3154-find-number-of-ways-to-reach-the-k-th-stair.kt) |
 
-**Total solved: 2164**
+**Total solved: 2169**
