@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (598)
+## Solved — Hard (603)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2274,5 +2274,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3455 | [Shortest Matching Substring](https://leetcode.com/problems/shortest-matching-substring/) | [hard/3455-shortest-matching-substring.py](hard/3455-shortest-matching-substring.py) · [hard/3455-shortest-matching-substring.ts](hard/3455-shortest-matching-substring.ts) |
 | 3459 | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [hard/3459-length-of-longest-v-shaped-diagonal-segment.py](hard/3459-length-of-longest-v-shaped-diagonal-segment.py) · [hard/3459-length-of-longest-v-shaped-diagonal-segment.cs](hard/3459-length-of-longest-v-shaped-diagonal-segment.cs) |
 | 3463 | [Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/) | [hard/3463-check-if-digits-are-equal-in-string-after-operations-ii.py](hard/3463-check-if-digits-are-equal-in-string-after-operations-ii.py) · [hard/3463-check-if-digits-are-equal-in-string-after-operations-ii.kt](hard/3463-check-if-digits-are-equal-in-string-after-operations-ii.kt) |
+| 3464 | [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [hard/3464-maximize-the-distance-between-points-on-a-square.py](hard/3464-maximize-the-distance-between-points-on-a-square.py) · [hard/3464-maximize-the-distance-between-points-on-a-square.java](hard/3464-maximize-the-distance-between-points-on-a-square.java) |
+| 3470 | [Permutations IV](https://leetcode.com/problems/permutations-iv/) | [hard/3470-permutations-iv.py](hard/3470-permutations-iv.py) · [hard/3470-permutations-iv.cpp](hard/3470-permutations-iv.cpp) |
+| 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [hard/3474-lexicographically-smallest-generated-string.py](hard/3474-lexicographically-smallest-generated-string.py) · [hard/3474-lexicographically-smallest-generated-string.js](hard/3474-lexicographically-smallest-generated-string.js) |
+| 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [hard/3480-maximize-subarrays-after-removing-one-conflicting-pair.py](hard/3480-maximize-subarrays-after-removing-one-conflicting-pair.py) · [hard/3480-maximize-subarrays-after-removing-one-conflicting-pair.go](hard/3480-maximize-subarrays-after-removing-one-conflicting-pair.go) |
+| 3482 | [Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/) | [hard/3482-analyze-organization-hierarchy.py](hard/3482-analyze-organization-hierarchy.py) · [hard/3482-analyze-organization-hierarchy.sql](hard/3482-analyze-organization-hierarchy.sql) |
 
-**Total solved: 2249**
+**Total solved: 2254**
