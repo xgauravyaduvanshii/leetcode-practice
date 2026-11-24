@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (633)
+## Solved — Hard (638)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2309,5 +2309,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3569 | [Maximize Count of Distinct Primes After Split](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/) | [hard/3569-maximize-count-of-distinct-primes-after-split.py](hard/3569-maximize-count-of-distinct-primes-after-split.py) · [hard/3569-maximize-count-of-distinct-primes-after-split.kt](hard/3569-maximize-count-of-distinct-primes-after-split.kt) |
 | 3574 | [Maximize Subarray GCD Score](https://leetcode.com/problems/maximize-subarray-gcd-score/) | [hard/3574-maximize-subarray-gcd-score.py](hard/3574-maximize-subarray-gcd-score.py) · [hard/3574-maximize-subarray-gcd-score.java](hard/3574-maximize-subarray-gcd-score.java) |
 | 3575 | [Maximum Good Subtree Score](https://leetcode.com/problems/maximum-good-subtree-score/) | [hard/3575-maximum-good-subtree-score.py](hard/3575-maximum-good-subtree-score.py) · [hard/3575-maximum-good-subtree-score.cpp](hard/3575-maximum-good-subtree-score.cpp) |
+| 3579 | [Minimum Steps to Convert String with Operations](https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/) | [hard/3579-minimum-steps-to-convert-string-with-operations.py](hard/3579-minimum-steps-to-convert-string-with-operations.py) · [hard/3579-minimum-steps-to-convert-string-with-operations.js](hard/3579-minimum-steps-to-convert-string-with-operations.js) |
+| 3585 | [Find Weighted Median Node in Tree](https://leetcode.com/problems/find-weighted-median-node-in-tree/) | [hard/3585-find-weighted-median-node-in-tree.py](hard/3585-find-weighted-median-node-in-tree.py) · [hard/3585-find-weighted-median-node-in-tree.go](hard/3585-find-weighted-median-node-in-tree.go) |
+| 3590 | [Kth Smallest Path XOR Sum](https://leetcode.com/problems/kth-smallest-path-xor-sum/) | [hard/3590-kth-smallest-path-xor-sum.py](hard/3590-kth-smallest-path-xor-sum.py) · [hard/3590-kth-smallest-path-xor-sum.rs](hard/3590-kth-smallest-path-xor-sum.rs) |
+| 3594 | [Minimum Time to Transport All Individuals](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/) | [hard/3594-minimum-time-to-transport-all-individuals.py](hard/3594-minimum-time-to-transport-all-individuals.py) · [hard/3594-minimum-time-to-transport-all-individuals.ts](hard/3594-minimum-time-to-transport-all-individuals.ts) |
+| 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [hard/3600-maximize-spanning-tree-stability-with-upgrades.py](hard/3600-maximize-spanning-tree-stability-with-upgrades.py) · [hard/3600-maximize-spanning-tree-stability-with-upgrades.cs](hard/3600-maximize-spanning-tree-stability-with-upgrades.cs) |
 
-**Total solved: 2284**
+**Total solved: 2289**
