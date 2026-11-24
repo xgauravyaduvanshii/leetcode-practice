@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (643)
+## Solved — Hard (648)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2319,5 +2319,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [hard/3614-process-string-with-special-operations-ii.py](hard/3614-process-string-with-special-operations-ii.py) · [hard/3614-process-string-with-special-operations-ii.cpp](hard/3614-process-string-with-special-operations-ii.cpp) |
 | 3615 | [Longest Palindromic Path in Graph](https://leetcode.com/problems/longest-palindromic-path-in-graph/) | [hard/3615-longest-palindromic-path-in-graph.py](hard/3615-longest-palindromic-path-in-graph.py) · [hard/3615-longest-palindromic-path-in-graph.js](hard/3615-longest-palindromic-path-in-graph.js) |
 | 3617 | [Find Students with Study Spiral Pattern](https://leetcode.com/problems/find-students-with-study-spiral-pattern/) | [hard/3617-find-students-with-study-spiral-pattern.py](hard/3617-find-students-with-study-spiral-pattern.py) · [hard/3617-find-students-with-study-spiral-pattern.sql](hard/3617-find-students-with-study-spiral-pattern.sql) |
+| 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | [hard/3620-network-recovery-pathways.py](hard/3620-network-recovery-pathways.py) · [hard/3620-network-recovery-pathways.rs](hard/3620-network-recovery-pathways.rs) |
+| 3621 | [Number of Integers With Popcount-Depth Equal to K I](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/) | [hard/3621-number-of-integers-with-popcount-depth-equal-to-k-i.py](hard/3621-number-of-integers-with-popcount-depth-equal-to-k-i.py) · [hard/3621-number-of-integers-with-popcount-depth-equal-to-k-i.ts](hard/3621-number-of-integers-with-popcount-depth-equal-to-k-i.ts) |
+| 3624 | [Number of Integers With Popcount-Depth Equal to K II](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii/) | [hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.py](hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.py) · [hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.cs](hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.cs) |
+| 3625 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | [hard/3625-count-number-of-trapezoids-ii.py](hard/3625-count-number-of-trapezoids-ii.py) · [hard/3625-count-number-of-trapezoids-ii.kt](hard/3625-count-number-of-trapezoids-ii.kt) |
+| 3630 | [Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/) | [hard/3630-partition-array-for-maximum-xor-and-and.py](hard/3630-partition-array-for-maximum-xor-and-and.py) · [hard/3630-partition-array-for-maximum-xor-and-and.java](hard/3630-partition-array-for-maximum-xor-and-and.java) |
 
-**Total solved: 2294**
+**Total solved: 2299**
