@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (618)
+## Solved — Hard (623)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2294,5 +2294,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3519 | [Count Numbers with Non-Decreasing Digits](https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/) | [hard/3519-count-numbers-with-non-decreasing-digits.py](hard/3519-count-numbers-with-non-decreasing-digits.py) · [hard/3519-count-numbers-with-non-decreasing-digits.js](hard/3519-count-numbers-with-non-decreasing-digits.js) |
 | 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [hard/3525-find-x-value-of-array-ii.py](hard/3525-find-x-value-of-array-ii.py) · [hard/3525-find-x-value-of-array-ii.go](hard/3525-find-x-value-of-array-ii.go) |
 | 3530 | [Maximum Profit from Valid Topological Order in DAG](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/) | [hard/3530-maximum-profit-from-valid-topological-order-in-dag.py](hard/3530-maximum-profit-from-valid-topological-order-in-dag.py) · [hard/3530-maximum-profit-from-valid-topological-order-in-dag.rs](hard/3530-maximum-profit-from-valid-topological-order-in-dag.rs) |
+| 3533 | [Concatenated Divisibility](https://leetcode.com/problems/concatenated-divisibility/) | [hard/3533-concatenated-divisibility.py](hard/3533-concatenated-divisibility.py) · [hard/3533-concatenated-divisibility.ts](hard/3533-concatenated-divisibility.ts) |
+| 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [hard/3534-path-existence-queries-in-a-graph-ii.py](hard/3534-path-existence-queries-in-a-graph-ii.py) · [hard/3534-path-existence-queries-in-a-graph-ii.cs](hard/3534-path-existence-queries-in-a-graph-ii.cs) |
+| 3538 | [Merge Operations for Minimum Travel Time](https://leetcode.com/problems/merge-operations-for-minimum-travel-time/) | [hard/3538-merge-operations-for-minimum-travel-time.py](hard/3538-merge-operations-for-minimum-travel-time.py) · [hard/3538-merge-operations-for-minimum-travel-time.kt](hard/3538-merge-operations-for-minimum-travel-time.kt) |
+| 3539 | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [hard/3539-find-sum-of-array-product-of-magical-sequences.py](hard/3539-find-sum-of-array-product-of-magical-sequences.py) · [hard/3539-find-sum-of-array-product-of-magical-sequences.java](hard/3539-find-sum-of-array-product-of-magical-sequences.java) |
+| 3544 | [Subtree Inversion Sum](https://leetcode.com/problems/subtree-inversion-sum/) | [hard/3544-subtree-inversion-sum.py](hard/3544-subtree-inversion-sum.py) · [hard/3544-subtree-inversion-sum.cpp](hard/3544-subtree-inversion-sum.cpp) |
 
-**Total solved: 2269**
+**Total solved: 2274**
