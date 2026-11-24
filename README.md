@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (628)
+## Solved — Hard (633)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2304,5 +2304,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3553 | [Minimum Weighted Subgraph With the Required Paths II](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/) | [hard/3553-minimum-weighted-subgraph-with-the-required-paths-ii.py](hard/3553-minimum-weighted-subgraph-with-the-required-paths-ii.py) · [hard/3553-minimum-weighted-subgraph-with-the-required-paths-ii.js](hard/3553-minimum-weighted-subgraph-with-the-required-paths-ii.js) |
 | 3554 | [Find Category Recommendation Pairs](https://leetcode.com/problems/find-category-recommendation-pairs/) | [hard/3554-find-category-recommendation-pairs.py](hard/3554-find-category-recommendation-pairs.py) · [hard/3554-find-category-recommendation-pairs.sql](hard/3554-find-category-recommendation-pairs.sql) |
 | 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | [hard/3559-number-of-ways-to-assign-edge-weights-ii.py](hard/3559-number-of-ways-to-assign-edge-weights-ii.py) · [hard/3559-number-of-ways-to-assign-edge-weights-ii.rs](hard/3559-number-of-ways-to-assign-edge-weights-ii.rs) |
+| 3562 | [Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [hard/3562-maximum-profit-from-trading-stocks-with-discounts.py](hard/3562-maximum-profit-from-trading-stocks-with-discounts.py) · [hard/3562-maximum-profit-from-trading-stocks-with-discounts.ts](hard/3562-maximum-profit-from-trading-stocks-with-discounts.ts) |
+| 3563 | [Lexicographically Smallest String After Adjacent Removals](https://leetcode.com/problems/lexicographically-smallest-string-after-adjacent-removals/) | [hard/3563-lexicographically-smallest-string-after-adjacent-removals.py](hard/3563-lexicographically-smallest-string-after-adjacent-removals.py) · [hard/3563-lexicographically-smallest-string-after-adjacent-removals.cs](hard/3563-lexicographically-smallest-string-after-adjacent-removals.cs) |
+| 3569 | [Maximize Count of Distinct Primes After Split](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/) | [hard/3569-maximize-count-of-distinct-primes-after-split.py](hard/3569-maximize-count-of-distinct-primes-after-split.py) · [hard/3569-maximize-count-of-distinct-primes-after-split.kt](hard/3569-maximize-count-of-distinct-primes-after-split.kt) |
+| 3574 | [Maximize Subarray GCD Score](https://leetcode.com/problems/maximize-subarray-gcd-score/) | [hard/3574-maximize-subarray-gcd-score.py](hard/3574-maximize-subarray-gcd-score.py) · [hard/3574-maximize-subarray-gcd-score.java](hard/3574-maximize-subarray-gcd-score.java) |
+| 3575 | [Maximum Good Subtree Score](https://leetcode.com/problems/maximum-good-subtree-score/) | [hard/3575-maximum-good-subtree-score.py](hard/3575-maximum-good-subtree-score.py) · [hard/3575-maximum-good-subtree-score.cpp](hard/3575-maximum-good-subtree-score.cpp) |
 
-**Total solved: 2279**
+**Total solved: 2284**
