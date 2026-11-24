@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (623)
+## Solved — Hard (628)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2299,5 +2299,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3538 | [Merge Operations for Minimum Travel Time](https://leetcode.com/problems/merge-operations-for-minimum-travel-time/) | [hard/3538-merge-operations-for-minimum-travel-time.py](hard/3538-merge-operations-for-minimum-travel-time.py) · [hard/3538-merge-operations-for-minimum-travel-time.kt](hard/3538-merge-operations-for-minimum-travel-time.kt) |
 | 3539 | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [hard/3539-find-sum-of-array-product-of-magical-sequences.py](hard/3539-find-sum-of-array-product-of-magical-sequences.py) · [hard/3539-find-sum-of-array-product-of-magical-sequences.java](hard/3539-find-sum-of-array-product-of-magical-sequences.java) |
 | 3544 | [Subtree Inversion Sum](https://leetcode.com/problems/subtree-inversion-sum/) | [hard/3544-subtree-inversion-sum.py](hard/3544-subtree-inversion-sum.py) · [hard/3544-subtree-inversion-sum.cpp](hard/3544-subtree-inversion-sum.cpp) |
+| 3547 | [Maximum Sum of Edge Values in a Graph](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/) | [hard/3547-maximum-sum-of-edge-values-in-a-graph.py](hard/3547-maximum-sum-of-edge-values-in-a-graph.py) · [hard/3547-maximum-sum-of-edge-values-in-a-graph.java](hard/3547-maximum-sum-of-edge-values-in-a-graph.java) |
+| 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [hard/3548-equal-sum-grid-partition-ii.py](hard/3548-equal-sum-grid-partition-ii.py) · [hard/3548-equal-sum-grid-partition-ii.cpp](hard/3548-equal-sum-grid-partition-ii.cpp) |
+| 3553 | [Minimum Weighted Subgraph With the Required Paths II](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/) | [hard/3553-minimum-weighted-subgraph-with-the-required-paths-ii.py](hard/3553-minimum-weighted-subgraph-with-the-required-paths-ii.py) · [hard/3553-minimum-weighted-subgraph-with-the-required-paths-ii.js](hard/3553-minimum-weighted-subgraph-with-the-required-paths-ii.js) |
+| 3554 | [Find Category Recommendation Pairs](https://leetcode.com/problems/find-category-recommendation-pairs/) | [hard/3554-find-category-recommendation-pairs.py](hard/3554-find-category-recommendation-pairs.py) · [hard/3554-find-category-recommendation-pairs.sql](hard/3554-find-category-recommendation-pairs.sql) |
+| 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | [hard/3559-number-of-ways-to-assign-edge-weights-ii.py](hard/3559-number-of-ways-to-assign-edge-weights-ii.py) · [hard/3559-number-of-ways-to-assign-edge-weights-ii.rs](hard/3559-number-of-ways-to-assign-edge-weights-ii.rs) |
 
-**Total solved: 2274**
+**Total solved: 2279**
