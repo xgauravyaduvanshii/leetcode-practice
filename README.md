@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (638)
+## Solved — Hard (643)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2314,5 +2314,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3590 | [Kth Smallest Path XOR Sum](https://leetcode.com/problems/kth-smallest-path-xor-sum/) | [hard/3590-kth-smallest-path-xor-sum.py](hard/3590-kth-smallest-path-xor-sum.py) · [hard/3590-kth-smallest-path-xor-sum.rs](hard/3590-kth-smallest-path-xor-sum.rs) |
 | 3594 | [Minimum Time to Transport All Individuals](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/) | [hard/3594-minimum-time-to-transport-all-individuals.py](hard/3594-minimum-time-to-transport-all-individuals.py) · [hard/3594-minimum-time-to-transport-all-individuals.ts](hard/3594-minimum-time-to-transport-all-individuals.ts) |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [hard/3600-maximize-spanning-tree-stability-with-upgrades.py](hard/3600-maximize-spanning-tree-stability-with-upgrades.py) · [hard/3600-maximize-spanning-tree-stability-with-upgrades.cs](hard/3600-maximize-spanning-tree-stability-with-upgrades.cs) |
+| 3605 | [Minimum Stability Factor of Array](https://leetcode.com/problems/minimum-stability-factor-of-array/) | [hard/3605-minimum-stability-factor-of-array.py](hard/3605-minimum-stability-factor-of-array.py) · [hard/3605-minimum-stability-factor-of-array.kt](hard/3605-minimum-stability-factor-of-array.kt) |
+| 3609 | [Minimum Moves to Reach Target in Grid](https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/) | [hard/3609-minimum-moves-to-reach-target-in-grid.py](hard/3609-minimum-moves-to-reach-target-in-grid.py) · [hard/3609-minimum-moves-to-reach-target-in-grid.java](hard/3609-minimum-moves-to-reach-target-in-grid.java) |
+| 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [hard/3614-process-string-with-special-operations-ii.py](hard/3614-process-string-with-special-operations-ii.py) · [hard/3614-process-string-with-special-operations-ii.cpp](hard/3614-process-string-with-special-operations-ii.cpp) |
+| 3615 | [Longest Palindromic Path in Graph](https://leetcode.com/problems/longest-palindromic-path-in-graph/) | [hard/3615-longest-palindromic-path-in-graph.py](hard/3615-longest-palindromic-path-in-graph.py) · [hard/3615-longest-palindromic-path-in-graph.js](hard/3615-longest-palindromic-path-in-graph.js) |
+| 3617 | [Find Students with Study Spiral Pattern](https://leetcode.com/problems/find-students-with-study-spiral-pattern/) | [hard/3617-find-students-with-study-spiral-pattern.py](hard/3617-find-students-with-study-spiral-pattern.py) · [hard/3617-find-students-with-study-spiral-pattern.sql](hard/3617-find-students-with-study-spiral-pattern.sql) |
 
-**Total solved: 2289**
+**Total solved: 2294**
