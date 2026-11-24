@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (613)
+## Solved — Hard (618)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2289,5 +2289,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.py](hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.py) · [hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.ts](hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.ts) |
 | 3509 | [Maximum Product of Subsequences With an Alternating Sum Equal to K](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [hard/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.py](hard/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.py) · [hard/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.cs](hard/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.cs) |
 | 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [hard/3510-minimum-pair-removal-to-sort-array-ii.py](hard/3510-minimum-pair-removal-to-sort-array-ii.py) · [hard/3510-minimum-pair-removal-to-sort-array-ii.kt](hard/3510-minimum-pair-removal-to-sort-array-ii.kt) |
+| 3515 | [Shortest Path in a Weighted Tree](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [hard/3515-shortest-path-in-a-weighted-tree.py](hard/3515-shortest-path-in-a-weighted-tree.py) · [hard/3515-shortest-path-in-a-weighted-tree.java](hard/3515-shortest-path-in-a-weighted-tree.java) |
+| 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | [hard/3518-smallest-palindromic-rearrangement-ii.py](hard/3518-smallest-palindromic-rearrangement-ii.py) · [hard/3518-smallest-palindromic-rearrangement-ii.cpp](hard/3518-smallest-palindromic-rearrangement-ii.cpp) |
+| 3519 | [Count Numbers with Non-Decreasing Digits](https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/) | [hard/3519-count-numbers-with-non-decreasing-digits.py](hard/3519-count-numbers-with-non-decreasing-digits.py) · [hard/3519-count-numbers-with-non-decreasing-digits.js](hard/3519-count-numbers-with-non-decreasing-digits.js) |
+| 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [hard/3525-find-x-value-of-array-ii.py](hard/3525-find-x-value-of-array-ii.py) · [hard/3525-find-x-value-of-array-ii.go](hard/3525-find-x-value-of-array-ii.go) |
+| 3530 | [Maximum Profit from Valid Topological Order in DAG](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/) | [hard/3530-maximum-profit-from-valid-topological-order-in-dag.py](hard/3530-maximum-profit-from-valid-topological-order-in-dag.py) · [hard/3530-maximum-profit-from-valid-topological-order-in-dag.rs](hard/3530-maximum-profit-from-valid-topological-order-in-dag.rs) |
 
-**Total solved: 2264**
+**Total solved: 2269**
