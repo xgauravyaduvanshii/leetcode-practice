@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (603)
+## Solved — Hard (608)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2279,5 +2279,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [hard/3474-lexicographically-smallest-generated-string.py](hard/3474-lexicographically-smallest-generated-string.py) · [hard/3474-lexicographically-smallest-generated-string.js](hard/3474-lexicographically-smallest-generated-string.js) |
 | 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [hard/3480-maximize-subarrays-after-removing-one-conflicting-pair.py](hard/3480-maximize-subarrays-after-removing-one-conflicting-pair.py) · [hard/3480-maximize-subarrays-after-removing-one-conflicting-pair.go](hard/3480-maximize-subarrays-after-removing-one-conflicting-pair.go) |
 | 3482 | [Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/) | [hard/3482-analyze-organization-hierarchy.py](hard/3482-analyze-organization-hierarchy.py) · [hard/3482-analyze-organization-hierarchy.sql](hard/3482-analyze-organization-hierarchy.sql) |
+| 3485 | [Longest Common Prefix of K Strings After Removal](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/) | [hard/3485-longest-common-prefix-of-k-strings-after-removal.py](hard/3485-longest-common-prefix-of-k-strings-after-removal.py) · [hard/3485-longest-common-prefix-of-k-strings-after-removal.ts](hard/3485-longest-common-prefix-of-k-strings-after-removal.ts) |
+| 3486 | [Longest Special Path II](https://leetcode.com/problems/longest-special-path-ii/) | [hard/3486-longest-special-path-ii.py](hard/3486-longest-special-path-ii.py) · [hard/3486-longest-special-path-ii.cs](hard/3486-longest-special-path-ii.cs) |
+| 3490 | [Count Beautiful Numbers](https://leetcode.com/problems/count-beautiful-numbers/) | [hard/3490-count-beautiful-numbers.py](hard/3490-count-beautiful-numbers.py) · [hard/3490-count-beautiful-numbers.kt](hard/3490-count-beautiful-numbers.kt) |
+| 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [hard/3495-minimum-operations-to-make-array-elements-zero.py](hard/3495-minimum-operations-to-make-array-elements-zero.py) · [hard/3495-minimum-operations-to-make-array-elements-zero.java](hard/3495-minimum-operations-to-make-array-elements-zero.java) |
+| 3500 | [Minimum Cost to Divide Array Into Subarrays](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [hard/3500-minimum-cost-to-divide-array-into-subarrays.py](hard/3500-minimum-cost-to-divide-array-into-subarrays.py) · [hard/3500-minimum-cost-to-divide-array-into-subarrays.cpp](hard/3500-minimum-cost-to-divide-array-into-subarrays.cpp) |
 
-**Total solved: 2254**
+**Total solved: 2259**
