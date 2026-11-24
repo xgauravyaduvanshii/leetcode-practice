@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (608)
+## Solved — Hard (613)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2284,5 +2284,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3490 | [Count Beautiful Numbers](https://leetcode.com/problems/count-beautiful-numbers/) | [hard/3490-count-beautiful-numbers.py](hard/3490-count-beautiful-numbers.py) · [hard/3490-count-beautiful-numbers.kt](hard/3490-count-beautiful-numbers.kt) |
 | 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [hard/3495-minimum-operations-to-make-array-elements-zero.py](hard/3495-minimum-operations-to-make-array-elements-zero.py) · [hard/3495-minimum-operations-to-make-array-elements-zero.java](hard/3495-minimum-operations-to-make-array-elements-zero.java) |
 | 3500 | [Minimum Cost to Divide Array Into Subarrays](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [hard/3500-minimum-cost-to-divide-array-into-subarrays.py](hard/3500-minimum-cost-to-divide-array-into-subarrays.py) · [hard/3500-minimum-cost-to-divide-array-into-subarrays.cpp](hard/3500-minimum-cost-to-divide-array-into-subarrays.cpp) |
+| 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [hard/3501-maximize-active-section-with-trade-ii.py](hard/3501-maximize-active-section-with-trade-ii.py) · [hard/3501-maximize-active-section-with-trade-ii.go](hard/3501-maximize-active-section-with-trade-ii.go) |
+| 3504 | [Longest Palindrome After Substring Concatenation II](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/) | [hard/3504-longest-palindrome-after-substring-concatenation-ii.py](hard/3504-longest-palindrome-after-substring-concatenation-ii.py) · [hard/3504-longest-palindrome-after-substring-concatenation-ii.rs](hard/3504-longest-palindrome-after-substring-concatenation-ii.rs) |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.py](hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.py) · [hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.ts](hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.ts) |
+| 3509 | [Maximum Product of Subsequences With an Alternating Sum Equal to K](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [hard/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.py](hard/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.py) · [hard/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.cs](hard/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.cs) |
+| 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [hard/3510-minimum-pair-removal-to-sort-array-ii.py](hard/3510-minimum-pair-removal-to-sort-array-ii.py) · [hard/3510-minimum-pair-removal-to-sort-array-ii.kt](hard/3510-minimum-pair-removal-to-sort-array-ii.kt) |
 
-**Total solved: 2259**
+**Total solved: 2264**
