@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (553)
+## Solved — Hard (558)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2229,5 +2229,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3288 | [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [hard/3288-length-of-the-longest-increasing-path.py](hard/3288-length-of-the-longest-increasing-path.py) · [hard/3288-length-of-the-longest-increasing-path.java](hard/3288-length-of-the-longest-increasing-path.java) |
 | 3292 | [Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/) | [hard/3292-minimum-number-of-valid-strings-to-form-target-ii.py](hard/3292-minimum-number-of-valid-strings-to-form-target-ii.py) · [hard/3292-minimum-number-of-valid-strings-to-form-target-ii.cpp](hard/3292-minimum-number-of-valid-strings-to-form-target-ii.cpp) |
 | 3298 | [Count Substrings That Can Be Rearranged to Contain a String II](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | [hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii.py](hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii.py) · [hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii.js](hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii.js) |
+| 3303 | [Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [hard/3303-find-the-occurrence-of-first-almost-equal-substring.py](hard/3303-find-the-occurrence-of-first-almost-equal-substring.py) · [hard/3303-find-the-occurrence-of-first-almost-equal-substring.go](hard/3303-find-the-occurrence-of-first-almost-equal-substring.go) |
+| 3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | [hard/3307-find-the-k-th-character-in-string-game-ii.py](hard/3307-find-the-k-th-character-in-string-game-ii.py) · [hard/3307-find-the-k-th-character-in-string-game-ii.rs](hard/3307-find-the-k-th-character-in-string-game-ii.rs) |
+| 3311 | [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/) | [hard/3311-construct-2d-grid-matching-graph-layout.py](hard/3311-construct-2d-grid-matching-graph-layout.py) · [hard/3311-construct-2d-grid-matching-graph-layout.ts](hard/3311-construct-2d-grid-matching-graph-layout.ts) |
+| 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [hard/3312-sorted-gcd-pair-queries.py](hard/3312-sorted-gcd-pair-queries.py) · [hard/3312-sorted-gcd-pair-queries.cs](hard/3312-sorted-gcd-pair-queries.cs) |
+| 3317 | [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | [hard/3317-find-the-number-of-possible-ways-for-an-event.py](hard/3317-find-the-number-of-possible-ways-for-an-event.py) · [hard/3317-find-the-number-of-possible-ways-for-an-event.kt](hard/3317-find-the-number-of-possible-ways-for-an-event.kt) |
 
-**Total solved: 2204**
+**Total solved: 2209**
