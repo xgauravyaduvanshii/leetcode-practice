@@ -6,7 +6,7 @@ from typing import List
 
 
 class Solution:
-    def longestBalancedSubarray(self, nums: List[int]) -> int:
+    def longestBalanced(self, nums: List[int]) -> int:
         # My thinking: give every distinct value a sign, +1
         # for odd and -1 for even, so a subarray is balanced
         # exactly when the signs of its distinct values sum to

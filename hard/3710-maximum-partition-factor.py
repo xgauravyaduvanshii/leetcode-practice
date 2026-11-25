@@ -5,7 +5,7 @@ from typing import List
 
 
 class Solution:
-    def maximumPartitionFactor(self, points: List[List[int]]) -> int:
+    def maxPartitionFactor(self, points: List[List[int]]) -> int:
         # My thinking: binary-search-free. A split has factor at
         # least D exactly when every pair closer than D lands in
         # different groups, i.e. when the graph joining pairs

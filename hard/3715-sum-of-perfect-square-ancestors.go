@@ -13,7 +13,7 @@
 // a perfect square with it. The count is added when I enter
 // a node and removed when I leave it, so it always holds
 // just the ancestors, never the siblings or the node itself.
-func sumOfPerfectSquareAncestors(n int, edges [][]int, nums []int) int {
+func sumOfAncestors(n int, edges [][]int, nums []int) int64 {
 	adj := make([][]int, n)
 	for _, e := range edges {
 		u, v := e[0], e[1]
@@ -91,5 +91,5 @@ func sumOfPerfectSquareAncestors(n int, edges [][]int, nums []int) int {
 			}
 		}
 	}
-	return ans
+	return int64(ans)
 }

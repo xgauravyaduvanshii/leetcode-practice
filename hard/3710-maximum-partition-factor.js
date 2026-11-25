@@ -5,7 +5,7 @@
  * @param {number[][]} points
  * @return {number}
  */
-var maximumPartitionFactor = function(points) {
+var maxPartitionFactor = function(points) {
     // My thinking: binary-search-free. A split has factor at
     // least D exactly when every pair closer than D lands in
     // different groups, i.e. when the graph joining pairs

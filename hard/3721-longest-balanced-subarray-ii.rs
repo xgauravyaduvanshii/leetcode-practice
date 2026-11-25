@@ -99,7 +99,7 @@ impl SegTree {
 }
 
 impl Solution {
-    pub fn longest_balanced_subarray(nums: Vec<i32>) -> i32 {
+    pub fn longest_balanced(nums: Vec<i32>) -> i32 {
         let n = nums.len();
         if n == 0 {
             return 0;

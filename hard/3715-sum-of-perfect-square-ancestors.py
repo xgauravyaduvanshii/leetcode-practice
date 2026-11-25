@@ -5,7 +5,7 @@ from typing import List
 
 
 class Solution:
-    def sumOfPerfectSquareAncestors(self, n: int, edges: List[List[int]], nums: List[int]) -> int:
+    def sumOfAncestors(self, n: int, edges: List[List[int]], nums: List[int]) -> int:
         # My thinking: nums[i] * nums[a] is a perfect square
         # exactly when the two numbers have the same squarefree
         # part — the product of the primes that occur to an odd
