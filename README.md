@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (649)
+## Solved — Hard (654)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2324,6 +2324,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3624 | [Number of Integers With Popcount-Depth Equal to K II](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii/) | [hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.py](hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.py) · [hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.cs](hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.cs) |
 | 3625 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | [hard/3625-count-number-of-trapezoids-ii.py](hard/3625-count-number-of-trapezoids-ii.py) · [hard/3625-count-number-of-trapezoids-ii.kt](hard/3625-count-number-of-trapezoids-ii.kt) |
 | 3630 | [Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/) | [hard/3630-partition-array-for-maximum-xor-and-and.py](hard/3630-partition-array-for-maximum-xor-and-and.py) · [hard/3630-partition-array-for-maximum-xor-and-and.java](hard/3630-partition-array-for-maximum-xor-and-and.java) |
+| 3636 | [Threshold Majority Queries](https://leetcode.com/problems/threshold-majority-queries/) | [hard/3636-threshold-majority-queries.py](hard/3636-threshold-majority-queries.py) · [hard/3636-threshold-majority-queries.cpp](hard/3636-threshold-majority-queries.cpp) |
+| 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) | [hard/3640-trionic-array-ii.py](hard/3640-trionic-array-ii.py) · [hard/3640-trionic-array-ii.js](hard/3640-trionic-array-ii.js) |
+| 3646 | [Next Special Palindrome Number](https://leetcode.com/problems/next-special-palindrome-number/) | [hard/3646-next-special-palindrome-number.py](hard/3646-next-special-palindrome-number.py) · [hard/3646-next-special-palindrome-number.go](hard/3646-next-special-palindrome-number.go) |
+| 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | [hard/3651-minimum-cost-path-with-teleportations.py](hard/3651-minimum-cost-path-with-teleportations.py) · [hard/3651-minimum-cost-path-with-teleportations.rs](hard/3651-minimum-cost-path-with-teleportations.rs) |
+| 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | [hard/3655-xor-after-range-multiplication-queries-ii.py](hard/3655-xor-after-range-multiplication-queries-ii.py) · [hard/3655-xor-after-range-multiplication-queries-ii.ts](hard/3655-xor-after-range-multiplication-queries-ii.ts) |
 | 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [hard/3934-smallest-unique-subarray.py](hard/3934-smallest-unique-subarray.py) |
 
-**Total solved: 2300**
+**Total solved: 2305**
