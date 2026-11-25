@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (648)
+## Solved — Hard (649)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2324,5 +2324,6 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3624 | [Number of Integers With Popcount-Depth Equal to K II](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii/) | [hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.py](hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.py) · [hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.cs](hard/3624-number-of-integers-with-popcount-depth-equal-to-k-ii.cs) |
 | 3625 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | [hard/3625-count-number-of-trapezoids-ii.py](hard/3625-count-number-of-trapezoids-ii.py) · [hard/3625-count-number-of-trapezoids-ii.kt](hard/3625-count-number-of-trapezoids-ii.kt) |
 | 3630 | [Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/) | [hard/3630-partition-array-for-maximum-xor-and-and.py](hard/3630-partition-array-for-maximum-xor-and-and.py) · [hard/3630-partition-array-for-maximum-xor-and-and.java](hard/3630-partition-array-for-maximum-xor-and-and.java) |
+| 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [hard/3934-smallest-unique-subarray.py](hard/3934-smallest-unique-subarray.py) |
 
 **Total solved: 2299**
