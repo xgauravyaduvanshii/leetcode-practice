@@ -2326,4 +2326,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 3630 | [Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/) | [hard/3630-partition-array-for-maximum-xor-and-and.py](hard/3630-partition-array-for-maximum-xor-and-and.py) · [hard/3630-partition-array-for-maximum-xor-and-and.java](hard/3630-partition-array-for-maximum-xor-and-and.java) |
 | 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [hard/3934-smallest-unique-subarray.py](hard/3934-smallest-unique-subarray.py) |
 
-**Total solved: 2299**
+**Total solved: 2300**
