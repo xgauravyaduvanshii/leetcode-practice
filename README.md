@@ -872,11 +872,14 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (798)
+## Solved — Medium (801)
 
 | # | Problem | Solution |
 |---|---------|----------|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [medium/0002-add-two-numbers.py](medium/0002-add-two-numbers.py) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [medium/0003-longest-substring-without-repeating-characters.py](medium/0003-longest-substring-without-repeating-characters.py) · [medium/0003-longest-substring-without-repeating-characters.cpp](medium/0003-longest-substring-without-repeating-characters.cpp) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [medium/0005-longest-palindromic-substring.py](medium/0005-longest-palindromic-substring.py) · [medium/0005-longest-palindromic-substring.js](medium/0005-longest-palindromic-substring.js) |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [medium/0006-zigzag-conversion.py](medium/0006-zigzag-conversion.py) · [medium/0006-zigzag-conversion.go](medium/0006-zigzag-conversion.go) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [medium/0011-container-with-most-water.py](medium/0011-container-with-most-water.py) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [medium/0017-letter-combinations-of-a-phone-number.py](medium/0017-letter-combinations-of-a-phone-number.py) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [medium/0022-generate-parentheses.py](medium/0022-generate-parentheses.py) |
@@ -1672,7 +1675,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (749)
+## Solved — Hard (761)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2425,5 +2428,17 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4059 | [Lexicographically Largest Power Array](https://leetcode.com/problems/lexicographically-largest-power-array/) | [hard/4059-lexicographically-largest-power-array.py](hard/4059-lexicographically-largest-power-array.py) · [hard/4059-lexicographically-largest-power-array.js](hard/4059-lexicographically-largest-power-array.js) |
 | 4064 | [Longest Subarray Divisible by K with At Most One Negation II](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | [hard/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.py](hard/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.py) · [hard/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.go](hard/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.go) |
 | 4068 | [Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/) | [hard/4068-maximize-meeting-earnings-with-idle-gaps.py](hard/4068-maximize-meeting-earnings-with-idle-gaps.py) · [hard/4068-maximize-meeting-earnings-with-idle-gaps.rs](hard/4068-maximize-meeting-earnings-with-idle-gaps.rs) |
+| 4073 | [Count Good Strings](https://leetcode.com/problems/count-good-strings/) | [hard/4073-count-good-strings.py](hard/4073-count-good-strings.py) · [hard/4073-count-good-strings.ts](hard/4073-count-good-strings.ts) |
+| 4077 | [Minimize Inversions in a Prefix Tree](https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/) | [hard/4077-minimize-inversions-in-a-prefix-tree.py](hard/4077-minimize-inversions-in-a-prefix-tree.py) · [hard/4077-minimize-inversions-in-a-prefix-tree.cs](hard/4077-minimize-inversions-in-a-prefix-tree.cs) |
+| 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) | [hard/4081-prime-subset-selection-ii.py](hard/4081-prime-subset-selection-ii.py) · [hard/4081-prime-subset-selection-ii.kt](hard/4081-prime-subset-selection-ii.kt) |
+| 4086 | [Minimum Interval Selection to Cover Target Intervals](https://leetcode.com/problems/minimum-interval-selection-to-cover-target-intervals/) | [hard/4086-minimum-interval-selection-to-cover-target-intervals.py](hard/4086-minimum-interval-selection-to-cover-target-intervals.py) · [hard/4086-minimum-interval-selection-to-cover-target-intervals.java](hard/4086-minimum-interval-selection-to-cover-target-intervals.java) |
+| 4091 | [Count Magical Substring Pairs II](https://leetcode.com/problems/count-magical-substring-pairs-ii/) | [hard/4091-count-magical-substring-pairs-ii.py](hard/4091-count-magical-substring-pairs-ii.py) · [hard/4091-count-magical-substring-pairs-ii.cpp](hard/4091-count-magical-substring-pairs-ii.cpp) |
+| 4095 | [Count Frequency Staircase Subarrays II](https://leetcode.com/problems/count-frequency-staircase-subarrays-ii/) | [hard/4095-count-frequency-staircase-subarrays-ii.py](hard/4095-count-frequency-staircase-subarrays-ii.py) · [hard/4095-count-frequency-staircase-subarrays-ii.js](hard/4095-count-frequency-staircase-subarrays-ii.js) |
+| 4100 | [Minimum Cost Path With Even XOR Parity](https://leetcode.com/problems/minimum-cost-path-with-even-xor-parity/) | [hard/4100-minimum-cost-path-with-even-xor-parity.py](hard/4100-minimum-cost-path-with-even-xor-parity.py) · [hard/4100-minimum-cost-path-with-even-xor-parity.go](hard/4100-minimum-cost-path-with-even-xor-parity.go) |
+| 4105 | [Repeated String Match II](https://leetcode.com/problems/repeated-string-match-ii/) | [hard/4105-repeated-string-match-ii.py](hard/4105-repeated-string-match-ii.py) · [hard/4105-repeated-string-match-ii.rs](hard/4105-repeated-string-match-ii.rs) |
+| 4109 | [Count Valid Suffix Sorts II](https://leetcode.com/problems/count-valid-suffix-sorts-ii/) | [hard/4109-count-valid-suffix-sorts-ii.py](hard/4109-count-valid-suffix-sorts-ii.py) · [hard/4109-count-valid-suffix-sorts-ii.ts](hard/4109-count-valid-suffix-sorts-ii.ts) |
+| 4114 | [Count Consistent Subarrays II](https://leetcode.com/problems/count-consistent-subarrays-ii/) | [hard/4114-count-consistent-subarrays-ii.py](hard/4114-count-consistent-subarrays-ii.py) · [hard/4114-count-consistent-subarrays-ii.cs](hard/4114-count-consistent-subarrays-ii.cs) |
+| 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
+| 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2400**
+**Total solved: 2415**
