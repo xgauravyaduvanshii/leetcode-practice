@@ -1672,7 +1672,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 
-## Solved — Hard (744)
+## Solved — Hard (749)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -2420,5 +2420,10 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4037 | [Maximum Valid Split Positions II](https://leetcode.com/problems/maximum-valid-split-positions-ii/) | [hard/4037-maximum-valid-split-positions-ii.py](hard/4037-maximum-valid-split-positions-ii.py) · [hard/4037-maximum-valid-split-positions-ii.ts](hard/4037-maximum-valid-split-positions-ii.ts) |
 | 4041 | [Minimum Operations to Form Subset Sum II](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-ii/) | [hard/4041-minimum-operations-to-form-subset-sum-ii.py](hard/4041-minimum-operations-to-form-subset-sum-ii.py) · [hard/4041-minimum-operations-to-form-subset-sum-ii.cs](hard/4041-minimum-operations-to-form-subset-sum-ii.cs) |
 | 4046 | [Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | [hard/4046-minimum-cost-path-with-at-most-k-turns.py](hard/4046-minimum-cost-path-with-at-most-k-turns.py) · [hard/4046-minimum-cost-path-with-at-most-k-turns.kt](hard/4046-minimum-cost-path-with-at-most-k-turns.kt) |
+| 4051 | [Count Subarrays with Distant Sums](https://leetcode.com/problems/count-subarrays-with-distant-sums/) | [hard/4051-count-subarrays-with-distant-sums.py](hard/4051-count-subarrays-with-distant-sums.py) · [hard/4051-count-subarrays-with-distant-sums.java](hard/4051-count-subarrays-with-distant-sums.java) |
+| 4055 | [Count Shadow Pairs II](https://leetcode.com/problems/count-shadow-pairs-ii/) | [hard/4055-count-shadow-pairs-ii.py](hard/4055-count-shadow-pairs-ii.py) · [hard/4055-count-shadow-pairs-ii.cpp](hard/4055-count-shadow-pairs-ii.cpp) |
+| 4059 | [Lexicographically Largest Power Array](https://leetcode.com/problems/lexicographically-largest-power-array/) | [hard/4059-lexicographically-largest-power-array.py](hard/4059-lexicographically-largest-power-array.py) · [hard/4059-lexicographically-largest-power-array.js](hard/4059-lexicographically-largest-power-array.js) |
+| 4064 | [Longest Subarray Divisible by K with At Most One Negation II](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | [hard/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.py](hard/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.py) · [hard/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.go](hard/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii.go) |
+| 4068 | [Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/) | [hard/4068-maximize-meeting-earnings-with-idle-gaps.py](hard/4068-maximize-meeting-earnings-with-idle-gaps.py) · [hard/4068-maximize-meeting-earnings-with-idle-gaps.rs](hard/4068-maximize-meeting-earnings-with-idle-gaps.rs) |
 
-**Total solved: 2395**
+**Total solved: 2400**
