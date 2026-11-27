@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (969)
+## Solved — Medium (974)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1807,6 +1807,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2274 | [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [medium/2274-maximum-consecutive-floors-without-special-floors.py](medium/2274-maximum-consecutive-floors-without-special-floors.py) · [medium/2274-maximum-consecutive-floors-without-special-floors.go](medium/2274-maximum-consecutive-floors-without-special-floors.go) |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [medium/2275-largest-combination-with-bitwise-and-greater-than-zero.py](medium/2275-largest-combination-with-bitwise-and-greater-than-zero.py) · [medium/2275-largest-combination-with-bitwise-and-greater-than-zero.rs](medium/2275-largest-combination-with-bitwise-and-greater-than-zero.rs) |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [medium/2279-maximum-bags-with-full-capacity-of-rocks.py](medium/2279-maximum-bags-with-full-capacity-of-rocks.py) · [medium/2279-maximum-bags-with-full-capacity-of-rocks.ts](medium/2279-maximum-bags-with-full-capacity-of-rocks.ts) |
+| 2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | [medium/2280-minimum-lines-to-represent-a-line-chart.py](medium/2280-minimum-lines-to-represent-a-line-chart.py) · [medium/2280-minimum-lines-to-represent-a-line-chart.cs](medium/2280-minimum-lines-to-represent-a-line-chart.cs) |
+| 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) | [medium/2284-sender-with-largest-word-count.py](medium/2284-sender-with-largest-word-count.py) · [medium/2284-sender-with-largest-word-count.kt](medium/2284-sender-with-largest-word-count.kt) |
+| 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [medium/2285-maximum-total-importance-of-roads.py](medium/2285-maximum-total-importance-of-roads.py) · [medium/2285-maximum-total-importance-of-roads.java](medium/2285-maximum-total-importance-of-roads.java) |
+| 2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/) | [medium/2288-apply-discount-to-prices.py](medium/2288-apply-discount-to-prices.py) · [medium/2288-apply-discount-to-prices.cpp](medium/2288-apply-discount-to-prices.cpp) |
+| 2289 | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) | [medium/2289-steps-to-make-array-non-decreasing.py](medium/2289-steps-to-make-array-non-decreasing.py) · [medium/2289-steps-to-make-array-non-decreasing.js](medium/2289-steps-to-make-array-non-decreasing.js) |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [medium/2300-successful-pairs-of-spells-and-potions.py](medium/2300-successful-pairs-of-spells-and-potions.py) |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [medium/2336-smallest-number-in-infinite-set.py](medium/2336-smallest-number-in-infinite-set.py) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [medium/2337-move-pieces-to-obtain-a-string.py](medium/2337-move-pieces-to-obtain-a-string.py) |
@@ -2607,4 +2612,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2583**
+**Total solved: 2588**
