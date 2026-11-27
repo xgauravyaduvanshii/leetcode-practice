@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (999)
+## Solved — Medium (1004)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1841,6 +1841,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2368 | [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [medium/2368-reachable-nodes-with-restrictions.py](medium/2368-reachable-nodes-with-restrictions.py) · [medium/2368-reachable-nodes-with-restrictions.cpp](medium/2368-reachable-nodes-with-restrictions.cpp) |
 | 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [medium/2369-check-if-there-is-a-valid-partition-for-the-array.py](medium/2369-check-if-there-is-a-valid-partition-for-the-array.py) · [medium/2369-check-if-there-is-a-valid-partition-for-the-array.js](medium/2369-check-if-there-is-a-valid-partition-for-the-array.js) |
 | 2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/) | [medium/2370-longest-ideal-subsequence.py](medium/2370-longest-ideal-subsequence.py) · [medium/2370-longest-ideal-subsequence.go](medium/2370-longest-ideal-subsequence.go) |
+| 2374 | [Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/) | [medium/2374-node-with-highest-edge-score.py](medium/2374-node-with-highest-edge-score.py) · [medium/2374-node-with-highest-edge-score.rs](medium/2374-node-with-highest-edge-score.rs) |
+| 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | [medium/2375-construct-smallest-number-from-di-string.py](medium/2375-construct-smallest-number-from-di-string.py) · [medium/2375-construct-smallest-number-from-di-string.ts](medium/2375-construct-smallest-number-from-di-string.ts) |
+| 2380 | [Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [medium/2380-time-needed-to-rearrange-a-binary-string.py](medium/2380-time-needed-to-rearrange-a-binary-string.py) · [medium/2380-time-needed-to-rearrange-a-binary-string.cs](medium/2380-time-needed-to-rearrange-a-binary-string.cs) |
+| 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/) | [medium/2381-shifting-letters-ii.py](medium/2381-shifting-letters-ii.py) · [medium/2381-shifting-letters-ii.kt](medium/2381-shifting-letters-ii.kt) |
+| 2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) | [medium/2384-largest-palindromic-number.py](medium/2384-largest-palindromic-number.py) · [medium/2384-largest-palindromic-number.java](medium/2384-largest-palindromic-number.java) |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [medium/2390-removing-stars-from-a-string.py](medium/2390-removing-stars-from-a-string.py) |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [medium/2428-maximum-sum-of-an-hourglass.py](medium/2428-maximum-sum-of-an-hourglass.py) |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [medium/2433-find-the-original-array-of-prefix-xor.py](medium/2433-find-the-original-array-of-prefix-xor.py) |
@@ -2637,4 +2642,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2613**
+**Total solved: 2618**
