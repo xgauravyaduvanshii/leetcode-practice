@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (944)
+## Solved — Medium (954)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1789,6 +1789,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2208 | [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [medium/2208-minimum-operations-to-halve-array-sum.py](medium/2208-minimum-operations-to-halve-array-sum.py) |
 | 2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | [medium/2211-count-collisions-on-a-road.py](medium/2211-count-collisions-on-a-road.py) |
 | 2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [medium/2212-maximum-points-in-an-archery-competition.py](medium/2212-maximum-points-in-an-archery-competition.py) |
+| 2216 | [Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/) | [medium/2216-minimum-deletions-to-make-array-beautiful.py](medium/2216-minimum-deletions-to-make-array-beautiful.py) |
+| 2217 | [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/) | [medium/2217-find-palindrome-with-fixed-length.py](medium/2217-find-palindrome-with-fixed-length.py) |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [medium/2221-find-triangular-sum-of-an-array.py](medium/2221-find-triangular-sum-of-an-array.py) |
+| 2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | [medium/2222-number-of-ways-to-select-buildings.py](medium/2222-number-of-ways-to-select-buildings.py) |
+| 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [medium/2225-find-players-with-zero-or-one-losses.py](medium/2225-find-players-with-zero-or-one-losses.py) |
+| 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | [medium/2226-maximum-candies-allocated-to-k-children.py](medium/2226-maximum-candies-allocated-to-k-children.py) |
+| 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [medium/2232-minimize-result-by-adding-parentheses-to-expression.py](medium/2232-minimize-result-by-adding-parentheses-to-expression.py) |
+| 2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | [medium/2233-maximum-product-after-k-increments.py](medium/2233-maximum-product-after-k-increments.py) |
+| 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [medium/2240-number-of-ways-to-buy-pens-and-pencils.py](medium/2240-number-of-ways-to-buy-pens-and-pencils.py) |
+| 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | [medium/2241-design-an-atm-machine.py](medium/2241-design-an-atm-machine.py) |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [medium/2462-total-cost-to-hire-k-workers.py](medium/2462-total-cost-to-hire-k-workers.py) |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
@@ -2582,4 +2592,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2558**
+**Total solved: 2568**
