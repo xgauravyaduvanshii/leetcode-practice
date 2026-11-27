@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (924)
+## Solved — Medium (934)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1769,6 +1769,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2150 | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [medium/2150-find-all-lonely-numbers-in-the-array.py](medium/2150-find-all-lonely-numbers-in-the-array.py) |
 | 2155 | [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/) | [medium/2155-all-divisions-with-the-highest-score-of-a-binary-array.py](medium/2155-all-divisions-with-the-highest-score-of-a-binary-array.py) |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [medium/2161-partition-array-according-to-given-pivot.py](medium/2161-partition-array-according-to-given-pivot.py) |
+| 2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | [medium/2162-minimum-cost-to-set-cooking-time.py](medium/2162-minimum-cost-to-set-cooking-time.py) |
+| 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [medium/2165-smallest-value-of-the-rearranged-number.py](medium/2165-smallest-value-of-the-rearranged-number.py) |
+| 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | [medium/2166-design-bitset.py](medium/2166-design-bitset.py) |
+| 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | [medium/2170-minimum-operations-to-make-the-array-alternating.py](medium/2170-minimum-operations-to-make-the-array-alternating.py) |
+| 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [medium/2171-removing-minimum-number-of-magic-beans.py](medium/2171-removing-minimum-number-of-magic-beans.py) |
+| 2177 | [Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number.py](medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number.py) |
+| 2178 | [Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [medium/2178-maximum-split-of-positive-even-integers.py](medium/2178-maximum-split-of-positive-even-integers.py) |
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [medium/2181-merge-nodes-in-between-zeros.py](medium/2181-merge-nodes-in-between-zeros.py) |
+| 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [medium/2182-construct-string-with-repeat-limit.py](medium/2182-construct-string-with-repeat-limit.py) |
+| 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii.py](medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii.py) |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [medium/2462-total-cost-to-hire-k-workers.py](medium/2462-total-cost-to-hire-k-workers.py) |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
@@ -2562,4 +2572,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2538**
+**Total solved: 2548**
