@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (979)
+## Solved — Medium (984)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1818,6 +1818,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | [medium/2304-minimum-path-cost-in-a-grid.py](medium/2304-minimum-path-cost-in-a-grid.py) · [medium/2304-minimum-path-cost-in-a-grid.ts](medium/2304-minimum-path-cost-in-a-grid.ts) |
 | 2305 | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [medium/2305-fair-distribution-of-cookies.py](medium/2305-fair-distribution-of-cookies.py) · [medium/2305-fair-distribution-of-cookies.cs](medium/2305-fair-distribution-of-cookies.cs) |
 | 2310 | [Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/) | [medium/2310-sum-of-numbers-with-units-digit-k.py](medium/2310-sum-of-numbers-with-units-digit-k.py) · [medium/2310-sum-of-numbers-with-units-digit-k.kt](medium/2310-sum-of-numbers-with-units-digit-k.kt) |
+| 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | [medium/2311-longest-binary-subsequence-less-than-or-equal-to-k.py](medium/2311-longest-binary-subsequence-less-than-or-equal-to-k.py) · [medium/2311-longest-binary-subsequence-less-than-or-equal-to-k.java](medium/2311-longest-binary-subsequence-less-than-or-equal-to-k.java) |
+| 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.py](medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.py) · [medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.cpp](medium/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.cpp) |
+| 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | [medium/2317-maximum-xor-after-operations.py](medium/2317-maximum-xor-after-operations.py) · [medium/2317-maximum-xor-after-operations.js](medium/2317-maximum-xor-after-operations.js) |
+| 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | [medium/2320-count-number-of-ways-to-place-houses.py](medium/2320-count-number-of-ways-to-place-houses.py) · [medium/2320-count-number-of-ways-to-place-houses.go](medium/2320-count-number-of-ways-to-place-houses.go) |
+| 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | [medium/2326-spiral-matrix-iv.py](medium/2326-spiral-matrix-iv.py) · [medium/2326-spiral-matrix-iv.rs](medium/2326-spiral-matrix-iv.rs) |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [medium/2336-smallest-number-in-infinite-set.py](medium/2336-smallest-number-in-infinite-set.py) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [medium/2337-move-pieces-to-obtain-a-string.py](medium/2337-move-pieces-to-obtain-a-string.py) |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [medium/2352-equal-row-and-column-pairs.py](medium/2352-equal-row-and-column-pairs.py) |
@@ -2617,4 +2622,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2593**
+**Total solved: 2598**
