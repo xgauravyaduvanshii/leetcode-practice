@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (984)
+## Solved — Medium (989)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1823,8 +1823,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | [medium/2317-maximum-xor-after-operations.py](medium/2317-maximum-xor-after-operations.py) · [medium/2317-maximum-xor-after-operations.js](medium/2317-maximum-xor-after-operations.js) |
 | 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | [medium/2320-count-number-of-ways-to-place-houses.py](medium/2320-count-number-of-ways-to-place-houses.py) · [medium/2320-count-number-of-ways-to-place-houses.go](medium/2320-count-number-of-ways-to-place-houses.go) |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | [medium/2326-spiral-matrix-iv.py](medium/2326-spiral-matrix-iv.py) · [medium/2326-spiral-matrix-iv.rs](medium/2326-spiral-matrix-iv.rs) |
+| 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [medium/2327-number-of-people-aware-of-a-secret.py](medium/2327-number-of-people-aware-of-a-secret.py) · [medium/2327-number-of-people-aware-of-a-secret.ts](medium/2327-number-of-people-aware-of-a-secret.ts) |
+| 2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [medium/2332-the-latest-time-to-catch-a-bus.py](medium/2332-the-latest-time-to-catch-a-bus.py) · [medium/2332-the-latest-time-to-catch-a-bus.cs](medium/2332-the-latest-time-to-catch-a-bus.cs) |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [medium/2333-minimum-sum-of-squared-difference.py](medium/2333-minimum-sum-of-squared-difference.py) · [medium/2333-minimum-sum-of-squared-difference.kt](medium/2333-minimum-sum-of-squared-difference.kt) |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [medium/2336-smallest-number-in-infinite-set.py](medium/2336-smallest-number-in-infinite-set.py) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [medium/2337-move-pieces-to-obtain-a-string.py](medium/2337-move-pieces-to-obtain-a-string.py) |
+| 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [medium/2342-max-sum-of-a-pair-with-equal-sum-of-digits.py](medium/2342-max-sum-of-a-pair-with-equal-sum-of-digits.py) · [medium/2342-max-sum-of-a-pair-with-equal-sum-of-digits.java](medium/2342-max-sum-of-a-pair-with-equal-sum-of-digits.java) |
+| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [medium/2343-query-kth-smallest-trimmed-number.py](medium/2343-query-kth-smallest-trimmed-number.py) · [medium/2343-query-kth-smallest-trimmed-number.cpp](medium/2343-query-kth-smallest-trimmed-number.cpp) |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [medium/2352-equal-row-and-column-pairs.py](medium/2352-equal-row-and-column-pairs.py) |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [medium/2390-removing-stars-from-a-string.py](medium/2390-removing-stars-from-a-string.py) |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [medium/2428-maximum-sum-of-an-hourglass.py](medium/2428-maximum-sum-of-an-hourglass.py) |
@@ -2622,4 +2627,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2598**
+**Total solved: 2603**
