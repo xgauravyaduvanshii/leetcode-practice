@@ -1,0 +1,28 @@
+# LeetCode 984. String Without AAA or BBB — Medium
+# https://leetcode.com/problems/string-without-aaa-or-bbb/
+# Submission 2198982169 — Accepted, Python3
+#
+# My thinking: I always write the letter I have
+# more of — unless the last two letters are
+# already the same, when I must write the other
+# one. That keeps three in a row from ever
+# happening.
+
+class Solution:
+    def strWithout3a3b(self, a: int, b: int) -> str:
+        result = []
+        while a > 0 or b > 0:
+            if len(result) >= 2 and result[-1] == result[-2]:
+                if result[-1] == "a":
+                    result.append("b")
+                    b -= 1
+                else:
+                    result.append("a")
+                    a -= 1
+            elif a >= b:
+                result.append("a")
+                a -= 1
+            else:
+                result.append("b")
+                b -= 1
+        return "".join(result)
