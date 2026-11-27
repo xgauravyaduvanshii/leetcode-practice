@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (894)
+## Solved — Medium (904)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1706,6 +1706,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [medium/2044-count-number-of-maximum-bitwise-or-subsets.py](medium/2044-count-number-of-maximum-bitwise-or-subsets.py) |
 | 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [medium/2048-next-greater-numerically-balanced-number.py](medium/2048-next-greater-numerically-balanced-number.py) |
 | 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/) | [medium/2049-count-nodes-with-the-highest-score.py](medium/2049-count-nodes-with-the-highest-score.py) |
+| 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | [medium/2054-two-best-non-overlapping-events.py](medium/2054-two-best-non-overlapping-events.py) |
+| 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | [medium/2055-plates-between-candles.py](medium/2055-plates-between-candles.py) |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py](medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py) |
+| 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | [medium/2059-minimum-operations-to-convert-number.py](medium/2059-minimum-operations-to-convert-number.py) |
+| 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | [medium/2063-vowels-of-all-substrings.py](medium/2063-vowels-of-all-substrings.py) |
+| 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [medium/2064-minimized-maximum-of-products-distributed-to-any-store.py](medium/2064-minimized-maximum-of-products-distributed-to-any-store.py) |
+| 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [medium/2069-walking-robot-simulation-ii.py](medium/2069-walking-robot-simulation-ii.py) |
+| 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [medium/2070-most-beautiful-item-for-each-query.py](medium/2070-most-beautiful-item-for-each-query.py) |
+| 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [medium/2074-reverse-nodes-in-even-length-groups.py](medium/2074-reverse-nodes-in-even-length-groups.py) |
+| 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [medium/2075-decode-the-slanted-ciphertext.py](medium/2075-decode-the-slanted-ciphertext.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | [medium/1975-maximum-matrix-sum.py](medium/1975-maximum-matrix-sum.py) · [medium/1975-maximum-matrix-sum.rs](medium/1975-maximum-matrix-sum.rs) |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [medium/1976-number-of-ways-to-arrive-at-destination.py](medium/1976-number-of-ways-to-arrive-at-destination.py) · [medium/1976-number-of-ways-to-arrive-at-destination.ts](medium/1976-number-of-ways-to-arrive-at-destination.ts) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
@@ -2532,4 +2542,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2508**
+**Total solved: 2518**
