@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (884)
+## Solved — Medium (894)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1696,6 +1696,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [medium/1962-remove-stones-to-minimize-the-total.py](medium/1962-remove-stones-to-minimize-the-total.py) · [medium/1962-remove-stones-to-minimize-the-total.cs](medium/1962-remove-stones-to-minimize-the-total.cs) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [medium/1963-minimum-number-of-swaps-to-make-the-string-balanced.py](medium/1963-minimum-number-of-swaps-to-make-the-string-balanced.py) · [medium/1963-minimum-number-of-swaps-to-make-the-string-balanced.kt](medium/1963-minimum-number-of-swaps-to-make-the-string-balanced.kt) |
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | [medium/1968-array-with-elements-not-equal-to-average-of-neighbors.py](medium/1968-array-with-elements-not-equal-to-average-of-neighbors.py) · [medium/1968-array-with-elements-not-equal-to-average-of-neighbors.java](medium/1968-array-with-elements-not-equal-to-average-of-neighbors.java) |
+| 1969 | [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) | [medium/1969-minimum-non-zero-product-of-the-array-elements.py](medium/1969-minimum-non-zero-product-of-the-array-elements.py) |
+| 1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [medium/1997-first-day-where-you-have-been-in-all-the-rooms.py](medium/1997-first-day-where-you-have-been-in-all-the-rooms.py) |
+| 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | [medium/2029-stone-game-ix.py](medium/2029-stone-game-ix.py) |
+| 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [medium/2033-minimum-operations-to-make-a-uni-value-grid.py](medium/2033-minimum-operations-to-make-a-uni-value-grid.py) |
+| 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [medium/2034-stock-price-fluctuation.py](medium/2034-stock-price-fluctuation.py) |
+| 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [medium/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.py](medium/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.py) |
+| 2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | [medium/2039-the-time-when-the-network-becomes-idle.py](medium/2039-the-time-when-the-network-becomes-idle.py) |
+| 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [medium/2044-count-number-of-maximum-bitwise-or-subsets.py](medium/2044-count-number-of-maximum-bitwise-or-subsets.py) |
+| 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [medium/2048-next-greater-numerically-balanced-number.py](medium/2048-next-greater-numerically-balanced-number.py) |
+| 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/) | [medium/2049-count-nodes-with-the-highest-score.py](medium/2049-count-nodes-with-the-highest-score.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | [medium/1975-maximum-matrix-sum.py](medium/1975-maximum-matrix-sum.py) · [medium/1975-maximum-matrix-sum.rs](medium/1975-maximum-matrix-sum.rs) |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [medium/1976-number-of-ways-to-arrive-at-destination.py](medium/1976-number-of-ways-to-arrive-at-destination.py) · [medium/1976-number-of-ways-to-arrive-at-destination.ts](medium/1976-number-of-ways-to-arrive-at-destination.ts) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
@@ -2522,4 +2532,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2498**
+**Total solved: 2508**
