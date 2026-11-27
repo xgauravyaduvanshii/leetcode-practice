@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (904)
+## Solved — Medium (914)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1716,6 +1716,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [medium/2070-most-beautiful-item-for-each-query.py](medium/2070-most-beautiful-item-for-each-query.py) |
 | 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [medium/2074-reverse-nodes-in-even-length-groups.py](medium/2074-reverse-nodes-in-even-length-groups.py) |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [medium/2075-decode-the-slanted-ciphertext.py](medium/2075-decode-the-slanted-ciphertext.py) |
+| 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants/) | [medium/2079-watering-plants.py](medium/2079-watering-plants.py) |
+| 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | [medium/2086-minimum-number-of-food-buckets-to-feed-the-hamsters.py](medium/2086-minimum-number-of-food-buckets-to-feed-the-hamsters.py) |
+| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | [medium/2087-minimum-cost-homecoming-of-a-robot-in-a-grid.py](medium/2087-minimum-cost-homecoming-of-a-robot-in-a-grid.py) |
+| 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [medium/2090-k-radius-subarray-averages.py](medium/2090-k-radius-subarray-averages.py) |
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [medium/2096-step-by-step-directions-from-a-binary-tree-node-to-another.py](medium/2096-step-by-step-directions-from-a-binary-tree-node-to-another.py) |
+| 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [medium/2116-check-if-a-parentheses-string-can-be-valid.py](medium/2116-check-if-a-parentheses-string-can-be-valid.py) |
+| 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | [medium/2120-execution-of-all-suffix-instructions-staying-in-a-grid.py](medium/2120-execution-of-all-suffix-instructions-staying-in-a-grid.py) |
+| 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | [medium/2121-intervals-between-identical-elements.py](medium/2121-intervals-between-identical-elements.py) |
+| 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [medium/2125-number-of-laser-beams-in-a-bank.py](medium/2125-number-of-laser-beams-in-a-bank.py) |
+| 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [medium/2126-destroying-asteroids.py](medium/2126-destroying-asteroids.py) |
 | 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | [medium/1975-maximum-matrix-sum.py](medium/1975-maximum-matrix-sum.py) · [medium/1975-maximum-matrix-sum.rs](medium/1975-maximum-matrix-sum.rs) |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [medium/1976-number-of-ways-to-arrive-at-destination.py](medium/1976-number-of-ways-to-arrive-at-destination.py) · [medium/1976-number-of-ways-to-arrive-at-destination.ts](medium/1976-number-of-ways-to-arrive-at-destination.ts) |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [medium/1980-find-unique-binary-string.py](medium/1980-find-unique-binary-string.py) |
@@ -2542,4 +2552,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2518**
+**Total solved: 2528**
