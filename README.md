@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (994)
+## Solved — Medium (999)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1836,6 +1836,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | [medium/2353-design-a-food-rating-system.py](medium/2353-design-a-food-rating-system.py) · [medium/2353-design-a-food-rating-system.rs](medium/2353-design-a-food-rating-system.rs) |
 | 2358 | [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/) | [medium/2358-maximum-number-of-groups-entering-a-competition.py](medium/2358-maximum-number-of-groups-entering-a-competition.py) · [medium/2358-maximum-number-of-groups-entering-a-competition.ts](medium/2358-maximum-number-of-groups-entering-a-competition.ts) |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | [medium/2359-find-closest-node-to-given-two-nodes.py](medium/2359-find-closest-node-to-given-two-nodes.py) · [medium/2359-find-closest-node-to-given-two-nodes.cs](medium/2359-find-closest-node-to-given-two-nodes.cs) |
+| 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | [medium/2364-count-number-of-bad-pairs.py](medium/2364-count-number-of-bad-pairs.py) · [medium/2364-count-number-of-bad-pairs.kt](medium/2364-count-number-of-bad-pairs.kt) |
+| 2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/) | [medium/2365-task-scheduler-ii.py](medium/2365-task-scheduler-ii.py) · [medium/2365-task-scheduler-ii.java](medium/2365-task-scheduler-ii.java) |
+| 2368 | [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [medium/2368-reachable-nodes-with-restrictions.py](medium/2368-reachable-nodes-with-restrictions.py) · [medium/2368-reachable-nodes-with-restrictions.cpp](medium/2368-reachable-nodes-with-restrictions.cpp) |
+| 2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [medium/2369-check-if-there-is-a-valid-partition-for-the-array.py](medium/2369-check-if-there-is-a-valid-partition-for-the-array.py) · [medium/2369-check-if-there-is-a-valid-partition-for-the-array.js](medium/2369-check-if-there-is-a-valid-partition-for-the-array.js) |
+| 2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/) | [medium/2370-longest-ideal-subsequence.py](medium/2370-longest-ideal-subsequence.py) · [medium/2370-longest-ideal-subsequence.go](medium/2370-longest-ideal-subsequence.go) |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [medium/2390-removing-stars-from-a-string.py](medium/2390-removing-stars-from-a-string.py) |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [medium/2428-maximum-sum-of-an-hourglass.py](medium/2428-maximum-sum-of-an-hourglass.py) |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [medium/2433-find-the-original-array-of-prefix-xor.py](medium/2433-find-the-original-array-of-prefix-xor.py) |
@@ -2632,4 +2637,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2608**
+**Total solved: 2613**
