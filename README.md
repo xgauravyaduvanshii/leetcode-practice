@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (974)
+## Solved — Medium (979)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1812,7 +1812,12 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [medium/2285-maximum-total-importance-of-roads.py](medium/2285-maximum-total-importance-of-roads.py) · [medium/2285-maximum-total-importance-of-roads.java](medium/2285-maximum-total-importance-of-roads.java) |
 | 2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/) | [medium/2288-apply-discount-to-prices.py](medium/2288-apply-discount-to-prices.py) · [medium/2288-apply-discount-to-prices.cpp](medium/2288-apply-discount-to-prices.cpp) |
 | 2289 | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) | [medium/2289-steps-to-make-array-non-decreasing.py](medium/2289-steps-to-make-array-non-decreasing.py) · [medium/2289-steps-to-make-array-non-decreasing.js](medium/2289-steps-to-make-array-non-decreasing.js) |
+| 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [medium/2294-partition-array-such-that-maximum-difference-is-k.py](medium/2294-partition-array-such-that-maximum-difference-is-k.py) · [medium/2294-partition-array-such-that-maximum-difference-is-k.go](medium/2294-partition-array-such-that-maximum-difference-is-k.go) |
+| 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) | [medium/2295-replace-elements-in-an-array.py](medium/2295-replace-elements-in-an-array.py) · [medium/2295-replace-elements-in-an-array.rs](medium/2295-replace-elements-in-an-array.rs) |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [medium/2300-successful-pairs-of-spells-and-potions.py](medium/2300-successful-pairs-of-spells-and-potions.py) |
+| 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | [medium/2304-minimum-path-cost-in-a-grid.py](medium/2304-minimum-path-cost-in-a-grid.py) · [medium/2304-minimum-path-cost-in-a-grid.ts](medium/2304-minimum-path-cost-in-a-grid.ts) |
+| 2305 | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [medium/2305-fair-distribution-of-cookies.py](medium/2305-fair-distribution-of-cookies.py) · [medium/2305-fair-distribution-of-cookies.cs](medium/2305-fair-distribution-of-cookies.cs) |
+| 2310 | [Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/) | [medium/2310-sum-of-numbers-with-units-digit-k.py](medium/2310-sum-of-numbers-with-units-digit-k.py) · [medium/2310-sum-of-numbers-with-units-digit-k.kt](medium/2310-sum-of-numbers-with-units-digit-k.kt) |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [medium/2336-smallest-number-in-infinite-set.py](medium/2336-smallest-number-in-infinite-set.py) |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [medium/2337-move-pieces-to-obtain-a-string.py](medium/2337-move-pieces-to-obtain-a-string.py) |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [medium/2352-equal-row-and-column-pairs.py](medium/2352-equal-row-and-column-pairs.py) |
@@ -2612,4 +2617,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2588**
+**Total solved: 2593**
