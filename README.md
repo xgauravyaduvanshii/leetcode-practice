@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (954)
+## Solved — Medium (964)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1799,6 +1799,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | [medium/2233-maximum-product-after-k-increments.py](medium/2233-maximum-product-after-k-increments.py) |
 | 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [medium/2240-number-of-ways-to-buy-pens-and-pencils.py](medium/2240-number-of-ways-to-buy-pens-and-pencils.py) |
 | 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | [medium/2241-design-an-atm-machine.py](medium/2241-design-an-atm-machine.py) |
+| 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [medium/2244-minimum-rounds-to-complete-all-tasks.py](medium/2244-minimum-rounds-to-complete-all-tasks.py) |
+| 2245 | [Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/) | [medium/2245-maximum-trailing-zeros-in-a-cornered-path.py](medium/2245-maximum-trailing-zeros-in-a-cornered-path.py) |
+| 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | [medium/2249-count-lattice-points-inside-a-circle.py](medium/2249-count-lattice-points-inside-a-circle.py) |
+| 2250 | [Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) | [medium/2250-count-number-of-rectangles-containing-each-point.py](medium/2250-count-number-of-rectangles-containing-each-point.py) |
+| 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [medium/2256-minimum-average-difference.py](medium/2256-minimum-average-difference.py) |
+| 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [medium/2257-count-unguarded-cells-in-the-grid.py](medium/2257-count-unguarded-cells-in-the-grid.py) |
+| 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [medium/2260-minimum-consecutive-cards-to-pick-up.py](medium/2260-minimum-consecutive-cards-to-pick-up.py) |
+| 2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [medium/2261-k-divisible-elements-subarrays.py](medium/2261-k-divisible-elements-subarrays.py) |
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [medium/2265-count-nodes-equal-to-average-of-subtree.py](medium/2265-count-nodes-equal-to-average-of-subtree.py) |
+| 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | [medium/2266-count-number-of-texts.py](medium/2266-count-number-of-texts.py) |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [medium/2462-total-cost-to-hire-k-workers.py](medium/2462-total-cost-to-hire-k-workers.py) |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
@@ -2592,4 +2602,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2568**
+**Total solved: 2578**
