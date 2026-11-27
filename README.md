@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1009)
+## Solved — Medium (1014)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1852,6 +1852,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2400 | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [medium/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps.py](medium/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps.py) · [medium/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps.go](medium/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps.go) |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/) | [medium/2401-longest-nice-subarray.py](medium/2401-longest-nice-subarray.py) · [medium/2401-longest-nice-subarray.rs](medium/2401-longest-nice-subarray.rs) |
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [medium/2405-optimal-partition-of-string.py](medium/2405-optimal-partition-of-string.py) · [medium/2405-optimal-partition-of-string.ts](medium/2405-optimal-partition-of-string.ts) |
+| 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [medium/2406-divide-intervals-into-minimum-number-of-groups.py](medium/2406-divide-intervals-into-minimum-number-of-groups.py) · [medium/2406-divide-intervals-into-minimum-number-of-groups.cs](medium/2406-divide-intervals-into-minimum-number-of-groups.cs) |
+| 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [medium/2410-maximum-matching-of-players-with-trainers.py](medium/2410-maximum-matching-of-players-with-trainers.py) · [medium/2410-maximum-matching-of-players-with-trainers.kt](medium/2410-maximum-matching-of-players-with-trainers.kt) |
+| 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [medium/2411-smallest-subarrays-with-maximum-bitwise-or.py](medium/2411-smallest-subarrays-with-maximum-bitwise-or.py) · [medium/2411-smallest-subarrays-with-maximum-bitwise-or.java](medium/2411-smallest-subarrays-with-maximum-bitwise-or.java) |
+| 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [medium/2414-length-of-the-longest-alphabetical-continuous-substring.py](medium/2414-length-of-the-longest-alphabetical-continuous-substring.py) · [medium/2414-length-of-the-longest-alphabetical-continuous-substring.cpp](medium/2414-length-of-the-longest-alphabetical-continuous-substring.cpp) |
+| 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [medium/2415-reverse-odd-levels-of-binary-tree.py](medium/2415-reverse-odd-levels-of-binary-tree.py) · [medium/2415-reverse-odd-levels-of-binary-tree.js](medium/2415-reverse-odd-levels-of-binary-tree.js) |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [medium/2428-maximum-sum-of-an-hourglass.py](medium/2428-maximum-sum-of-an-hourglass.py) |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [medium/2433-find-the-original-array-of-prefix-xor.py](medium/2433-find-the-original-array-of-prefix-xor.py) |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [medium/2462-total-cost-to-hire-k-workers.py](medium/2462-total-cost-to-hire-k-workers.py) |
@@ -2647,4 +2652,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2623**
+**Total solved: 2628**
