@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (934)
+## Solved — Medium (944)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1779,6 +1779,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [medium/2181-merge-nodes-in-between-zeros.py](medium/2181-merge-nodes-in-between-zeros.py) |
 | 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [medium/2182-construct-string-with-repeat-limit.py](medium/2182-construct-string-with-repeat-limit.py) |
 | 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii.py](medium/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii.py) |
+| 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [medium/2187-minimum-time-to-complete-trips.py](medium/2187-minimum-time-to-complete-trips.py) |
+| 2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [medium/2191-sort-the-jumbled-numbers.py](medium/2191-sort-the-jumbled-numbers.py) |
+| 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | [medium/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph.py](medium/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph.py) |
+| 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [medium/2195-append-k-integers-with-minimal-sum.py](medium/2195-append-k-integers-with-minimal-sum.py) |
+| 2201 | [Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [medium/2201-count-artifacts-that-can-be-extracted.py](medium/2201-count-artifacts-that-can-be-extracted.py) |
+| 2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [medium/2202-maximize-the-topmost-element-after-k-moves.py](medium/2202-maximize-the-topmost-element-after-k-moves.py) |
+| 2207 | [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/) | [medium/2207-maximize-number-of-subsequences-in-a-string.py](medium/2207-maximize-number-of-subsequences-in-a-string.py) |
+| 2208 | [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [medium/2208-minimum-operations-to-halve-array-sum.py](medium/2208-minimum-operations-to-halve-array-sum.py) |
+| 2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | [medium/2211-count-collisions-on-a-road.py](medium/2211-count-collisions-on-a-road.py) |
+| 2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [medium/2212-maximum-points-in-an-archery-competition.py](medium/2212-maximum-points-in-an-archery-competition.py) |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [medium/2462-total-cost-to-hire-k-workers.py](medium/2462-total-cost-to-hire-k-workers.py) |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
@@ -2572,4 +2582,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2548**
+**Total solved: 2558**
