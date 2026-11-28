@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1100)
+## Solved — Medium (1105)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1958,12 +1958,17 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2662 | [Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) | [medium/2662-minimum-cost-of-a-path-with-special-roads.py](medium/2662-minimum-cost-of-a-path-with-special-roads.py) |
 | 2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | [medium/2671-frequency-tracker.py](medium/2671-frequency-tracker.py) |
 | 2672 | [Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/) | [medium/2672-number-of-adjacent-elements-with-the-same-color.py](medium/2672-number-of-adjacent-elements-with-the-same-color.py) |
+| 2673 | [Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/) | [medium/2673-make-costs-of-paths-equal-in-a-binary-tree.py](medium/2673-make-costs-of-paths-equal-in-a-binary-tree.py) · [medium/2673-make-costs-of-paths-equal-in-a-binary-tree.java](medium/2673-make-costs-of-paths-equal-in-a-binary-tree.java) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [medium/2679-sum-in-a-matrix.py](medium/2679-sum-in-a-matrix.py) |
+| 2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/) | [medium/2680-maximum-or.py](medium/2680-maximum-or.py) · [medium/2680-maximum-or.cpp](medium/2680-maximum-or.cpp) |
 | 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | [medium/2683-neighboring-bitwise-xor.py](medium/2683-neighboring-bitwise-xor.py) |
+| 2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | [medium/2684-maximum-number-of-moves-in-a-grid.py](medium/2684-maximum-number-of-moves-in-a-grid.py) · [medium/2684-maximum-number-of-moves-in-a-grid.js](medium/2684-maximum-number-of-moves-in-a-grid.js) |
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | [medium/2685-count-the-number-of-complete-components.py](medium/2685-count-the-number-of-complete-components.py) |
 | 2694 | [Event Emitter](https://leetcode.com/problems/event-emitter/) | [medium/2694-event-emitter.js](medium/2694-event-emitter.js) |
+| 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [medium/2698-find-the-punishment-number-of-an-integer.py](medium/2698-find-the-punishment-number-of-an-integer.py) · [medium/2698-find-the-punishment-number-of-an-integer.go](medium/2698-find-the-punishment-number-of-an-integer.go) |
 | 2705 | [Compact Object](https://leetcode.com/problems/compact-object/) | [medium/2705-compact-object.js](medium/2705-compact-object.js) |
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [medium/2707-extra-characters-in-a-string.py](medium/2707-extra-characters-in-a-string.py) |
+| 2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/) | [medium/2708-maximum-strength-of-a-group.py](medium/2708-maximum-strength-of-a-group.py) · [medium/2708-maximum-strength-of-a-group.rs](medium/2708-maximum-strength-of-a-group.rs) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | [medium/2722-join-two-arrays-by-id.js](medium/2722-join-two-arrays-by-id.js) |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
@@ -2738,4 +2743,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2714**
+**Total solved: 2719**
