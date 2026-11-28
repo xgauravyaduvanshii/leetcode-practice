@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1110)
+## Solved — Medium (1115)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1976,6 +1976,11 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | [medium/2722-join-two-arrays-by-id.js](medium/2722-join-two-arrays-by-id.js) |
 | 2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [medium/2730-find-the-longest-semi-repetitive-substring.py](medium/2730-find-the-longest-semi-repetitive-substring.py) · [medium/2730-find-the-longest-semi-repetitive-substring.java](medium/2730-find-the-longest-semi-repetitive-substring.java) |
 | 2731 | [Movement of Robots](https://leetcode.com/problems/movement-of-robots/) | [medium/2731-movement-of-robots.py](medium/2731-movement-of-robots.py) · [medium/2731-movement-of-robots.cpp](medium/2731-movement-of-robots.cpp) |
+| 2734 | [Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/) | [medium/2734-lexicographically-smallest-string-after-substring-operation.py](medium/2734-lexicographically-smallest-string-after-substring-operation.py) · [medium/2734-lexicographically-smallest-string-after-substring-operation.js](medium/2734-lexicographically-smallest-string-after-substring-operation.js) |
+| 2735 | [Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/) | [medium/2735-collecting-chocolates.py](medium/2735-collecting-chocolates.py) · [medium/2735-collecting-chocolates.go](medium/2735-collecting-chocolates.go) |
+| 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | [medium/2740-find-the-value-of-the-partition.py](medium/2740-find-the-value-of-the-partition.py) · [medium/2740-find-the-value-of-the-partition.rs](medium/2740-find-the-value-of-the-partition.rs) |
+| 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | [medium/2741-special-permutations.py](medium/2741-special-permutations.py) · [medium/2741-special-permutations.ts](medium/2741-special-permutations.ts) |
+| 2745 | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | [medium/2745-construct-the-longest-new-string.py](medium/2745-construct-the-longest-new-string.py) · [medium/2745-construct-the-longest-new-string.cs](medium/2745-construct-the-longest-new-string.cs) |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 | 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [medium/3115-maximum-prime-difference.py](medium/3115-maximum-prime-difference.py) |
@@ -2748,4 +2753,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2724**
+**Total solved: 2729**
