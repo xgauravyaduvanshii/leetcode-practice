@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1038)
+## Solved — Medium (1050)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1883,10 +1883,22 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2476 | [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | [medium/2476-closest-nodes-queries-in-a-binary-search-tree.py](medium/2476-closest-nodes-queries-in-a-binary-search-tree.py) |
 | 2477 | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | [medium/2477-minimum-fuel-cost-to-report-to-the-capital.py](medium/2477-minimum-fuel-cost-to-report-to-the-capital.py) |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [medium/2482-difference-between-ones-and-zeros-in-row-and-column.py](medium/2482-difference-between-ones-and-zeros-in-row-and-column.py) |
+| 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [medium/2483-minimum-penalty-for-a-shop.py](medium/2483-minimum-penalty-for-a-shop.py) |
+| 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | [medium/2486-append-characters-to-string-to-make-subsequence.py](medium/2486-append-characters-to-string-to-make-subsequence.py) |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [medium/2492-minimum-score-of-a-path-between-two-cities.py](medium/2492-minimum-score-of-a-path-between-two-cities.py) |
+| 2497 | [Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph/) | [medium/2497-maximum-star-sum-of-a-graph.py](medium/2497-maximum-star-sum-of-a-graph.py) |
+| 2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | [medium/2498-frog-jump-ii.py](medium/2498-frog-jump-ii.py) |
+| 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [medium/2501-longest-square-streak-in-an-array.py](medium/2501-longest-square-streak-in-an-array.py) |
+| 2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | [medium/2502-design-memory-allocator.py](medium/2502-design-memory-allocator.py) |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py](medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors.py) |
+| 2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) | [medium/2512-reward-top-k-students.py](medium/2512-reward-top-k-students.py) |
+| 2513 | [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [medium/2513-minimize-the-maximum-of-two-arrays.py](medium/2513-minimize-the-maximum-of-two-arrays.py) |
+| 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [medium/2516-take-k-of-each-character-from-left-and-right.py](medium/2516-take-k-of-each-character-from-left-and-right.py) |
+| 2517 | [Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/) | [medium/2517-maximum-tastiness-of-candy-basket.py](medium/2517-maximum-tastiness-of-candy-basket.py) |
+| 2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | [medium/2521-distinct-prime-factors-of-product-of-array.py](medium/2521-distinct-prime-factors-of-product-of-array.py) |
+| 2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/) | [medium/2522-partition-string-into-substrings-with-values-at-most-k.py](medium/2522-partition-string-into-substrings-with-values-at-most-k.py) |
 | 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [medium/2523-closest-prime-numbers-in-range.py](medium/2523-closest-prime-numbers-in-range.py) |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [medium/2542-maximum-subsequence-score.py](medium/2542-maximum-subsequence-score.py) |
 | 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [medium/2571-minimum-operations-to-reduce-an-integer-to-0.py](medium/2571-minimum-operations-to-reduce-an-integer-to-0.py) |
@@ -2676,4 +2688,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2652**
+**Total solved: 2664**
