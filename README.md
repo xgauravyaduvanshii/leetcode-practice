@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1060)
+## Solved — Medium (1070)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1911,7 +1911,17 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | [medium/2545-sort-the-students-by-their-kth-score.py](medium/2545-sort-the-students-by-their-kth-score.py) |
 | 2546 | [Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | [medium/2546-apply-bitwise-operations-to-make-strings-equal.py](medium/2546-apply-bitwise-operations-to-make-strings-equal.py) |
 | 2550 | [Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | [medium/2550-count-collisions-of-monkeys-on-a-polygon.py](medium/2550-count-collisions-of-monkeys-on-a-polygon.py) |
+| 2554 | [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [medium/2554-maximum-number-of-integers-to-choose-from-a-range-i.py](medium/2554-maximum-number-of-integers-to-choose-from-a-range-i.py) |
+| 2555 | [Maximize Win From Two Segments](https://leetcode.com/problems/maximize-win-from-two-segments/) | [medium/2555-maximize-win-from-two-segments.py](medium/2555-maximize-win-from-two-segments.py) |
+| 2556 | [Disconnect Path in a Binary Matrix by at Most One Flip](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | [medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip.py](medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip.py) |
+| 2559 | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [medium/2559-count-vowel-strings-in-ranges.py](medium/2559-count-vowel-strings-in-ranges.py) |
+| 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/) | [medium/2560-house-robber-iv.py](medium/2560-house-robber-iv.py) |
+| 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [medium/2563-count-the-number-of-fair-pairs.py](medium/2563-count-the-number-of-fair-pairs.py) |
+| 2564 | [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/) | [medium/2564-substring-xor-queries.py](medium/2564-substring-xor-queries.py) |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [medium/2567-minimum-score-by-changing-two-elements.py](medium/2567-minimum-score-by-changing-two-elements.py) |
+| 2568 | [Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/) | [medium/2568-minimum-impossible-or.py](medium/2568-minimum-impossible-or.py) |
 | 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [medium/2571-minimum-operations-to-reduce-an-integer-to-0.py](medium/2571-minimum-operations-to-reduce-an-integer-to-0.py) |
+| 2572 | [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [medium/2572-count-the-number-of-square-free-subsets.py](medium/2572-count-the-number-of-square-free-subsets.py) |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | [medium/2622-cache-with-time-limit.js](medium/2622-cache-with-time-limit.js) |
 | 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | [medium/2625-flatten-deeply-nested-array.js](medium/2625-flatten-deeply-nested-array.js) |
 | 2631 | [Group By](https://leetcode.com/problems/group-by/) | [medium/2631-group-by.js](medium/2631-group-by.js) |
@@ -2698,4 +2708,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2674**
+**Total solved: 2684**
