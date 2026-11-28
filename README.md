@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1015)
+## Solved — Medium (1020)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1857,7 +1857,12 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [medium/2411-smallest-subarrays-with-maximum-bitwise-or.py](medium/2411-smallest-subarrays-with-maximum-bitwise-or.py) · [medium/2411-smallest-subarrays-with-maximum-bitwise-or.java](medium/2411-smallest-subarrays-with-maximum-bitwise-or.java) |
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [medium/2414-length-of-the-longest-alphabetical-continuous-substring.py](medium/2414-length-of-the-longest-alphabetical-continuous-substring.py) · [medium/2414-length-of-the-longest-alphabetical-continuous-substring.cpp](medium/2414-length-of-the-longest-alphabetical-continuous-substring.cpp) |
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [medium/2415-reverse-odd-levels-of-binary-tree.py](medium/2415-reverse-odd-levels-of-binary-tree.py) · [medium/2415-reverse-odd-levels-of-binary-tree.js](medium/2415-reverse-odd-levels-of-binary-tree.js) |
+| 2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [medium/2419-longest-subarray-with-maximum-bitwise-and.py](medium/2419-longest-subarray-with-maximum-bitwise-and.py) · [medium/2419-longest-subarray-with-maximum-bitwise-and.go](medium/2419-longest-subarray-with-maximum-bitwise-and.go) |
+| 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | [medium/2420-find-all-good-indices.py](medium/2420-find-all-good-indices.py) · [medium/2420-find-all-good-indices.rs](medium/2420-find-all-good-indices.rs) |
+| 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | [medium/2424-longest-uploaded-prefix.py](medium/2424-longest-uploaded-prefix.py) · [medium/2424-longest-uploaded-prefix.ts](medium/2424-longest-uploaded-prefix.ts) |
+| 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [medium/2425-bitwise-xor-of-all-pairings.py](medium/2425-bitwise-xor-of-all-pairings.py) · [medium/2425-bitwise-xor-of-all-pairings.cs](medium/2425-bitwise-xor-of-all-pairings.cs) |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [medium/2428-maximum-sum-of-an-hourglass.py](medium/2428-maximum-sum-of-an-hourglass.py) |
+| 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [medium/2429-minimize-xor.py](medium/2429-minimize-xor.py) · [medium/2429-minimize-xor.kt](medium/2429-minimize-xor.kt) |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [medium/2433-find-the-original-array-of-prefix-xor.py](medium/2433-find-the-original-array-of-prefix-xor.py) |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [medium/2462-total-cost-to-hire-k-workers.py](medium/2462-total-cost-to-hire-k-workers.py) |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
@@ -2653,4 +2658,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2629**
+**Total solved: 2634**
