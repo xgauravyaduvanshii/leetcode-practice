@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1020)
+## Solved — Medium (1030)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1864,6 +1864,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [medium/2428-maximum-sum-of-an-hourglass.py](medium/2428-maximum-sum-of-an-hourglass.py) |
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [medium/2429-minimize-xor.py](medium/2429-minimize-xor.py) · [medium/2429-minimize-xor.kt](medium/2429-minimize-xor.kt) |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [medium/2433-find-the-original-array-of-prefix-xor.py](medium/2433-find-the-original-array-of-prefix-xor.py) |
+| 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [medium/2434-using-a-robot-to-print-the-lexicographically-smallest-string.py](medium/2434-using-a-robot-to-print-the-lexicographically-smallest-string.py) |
+| 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | [medium/2438-range-product-queries-of-powers.py](medium/2438-range-product-queries-of-powers.py) |
+| 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [medium/2439-minimize-maximum-of-array.py](medium/2439-minimize-maximum-of-array.py) |
+| 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [medium/2442-count-number-of-distinct-integers-after-reverse-operations.py](medium/2442-count-number-of-distinct-integers-after-reverse-operations.py) |
+| 2443 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/) | [medium/2443-sum-of-number-and-its-reverse.py](medium/2443-sum-of-number-and-its-reverse.py) |
+| 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | [medium/2447-number-of-subarrays-with-gcd-equal-to-k.py](medium/2447-number-of-subarrays-with-gcd-equal-to-k.py) |
+| 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [medium/2452-words-within-two-edits-of-dictionary.py](medium/2452-words-within-two-edits-of-dictionary.py) |
+| 2453 | [Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | [medium/2453-destroy-sequential-targets.py](medium/2453-destroy-sequential-targets.py) |
+| 2456 | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [medium/2456-most-popular-video-creator.py](medium/2456-most-popular-video-creator.py) |
+| 2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [medium/2457-minimum-addition-to-make-integer-beautiful.py](medium/2457-minimum-addition-to-make-integer-beautiful.py) |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [medium/2462-total-cost-to-hire-k-workers.py](medium/2462-total-cost-to-hire-k-workers.py) |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [medium/2487-remove-nodes-from-linked-list.py](medium/2487-remove-nodes-from-linked-list.py) |
 | 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [medium/2491-divide-players-into-teams-of-equal-skill.py](medium/2491-divide-players-into-teams-of-equal-skill.py) |
@@ -2658,4 +2668,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2634**
+**Total solved: 2644**
