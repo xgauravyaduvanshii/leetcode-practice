@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1105)
+## Solved — Medium (1110)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1969,8 +1969,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2705 | [Compact Object](https://leetcode.com/problems/compact-object/) | [medium/2705-compact-object.js](medium/2705-compact-object.js) |
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | [medium/2707-extra-characters-in-a-string.py](medium/2707-extra-characters-in-a-string.py) |
 | 2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/) | [medium/2708-maximum-strength-of-a-group.py](medium/2708-maximum-strength-of-a-group.py) · [medium/2708-maximum-strength-of-a-group.rs](medium/2708-maximum-strength-of-a-group.rs) |
+| 2711 | [Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/) | [medium/2711-difference-of-number-of-distinct-values-on-diagonals.py](medium/2711-difference-of-number-of-distinct-values-on-diagonals.py) · [medium/2711-difference-of-number-of-distinct-values-on-diagonals.ts](medium/2711-difference-of-number-of-distinct-values-on-diagonals.ts) |
+| 2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/) | [medium/2712-minimum-cost-to-make-all-characters-equal.py](medium/2712-minimum-cost-to-make-all-characters-equal.py) · [medium/2712-minimum-cost-to-make-all-characters-equal.cs](medium/2712-minimum-cost-to-make-all-characters-equal.cs) |
+| 2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/) | [medium/2718-sum-of-matrix-after-queries.py](medium/2718-sum-of-matrix-after-queries.py) · [medium/2718-sum-of-matrix-after-queries.kt](medium/2718-sum-of-matrix-after-queries.kt) |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | [medium/2721-execute-asynchronous-functions-in-parallel.js](medium/2721-execute-asynchronous-functions-in-parallel.js) |
 | 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | [medium/2722-join-two-arrays-by-id.js](medium/2722-join-two-arrays-by-id.js) |
+| 2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [medium/2730-find-the-longest-semi-repetitive-substring.py](medium/2730-find-the-longest-semi-repetitive-substring.py) · [medium/2730-find-the-longest-semi-repetitive-substring.java](medium/2730-find-the-longest-semi-repetitive-substring.java) |
+| 2731 | [Movement of Robots](https://leetcode.com/problems/movement-of-robots/) | [medium/2731-movement-of-robots.py](medium/2731-movement-of-robots.py) · [medium/2731-movement-of-robots.cpp](medium/2731-movement-of-robots.cpp) |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
 | 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [medium/3115-maximum-prime-difference.py](medium/3115-maximum-prime-difference.py) |
@@ -2743,4 +2748,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2719**
+**Total solved: 2724**
