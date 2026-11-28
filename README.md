@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1070)
+## Solved — Medium (1080)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1922,6 +1922,16 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2568 | [Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/) | [medium/2568-minimum-impossible-or.py](medium/2568-minimum-impossible-or.py) |
 | 2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [medium/2571-minimum-operations-to-reduce-an-integer-to-0.py](medium/2571-minimum-operations-to-reduce-an-integer-to-0.py) |
 | 2572 | [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [medium/2572-count-the-number-of-square-free-subsets.py](medium/2572-count-the-number-of-square-free-subsets.py) |
+| 2575 | [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | [medium/2575-find-the-divisibility-array-of-a-string.py](medium/2575-find-the-divisibility-array-of-a-string.py) |
+| 2576 | [Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/) | [medium/2576-find-the-maximum-number-of-marked-indices.py](medium/2576-find-the-maximum-number-of-marked-indices.py) |
+| 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [medium/2579-count-total-number-of-colored-cells.py](medium/2579-count-total-number-of-colored-cells.py) |
+| 2580 | [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | [medium/2580-count-ways-to-group-overlapping-ranges.py](medium/2580-count-ways-to-group-overlapping-ranges.py) |
+| 2583 | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [medium/2583-kth-largest-sum-in-a-binary-tree.py](medium/2583-kth-largest-sum-in-a-binary-tree.py) |
+| 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | [medium/2587-rearrange-array-to-maximize-prefix-score.py](medium/2587-rearrange-array-to-maximize-prefix-score.py) |
+| 2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [medium/2588-count-the-number-of-beautiful-subarrays.py](medium/2588-count-the-number-of-beautiful-subarrays.py) |
+| 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/) | [medium/2592-maximize-greatness-of-an-array.py](medium/2592-maximize-greatness-of-an-array.py) |
+| 2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | [medium/2593-find-score-of-an-array-after-marking-all-elements.py](medium/2593-find-score-of-an-array-after-marking-all-elements.py) |
+| 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | [medium/2594-minimum-time-to-repair-cars.py](medium/2594-minimum-time-to-repair-cars.py) |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | [medium/2622-cache-with-time-limit.js](medium/2622-cache-with-time-limit.js) |
 | 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | [medium/2625-flatten-deeply-nested-array.js](medium/2625-flatten-deeply-nested-array.js) |
 | 2631 | [Group By](https://leetcode.com/problems/group-by/) | [medium/2631-group-by.js](medium/2631-group-by.js) |
@@ -2708,4 +2718,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2684**
+**Total solved: 2694**
