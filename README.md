@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1115)
+## Solved — Medium (1120)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1981,8 +1981,13 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | [medium/2740-find-the-value-of-the-partition.py](medium/2740-find-the-value-of-the-partition.py) · [medium/2740-find-the-value-of-the-partition.rs](medium/2740-find-the-value-of-the-partition.rs) |
 | 2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/) | [medium/2741-special-permutations.py](medium/2741-special-permutations.py) · [medium/2741-special-permutations.ts](medium/2741-special-permutations.ts) |
 | 2745 | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | [medium/2745-construct-the-longest-new-string.py](medium/2745-construct-the-longest-new-string.py) · [medium/2745-construct-the-longest-new-string.cs](medium/2745-construct-the-longest-new-string.cs) |
+| 2746 | [Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/) | [medium/2746-decremental-string-concatenation.py](medium/2746-decremental-string-concatenation.py) · [medium/2746-decremental-string-concatenation.kt](medium/2746-decremental-string-concatenation.kt) |
+| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [medium/2747-count-zero-request-servers.py](medium/2747-count-zero-request-servers.py) · [medium/2747-count-zero-request-servers.java](medium/2747-count-zero-request-servers.java) |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [medium/2749-minimum-operations-to-make-the-integer-zero.py](medium/2749-minimum-operations-to-make-the-integer-zero.py) |
 | 2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [medium/2750-ways-to-split-array-into-good-subarrays.py](medium/2750-ways-to-split-array-into-good-subarrays.py) |
+| 2761 | [Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/) | [medium/2761-prime-pairs-with-target-sum.py](medium/2761-prime-pairs-with-target-sum.py) · [medium/2761-prime-pairs-with-target-sum.cpp](medium/2761-prime-pairs-with-target-sum.cpp) |
+| 2762 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/) | [medium/2762-continuous-subarrays.py](medium/2762-continuous-subarrays.py) · [medium/2762-continuous-subarrays.js](medium/2762-continuous-subarrays.js) |
+| 2766 | [Relocate Marbles](https://leetcode.com/problems/relocate-marbles/) | [medium/2766-relocate-marbles.py](medium/2766-relocate-marbles.py) · [medium/2766-relocate-marbles.go](medium/2766-relocate-marbles.go) |
 | 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [medium/3115-maximum-prime-difference.py](medium/3115-maximum-prime-difference.py) |
 | 3576 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [medium/3576-find-subtree-sizes-after-changes.py](medium/3576-find-subtree-sizes-after-changes.py) |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | [medium/3946-maximum-number-of-items-from-sale-i.py](medium/3946-maximum-number-of-items-from-sale-i.py) |
@@ -2753,4 +2758,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2729**
+**Total solved: 2734**
