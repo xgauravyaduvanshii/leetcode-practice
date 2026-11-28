@@ -868,7 +868,7 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [easy/4092-binary-digit-score.py](easy/4092-binary-digit-score.py) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [easy/4097-minimum-value-of-merged-integers.py](easy/4097-minimum-value-of-merged-integers.py) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [easy/4111-count-consistent-subarrays-i.py](easy/4111-count-consistent-subarrays-i.py) |
-## Solved — Medium (1090)
+## Solved — Medium (1100)
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -1942,12 +1942,22 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [medium/2610-convert-an-array-into-a-2d-array-with-conditions.py](medium/2610-convert-an-array-into-a-2d-array-with-conditions.py) |
 | 2611 | [Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/) | [medium/2611-mice-and-cheese.py](medium/2611-mice-and-cheese.py) |
 | 2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | [medium/2615-sum-of-distances.py](medium/2615-sum-of-distances.py) |
+| 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [medium/2616-minimize-the-maximum-difference-of-pairs.py](medium/2616-minimize-the-maximum-difference-of-pairs.py) |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | [medium/2622-cache-with-time-limit.js](medium/2622-cache-with-time-limit.js) |
 | 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | [medium/2625-flatten-deeply-nested-array.js](medium/2625-flatten-deeply-nested-array.js) |
 | 2631 | [Group By](https://leetcode.com/problems/group-by/) | [medium/2631-group-by.js](medium/2631-group-by.js) |
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [medium/2637-promise-time-limit.js](medium/2637-promise-time-limit.js) |
+| 2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/) | [medium/2640-find-the-score-of-all-prefixes-of-an-array.py](medium/2640-find-the-score-of-all-prefixes-of-an-array.py) |
+| 2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [medium/2641-cousins-in-binary-tree-ii.py](medium/2641-cousins-in-binary-tree-ii.py) |
+| 2645 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [medium/2645-minimum-additions-to-make-valid-string.py](medium/2645-minimum-additions-to-make-valid-string.py) |
+| 2653 | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | [medium/2653-sliding-subarray-beauty.py](medium/2653-sliding-subarray-beauty.py) |
+| 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [medium/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.py](medium/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.py) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [medium/2657-find-the-prefix-common-array-of-two-arrays.py](medium/2657-find-the-prefix-common-array-of-two-arrays.py) |
+| 2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [medium/2658-maximum-number-of-fish-in-a-grid.py](medium/2658-maximum-number-of-fish-in-a-grid.py) |
 | 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [medium/2661-first-completely-painted-row-or-column.py](medium/2661-first-completely-painted-row-or-column.py) |
+| 2662 | [Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) | [medium/2662-minimum-cost-of-a-path-with-special-roads.py](medium/2662-minimum-cost-of-a-path-with-special-roads.py) |
+| 2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/) | [medium/2671-frequency-tracker.py](medium/2671-frequency-tracker.py) |
+| 2672 | [Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/) | [medium/2672-number-of-adjacent-elements-with-the-same-color.py](medium/2672-number-of-adjacent-elements-with-the-same-color.py) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [medium/2679-sum-in-a-matrix.py](medium/2679-sum-in-a-matrix.py) |
 | 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/) | [medium/2683-neighboring-bitwise-xor.py](medium/2683-neighboring-bitwise-xor.py) |
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | [medium/2685-count-the-number-of-complete-components.py](medium/2685-count-the-number-of-complete-components.py) |
@@ -2728,4 +2738,4 @@ My LeetCode solutions in Python, sorted by difficulty, then by problem number.
 | 4119 | [Minimum Set Bits in a Valid Integer](https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/) | [hard/4119-minimum-set-bits-in-a-valid-integer.py](hard/4119-minimum-set-bits-in-a-valid-integer.py) · [hard/4119-minimum-set-bits-in-a-valid-integer.kt](hard/4119-minimum-set-bits-in-a-valid-integer.kt) |
 | 4123 | [Minimum Cost to Delete Array](https://leetcode.com/problems/minimum-cost-to-delete-array/) | [hard/4123-minimum-cost-to-delete-array.py](hard/4123-minimum-cost-to-delete-array.py) · [hard/4123-minimum-cost-to-delete-array.java](hard/4123-minimum-cost-to-delete-array.java) |
 
-**Total solved: 2704**
+**Total solved: 2714**
